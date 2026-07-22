@@ -1,0 +1,425 @@
+[
+  {
+    "chunk_id": "8-Science-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0135510080011 00.611111131 10111600111)",
+    "note": "Long strings of digits are likely OCR noise or internal codes."
+  },
+  {
+    "chunk_id": "8-Science-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "উপাজ্গ",
+    "note": "Likely a misspelling or OCR error for 'উপাঙ্গ' (appendage)."
+  },
+  {
+    "chunk_id": "8-Science-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিন্য[্ত",
+    "note": "Bracket indicates a character was omitted or replaced during OCR."
+  },
+  {
+    "chunk_id": "8-Science-1-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/40170 53/01975",
+    "note": "Numerical string is not relevant to the sentence context."
+  },
+  {
+    "chunk_id": "8-Science-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(+11173118) ... (10118600111) ... (0100508) ... (30010160017)",
+    "note": "Numerous strings of digits in parentheses are likely metadata noise."
+  },
+  {
+    "chunk_id": "8-Science-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কর্ডাটা প_ ৯ভার্টিবাটা_ প্‌ ৯্তন্যপায়ী ... (চ011(0613)",
+    "note": "Multiple instances of digit-replacement for Bengali characters and symbols."
+  },
+  {
+    "chunk_id": "8-Science-1-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দে. ১ 1 ১ জা ... \"54 রা ... 5001571/3, 507%913",
+    "note": "Broken phrases and non-sense numeric strings are present."
+  },
+  {
+    "chunk_id": "8-Science-1-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(001000516",
+    "note": "Numeric string in parenthesis is likely an OCR error or metadata."
+  },
+  {
+    "chunk_id": "8-Science-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "52017//3 ... /47013, 029/13 ... (0131511611101110165)",
+    "note": "Various numerical strings are clearly not part of the descriptive text."
+  },
+  {
+    "chunk_id": "8-Science-1-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উভলিজঙ্ঞা",
+    "note": "Garbled word, likely meant to be 'উভচল' (bilaterally symmetrical)."
+  },
+  {
+    "chunk_id": "8-Science-1-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[4০108",
+    "note": "Bracketed numbers are likely artifact or noise."
+  },
+  {
+    "chunk_id": "8-Science-1-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯। ... 1,০৫ 1.০৫(চোখের কৃমি) সস",
+    "note": "Numeric symbols and trailing 'সস' are noise."
+  },
+  {
+    "chunk_id": "8-Science-1-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/ঘা110103",
+    "note": "Mixed slash and numbers are not meaningful in context."
+  },
+  {
+    "chunk_id": "8-Science-1-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "04101101503 ... 140110300৮3",
+    "note": "Strings of digits are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Science-1-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0110035 ... ৫০118",
+    "note": "Numerical strings in the description are likely noise."
+  },
+  {
+    "chunk_id": "8-Science-1-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01010313)",
+    "note": "Numeric string in parentheses is noise."
+  },
+  {
+    "chunk_id": "8-Science-1-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(07100110100 313) ... (0০]11310011010313)",
+    "note": "Complex digit strings are likely noise."
+  },
+  {
+    "chunk_id": "8-Science-1-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0 ... ৯",
+    "note": "Isolated numbers are likely artifact noise."
+  },
+  {
+    "chunk_id": "8-Science-1-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ... ৮",
+    "note": "Isolated numbers at the end of lines are likely page/section indicators."
+  },
+  {
+    "chunk_id": "8-Science-1-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র ... ৯ ... ৮",
+    "note": "Fragmented character and numeric noise."
+  },
+  {
+    "chunk_id": "8-Science-1-37",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঙ%",
+    "note": "Non-standard characters (percent sign) in text."
+  },
+  {
+    "chunk_id": "8-Science-1-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01180011) ... (01110) ... (01355) ... (01067) ... (৮3117) ... (00105) ... (3060165)",
+    "note": "Multiple strings of digits are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Science-1-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-1-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1/40110903",
+    "note": "Numeric string is not part of the question content."
+  },
+  {
+    "chunk_id": "8-Science-1-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও]1 ... ঘ. 1,1]1ও]11",
+    "note": "Heavy OCR noise and corrupted numerals in the options."
+  },
+  {
+    "chunk_id": "8-Science-1-45",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ... ||",
+    "note": "Symbols and digits are not part of the question text."
+  },
+  {
+    "chunk_id": "8-Science-1-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "্ণ 1১ 0০",
+    "note": "Nonsensical sequence at the start of chunk."
+  },
+  {
+    "chunk_id": "8-Science-1-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

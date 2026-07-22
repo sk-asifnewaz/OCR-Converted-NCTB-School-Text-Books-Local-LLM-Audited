@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-5",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্যশানেও",
+    "note": "Likely an OCR error for 'শ্মশানে' (in the crematorium)."
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-6",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শুত্রতর",
+    "note": "Likely an OCR error for 'সুদূরতর' (farther/more distant)."
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ০101106, ২৮591811",
+    "note": "Strings of digits mixed with non-standard symbols/scripts."
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0]1011117, [1:091101, [1০95",
+    "note": "Strings contain bracket/punctuation symbols mixed with digits."
+  },
+  {
+    "chunk_id": "8-Bangla_rapidreader-15-14",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিখপ্তিত",
+    "note": "Likely a corruption of 'দ্বিখণ্ডিত' (split in two)."
+  }
+]

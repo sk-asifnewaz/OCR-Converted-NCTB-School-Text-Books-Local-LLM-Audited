@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "8-English_grammar-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Sumona——+refers",
+    "note": "Garbled symbols (----+, --, -») are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| need an exclamation mark",
+    "note": "The pipe symbol | is likely a misread capital I."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "/ink the subject",
+    "note": "Forward slash / is a common OCR error for letter l."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "He §",
+    "note": "Section symbol and missing characters in 'lam' (I am)."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| am sorry. | am suffering",
+    "note": "Pipe symbol | used instead of capital I."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "WO ON DM BPWHN PR",
+    "note": "Nonsensical string of characters at the end of a page/section."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "wm WN",
+    "note": "Garbled text at the end of a section."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-34",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "BRWN >",
+    "note": "Random characters/symbols at the end of a section."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Acollection",
+    "note": "Missing space between 'A' and 'collection'."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-92",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "a/ways",
+    "note": "Slash used instead of a space in 'always'."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-94",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/talisized",
+    "note": "Likely meant to be 'italicized' with OCR errors."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-100",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "006, 0+, eee",
+    "note": "Random digit strings and repetitive character sequences."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-101",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "006, 0006, ou... eee",
+    "note": "Non-sensical digits and garbled trailing characters."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-102",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "06",
+    "note": "Random digit sequence likely from page layout."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-124",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ou...",
+    "note": "Incomplete/garbled word in 'People ou...'"
+  },
+  {
+    "chunk_id": "8-English_grammar-1-132",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ccceee, ccecce",
+    "note": "Repetitive garbled characters in middle of sentences."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-133",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ccceccce, ............ee",
+    "note": "Multiple instances of repetitive character garble."
+  },
+  {
+    "chunk_id": "8-English_grammar-1-134",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0... ccc ceecseeeseesecneseeeeseees",
+    "note": "Significant amount of repetitive characters/garbled text."
+  }
+]

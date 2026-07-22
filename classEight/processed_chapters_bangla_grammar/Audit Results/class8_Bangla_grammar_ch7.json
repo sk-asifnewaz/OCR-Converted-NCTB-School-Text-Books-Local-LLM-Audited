@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "8-Bangla_grammar-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬২...বিরামচিহ্ফের",
+    "note": "Page number noise and garbled character in 'বিরামচিহ্নের'"
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বন্তার...বির্মিহৃন...বিময়চিহ্ন (1)",
+    "note": "Garbled words for 'লেখকের' and corrupted punctuation marks."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন্তার",
+    "note": "Garbled word likely intended to be 'লেখকের'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিস্য়চিহ্ন (1)",
+    "note": "Garbled word and digit replacing exclamation mark."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৩",
+    "note": "Page number noise."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪...বাক্যাংহশকে",
+    "note": "Mixed numeral system and garbled word 'বাক্যগুলোকে'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৪",
+    "note": "Page number noise."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৫",
+    "note": "Page number noise."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-7-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

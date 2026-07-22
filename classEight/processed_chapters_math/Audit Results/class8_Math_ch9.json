@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "8-Math-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-9-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(89001011096)",
+    "note": "Long digit string in parentheses is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Math-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ধরা ১ ৪",
+    "note": "Trailing numbers appear to be OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Math-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "3১+ 4* - 5",
+    "note": "Garbled mathematical notation for an exponent."
+  },
+  {
+    "chunk_id": "8-Math-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১-৫১+৮১",
+    "note": "Garbled mathematical notation for a sum of squares."
+  },
+  {
+    "chunk_id": "8-Math-9-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৭৩০... ০৯০০ ০ ৪",
+    "note": "Multiple instances of garbled digits from diagrams/labels."
+  },
+  {
+    "chunk_id": "8-Math-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৮-৫-০০-৫-২২০-১৯০৭-৫-০",
+    "note": "Nonsensical sequence of digits and hyphens."
+  },
+  {
+    "chunk_id": "8-Math-9-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮১৯০৪৭৭১৩৯১",
+    "note": "Long string of numbers is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Math-9-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-9-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৫৯০৫",
+    "note": "Garbled digit strings from diagram labels."
+  },
+  {
+    "chunk_id": "8-Math-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪১৫স৫৬+০",
+    "note": "Garbled math expression due to OCR."
+  },
+  {
+    "chunk_id": "8-Math-9-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১১+২০৮৪৭৮*-২৫৮৪৭০",
+    "note": "Garbled mathematical expression."
+  },
+  {
+    "chunk_id": "8-Math-9-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৭৯৭: ৫৮৮১ + ১৯৭৮",
+    "note": "Garbled numbers likely from diagrams/labels."
+  },
+  {
+    "chunk_id": "8-Math-9-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-9-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৩০৯৭... ৪৭১৩০",
+    "note": "Garbled digit strings from diagrams/labels."
+  },
+  {
+    "chunk_id": "8-Math-9-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭৯০৩৭",
+    "note": "Garbled digit strings from labels/diagrams."
+  },
+  {
+    "chunk_id": "8-Math-9-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০১৯০৭",
+    "note": "Garbled digit string from labels."
+  },
+  {
+    "chunk_id": "8-Math-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৭২ - ০১ + ৮১৯২",
+    "note": "Garbled mathematical expressions."
+  },
+  {
+    "chunk_id": "8-Math-9-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬/১৪০... ৫২ ১",
+    "note": "Garbled numbers from labels or diagrams."
+  },
+  {
+    "chunk_id": "8-Math-9-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৮৮০€",
+    "note": "Garbled symbols/numbers from diagrams."
+  },
+  {
+    "chunk_id": "8-Math-9-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮০২... ৮১/২+৪৭ ০১৪২",
+    "note": "Garbled numbers from diagrams and equations."
+  },
+  {
+    "chunk_id": "8-Math-9-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫-%৯০%",
+    "note": "Garbled symbol/mathematical notation."
+  }
+]

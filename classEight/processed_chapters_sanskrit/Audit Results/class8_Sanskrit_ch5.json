@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "8-Sanskrit-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সো২বদৎ",
+    "note": "The digit '২' is likely a misidentified punctuation mark (comma or danda)."
+  },
+  {
+    "chunk_id": "8-Sanskrit-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩তয়া, ৩য়া",
+    "note": "The digits '৩' are likely misidentified characters or punctuation in grammar notes."
+  },
+  {
+    "chunk_id": "8-Sanskrit-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঙ।",
+    "note": "The letter 'ঙ' is likely a misidentified digit '৩' in the number sequence."
+  },
+  {
+    "chunk_id": "8-Sanskrit-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পূজকো২ভবৎ",
+    "note": "The digit '২' is likely a misidentified punctuation mark."
+  },
+  {
+    "chunk_id": "8-Sanskrit-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সো২বদৎ",
+    "note": "The digit '২' is likely a misidentified punctuation mark."
+  }
+]

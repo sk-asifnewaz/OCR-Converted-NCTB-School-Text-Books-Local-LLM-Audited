@@ -1,0 +1,49 @@
+[
+  {
+    "chunk_id": "8-Bangla-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-10-3",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কুণ্ন",
+    "note": "OCR error for the Bengali character 'ক্ষ' rendered as 'স্ক'."
+  },
+  {
+    "chunk_id": "8-Bangla-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

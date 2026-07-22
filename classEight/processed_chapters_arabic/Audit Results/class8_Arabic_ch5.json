@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "8-Arabic-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০, ০০৯, ৮, ১৪, ০০৭৭৬",
+    "note": "Random digits scattered in text are likely OCR errors from Arabic diacritics."
+  },
+  {
+    "chunk_id": "8-Arabic-5-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩১০২, ০৪০, ১৭১",
+    "note": "Non-sequential digit strings appearing as artifacts in the Arabic text."
+  },
+  {
+    "chunk_id": "8-Arabic-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৯০, ৯০২৯, ৩৭০, ৩৬১৭, ৭০২",
+    "note": "Multiple instances of digit noise likely from layout or transcription errors."
+  },
+  {
+    "chunk_id": "8-Arabic-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-5-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৩৩০৪৬৩৩৬৩ ৩৬৩৩৩৩৬৩৩৬৬৩৩৬৩৩৬৪৬৩৪৪৬৩৬৬৬৪৬৬৩৬০৩৩৩৩৩৩৬৬৩৬৬৩৩৩০৬৩০০৩৬৬০৬৩০০৩০০০০৬০",
+    "note": "Extremely long string of repeated numbers indicating severe OCR corruption."
+  },
+  {
+    "chunk_id": "8-Arabic-5-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩৩৩৩৩৩৩৩, مم مم مم",
+    "note": "Repeated character sequences and digit runs typical of OCR errors."
+  },
+  {
+    "chunk_id": "8-Arabic-5-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৩৩৬৩৩৩৩৩ ... ৩৩০৩০০০০৩০০৩০০০০০",
+    "note": "Large blocks of repeating digits indicating OCR loops/errors."
+  },
+  {
+    "chunk_id": "8-Arabic-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

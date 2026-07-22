@@ -1,0 +1,142 @@
+[
+  {
+    "chunk_id": "8-Bangla-16-1",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শপ স\nহু ডু রর",
+    "note": "Garbled text, likely an OCR failure for the title or a header."
+  },
+  {
+    "chunk_id": "8-Bangla-16-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-8",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও 1] খ. 1ও 111\nগ. ]11ও]111 ঘ. 1,11ও 111",
+    "note": "Multiple-choice options are corrupted with digit noise and nonsensical symbols."
+  },
+  {
+    "chunk_id": "8-Bangla-16-9",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ.11ও 1 ঘ.1,11ও 111",
+    "note": "Selection options are corrupted with non-sensical symbols and digit noise."
+  },
+  {
+    "chunk_id": "8-Bangla-16-10",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1. মহানুভবতা\n11. মানবতা\n111. মমতাবোধ\nক. 1ও\" খ. 1ওা\nগ. ]1ওয1 ঘ. ],মওয়া",
+    "note": "List numbering and multiple-choice options are severely corrupted."
+  },
+  {
+    "chunk_id": "8-Bangla-16-11",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও]1 খ. ]1ওা\nগ ]1ও]ণ1 ঘ. 1,1]1ওয]1",
+    "note": "Multiple-choice options are corrupted with digit noise and garbled symbols."
+  },
+  {
+    "chunk_id": "8-Bangla-16-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-16-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "8-Arabic-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১৭০৭157153",
+    "note": "Contains a telephone number which is irrelevant to the textbook content."
+  },
+  {
+    "chunk_id": "8-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০৪০",
+    "note": "Random digits/symbols appearing in the middle of Arabic and Bengali text."
+  },
+  {
+    "chunk_id": "8-Arabic-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫ ২০৭",
+    "note": "Random number sequence likely from a page footer or header."
+  },
+  {
+    "chunk_id": "8-Arabic-1-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم مم مم مم مم مم مم مم",
+    "note": "Repetitive nonsensical character sequence typical of OCR corruption."
+  },
+  {
+    "chunk_id": "8-Arabic-1-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم مم مم مم مم مم مم\n৯১১০৮০২০২৫৫",
+    "note": "Contains repeated gibberish and long strings of nonsensical digits."
+  },
+  {
+    "chunk_id": "8-Arabic-1-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০৭৯",
+    "note": "Random digits inserted within the text likely from page markers."
+  },
+  {
+    "chunk_id": "8-Arabic-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-1-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "#, |, >, %",
+    "note": "Contains symbols and noise digits that do not belong in the text."
+  },
+  {
+    "chunk_id": "8-Arabic-1-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২৫১৩",
+    "note": "Random digit sequence inserted within the sentence."
+  }
+]

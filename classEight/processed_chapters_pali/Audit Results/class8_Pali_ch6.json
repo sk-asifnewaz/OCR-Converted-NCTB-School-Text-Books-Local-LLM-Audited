@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "8-Pali-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "[76091751017]",
+    "note": "Long digit string likely from a tracking ID or internal code."
+  },
+  {
+    "chunk_id": "8-Pali-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯১১৯৩ ৫রর, চ্তুতী",
+    "note": "91193 is noise; 'চ্তুতী' is a corruption of 'চতুর্থী'."
+  },
+  {
+    "chunk_id": "8-Pali-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "30791, 311]",
+    "note": "Numbers and brackets are likely page indicators or artifact noise."
+  },
+  {
+    "chunk_id": "8-Pali-6-4",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাতরা, মাতৃষা\nমাতৃ, মাতৃযা\nমাতরা, মাতৃষা\nমাতৃ, মাতৃযা",
+    "note": "Identical phrases repeating twice suggests a table-to-text OCR loop."
+  },
+  {
+    "chunk_id": "8-Pali-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সত্তর, উ - কারাস্ত",
+    "note": "'সত্তর' is a corruption of 'ষষ্ঠী'; 'কারাস্ত' for 'কারান্ত'."
+  },
+  {
+    "chunk_id": "8-Pali-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ - কারাস্ত, আয",
+    "note": "'কারাস্ত' is a corruption; 'আয' appears to be truncated."
+  },
+  {
+    "chunk_id": "8-Pali-6-7",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধেনূ, ধেনূযো\nধেনূ, ধেনূযো... ধেনূহি, ধেনূভি\nধেনূহি, ধেনূভি",
+    "note": "Repetition of identical phrases indicates OCR looping on table content."
+  },
+  {
+    "chunk_id": "8-Pali-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ্ত্‌থী",
+    "note": "'চ্ত্‌থী' is a corrupted transcription of 'চতুর্থী'."
+  },
+  {
+    "chunk_id": "8-Pali-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চতুতথী, সববমৃহা",
+    "note": "'চতুতথী' and 'সববমৃহা' are corrupted versions of 'চতুর্থী' and 'সর্ব্মরা'."
+  },
+  {
+    "chunk_id": "8-Pali-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ্ত্ক্ষী, পঞ্জী",
+    "note": "'চ্ত্ক্ষী' and 'পঞ্জী' are corrupted transcription of 'চতুর্থী' and 'পঞ্চমী'."
+  },
+  {
+    "chunk_id": "8-Pali-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ $11, 51111)",
+    "note": "Special characters and random digit strings are clear noise."
+  },
+  {
+    "chunk_id": "8-Pali-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ্তুখী, ত্স্",
+    "note": "'চ্তুখী' is a corruption of 'চতুর্থী'; 'ত্স্' is truncated."
+  },
+  {
+    "chunk_id": "8-Pali-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ্ত্‌থী, ষটঠী, [1 8811111",
+    "note": "'চ্ত্‌থী' and 'ষটঠী' are corruptions; brackets/digits are noise."
+  },
+  {
+    "chunk_id": "8-Pali-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-6-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

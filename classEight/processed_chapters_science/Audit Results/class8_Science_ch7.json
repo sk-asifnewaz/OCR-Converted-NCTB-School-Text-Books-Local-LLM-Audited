@@ -1,0 +1,443 @@
+[
+  {
+    "chunk_id": "8-Science-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00110171911017)",
+    "note": "Random string of digits inserted in the middle of a sentence."
+  },
+  {
+    "chunk_id": "8-Science-7-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধরা যাক, 1) এবং 10, ভরের দুটি বস্তু কণা পরস্পর থেকে 0 দূরত্বে অবস্থিত",
+    "note": "Digits appear to be corrupted representations of mathematical variables."
+  },
+  {
+    "chunk_id": "8-Science-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা বসত সঁঁরশে -\\n1701 10 1702",
+    "note": "Nonsensical character sequences and garbled symbols."
+  },
+  {
+    "chunk_id": "8-Science-7-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ত্রণ বলে",
+    "note": "Likely missing a character (ত্বরণ) making the word slightly incorrect."
+  },
+  {
+    "chunk_id": "8-Science-7-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধরা যাক, 14 - পৃথিবীর ভর, যা] - ভূপৃষ্ঠে বা এর নিকটে অবস্থিত কোনো বস্তুর ভর, 0 - বস্তু ও",
+    "note": "Numbers are clearly OCR errors for variables like m and r."
+  },
+  {
+    "chunk_id": "8-Science-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর রর রি!\\n...ঢু - 0 ৮...—না8...৪্-",
+    "note": "Significant garbled text and nonsensical symbols in calculation steps."
+  },
+  {
+    "chunk_id": "8-Science-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভর 11] অনুপস্থিত... দূরত্ব 0-এর\\nউপর নির্ভর করে। সুতরাং 5-এর মান",
+    "note": "Garbled text and digit noise where mathematical variables should be."
+  },
+  {
+    "chunk_id": "8-Science-7-15",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অর্থাৎ পৃথিবীকে গোলাকার বিবেচনা\\n৬:\\n২?",
+    "note": "Sentence ends abruptly with broken characters."
+  },
+  {
+    "chunk_id": "8-Science-7-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-19",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আর ভূপৃষ্ঠে ৪ -",
+    "note": "Ends mid-sentence/clause."
+  },
+  {
+    "chunk_id": "8-Science-7-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভর 111 হলে এ\nস্থানে বস্তুর ওজন ঘর - 0078 হবে।",
+    "note": "Garbled values and numbers for formula variables."
+  },
+  {
+    "chunk_id": "8-Science-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছদ্ধ 5১০ ৯.৮ নিউটন - ৯৮ নিউটন",
+    "note": "Garbled OCR of mathematical calculation (10 x 9.8)."
+  },
+  {
+    "chunk_id": "8-Science-7-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ ভাগ। সুতরাংটাদে ১\nকেজি ভরের বস্তুর ওজন হবে প্রায় ৯৮ নিউটন ৯ ১.৬৩ নিউটন (খ)।",
+    "note": "Garbled symbols and numeric noise in the calculation section."
+  },
+  {
+    "chunk_id": "8-Science-7-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দাগাঙকিত, নিক্কতি",
+    "note": "Words appear corrupted from the original Bengali terms."
+  },
+  {
+    "chunk_id": "8-Science-7-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪ এর মানের পরিবর্তন হয়, 5 এর মান",
+    "note": "Numbers are likely OCR errors for mathematical symbols."
+  },
+  {
+    "chunk_id": "8-Science-7-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্বরণ স্থাস পায়",
+    "note": "Word 'হ্রাস' (reduction) is corrupted as 'স্থাস'."
+  },
+  {
+    "chunk_id": "8-Science-7-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিষ্বীয় অঞ্চল",
+    "note": "Spelling error/corruption of 'ভীষণ' or 'বিষুবীয়'."
+  },
+  {
+    "chunk_id": "8-Science-7-34",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এই কারণে খনিতে কোনো",
+    "note": "Sentence cut off at the end of chunk, completed in next."
+  },
+  {
+    "chunk_id": "8-Science-7-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্হানে & এর মান, (ঘ - 1118)",
+    "note": "Corrupted text and numbers in place of formulas."
+  },
+  {
+    "chunk_id": "8-Science-7-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ছ' - 08",
+    "note": "Garbled text in place of formula."
+  },
+  {
+    "chunk_id": "8-Science-7-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তাডকে, (ঘা - 7.8)",
+    "note": "Corrupted text in description of orbit."
+  },
+  {
+    "chunk_id": "8-Science-7-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কদুর, উ",
+    "note": "Garbled words or symbols in summary points."
+  },
+  {
+    "chunk_id": "8-Science-7-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7\" ও, 17 80 গ্রাম, 1ও]], 1ও1",
+    "note": "High amount of OCR noise/garbled characters in question section."
+  },
+  {
+    "chunk_id": "8-Science-7-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও]], 1ও1",
+    "note": "Garbled characters in multiple choice options."
+  },
+  {
+    "chunk_id": "8-Science-7-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-7-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

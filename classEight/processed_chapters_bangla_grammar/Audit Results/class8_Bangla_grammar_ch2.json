@@ -1,0 +1,218 @@
+[
+  {
+    "chunk_id": "8-Bangla_grammar-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রব্ব্ণ",
+    "note": "Word 'বর্ণ' is corrupted with extra characters."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬, ব্যঞজনবর্ণ, য রর ল",
+    "note": "Digits replace letters and repeated characters appear in lists."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সস",
+    "note": "Redundant character in 'শ ষ স' sequence."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সষ্বরবর্ণের",
+    "note": "Word 'স্বরবর্ণের' corrupted to 'সষ্বরবর্ণের'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ই-কার (97, য-কার (7)",
+    "note": "Nonsense numbers appear instead of standard list indicators."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যষ্জনবর্ণ",
+    "note": "Word 'ব্যঞ্জনবর্ণ' corrupted to 'ব্যষ্জনবর্ণ'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কার (.), কার (0)",
+    "note": "Punctuation and digits used where letters are expected."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ঙ",
+    "note": "Digit '6' used instead of the letter 'ঙ'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কচ",
+    "note": "Garbled text segment or artifact."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বঝঞা (বন্ব)",
+    "note": "Garbled word likely from 'বাঞ্চন' or similar."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রশ্মি (রশিि), দুস্থ",
+    "note": "Words 'রশ্মি' and 'দৃষ্ট' are corrupted."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অরণ শেরোঁর, সুন্মিত শুস্মিতো",
+    "note": "Words 'অরণ্য' and 'সুসম্পিত' are garbled."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হত্তদন্ত",
+    "note": "Garbled word, likely intended to be 'হঠাৎ'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-2-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভমাবৃত, শ্যু মুণ্ডন",
+    "note": "Words 'ধূসর' and 'শ্যু' are garbled."
+  }
+]

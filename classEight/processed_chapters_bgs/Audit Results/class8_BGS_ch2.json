@@ -1,0 +1,218 @@
+[
+  {
+    "chunk_id": "8-BGS-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রত্মতাত্তিক",
+    "note": "Incorrect character '্ম' instead of 'ন্ন' in প্রত্নতাত্ত্বিক."
+  },
+  {
+    "chunk_id": "8-BGS-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রত্নিদর্শন",
+    "note": "Missing 'ন' in প্রত্ননিদর্শন."
+  },
+  {
+    "chunk_id": "8-BGS-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফিছি দেয়",
+    "note": "Incorrect character sequence for 'ফাঁসি' (hanging)."
+  },
+  {
+    "chunk_id": "8-BGS-2-8",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্জন কার্জন হল",
+    "note": "The word 'কার্জন' is repeated."
+  },
+  {
+    "chunk_id": "8-BGS-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উনিশ, ক্র, এ _",
+    "note": "Missing 'ি' in উিনশ; cut off text at end of chunk."
+  },
+  {
+    "chunk_id": "8-BGS-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রদারবাড়ি",
+    "note": "Should be 'সরদারবাড়ি' (missing 'স')."
+  },
+  {
+    "chunk_id": "8-BGS-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিরর্শন",
+    "note": "Should be 'নিদর্শন'."
+  },
+  {
+    "chunk_id": "8-BGS-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পররসম্পদ, খৃতিহা, প্রত্বনিদর্শনের",
+    "note": "Multiple script errors in words like প্রত্নসম্পদ and পুত্রনিরীক্ষণ."
+  },
+  {
+    "chunk_id": "8-BGS-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং্রহশালায়",
+    "note": "Should be 'সংগ্রহশালায়'."
+  },
+  {
+    "chunk_id": "8-BGS-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রত্ন্সম্পদ",
+    "note": "Malformed word for প্রত্নসম্পদ."
+  },
+  {
+    "chunk_id": "8-BGS-2-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্মবতজড়ানে",
+    "note": "Nonsensical character sequence likely from poor OCR."
+  },
+  {
+    "chunk_id": "8-BGS-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ও১১, ১ও 1, ১լও]১১১",
+    "note": "Garbled digit strings in multiple choice options."
+  },
+  {
+    "chunk_id": "8-BGS-2-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪., া,াাওণাা",
+    "note": "Garbled question numbering and corrupted answer choices."
+  },
+  {
+    "chunk_id": "8-BGS-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

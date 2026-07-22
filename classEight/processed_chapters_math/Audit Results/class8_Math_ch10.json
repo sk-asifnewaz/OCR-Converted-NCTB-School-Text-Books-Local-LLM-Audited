@@ -1,0 +1,398 @@
+[
+  {
+    "chunk_id": "8-Math-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাই (10)",
+    "note": "The number 10 is likely a misread of the pi symbol."
+  },
+  {
+    "chunk_id": "8-Math-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "00010 3110 ১1০ ০13 0011016",
+    "note": "Garbled numeric sequence likely replacing mathematical symbols."
+  },
+  {
+    "chunk_id": "8-Math-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "+?, 0",
+    "note": "Nonsensical symbols and punctuation in a mathematical context."
+  },
+  {
+    "chunk_id": "8-Math-10-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "20 জ্যা *' ৯ 9",
+    "note": "Garbled symbols and extra punctuation."
+  },
+  {
+    "chunk_id": "8-Math-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "48",
+    "note": "Number '48' appears to be a misread of a geometric label or pi."
+  },
+  {
+    "chunk_id": "8-Math-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01016 9130০0 01601-01115",
+    "note": "Garbled numeric string likely representing a formula or range."
+  },
+  {
+    "chunk_id": "8-Math-10-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "//, 14, /01/4",
+    "note": "Garbled punctuation and numbers instead of mathematical notation."
+  },
+  {
+    "chunk_id": "8-Math-10-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র্ত্ারুর্া",
+    "note": "Nonsensical word fragment from poor OCR."
+  },
+  {
+    "chunk_id": "8-Math-10-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/১০414 এবং /২,083/",
+    "note": "Garbled math proof symbols and numbers."
+  },
+  {
+    "chunk_id": "8-Math-10-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্কিত",
+    "note": "Garbled word likely intended as 'অধিক' or similar."
+  },
+  {
+    "chunk_id": "8-Math-10-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "48, 40",
+    "note": "Numbers used in place of geometric labels."
+  },
+  {
+    "chunk_id": "8-Math-10-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€ ও 19",
+    "note": "Non-contextual currency symbol/garbled character."
+  },
+  {
+    "chunk_id": "8-Math-10-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সে -+৮",
+    "note": "Garbled symbols in a mathematical expression."
+  },
+  {
+    "chunk_id": "8-Math-10-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "48-০০, 548",
+    "note": "Garbled math notations."
+  },
+  {
+    "chunk_id": "8-Math-10-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0,১৪, 07, 478",
+    "note": "Numbers used as placeholders for geometric labels."
+  },
+  {
+    "chunk_id": "8-Math-10-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "549--00, 47 -(079",
+    "note": "Garbled mathematical proof notations."
+  },
+  {
+    "chunk_id": "8-Math-10-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "43130, 0,0এবং",
+    "note": "Garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "8-Math-10-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€007",
+    "note": "Garbled symbol and number."
+  },
+  {
+    "chunk_id": "8-Math-10-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "011-0010101-01106",
+    "note": "Garbled numeric sequence instead of formula."
+  },
+  {
+    "chunk_id": "8-Math-10-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯২ ঢা ১:",
+    "note": "Garbled expression or figure reference."
+  },
+  {
+    "chunk_id": "8-Math-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11270717510",
+    "note": "Long string of digits likely a misread formula."
+  },
+  {
+    "chunk_id": "8-Math-10-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7, ₹",
+    "note": "Symbol mismatch and likely misread pi."
+  },
+  {
+    "chunk_id": "8-Math-10-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1:",
+    "note": "Misread pi symbol as 1:."
+  },
+  {
+    "chunk_id": "8-Math-10-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২1810 01170৮181 7 7?",
+    "note": "Highly mangled text and numbers."
+  },
+  {
+    "chunk_id": "8-Math-10-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৫",
+    "note": "Garbled pi symbol."
+  },
+  {
+    "chunk_id": "8-Math-10-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স1ররেঃ-+ 270",
+    "note": "Garbled mathematical expression."
+  },
+  {
+    "chunk_id": "8-Math-10-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-10-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৭ 707, ৯৮",
+    "note": "Digits used instead of geometric labels/pi."
+  },
+  {
+    "chunk_id": "8-Math-10-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

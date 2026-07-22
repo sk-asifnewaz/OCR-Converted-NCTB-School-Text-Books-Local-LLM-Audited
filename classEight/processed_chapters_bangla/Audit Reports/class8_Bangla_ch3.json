@@ -1,0 +1,99 @@
+[
+  {
+    "chunk_id": "8-Bangla-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-3-8",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1. ... 11. ... 111. ... ক. 1ও]1 খ. 1ও111\nগ. 11ওণ1 ঘ. 1,11ও111",
+    "note": "Multiple instances of digit noise and corrupted options in the MCQ section."
+  },
+  {
+    "chunk_id": "8-Bangla-3-9",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও]1 খ. ওয়া\nগ. ]1ওয1] ঘ. ],]1ওযা",
+    "note": "Option text is heavily corrupted with nonsensical symbols and characters."
+  },
+  {
+    "chunk_id": "8-Bangla-3-10",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শর ৯ ওত &ঠ",
+    "note": "Garbled characters and symbols at the end of the chunk."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "8-Arabic-2-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩৩৩ ৬৩৩৩৬৩৩৩৬৩৩",
+    "note": "Contains repetitive digits and garbled Arabic-like characters."
+  },
+  {
+    "chunk_id": "8-Arabic-2-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مماماماعাম ম ... ৩৩৩৩৩৩৬৬৩৩৩",
+    "note": "Repeated nonsensical characters and long strings of garbled numbers."
+  },
+  {
+    "chunk_id": "8-Arabic-2-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1৮০২ ৬২৮০",
+    "note": "Non-standard digit strings likely from OCR errors in headers or footers."
+  },
+  {
+    "chunk_id": "8-Arabic-2-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৮০১১১০০০০",
+    "note": "Long sequence of digits that do not serve as valid numbering."
+  },
+  {
+    "chunk_id": "8-Arabic-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০০ ... ০৬৫",
+    "note": "Random digit fragments likely from layout elements."
+  },
+  {
+    "chunk_id": "8-Arabic-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৪৬ ... ০৮৪ ... ৩৮৯০",
+    "note": "Random numbers interspersed in text, likely from page indicators."
+  },
+  {
+    "chunk_id": "8-Arabic-2-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০০০ ... ৪১০৪ ০৪০৫৫",
+    "note": "Garbled digit strings that do not fit the context of a list."
+  }
+]

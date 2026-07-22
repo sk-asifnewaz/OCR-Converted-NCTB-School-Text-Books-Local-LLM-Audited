@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "8-Bangla_grammar-11-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Likely OCR corruption of the word 'দক্ষতা' (skill)."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-11-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Likely OCR corruption of the word 'দক্ষতা'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-11-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "প“প্রতীতি”",
+    "note": "Mangled punctuation or preceding word before 'প্রতীতি'."
+  }
+]

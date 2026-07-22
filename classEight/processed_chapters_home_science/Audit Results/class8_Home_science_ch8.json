@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "8-Home_science-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অফ্টম অধ্যায়",
+    "note": "অফ্টম is a likely OCR error for অষ্টম (Eighth)."
+  },
+  {
+    "chunk_id": "8-Home_science-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পুষ্ণি উপাদানগুলোর",
+    "note": "পুষ্ণি is a corruption of পুষ্টি (nutrition)."
+  },
+  {
+    "chunk_id": "8-Home_science-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রত্তস্বল্পতা, গলগড্ড",
+    "note": "Errors in রক্তস্বল্পতা and গলগণ্ড."
+  },
+  {
+    "chunk_id": "8-Home_science-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "প্রাটিন, (20100911 (310116 14 81170010017)",
+    "note": "প্রাটিন is an error for প্রোটিন; digits are non-semantic OCR noise."
+  },
+  {
+    "chunk_id": "8-Home_science-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রাটিনের, কার্বোহাইড্রেটবস্থুল",
+    "note": "প্রাটিন is incorrect; কার্বোহাইড্রেটবস্থুল is a mangled word."
+  },
+  {
+    "chunk_id": "8-Home_science-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তৃক, অপুষ্টি ৮১, স্লুধামন্দা",
+    "note": "তৃক and স্লুধামন্দা are garbled; 81 is a likely page number artifact."
+  },
+  {
+    "chunk_id": "8-Home_science-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "কারণ -_",
+    "note": "Underscore is a likely artifact of a separator or line."
+  },
+  {
+    "chunk_id": "8-Home_science-8-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পাও, ৮, স্মুধা",
+    "note": "পাও is a typo; 8 is noise; স্মুধা is nonsensical."
+  },
+  {
+    "chunk_id": "8-Home_science-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গার্শস্থ্যবিজ্ঞান, ফর্মা-১১, ৮২",
+    "note": "গার্শস্থ্যবিজ্ঞান is misspelled; 11 and 82 are noise/artifacts."
+  },
+  {
+    "chunk_id": "8-Home_science-8-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-8-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটমিন এ\"র, ৮৪",
+    "note": "Awkward punctuation and page number noise."
+  },
+  {
+    "chunk_id": "8-Home_science-8-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপুষ্টি ৮৫, হাবাগোবা ও বামনতৃ",
+    "note": "85 is a page number; হাবাগোবা/বামনতৃ are garbled terms."
+  },
+  {
+    "chunk_id": "8-Home_science-8-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অপুষ্টি ৮৭",
+    "note": "87 is a likely page number artifact."
+  },
+  {
+    "chunk_id": "8-Home_science-8-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "|ও||, ||ও||",
+    "note": "Pipes and symbols suggest broken OCR of multiple choice options."
+  },
+  {
+    "chunk_id": "8-Home_science-8-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তোগে ইদানীং",
+    "note": "Garbled text likely intended for a descriptive phrase."
+  },
+  {
+    "chunk_id": "8-Home_science-8-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬)",
+    "note": "Isolated digit/bracket is likely a layout artifact."
+  }
+]

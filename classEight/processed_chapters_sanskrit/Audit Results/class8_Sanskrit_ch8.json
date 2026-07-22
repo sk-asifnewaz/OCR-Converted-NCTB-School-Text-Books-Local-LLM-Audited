@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "8-Sanskrit-8-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1১, 1২, 1৩, অন্শীলনী",
+    "note": "Mixed digit styles and a nonsensical word at the end."
+  },
+  {
+    "chunk_id": "8-Sanskrit-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹-",
+    "note": "Foreign currency symbol found in the text."
+  },
+  {
+    "chunk_id": "8-Sanskrit-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গে)",
+    "note": "Likely a misread of the Bengali label (গ)."
+  },
+  {
+    "chunk_id": "8-Sanskrit-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মহাধনমৃ্‌",
+    "note": "Extra vowel mark attached to the word 'মহাধনম্'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৬)",
+    "note": "Likely a misread of the Bengali letter (ঘ)."
+  },
+  {
+    "chunk_id": "8-Sanskrit-8-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিহ্তি",
+    "note": "Corrupted word; should be 'বিভক্তি' (declension)."
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "chunk_id": "8-English-4-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "e read",
+    "note": "The 'e' is likely an OCR error for a bullet point."
+  },
+  {
+    "chunk_id": "8-English-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "¢",
+    "note": "Currency symbol is likely a misread bullet point."
+  },
+  {
+    "chunk_id": "8-English-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Ul",
+    "note": "Nonsensical character sequence, likely a mangled number."
+  },
+  {
+    "chunk_id": "8-English-4-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "es Ye",
+    "note": "Garbled text that does not form a coherent phrase."
+  },
+  {
+    "chunk_id": "8-English-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Nn FB W NY",
+    "note": "Garbled text/noise likely from a page header or footer."
+  },
+  {
+    "chunk_id": "8-English-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "titted! (vnE ieually dit-ting, tet",
+    "note": "Heavy OCR corruption of dictionary definitions."
+  },
+  {
+    "chunk_id": "8-English-4-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ORMGHT SIZE/TYPE TV [not weed in he",
+    "note": "Multiple instances of garbled text and nonsensical words."
+  },
+  {
+    "chunk_id": "8-English-4-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "mooke darn, & [tadu spree]",
+    "note": "Non-existent words resulting from poor OCR of dictionary text."
+  },
+  {
+    "chunk_id": "8-English-4-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "prcenesive bentes, Soreetlivug doce",
+    "note": "Highly garbled text in a dictionary context."
+  },
+  {
+    "chunk_id": "8-English-4-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Trhake sheath, gobo His expert",
+    "note": "Nonsensical word sequences."
+  },
+  {
+    "chunk_id": "8-English-4-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "tbo, bernie, flr elar",
+    "note": "Significant OCR errors resulting in nonsensical words."
+  },
+  {
+    "chunk_id": "8-English-4-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "BABS oD A, conno-semption, dAdag",
+    "note": "Garbled text in the dictionary section."
+  },
+  {
+    "chunk_id": "8-English-4-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "oREAGY 3 to Go ab (ant, Wiforina)",
+    "note": "Nonsensical garbled text."
+  },
+  {
+    "chunk_id": "8-English-4-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "conglckin eesti, aorepeaable",
+    "note": "Garbled text in the dictionary section."
+  },
+  {
+    "chunk_id": "8-English-4-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "LEPeY, dnd their bochy, konrcd",
+    "note": "Heavy OCR noise and nonsensical words."
+  },
+  {
+    "chunk_id": "8-English-4-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "fitof anger rege, comper, plque",
+    "note": "Garbled dictionary content."
+  },
+  {
+    "chunk_id": "8-English-4-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ematce, ceber, Deady meric ancy",
+    "note": "Nonsensical garbled text."
+  },
+  {
+    "chunk_id": "8-English-4-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Fit-Fual, needas, evene",
+    "note": "Garbled text from dictionary entries."
+  },
+  {
+    "chunk_id": "8-English-4-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "fil-ress, maogosine, hanes",
+    "note": "Nonsensical garbled words in dictionary entries."
+  },
+  {
+    "chunk_id": "8-English-4-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ikéenE, ceevher",
+    "note": "Garbled dictionary text."
+  },
+  {
+    "chunk_id": "8-English-4-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "wardrabes,cuphoords, Pumnitritere",
+    "note": "Nonsensical garbled dictionary content."
+  },
+  {
+    "chunk_id": "8-English-4-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "coplerly, Latien, Get chothbes",
+    "note": "Garbled dictionary content."
+  },
+  {
+    "chunk_id": "8-English-4-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "fod, mniveraigy",
+    "note": "Garbled dictionary text."
+  },
+  {
+    "chunk_id": "8-English-4-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "kop pine, fod",
+    "note": "Nonsensical words in a dictionary section."
+  },
+  {
+    "chunk_id": "8-English-4-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-English-4-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

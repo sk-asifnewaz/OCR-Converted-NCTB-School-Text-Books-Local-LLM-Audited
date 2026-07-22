@@ -1,0 +1,524 @@
+[
+  {
+    "chunk_id": "8-ICT-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ছ'1161০835)",
+    "note": "Garbled character sequence instead of standard text."
+  },
+  {
+    "chunk_id": "8-ICT-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(025) ... 003",
+    "note": "Random numbers inserted where descriptors should be."
+  },
+  {
+    "chunk_id": "8-ICT-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সার্ট ... 073",
+    "note": "Mispelled word and digit noise for buttons."
+  },
+  {
+    "chunk_id": "8-ICT-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8110 %1001)",
+    "note": "Garbled characters in parenthesis."
+  },
+  {
+    "chunk_id": "8-ICT-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রজন্য",
+    "note": "Typo/corruption of the word 'প্রজন্ম'."
+  },
+  {
+    "chunk_id": "8-ICT-5-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(দদদদদ.০৮.০৮.০০)",
+    "note": "Nonsensical numeric string likely representing a URL."
+  },
+  {
+    "chunk_id": "8-ICT-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তথ্যভাঙারকে",
+    "note": "Corruption of the word 'তথ্যভাণ্ডারকে'."
+  },
+  {
+    "chunk_id": "8-ICT-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(11081)",
+    "note": "Garbled numbers instead of descriptive text."
+  },
+  {
+    "chunk_id": "8-ICT-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আচ্ত",
+    "note": "Misspelling/corruption of word 'একটি'."
+  },
+  {
+    "chunk_id": "8-ICT-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(দদদদদ.৬০০৮১৬০.০0১)",
+    "note": "Malformed numeric string instead of URL."
+  },
+  {
+    "chunk_id": "8-ICT-5-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ছদদ্দদ্দ.ছ০১০৮১১৮০১১৮.০০১০৭)",
+    "note": "Extensive noise in URLs and text."
+  },
+  {
+    "chunk_id": "8-ICT-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙং্করান্ত সমস্যাবলির",
+    "note": "Garbled words for 'সংযোগ' and 'সমস্যার'."
+  },
+  {
+    "chunk_id": "8-ICT-5-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙ্জে",
+    "note": "Typo/corruption of 'সঙ্গে'."
+  },
+  {
+    "chunk_id": "8-ICT-5-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ ৯১৩৫১ ৮-০০-১ ৩, ৭২",
+    "note": "Extraneous digits and symbols."
+  },
+  {
+    "chunk_id": "8-ICT-5-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যক্ক্রিম, (//০০৮১০",
+    "note": "Garbled word and digit noise for buttons."
+  },
+  {
+    "chunk_id": "8-ICT-5-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01০৮০ ৪০০০৮১১০",
+    "note": "Digits likely replacing button labels."
+  },
+  {
+    "chunk_id": "8-ICT-5-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-39",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দঃ ।৬০॥ পা লর্রা্জাল লালন",
+    "note": "Complete block of nonsensical text."
+  },
+  {
+    "chunk_id": "8-ICT-5-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১৯৮০ /১০০০৮",
+    "note": "Garbled digits in button area."
+  },
+  {
+    "chunk_id": "8-ICT-5-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪-৩২ ০১১৮১৮০১৬০১",
+    "note": "Nonsensical digits in range description."
+  },
+  {
+    "chunk_id": "8-ICT-5-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪১১০৩ ০০৩১৮৯০৮১০০০.০০১০৭",
+    "note": "Garbled digits in address field."
+  },
+  {
+    "chunk_id": "8-ICT-5-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "31০৩১], ২৮৯৩% ০১০",
+    "note": "Nonsense symbols and numbers."
+  },
+  {
+    "chunk_id": "8-ICT-5-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১1৭৭৩১১, ৪১০১১",
+    "note": "Garbled digits for list markers."
+  },
+  {
+    "chunk_id": "8-ICT-5-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১৯৮০ /১০০০৮",
+    "note": "Garbled digits in button area."
+  },
+  {
+    "chunk_id": "8-ICT-5-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬১৮১১১, ০১৫১১ ১৭",
+    "note": "Garbled digits for button actions."
+  },
+  {
+    "chunk_id": "8-ICT-5-48",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চল জলনড! এও হালদার দে...",
+    "note": "Large block of non-sensical text."
+  },
+  {
+    "chunk_id": "8-ICT-5-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০১০০-এ, ৪৮ ছা ৪",
+    "note": "Garbled digits in button area."
+  },
+  {
+    "chunk_id": "8-ICT-5-50",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লম্লাদ দানা চুদ এ...",
+    "note": "Large block of non-sensical text."
+  },
+  {
+    "chunk_id": "8-ICT-5-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-52",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দা. মা গামা হযননভিজ্যজ...",
+    "note": "Garbled text at bottom of chunk."
+  },
+  {
+    "chunk_id": "8-ICT-5-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১.০০৮০১০১১, ৩০০০০১-এ, ৩৯১১০",
+    "note": "Garbled digits in button area."
+  },
+  {
+    "chunk_id": "8-ICT-5-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-5-57",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 30৮] নে! ---৯ ৮৭১০",
+    "note": "Nonsensical option list for questions."
+  },
+  {
+    "chunk_id": "8-ICT-5-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

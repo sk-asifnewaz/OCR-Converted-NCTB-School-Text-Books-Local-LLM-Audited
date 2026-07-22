@@ -1,0 +1,425 @@
+[
+  {
+    "chunk_id": "8-Science-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অশ্ন্র, অম্ন, অন্ন",
+    "note": "Repeated corruptions of the word 'অম্ল' (acid)."
+  },
+  {
+    "chunk_id": "8-Science-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অগ্ন",
+    "note": "Corrupted OCR for the word 'অম্ল'."
+  },
+  {
+    "chunk_id": "8-Science-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লিটমাস ০",
+    "note": "Standalone zero digit in a context requiring text/symbols."
+  },
+  {
+    "chunk_id": "8-Science-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আঠ্তে আচেত",
+    "note": "Nonsensical transcription of 'আস্তে আস্তে'."
+  },
+  {
+    "chunk_id": "8-Science-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "03(01), ... (43017)",
+    "note": "Garbled chemical formulas replaced by numbers."
+  },
+  {
+    "chunk_id": "8-Science-10-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্ন না ক্ষারক, অগ্ন না ক্ষার",
+    "note": "Corrupted OCR of the word 'অম্ল'."
+  },
+  {
+    "chunk_id": "8-Science-10-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(017300017), (01000-0000], (101), (01:50)",
+    "note": "Chemical formulas mangled into numbers."
+  },
+  {
+    "chunk_id": "8-Science-10-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যা] রব া + গণ, গো,000া 0 ) ঢা ++ সো,০০০-",
+    "note": "Chemical equations are completely mangled."
+  },
+  {
+    "chunk_id": "8-Science-10-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[€৪(০71)2], 03(01)",
+    "note": "Mangled chemical formulas."
+  },
+  {
+    "chunk_id": "8-Science-10-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাঃ ৭ 7.0 - ৭ বম",
+    "note": "Garbled chemical equation."
+  },
+  {
+    "chunk_id": "8-Science-10-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "08(0া)2, খিনচ 01, [/(017)3]",
+    "note": "Mangled chemical formulas."
+  },
+  {
+    "chunk_id": "8-Science-10-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01), (11016 ছ৭(67)), (৬৪১১১ ০১১.১১০১৬)",
+    "note": "Corrupted chemical formulas."
+  },
+  {
+    "chunk_id": "8-Science-10-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[148(011):], [148(017):], [-৬১(০১৭)৩]",
+    "note": "Corrupted chemical formulas."
+  },
+  {
+    "chunk_id": "8-Science-10-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(50014), (1]0]), (7:50,), (7130,), (ঘ৪০৩)",
+    "note": "Chemical formulas mangled by OCR."
+  },
+  {
+    "chunk_id": "8-Science-10-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৩৫০",
+    "note": "Likely mangled chemical formula for sulfuric acid."
+  },
+  {
+    "chunk_id": "8-Science-10-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢাআর৩, ১০৩",
+    "note": "Mangled chemical formulas or labels."
+  },
+  {
+    "chunk_id": "8-Science-10-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩০৮ ++ মচটড ++ ০০১, 00২, 31003",
+    "note": "Garbled chemical equations and mangled formulas."
+  },
+  {
+    "chunk_id": "8-Science-10-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খিল0০০3॥ ++ মস] ৯ খি৪0] ++ মচ0 + ০000",
+    "note": "Highly corrupted chemical reaction text."
+  },
+  {
+    "chunk_id": "8-Science-10-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৭",
+    "note": "Likely a mangled chemical symbol (Zn)."
+  },
+  {
+    "chunk_id": "8-Science-10-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭০১৩",
+    "note": "Mangled chemical formula (HCl)."
+  },
+  {
+    "chunk_id": "8-Science-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৩৫৩",
+    "note": "Mangled chemical formula."
+  },
+  {
+    "chunk_id": "8-Science-10-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[০৩(০১৭)২], [১৪০:৫০] ... €০৩৪(০১০)",
+    "note": "Mangled chemical formulas."
+  },
+  {
+    "chunk_id": "8-Science-10-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব৩০া 7 ঢা] সস র৩০ + ১:০৯, ০ ++ ঢাঅখ০৩ সা বার০৩ ++ ১০",
+    "note": "Mangled chemical equations."
+  },
+  {
+    "chunk_id": "8-Science-10-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩:০০৩ + ২০১ সা ২ার৩০ + মচটড ++ ০০১",
+    "note": "Garbled chemical reaction text."
+  },
+  {
+    "chunk_id": "8-Science-10-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-10-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

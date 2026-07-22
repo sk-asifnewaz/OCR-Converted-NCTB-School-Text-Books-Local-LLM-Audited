@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "8-Hindu_religion-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€১\nলন",
+    "note": "Contains garbled symbols and a likely truncated word."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৮৬৮ । ১) গে\nসর্বব্যাপী সর্বভূতান্তরাত্মা । \| ॥ + )\nসাক্ষী চেতা কেবলো নির্গুণশ্চ | (৬/১১) কু । 4",
+    "note": "Contains several garbled numbers, symbols and mangled Sanskrit phrases."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঈশ্বরের স্বরূপ ৩",
+    "note": "Page number or footer has been mixed into the text."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিশ্ববৰন্মাড",
+    "note": "Garbled transcription of the word 'ব্রহ্মাণ্ড'."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খবষির",
+    "note": "Incorrect character usage (likely 'ঋ' instead of 'খ')."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-14",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ব্শ্ম",
+    "note": "Trailing characters suggest a cut off or broken word at the end of chunk."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মৎস্য, কর্ম, বরাহ",
+    "note": "Word 'কর্ম' is likely a mangled transcription of the name 'কূর্ম'."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৪ হিন্দুধর্ম শিক্ষা",
+    "note": "Page numbering or heading has been merged into the text."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যীরা",
+    "note": "Likely a transcription error for the word 'যারা'."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঈশ্বরের স্বরূপ ৫",
+    "note": "Page numbering or heading has been merged into the text."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০।",
+    "note": "Garbled digits likely replacing a punctuation or reference mark."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬ হিন্দুধর্ম শিক্ষা",
+    "note": "Page numbering or heading has been merged into the text."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঈশ্বরের স্বরূপ ৭",
+    "note": "Page number/header noise."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টাক্পা\nযুতু্বেদের",
+    "note": "Garbled words; 'যুতু্বেদের' is likely an error for 'যজুর্বেদ'."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.১ও১\nখ. ১ও]১]\nগ. ১১] ও১\nঘ.া১]ও]টাা",
+    "note": "Multiple choice options contain extensive noise and corrupted symbols."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্মরন্থ",
+    "note": "Corrupted spelling of 'ধর্মগ্রন্থ'."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.]১ ও]\nখ. 1ও]1\nগ. যাও]\nঘ.],১১ ও ১]",
+    "note": "Option list is corrupted with non-sensical characters and extra punctuation."
+  },
+  {
+    "chunk_id": "8-Hindu_religion-1-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

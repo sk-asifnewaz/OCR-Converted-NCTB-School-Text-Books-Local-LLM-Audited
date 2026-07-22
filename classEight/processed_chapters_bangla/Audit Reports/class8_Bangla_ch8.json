@@ -1,0 +1,115 @@
+[
+  {
+    "chunk_id": "8-Bangla-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-9",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভার্ত খ. সংশয়\nহতাশা ঘ. দুর্বলতা",
+    "note": "Option list is malformed; 'ভর্ত' appears to be a garbled fragment."
+  },
+  {
+    "chunk_id": "8-Bangla-8-10",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION",
+      "GIBBERISH_RUN"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.\n\nগ.\n1ও]11 খ. 1ওা\n11 ও 111 ঘ. ],11ও1]111",
+    "note": "Multiple options are corrupted with non-sensical characters and digit noise."
+  },
+  {
+    "chunk_id": "8-Bangla-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

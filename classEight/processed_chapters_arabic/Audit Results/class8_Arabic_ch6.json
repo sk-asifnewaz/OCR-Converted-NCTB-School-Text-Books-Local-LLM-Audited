@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "8-Arabic-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১০৮০) ৮ ৮৯২৭",
+    "note": "Random sequences of digits embedded in the text."
+  },
+  {
+    "chunk_id": "8-Arabic-6-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬৬৬৬৬৬৬৬৬৬৬, ৩৩৬৬৬৬৬৬৬৬৬৬৬৬৬৩৬",
+    "note": "Repeated digit strings indicating OCR processing artifacts."
+  },
+  {
+    "chunk_id": "8-Arabic-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৮১১০ ৬৬ ৬২৭০০, ৩০৫১৭০০০০০, ৯০২৮ ৪৭১৭",
+    "note": "Multiple strings of unrelated numbers interspersed within sentences."
+  },
+  {
+    "chunk_id": "8-Arabic-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৭০৭, ৬৯ ১১৭, ১৮০)",
+    "note": "Nonsensical digit sequences likely from page markers or layout noise."
+  }
+]

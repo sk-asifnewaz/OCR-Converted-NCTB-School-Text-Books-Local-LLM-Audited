@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "8-Sanskrit-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-3",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নমো নমঃ ₹-",
+    "note": "Currency symbol is an artifact of OCR."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তৃমক্ষর২, সনাতনস্ত্ব৬",
+    "note": "Random digits are embedded within word strings."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-6",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্‌মৃ, সর্বকারণকারণমৃ‌",
+    "note": "Garbled characters and non-standard symbols in Sanskrit words."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংগো২স্ত্বকর্মণি",
+    "note": "Random digit '2' embedded in a word."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-8",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "জ্ঞানযজ্ঞ?",
+    "note": "Unexpected punctuation mark in a title/phrase."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-13",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৈহ্ৰীহি",
+    "note": "Garbled rendition of the Sanskrit term 'বহুব্রীহি'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-14",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংযতেন্সրিয়ঃ",
+    "note": "Garbled Unicode/characters in the word 'সংযতেন্দ্রিয়ঃ'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-7-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

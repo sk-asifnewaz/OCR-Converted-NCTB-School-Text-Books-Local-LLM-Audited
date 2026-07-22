@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "8-Bangla-17-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বি 1 ০\n১৯ তপু\nদা চা ৭",
+    "note": "The first part of the chunk is garbled with non-sensical characters."
+  },
+  {
+    "chunk_id": "8-Bangla-17-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বুনো 1",
+    "note": "Random digit inserted mid-phrase."
+  },
+  {
+    "chunk_id": "8-Bangla-17-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-17-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-17-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-17-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-17-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উদ্যাপন",
+    "note": "Likely an OCR error for the word 'উদযাপন'."
+  },
+  {
+    "chunk_id": "8-Bangla-17-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-17-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও]া খ. 1ওয়া\nগ. 11ওণা1 ঘ. 1,11ও111",
+    "note": "Options are corrupted with symbols and digit noise."
+  },
+  {
+    "chunk_id": "8-Bangla-17-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-17-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জনয ক্রাফম্রে কাপড় মাহায়",
+    "note": "The entire block is garbled and contains non-sensical segments."
+  },
+  {
+    "chunk_id": "8-Bangla-17-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

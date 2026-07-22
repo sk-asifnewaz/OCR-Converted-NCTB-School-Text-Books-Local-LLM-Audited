@@ -1,0 +1,124 @@
+[
+  {
+    "chunk_id": "8-Bangla-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-8",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION",
+      "DIGIT_NOISE"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও 1] খ. 1ও গা\nগ. 11ও 1 ঘ. 1,11ও 11]",
+    "note": "Multiple instances of digit noise and corrupted symbols in the multi-choice options."
+  },
+  {
+    "chunk_id": "8-Bangla-13-9",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উত্ত সাদৃশ্যপূর্ণ দিকটি উদ্তাসিত হয়েছে",
+    "note": "The words 'উত্ত' and 'উদ্তাসিত' are garbled OCR results for standard Bengali terms."
+  },
+  {
+    "chunk_id": "8-Bangla-13-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-13-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

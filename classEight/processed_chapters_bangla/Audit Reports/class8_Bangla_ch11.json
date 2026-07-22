@@ -1,0 +1,118 @@
+[
+  {
+    "chunk_id": "8-Bangla-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-4",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নির্বাচনিপ্রশু",
+    "note": "Garbled text that appears to be an OCR failure for 'নমুনা প্রশ্ন'."
+  },
+  {
+    "chunk_id": "8-Bangla-11-5",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা।\nনিচের কোনটি ঠিক?\nক. 1ও]1 খ. 1ওয়া",
+    "note": "Contains non-sensical symbols and numeric noise in the question options."
+  },
+  {
+    "chunk_id": "8-Bangla-11-6",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ. 11ওয়া ঘ. ],11ওয়া",
+    "note": "Options are corrupted with digit noise and garbled characters."
+  },
+  {
+    "chunk_id": "8-Bangla-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-11-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

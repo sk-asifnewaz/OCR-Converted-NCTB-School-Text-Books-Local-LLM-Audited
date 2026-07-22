@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "8-Bangla_grammar-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাণীনুক্রম, ১.২",
+    "note": "বাণীনুক্রম is a mis-transcription of বর্ণানুক্রম; ১.২ should be ৯.২."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "710001781%",
+    "note": "Random digit string likely from a page number or OCR error."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বর্ণীনুক্কমিকভাবে, ত্রম",
+    "note": "Incorrect vowel/consonant usage (should be বর্ণানুক্রমিকভাবে and ক্রম)."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অআইসঈটডউ, তরদহিকন",
+    "note": "Garbled text and gibberish sequences from failed table OCR."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দচ্চচ্ছচ্চজ্জন্ভ্ঞ্জজঞ, উড্ডডগণ্ট্ঠন্ণ্যুগ্",
+    "note": "Nonsensical character combinations with no semantic meaning."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রূগ-",
+    "note": "Likely a mis-transcription of রূপ-."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অষ্ণম",
+    "note": "Likely a mis-transcription of অষ্টম."
+  }
+]

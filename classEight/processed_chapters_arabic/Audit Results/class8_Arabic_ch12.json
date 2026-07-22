@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "8-Arabic-12-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৯০১০০০৭০",
+    "note": "Non-contextual long digit string likely from OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Arabic-12-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০২৬, ৫৯১৯১",
+    "note": "Non-sequential digit strings appearing as noise in the text."
+  },
+  {
+    "chunk_id": "8-Arabic-12-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩২৮, ৩০৬৫",
+    "note": "Non-contextual digit strings likely from OCR errors."
+  },
+  {
+    "chunk_id": "8-Arabic-12-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬০৯৫৪, ৪৪৬৭৭",
+    "note": "Large number strings that do not serve a logical purpose in the text."
+  },
+  {
+    "chunk_id": "8-Arabic-12-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم مم, ১৩২",
+    "note": "Repetitive nonsensical characters and non-contextual digit strings."
+  },
+  {
+    "chunk_id": "8-Arabic-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-12-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০২৬, ১৩৬",
+    "note": "Non-contextual digit strings likely from page headers or footer noise."
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "chunk_id": "8-Sanskrit-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(রামায়ণমৃ)",
+    "note": "The character 'মৃ' is a common OCR error for the Sanskrit nasal 'ং'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কারকমৃ; ভরীঃ ভবতি",
+    "note": "Corrupted versions of 'করণঃ' and 'বৃষ্টি বর্ষিতি/বৃষ্টিঃ ভবতি'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "অন্ধজনায়",
+    "note": "Likely a corruption of 'অন্ধজন্যে'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিষবৃক্ষো২পি",
+    "note": "The '২' is a non-sequitur digit, likely an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বনমৃ্‌",
+    "note": "Should be 'বনম্'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হচ্তেন",
+    "note": "The character 'চ' is an OCR error for 'স' (হস্তেন)."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অকঙ্ঞের বিকারকশর অজ্গীর; চক্ষু্ষা",
+    "note": "Nonsensical phrase and malformed Sanskrit word."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তপসমৃ",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অশ্বীৎ; ফর্মা-১১",
+    "note": "Corrupted 'অশ্বাৎ' and a likely page number/artifact."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পঞ্জী",
+    "note": "Likely a corruption of 'পঞ্চমী'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভীব্মঃ",
+    "note": "Nonsensical character sequence, likely 'ভূষ্ম'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৩; ৪।; ১।; ৩ত।",
+    "note": "Contains several non-sequitur numbers and punctuation."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্জিগীতি",
+    "note": "Malformed sequence likely intended for 'সঙ্গীত'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪ाী; নমসր্প",
+    "note": "Malformed characters for 'চার্থী' and 'নমঃ'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ণ৭",
+    "note": "The character 'ণ' is an OCR error for a list marker."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কবিষু",
+    "note": "Likely a corruption of 'বীরেষু'."
+  },
+  {
+    "chunk_id": "8-Sanskrit-12-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

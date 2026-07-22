@@ -1,0 +1,443 @@
+[
+  {
+    "chunk_id": "8-Science-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নুটোা ]",
+    "note": "Garbled characters/symbols at the end of the paragraph."
+  },
+  {
+    "chunk_id": "8-Science-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অং:",
+    "note": "Garbled segment, likely intended to be 'অংশ' (part)."
+  },
+  {
+    "chunk_id": "8-Science-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পেস্সিল",
+    "note": "Spelling error/corruption of 'পেন্সিল' (pencil)."
+  },
+  {
+    "chunk_id": "8-Science-11-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যু\nমধ্যে",
+    "note": "Word broken by line break and garbled characters."
+  },
+  {
+    "chunk_id": "8-Science-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রশ্মি /]3\nআকো।\n/া3\n(0",
+    "note": "Garbled characters and digits likely from diagrams."
+  },
+  {
+    "chunk_id": "8-Science-11-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹\n||.\n0,11২\n৩\n414\n72014",
+    "note": "Numerous symbols and non-sequential numbers from diagrams."
+  },
+  {
+    "chunk_id": "8-Science-11-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু ব্য!",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "8-Science-11-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আলোরশ্যি",
+    "note": "Spelling error; should be 'আলোরশ্মি'."
+  },
+  {
+    "chunk_id": "8-Science-11-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অডিকিত",
+    "note": "Garbled word; likely 'অঙ্কিত'."
+  },
+  {
+    "chunk_id": "8-Science-11-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তিভর সি অংগ\nপার্ববেষণ বর",
+    "note": "Garbled words and nonsensical phrasing."
+  },
+  {
+    "chunk_id": "8-Science-11-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ন্দ\nমুদ্রাটিকে দেখতে ._ রণ",
+    "note": "Broken characters and symbols mixed into text."
+  },
+  {
+    "chunk_id": "8-Science-11-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নন",
+    "note": "Isolated, garbled character sequence."
+  },
+  {
+    "chunk_id": "8-Science-11-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অবাসতব\n---চ\nগভীরে\n_ _₹",
+    "note": "Garbled words and extraneous symbols."
+  },
+  {
+    "chunk_id": "8-Science-11-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-20",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রি",
+    "note": "Trailing character suggesting a cut-off word or sentence."
+  },
+  {
+    "chunk_id": "8-Science-11-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯০০",
+    "note": "Degree symbol likely misread as numbers."
+  },
+  {
+    "chunk_id": "8-Science-11-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0\n01৮\n00\n0০৫\n৯০০",
+    "note": "Garbled values and digits for angles/labels."
+  },
+  {
+    "chunk_id": "8-Science-11-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়।",
+    "note": "Common OCR error for the word 'হয়'."
+  },
+  {
+    "chunk_id": "8-Science-11-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রতিবিষ্ব\nপুরটু",
+    "note": "Consistent misspellings of 'প্রতিবিম্ব' and 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "8-Science-11-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রশ্মিগুচছ্ছ",
+    "note": "Nonsensical character sequence (should be 'রশ্মিগুচ্ছ')."
+  },
+  {
+    "chunk_id": "8-Science-11-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম্যাগ্রিফাইৎ\nফর্মা-১৫",
+    "note": "Garbled title and extraneous data."
+  },
+  {
+    "chunk_id": "8-Science-11-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ০-৮৮১১\nশত্তু\nহিনন",
+    "note": "Significant corruption of text and labels."
+  },
+  {
+    "chunk_id": "8-Science-11-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক্যার দরজা\nঅধিকতর উত্তল। দে ,",
+    "note": "Nonsensical sequence of words and punctuation."
+  },
+  {
+    "chunk_id": "8-Science-11-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বিষ্লি\nহিটর্ম * ২",
+    "note": "Garbled text and punctuation artifacts."
+  },
+  {
+    "chunk_id": "8-Science-11-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তরা_রঙ্গ্ব (৮ি। )",
+    "note": "Garbled title/label."
+  },
+  {
+    "chunk_id": "8-Science-11-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঈষদচ্ছ\nআলোক্গ্রাহী\nয়ায়ুতন্ত্রে",
+    "note": "Significant corruption of common scientific terms."
+  },
+  {
+    "chunk_id": "8-Science-11-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১০০০০৫ ]111111001- 3110 10-00115 ]1111017",
+    "note": "Long string of nonsensical numbers and symbols."
+  },
+  {
+    "chunk_id": "8-Science-11-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সাটার ৫শ৮",
+    "note": "Garbled text including noise characters."
+  },
+  {
+    "chunk_id": "8-Science-11-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অবচ্থায়",
+    "note": "Corrupted word (should be 'অবস্থায়')."
+  },
+  {
+    "chunk_id": "8-Science-11-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৯০০৪৮১০\nঅৎশ\nপুরটু\nত্থ্য\n৩০০১১...[more]",
+    "note": "Extensive noise and garbled words throughout."
+  },
+  {
+    "chunk_id": "8-Science-11-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪)",
+    "note": "Garbled list marker."
+  },
+  {
+    "chunk_id": "8-Science-11-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অঙক্ষিগোলকের",
+    "note": "Corrupted word (should be 'অক্ষিগোলকের')."
+  },
+  {
+    "chunk_id": "8-Science-11-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যুধ্পেশি\nভট্ট্রয়াস\nসুবেদী",
+    "note": "Multiple words garbled/misspelled."
+  },
+  {
+    "chunk_id": "8-Science-11-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এক ্বচ্চ মাধ্যম",
+    "note": "Garbled word (should be 'একটি স্বচ্ছ')."
+  },
+  {
+    "chunk_id": "8-Science-11-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-45",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তত যয মী\nচু ৰ ০ । ং ণে",
+    "note": "Garbled sequence at the end of the chunk."
+  },
+  {
+    "chunk_id": "8-Science-11-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. চু খ. ৫\nগ. ঢং ঘ. ও\nখ. ৬০ও১াঙ্গ",
+    "note": "Corrupted options for multiple choice question."
+  },
+  {
+    "chunk_id": "8-Science-11-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-11-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যুত্তিসহ",
+    "note": "Garbled word (should be 'যুক্তিসহ')."
+  },
+  {
+    "chunk_id": "8-Science-11-49",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1 চু\nবৈ\nতে\nচ\nবৃ\nক",
+    "note": "Garbled text and broken segments."
+  },
+  {
+    "chunk_id": "8-Science-11-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

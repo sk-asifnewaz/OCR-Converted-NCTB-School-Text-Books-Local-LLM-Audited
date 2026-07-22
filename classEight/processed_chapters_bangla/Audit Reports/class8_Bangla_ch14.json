@@ -1,0 +1,121 @@
+[
+  {
+    "chunk_id": "8-Bangla-14-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-8",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও 1] খ. 1ও 11",
+    "note": "The multiple-choice options are corrupted with digit noise and non-sensical bracket characters."
+  },
+  {
+    "chunk_id": "8-Bangla-14-9",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION",
+      "DIGIT_NOISE"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও11 খ. 1ও |] / গ. 11ও11 ঘ. 1,11ও111",
+    "note": "Option selection text is heavily corrupted with non-sensical symbols and digit strings."
+  },
+  {
+    "chunk_id": "8-Bangla-14-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-14-11",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION"
+    ],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ ১১:৯৪:৯৬",
+    "note": "Contains garbled characters and punctuation, likely an OCR failure of a page header or footer."
+  },
+  {
+    "chunk_id": "8-Bangla-14-12",
+    "status": "flagged",
+    "issues": [
+      "SCRIPT_CORRUPTION",
+      "DIGIT_NOISE"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪ 21\nরণ] র্ চ. 1১10\n1 যা ৰং ।\n৮ খে তু . নি\n০. ্ণাঁ ]\nনা এটি,\n1 1. * ্ঁ (, [1711772011৮ 10৮",
+    "note": "Large block of garbled characters and digits, clearly an OCR failure of a complex layout or graphic."
+  }
+]

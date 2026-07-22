@@ -1,0 +1,245 @@
+[
+  {
+    "chunk_id": "8-ICT-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্লরেডশিট",
+    "note": "Incorrect spelling of 'স্প্রেডশিট' due to OCR corruption."
+  },
+  {
+    "chunk_id": "8-ICT-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বচ্তি",
+    "note": "Context suggests 'সুবিধা' (advantage) was intended."
+  },
+  {
+    "chunk_id": "8-ICT-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "12374218,75; (€0110610 01 ১১১০৮০৫১১০০)",
+    "note": "Contains random digit strings and corrupted symbols."
+  },
+  {
+    "chunk_id": "8-ICT-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্প্রেডশিটের; ষুপ্রদশিটের; শ্লরেডশিট",
+    "note": "Repetitive corruption of the word 'স্প্রেডশিট'."
+  },
+  {
+    "chunk_id": "8-ICT-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আযাপ্লিকেশন; (২০); (০০১০১১১); চি 3 ( ) চু [1 নব াা",
+    "note": "Contains multiple types of corruption and gibberish text."
+  },
+  {
+    "chunk_id": "8-ICT-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "সেল (ণ\\[\\])",
+    "note": "Garbled characters within the parenthetical notation."
+  },
+  {
+    "chunk_id": "8-ICT-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্ল্রেডশিট",
+    "note": "Incorrect spelling of 'স্প্রেডশিট'."
+  },
+  {
+    "chunk_id": "8-ICT-4-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্পনন; ষ্প্রেডশিট",
+    "note": "Misspelling of 'সম্পন্ন' and corruption of 'স্প্রেডশিট'."
+  },
+  {
+    "chunk_id": "8-ICT-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "Should be 'দ্রুত' (fast)."
+  },
+  {
+    "chunk_id": "8-ICT-4-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/1] 1081:819-এ",
+    "note": "Non-sensical digit/symbol string representing a file path."
+  },
+  {
+    "chunk_id": "8-ICT-4-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮ নেতারা টৌকে চনৰ তক জট দ্য",
+    "note": "Segment of text is completely nonsensical/garbled."
+  },
+  {
+    "chunk_id": "8-ICT-4-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তা মрь; পে",
+    "note": "Isolated fragments of text that make no sense."
+  },
+  {
+    "chunk_id": "8-ICT-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুনির্দিষ্; নন্দন ০০-০০৮০০০১০০০১০০৭",
+    "note": "Corrupted word and a long string of nonsensical digits."
+  },
+  {
+    "chunk_id": "8-ICT-4-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol used instead of equal sign for formulas."
+  },
+  {
+    "chunk_id": "8-ICT-4-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডল | জন; ০০৮ আনা, স্ আজ পপ পপাসমপস",
+    "note": "Entire chunk is garbled text and nonsensical symbols."
+  },
+  {
+    "chunk_id": "8-ICT-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1:01)",
+    "note": "Garbled cell range representation (likely A1:D1)."
+  },
+  {
+    "chunk_id": "8-ICT-4-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১; ছু ৭ ও]",
+    "note": "End of chunk contains garbled symbols and nonsense."
+  },
+  {
+    "chunk_id": "8-ICT-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লাশান্তরদৈ [পি ন্জাচচা [দানি প্যারা",
+    "note": "String of nonsensical characters/words in the middle."
+  },
+  {
+    "chunk_id": "8-ICT-4-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-ICT-4-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11. (repeated)",
+    "note": "Roman numerals likely converted to '11' by OCR."
+  },
+  {
+    "chunk_id": "8-ICT-4-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

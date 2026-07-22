@@ -1,0 +1,371 @@
+[
+  {
+    "chunk_id": "8-Music-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ_ন 5 ।ধান্ন।পূষ পে ।ভরা5",
+    "note": "Random '5' digits and underscores are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Music-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ (প)",
+    "note": "The currency symbol ₹ is a script error in a music text."
+  },
+  {
+    "chunk_id": "8-Music-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বী5বনে",
+    "note": "Number 5 inserted into the word 'জীবনে'."
+  },
+  {
+    "chunk_id": "8-Music-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ন ৭",
+    "note": "Isolated digit '7' is likely an OCR artifact of notation."
+  },
+  {
+    "chunk_id": "8-Music-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যত্বা 1] াা",
+    "note": "Random '1]' is likely an artifact of music notation symbols."
+  },
+  {
+    "chunk_id": "8-Music-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1[]1,1া[]]1া",
+    "note": "Nonsensical character sequence from poorly rendered musical notation."
+  },
+  {
+    "chunk_id": "8-Music-4-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা০ ০০ মা০ ০০",
+    "note": "Repetitive zeros are likely OCR noise from music notation."
+  },
+  {
+    "chunk_id": "8-Music-4-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সা-স-4-1",
+    "note": "The 4-1 is an artifact in the musical notation."
+  },
+  {
+    "chunk_id": "8-Music-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গড ৭ ০৩ ৮ে৭ন। ০১- ও /\",
+    "note": "Multiple numeric artifacts in what should be notation."
+  },
+  {
+    "chunk_id": "8-Music-4-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩",
+    "note": "Random digit '3' in a musical sequence."
+  },
+  {
+    "chunk_id": "8-Music-4-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ -৯-০ ১",
+    "note": "Non-sequential numeric artifacts in transcription."
+  },
+  {
+    "chunk_id": "8-Music-4-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ন২১০২",
+    "note": "Nonsensical number string embedded in text."
+  },
+  {
+    "chunk_id": "8-Music-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৬-১৯-৯১০০ .১",
+    "note": "Repetitive, long string of digits is clear OCR noise."
+  },
+  {
+    "chunk_id": "8-Music-4-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্লগ যৃূপ",
+    "note": "Nonsensical word likely from mangled transcription of a title."
+  },
+  {
+    "chunk_id": "8-Music-4-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ কেন ০ ৩",
+    "note": "Random digits at the end of a line."
+  },
+  {
+    "chunk_id": "8-Music-4-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যাসা| ... যাঙ্গী ৯৫",
+    "note": "Digits like 95 appear as noise in notation."
+  },
+  {
+    "chunk_id": "8-Music-4-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কি৫րহকী৫৫৩৫, ও ৫",
+    "note": "Repeated digits are clear artifacts of notation rendering."
+  },
+  {
+    "chunk_id": "8-Music-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৩",
+    "note": "Isolated '03' is likely an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Music-4-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ এ এ+",
+    "note": "Numbers interspersed with characters suggest OCR noise."
+  },
+  {
+    "chunk_id": "8-Music-4-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০ ২০",
+    "note": "Repeating number pairs are likely artifacts."
+  },
+  {
+    "chunk_id": "8-Music-4-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী৫",
+    "note": "Digit 5 joined to a word is likely notation noise."
+  },
+  {
+    "chunk_id": "8-Music-4-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রং ২ ০ ৩",
+    "note": "Random digits at the end of a line."
+  },
+  {
+    "chunk_id": "8-Music-4-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ সিদ্ধ বা ৩।",
+    "note": "Random numbers like 20, 3, 6 are artifacts."
+  },
+  {
+    "chunk_id": "8-Music-4-35",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্স্লেক্ে সরলা সর্প",
+    "note": "Phrase is likely a corrupted transcription of 'তাল ও তালস্বর'."
+  },
+  {
+    "chunk_id": "8-Music-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Music-4-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ এ ... ৪ টে",
+    "note": "Random numbers in the middle of a section."
+  },
+  {
+    "chunk_id": "8-Music-4-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৩",
+    "note": "Isolated number 03 is likely an artifact."
+  },
+  {
+    "chunk_id": "8-Music-4-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরং ২০ ৩",
+    "note": "The numbers are likely artifacts from transcription."
+  },
+  {
+    "chunk_id": "8-Music-4-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ -২ ... ৫০",
+    "note": "Numbers appear to be artifact remnants."
+  },
+  {
+    "chunk_id": "8-Music-4-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

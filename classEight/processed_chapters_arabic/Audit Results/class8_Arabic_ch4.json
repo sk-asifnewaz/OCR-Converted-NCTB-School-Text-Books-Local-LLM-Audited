@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "8-Arabic-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২১২২০",
+    "note": "Number sequence likely resulting from OCR noise of list indicators or symbols."
+  },
+  {
+    "chunk_id": "8-Arabic-4-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০১৩৩৩৩৩৩৩৬ ৩৩৩৩৩৩৩৩৬৩৩৩৩৬৩৩৩৩৬৬৩৩৬৩৩০৬",
+    "note": "Long, repeating digit strings and garbled text typical of OCR errors."
+  },
+  {
+    "chunk_id": "8-Arabic-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم مم مم مممممممممم المم, ০১৮২৭৪০১৫০২",
+    "note": "Repetitive nonsensical characters and a long string of non-functional digits."
+  },
+  {
+    "chunk_id": "8-Arabic-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩১৮০২, ৯১০১০, ৭৯১০২",
+    "note": "Garbled digit strings likely resulting from misinterpretation of layout elements."
+  },
+  {
+    "chunk_id": "8-Arabic-4-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১০১৬ ০১০০১০১০০১০০১১১১০১১১১০১১১১০১১২১১১১১১-১১১১১১২০২১ ২২০",
+    "note": "Extensive sequences of numbers and gibberish text from OCR corruption."
+  },
+  {
+    "chunk_id": "8-Arabic-4-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১৮০, ০৮৪",
+    "note": "Numbers appearing in positions likely intended for layout symbols or punctuation."
+  },
+  {
+    "chunk_id": "8-Arabic-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩১৯৫১",
+    "note": "Nonsensical number string inserted in the middle of a sentence."
+  },
+  {
+    "chunk_id": "8-Arabic-4-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৩",
+    "note": "Isolated number appearing as part of a sentence, likely a transcription error."
+  }
+]

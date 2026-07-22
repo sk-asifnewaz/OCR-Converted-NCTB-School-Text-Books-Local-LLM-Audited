@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "8-BGS-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধহপযড়ৎ ও ... (3/6/12 0), আসিয়ান (/+3৮/া 4)",
+    "note": "Multiple instances of garbled text and non-sensical digit strings."
+  },
+  {
+    "chunk_id": "8-BGS-13-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাখা",
+    "note": "Likely a corrupted OCR of 'ফাও' or similar."
+  },
+  {
+    "chunk_id": "8-BGS-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[1010660 ২800115 1[106118010118] 011110161)",
+    "note": "Garbled data string instead of a recognizable name or title."
+  },
+  {
+    "chunk_id": "8-BGS-13-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[7101060 ২৪010113 00680017081] 30190000 ৭0 ৮1018]",
+    "note": "Garbled alphanumeric string where the organization's name should be."
+  },
+  {
+    "chunk_id": "8-BGS-13-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(মাছ) ও এইডস (03)",
+    "note": "Garbled terms likely intended to be 'HIV' and 'AIDS'."
+  },
+  {
+    "chunk_id": "8-BGS-13-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ000 8110 /১৪1000100176 0186811780011",
+    "note": "Garbled string where the organization's name should be."
+  },
+  {
+    "chunk_id": "8-BGS-13-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘষা10",
+    "note": "Garbled transcription of 'ফাও'."
+  },
+  {
+    "chunk_id": "8-BGS-13-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘা0",
+    "note": "Garbled transcription of 'ফাও'."
+  },
+  {
+    "chunk_id": "8-BGS-13-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চাখ1/",
+    "note": "Garbled transcription of 'ইউএনএফপিএ'."
+  },
+  {
+    "chunk_id": "8-BGS-13-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গাযাখ৮2, ... [71100 ...]",
+    "note": "Garbled transcription of 'ইউএনএফপিএ' and associated data."
+  },
+  {
+    "chunk_id": "8-BGS-13-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চঘ/0",
+    "note": "Garbled transcription of 'ফাও'."
+  },
+  {
+    "chunk_id": "8-BGS-13-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1ও মা, 1ও ঢা",
+    "note": "Garbled options with numeric noise."
+  },
+  {
+    "chunk_id": "8-BGS-13-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং ঘ",
+    "note": "Garbled transcription of 'সংস্থা'."
+  },
+  {
+    "chunk_id": "8-BGS-13-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গযব",
+    "note": "Nonsensical word likely a garbled transcription of 'কেন' or similar."
+  },
+  {
+    "chunk_id": "8-BGS-13-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢ্যাখা",
+    "note": "Garbled transcription of 'ইউএনএফপিএ'."
+  },
+  {
+    "chunk_id": "8-BGS-13-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-BGS-13-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চাখা)া",
+    "note": "Garbled transcription of 'ইউএনএফপিএ'."
+  },
+  {
+    "chunk_id": "8-BGS-13-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

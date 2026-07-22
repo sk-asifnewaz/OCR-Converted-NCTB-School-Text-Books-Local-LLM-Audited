@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "8-Work_and_life-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্কুধা",
+    "note": "Likely OCR error for 'ক্ষুধা' (hunger) due to script misrecognition."
+  },
+  {
+    "chunk_id": "8-Work_and-life-1-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1 08ম93৮ঙঠ1116)10চম1 সস্চুসীদভ শু",
+    "note": "Garbled sequence of numbers and symbols instead of meaningful Bengali text."
+  },
+  {
+    "chunk_id": "8-Work-and-life-1-42",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ট রন নে",
+    "note": "Nonsensical character sequence, likely failed OCR of 'রোবট তৈরিতে' or similar."
+  }
+]

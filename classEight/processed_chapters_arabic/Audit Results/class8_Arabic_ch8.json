@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "8-Arabic-8-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "46909 5, ৩0০০, 01909710440",
+    "note": "Multiple strings of non-functional digits interspersed in the text."
+  },
+  {
+    "chunk_id": "8-Arabic-8-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লা 2 71, পল 2, পল 2৭১",
+    "note": "Numbers appearing in positions likely intended for list markers or formatting."
+  },
+  {
+    "chunk__id": "8-Arabic-8-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৩৬৬৩৩৬৬৬... مممم مممم",
+    "note": "Repeated digit strings and nonsensical character sequences (مم)."
+  },
+  {
+    "chunk_id": "8-Arabic-8-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৩৩৩৩৬৩৩৬... ১৮০, ১০০৮০",
+    "note": "Extensive repetition of digits and nonsensical string sequences."
+  },
+  {
+    "chunk_id": "8-Arabic-8-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم مم, ১৯৮০০, ১৪৭০৮",
+    "note": "Contains a gibberish run and several instances of digit noise."
+  },
+  {
+    "chunk_id": "8-Arabic-8-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৮০, ৮৮০, ২৮৬০০, ৫১০০০",
+    "note": "Non-sequential number strings likely resulting from OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Arabic-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "+০, +১০, ০",
+    "note": "Numbers and symbols appearing as artifacts or noise in the text."
+  }
+]

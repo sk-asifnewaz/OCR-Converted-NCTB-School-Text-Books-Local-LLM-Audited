@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "8-Bangla_grammar-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্ৰন্যাত্যক শব্দ, অনুকার শব্দ ও শব্দদ্বৈত",
+    "note": "The word 'ধ্ৰন্যাত্যক' is a corrupted OCR of 'ধ্বন্যাত্যক'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্যন্যাতক শব্দ",
+    "note": "The word 'ধ্যন্যাতক' is a corrupted OCR of 'ধ্বন্যাত্যক'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝমঝম করে বৃষ্ণি নামল।",
+    "note": "'বৃষ্ণি' is likely a corrupted OCR of 'বৃষ্টি'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলা ভাষায়",
+    "note": "'বাৎলা' is a corrupted OCR of 'বাংলা'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বকচ্তা বদ্তা",
+    "note": "'বকচ্তা বদ্তা' is a nonsensical sequence, likely an OCR error."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "The number '৮৪' appears to be an extraneous page number."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সমফ্টিকে",
+    "note": "'সমফ্টিকে' is a corrupted OCR of 'সম্মিলিত' or similar."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্++ণ ্তৃণ, ক্ণকরল্ঞ্চ:বঞ্চ, ক+ললস্ক্ল: ক্লান্ত",
+    "note": "Severe corruption of several phrases/words."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এল 5 ফুলেল",
+    "note": "'৫' is a common OCR error for the vowel sign 'ে'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শীতার্ত, দ্পু + হতি",
+    "note": "Garbled OCR of compound word examples."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-5-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

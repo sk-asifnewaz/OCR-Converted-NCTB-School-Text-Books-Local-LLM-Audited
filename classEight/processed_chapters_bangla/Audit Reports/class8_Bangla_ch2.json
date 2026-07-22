@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "8-Bangla-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla-2-3",
+    "status": "flagged",
+    "issues": [
+      "DIGIT_NOISE",
+      "GIBBERISH_RUN"
+    ],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৮১ ৬০৯৮৮ ৬৮ ০ ্প\n৬!\n.\nডল\nএন\n“১\nত্য\nরা সস\"\nঙ\nফর্মা-১০",
+    "note": "Contains a string of random digits and garbled character fragments."
+  },
+  {
+    "chunk_id": "8-Bangla-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

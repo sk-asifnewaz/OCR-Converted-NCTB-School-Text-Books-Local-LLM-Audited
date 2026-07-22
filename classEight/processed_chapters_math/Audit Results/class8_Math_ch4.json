@@ -1,0 +1,776 @@
+[
+  {
+    "chunk_id": "8-Math-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গ.সা.গড.",
+    "note": "Likely OCR error for গ.সা.গু. (GCD)."
+  },
+  {
+    "chunk_id": "8-Math-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫+ ১)?",
+    "note": "Mathematical variables are corrupted into digits/punctuation."
+  },
+  {
+    "chunk_id": "8-Math-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "25-৫l-4700 47 ৫4 47 02৭৮",
+    "note": "Severe corruption of mathematical expressions."
+  },
+  {
+    "chunk_id": "8-Math-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫-/)²²-৫l-20৮",
+    "note": "Math formula corrupted into nonsensical characters."
+  },
+  {
+    "chunk_id": "8-Math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(% + ৫) + ৮)",
+    "note": "Algebraic symbols replaced by punctuation/digits."
+  },
+  {
+    "chunk_id": "8-Math-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২৪৭ ০২",
+    "note": "Equations are unreadable due to symbol replacement."
+  },
+  {
+    "chunk_id": "8-Math-4-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪%- 7)",
+    "note": "Algebraic term corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৮ - ৬০",
+    "note": "Algebraic terms replaced by digits."
+  },
+  {
+    "chunk_id": "8-Math-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩। ৫+)ল-৭ এবং ৫৮ -৯",
+    "note": "Algebraic expressions are corrupted into digit strings."
+  },
+  {
+    "chunk_id": "8-Math-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫%:+ 8",
+    "note": "Formulaic expressions are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৮- ৪৫",
+    "note": "Algebraic term corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৮+৫)",
+    "note": "Algebraic term corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৫০০+ 77৭",
+    "note": "Severe mathematical formula corruption."
+  },
+  {
+    "chunk_id": "8-Math-4-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫+ ট) :",
+    "note": "Mathematical terms corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১৪৭ ০২",
+    "note": "Formulae are garbled by digit replacement."
+  },
+  {
+    "chunk_id": "8-Math-4-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২:47 3)",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১।\n৩ত।\n৪।\n৫।",
+    "note": "List items are empty/missing content."
+  },
+  {
+    "chunk_id": "8-Math-4-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫%৮+০১৫",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ধ)৭%উ+২+৭২",
+    "note": "Formulae are heavily corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫৩২ - ৩%-২)",
+    "note": "Algebraic terms are garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫+৩)(৫+৪)",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৪ ৫",
+    "note": "Algebraic terms corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(%ন-১৮০)",
+    "note": "Algebraic terms are garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫৩টুু-৯)",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫+ ৮) 5৫ + ৩৫৮",
+    "note": "Formulae are mangled by digit substitution."
+  },
+  {
+    "chunk_id": "8-Math-4-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩%+ ২)",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7? -_ 2৭",
+    "note": "Algebraic term is mangled."
+  },
+  {
+    "chunk_id": "8-Math-4-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ভর",
+    "note": "Word 'তিন' is garbled as '৩ভর'."
+  },
+  {
+    "chunk_id": "8-Math-4-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৭।",
+    "note": "Algebraic expression corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৫ - ৮৮",
+    "note": "Algebraic term corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৮০৪",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫+ ১",
+    "note": "Algebraic terms corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৮১",
+    "note": "Algebraic term garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৩+---৩)",
+    "note": "Algebraic expression corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫+ ৮)",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৬--১%৩",
+    "note": "Algebraic expression is mangled."
+  },
+  {
+    "chunk_id": "8-Math-4-39",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ত।\n৪।\n৫।",
+    "note": "List items are empty/garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫%৮+০১৫",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫১+০২)",
+    "note": "Algebraic terms are garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।সো",
+    "note": "Text 'অস্তিত্ব' or similar is corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।৮, ৩",
+    "note": "Algebraic terms corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৮",
+    "note": "Algebraic terms corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১৪৭",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৮১",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৮৮",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩।২",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৯",
+    "note": "Algebraic coefficients garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৮",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুত্র৮",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯%৯",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ভর",
+    "note": "Word 'তিন' garbled as '৩ভর'."
+  },
+  {
+    "chunk_id": "8-Math-4-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫+৭)",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-4-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১৪%০১",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩১৪%৫",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯২১৮%০",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯২১৮%০",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩১৪৭",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১- ৮৫",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৪৮০",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১৪০",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৯৮",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩৭",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ম0-5",
+    "note": "Algebraic term garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-80",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুত্রাবলিতে",
+    "note": "Context implies it should be 'সূত্রাবলি' but is corrupted."
+  },
+  {
+    "chunk_id": "8-Math-4-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৬৮১৯১৫১",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-82",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৯",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-83",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫৪৭১০৯৭৭২৫",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-84",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুত্র,গসা,গু",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-85",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  },
+  {
+    "chunk_id": "8-Math-4-86",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Algebraic terms garbled."
+  }
+]

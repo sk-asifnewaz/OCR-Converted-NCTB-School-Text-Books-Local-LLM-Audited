@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "8-Arabic-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7 7 হ%*",
+    "note": "Contains non-sequential numbers and a corrupted symbol/character sequence."
+  },
+  {
+    "chunk_id": "8-Arabic-9-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8553, ৬১৩০",
+    "note": "Random digit strings likely resulting from OCR noise in the Arabic text."
+  },
+  {
+    "chunk_id": "8-Arabic-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০৯, ৫০, ৩০০০, ০৯৩৪, ০১৯০৯, ৬",
+    "note": "Multiple instances of non-contextual digits interspersed throughout the text."
+  },
+  {
+    "chunk_id": "8-Arabic-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২, ৩, ৬৮০",
+    "note": "Non-sequential digit strings that appear to be OCR artifacts."
+  }
+]

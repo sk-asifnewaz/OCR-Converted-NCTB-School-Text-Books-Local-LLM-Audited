@@ -1,0 +1,425 @@
+[
+  {
+    "chunk_id": "8-Bangla_grammar-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উন্তি",
+    "note": "Likely a malformed word or tail end of a previous line."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রতার্ব",
+    "note": "Word is garbled; likely should be 'প্রতিবাদ' or similar."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীচা, ৮৪",
+    "note": "'কীচ' is a typo for 'কাঁচা'; '৮৪' is mangled numbering."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৭৬ তলা ব্যাকরণ ও নির্মিতি",
+    "note": "Header/footer artifact included in the text chunk."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৯৩, শব্দার্থ ৭৭",
+    "note": "Page number and section markers injected by OCR."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৮ বাংলা ব্যাকরণ ও নির্মিতি, সং্রহ: :",
+    "note": "Header noise and double punctuation/missing character."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরিপৰ্, গ্ব",
+    "note": "'পরিপৰ্' is mangled; 'গ্ব' is a dangling fragment."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মজ্ঞাল",
+    "note": "Word is garbled; likely 'মঞ্জিল' or similar."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গীয়ের",
+    "note": "Word 'গীয়ের' is likely a misread of another word."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংযত",
+    "note": "Garbled word; likely 'সংক্ষিপ্ত' or similar."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শব্দার্থ ৮১",
+    "note": "Header/footer artifact included in the text."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বচিতটি, বৈশ্বানর",
+    "note": "Likely garbled words from a literary passage."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গর হব $8 ইউর কব বুর3 বর এসব ৬৪৪3",
+    "note": "Extremely garbled numeric/text string from another page."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-25",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪। \n১৫। \n১৬।",
+    "note": "Content ends abruptly with a list of numbers."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হংসপঙজিধি, পাখিসব",
+    "note": "Mangled words and missing spaces in folk poetry."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফ্ল্টধ",
+    "note": "Garbled word; likely 'রীতি' or similar."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সর্বণ",
+    "note": "Should be 'স্বর্ণ' (gold)."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লব \n শব্দার্থ",
+    "note": "Footer/header artifact."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মৃত্মু",
+    "note": "Garbled word; should be 'মৃত্যু'."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-41",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তামার বিষ",
+    "note": "Repeated content appears at the end of this chunk and beginning of next."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-42",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তামার বিষ",
+    "note": "Duplicate of 'তামার বিষ' from preceding chunk."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ-্য-ব-র-ল",
+    "note": "Garbled word resulting from failed character recognition."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ-য-ব-র-ল",
+    "note": "Garbled word resulting from failed character recognition."
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Bangla_grammar-10-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুগল্ধ, ৩০০৬৫৬৫০৪৫৫ ৬৫৫৬৫৬৫৬৬৩৬৩৬",
+    "note": "'সুগল্ধ' is a typo; the numbers are clearly non-contextual noise."
+  }
+]

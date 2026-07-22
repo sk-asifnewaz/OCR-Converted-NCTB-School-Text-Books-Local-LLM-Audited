@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "8-Pali-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "170'",
+    "note": "Non-contextual digit string likely from a page number or OCR error."
+  },
+  {
+    "chunk_id": "8-Pali-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹, €",
+    "note": "Currency symbols are not part of the Bengali/Pali script context."
+  },
+  {
+    "chunk_id": "8-Pali-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭, ₹",
+    "note": "Digit and currency symbol are out of context."
+  },
+  {
+    "chunk_id": "8-Pali-9-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০'",
+    "note": "Non-contextual digit/symbol combination."
+  },
+  {
+    "chunk_id": "8-Pali-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€, ₹, %, 2",
+    "note": "Currency symbols and digits used as punctuation are noise."
+  },
+  {
+    "chunk_id": "8-Pali-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭, ১০১১১১৮৮৬",
+    "note": "Random numbers and digit sequences are not part of the sentence."
+  },
+  {
+    "chunk_id": "8-Pali-9-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol is an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-9-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-9-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "8-Pali-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-8-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-8-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তে ₹ পচ্চতে",
+    "note": "The currency symbol ₹ is a common OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-8-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তে ল পীযতে",
+    "note": "The character 'ল' appears to be an OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-8-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তে হ সীযতে",
+    "note": "The 'হ' character is likely an artifact of punctuation."
+  },
+  {
+    "chunk_id": "8-Pali-8-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তে 5 বসীযতে",
+    "note": "The digit '5' is out of place in the formula."
+  },
+  {
+    "chunk_id": "8-Pali-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€/বিচ্‌+য",
+    "note": "The Euro symbol is a non-contextual script corruption."
+  },
+  {
+    "chunk_id": "8-Pali-8-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Pali-8-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০৬৫৪০%৫)",
+    "note": "The percentage sign and sequence are likely OCR noise."
+  },
+  {
+    "chunk_id": "8-Pali-8-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€/ভিদ",
+    "note": "The Euro symbol is a non-contextual script corruption."
+  },
+  {
+    "chunk_id": "8-Pali-8-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টি ₹\nজিঘচ্ছতি",
+    "note": "The currency symbol ₹ is a common OCR artifact."
+  },
+  {
+    "chunk_id": "8-Pali-8-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টি 5 তিতিক্খতি; ... টি ₹ গিগিংসতি",
+    "note": "The digit 5 and symbol ₹ are OCR noise."
+  },
+  {
+    "chunk_id": "8-Pali-8-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গম্ম্ 5",
+    "note": "The digit '5' is a likely noise artifact."
+  },
+  {
+    "chunk_id": "8-Pali-8-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্ তর বট -/॥শ",
+    "note": "Non-sensical text, likely a corrupted page header."
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "8-Sanskrit-13-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹-",
+    "note": "The currency symbol is an OCR error for a dash or punctuation."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "2",
+    "note": "Standalone digit '2' is likely an artifact in the sentence."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "5",
+    "note": "Standalone digit '5' is likely an artifact in the sentence."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনուր', অনক্িকুম্য",
+    "note": "Garbled characters and odd punctuation in Sanskrit terms."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹-",
+    "note": "The currency symbol is an OCR error for a dash."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীটেন দফষ্টঃ ₹",
+    "note": "Multiple instances of garbled text and currency symbol artifacts."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সম্মাহারঃ ু",
+    "note": "Trailing vowel sign 'ু' is a common OCR artifact."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চ্",
+    "note": "Garbled ligature or extra mark in the word 'চন্দ্রাঃ' context."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "2",
+    "note": "Standalone digit '2' is likely an artifact in the text."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনক্ককিম্য",
+    "note": "Garbled Sanskrit term."
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-13-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

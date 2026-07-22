@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "8-Arabic-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৮৮৮-৪ (০০৯৬ ৩৫) ৩৬৫০ ৬৬",
+    "note": "Multiple segments of non-sequential numbers likely from OCR noise or layout markers."
+  },
+  {
+    "chunk_id": "8-Arabic-7-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০২২২২২২০",
+    "note": "A long, repeated sequence of numbers that does not belong in the text."
+  },
+  {
+    "chunk_id": "8-Arabic-7-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৬৬ কও ওত, ৫০০৫৯",
+    "note": "Contains repeated character sequences and non-functional digit strings."
+  },
+  {
+    "chunk_id": "8-Arabic-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত৩৩৩৬৩৩৬৩৬ ৩৩ কত ৩৬৬ ওত ৬ ওত",
+    "note": "Repetitive nonsensical characters and digit-heavy gibberish from OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Arabic-7-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم مم, ১১০৭",
+    "note": "Contains a gibberish run of characters and digit noise."
+  },
+  {
+    "chunk_id": "8-Arabic-7-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১৮০, ৮৪, ০২১০১৯০৫৭১",
+    "note": "Strings of digits interspersed in text likely from layout noise."
+  },
+  {
+    "chunk_id": "8-Arabic-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-7-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩, ২৯, ২২৯, ৬০০, ৯৪৬",
+    "note": "Isolated numbers embedded in Arabic text likely from OCR artifacts."
+  },
+  {
+    "chunk_id": "8-Arabic-7-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬০৩০১, ০০০৬, ২০২৬",
+    "note": "Non-contextual digit strings likely from layout or page markers."
+  }
+]

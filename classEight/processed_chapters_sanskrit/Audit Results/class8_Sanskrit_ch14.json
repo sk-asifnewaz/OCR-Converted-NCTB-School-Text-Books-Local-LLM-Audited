@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "8-Sanskrit-14-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কঃ + চিত্ত 2 কশ্চিৎ",
+    "note": "The digit '2' is likely an OCR misinterpretation of a punctuation mark."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অ+আর\nনীল + অম্বরমৃ",
+    "note": "Garbled formula notation for Sanskrit rules."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তুস্ব ই-কার",
+    "note": "Expected 'হস্ব' (Hassva); 'তুস্ব' is a clear transcription error."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ+উস্ড\nমহা ল ইন্দ্রঃ",
+    "note": "Malformed formulas and 'ল' as a separator artifact."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গাঙ্গা 7 উদকম্‌",
+    "note": "The digit '7' is an OCR error for a dash or plus sign."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অ+খলন্অর্‌\n২ মহৈশ্বর্যমৃ",
+    "note": "Malformed formula and digit noise from a separator."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তূস্ব ই-কার",
+    "note": "Expected 'হস্ব'; 'তুস্ব' is a clear corruption."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাপী + এষা লহ বাপ্যেষা",
+    "note": "The 'ল' is likely a separator character misread as a letter."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ+আল.ল্উ- স্থানেব্‌",
+    "note": "Garbled formula sequence from poor OCR of Sanskrit symbols."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভৌ + উকঃল্ভাবুকঃ",
+    "note": "The 'ল' is a separator artifact."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্+চল্চ্চ\nদৃ্+চল্চ্চ",
+    "note": "Significantly garbled formula text."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্+হলদ্ধ\nদ্+হস্দ্থ",
+    "note": "Highly garbled formula notation."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু-কার",
+    "note": "Likely a misread of 'ঋ-কার' (Ri-kar)."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্ণকশল্চ্চ\nত듦",
+    "note": "Garbled formula text."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নিচ্‌\nসম্মাট্‌",
+    "note": "Garbled Sanskrit terms."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ফর্মা-১৩",
+    "note": "Likely a page footer or series number."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪+চলস্চ\n৪£+ছলসল্স্ছ\n৪£+টস্ফ্ট",
+    "note": "Severe OCR corruption and digit noise from symbols."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চম্ফু +৭ রোগঃ",
+    "note": "The '7' is an OCR error for a separator symbol."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুঃ + করমৃ\nচতুঃ + পথমৃ",
+    "note": "The 'র' is a common OCR error for the Sanskrit -m suffix."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুঃ + করমৃ\nচতুঃ + পথমৃ",
+    "note": "The 'র' is a common OCR error for the Sanskrit -m suffix."
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Sanskrit-14-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

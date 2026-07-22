@@ -1,0 +1,335 @@
+[
+  {
+    "chunk_id": "8-Home_science-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গৃহে রোগীর শুধুযা",
+    "note": "Corrupted word: 'শুধুযা' should be 'শুশ্রূষা'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কোলাহলমুত্ত, স্বাস্থ্যকর... উপযুক্ত শুশ্যা",
+    "note": "Corrupted words: 'কোলাহলমুত্ত' (মুক্ত) and 'শুশ্যা' (শুশ্রূষা)."
+  },
+  {
+    "chunk_id": "8-Home_science-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাজসরগঞ্জাম... নির্দিষ্ স্থানে",
+    "note": "Corrupted words: 'সাজসরগঞ্জাম' (সাজসরঞ্জাম) and 'নির্দিষ্' (নির্ধারিত/নির্দিষ্ট)."
+  },
+  {
+    "chunk_id": "8-Home_science-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গুরুতু... রন\n৬)\nরো\nগৃহে রোগীর শুশ্রষা ২৫",
+    "note": "Corrupted 'গুরুত্ব' and 'শুশ্রূষা'. Random characters/numbers from layout artifacts."
+  },
+  {
+    "chunk_id": "8-Home_science-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মলমৃূত্রাদি যথাসম্চ্ব",
+    "note": "Corrupted word: 'যথাসম্চ্ব' should be 'যথাসাধ্য'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কিন্তু ত্র বা যেকোনো",
+    "note": "Corrupted word: 'ত্র' is likely a fragment of another word."
+  },
+  {
+    "chunk_id": "8-Home_science-3-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৪ ডিগ্রি থেকে ১০৮ ডিগ্রি",
+    "note": "Body temperature in Fahrenheit should be 98, not 94."
+  },
+  {
+    "chunk_id": "8-Home_science-3-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "%ঁ\nও)\nরব\nগৃহে রোগীর শুশুষা ২৭",
+    "note": "Garbled characters and corrupted 'শুশ্রূষা'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধমনির এই জস্ফীতির",
+    "note": "Corrupted word: 'জস্ফীতির' should be 'স্ফীতির'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্বীসপ্রশ্বীসের",
+    "note": "Corrupted word: 'শ্বীসপ্রশ্বীসের' should be 'শ্বাস-প্রশ্বীসের'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্বীসপ্রস্বাসের",
+    "note": "Corrupted word: 'শ্বীসপ্রস্বাসের' should be 'শ্বাস-প্রশ্বীরসের'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুট আরোগ্য লাভের",
+    "note": "Corrupted word: 'দুট' likely intended to be 'দ্রুত'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতু দিতে হবে",
+    "note": "Corrupted word: 'গুরুতু' should be 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্যালরিবহুল",
+    "note": "Corrupted word: 'ক্যালরিবহুল' should be 'ক্যালরিবহুল'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হদ্রোগে",
+    "note": "Corrupted word: 'হদ্রোগে' should be 'হৃদরোগে'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-22",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেদিকে লক্ষ",
+    "note": "Sentence ends abruptly; 'লক্ষ্য' split by page/chunk break."
+  },
+  {
+    "chunk_id": "8-Home_science-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ওঁষধের",
+    "note": "Corrupted word: 'ওঁষধের' should be 'ওষুধের'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাদনার",
+    "note": "Corrupted word: 'বাদনার' likely meant 'বাটির'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেবা-শুশ্ষা করতে হবে",
+    "note": "Corrupted word: 'শুশ্ষা' should be 'শুশ্রূষা'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুশ্যায়... ৬৫-৮০ বার\n||. আলো-বাতাসপূর্ণ",
+    "note": "Corrupted word 'শুশ্রূষায়' and noise from other sections."
+  },
+  {
+    "chunk_id": "8-Home_science-3-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সঞংকামক",
+    "note": "Garbled word: 'সঞংকামক' likely intended as 'সংক্রমণযোগ্য'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Home_science-3-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ধর",
+    "note": "Corrupted word: 'স্ধর' should be 'সুস্থ'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বর মাপার জন্য",
+    "note": "Corrupted word: 'স্বর' likely intended as 'সুস্থ'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিণয়ের",
+    "note": "Corrupted word: 'নিণয়ের' should be 'নির্ণয়ের'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত... গুরুত্বু",
+    "note": "Corrupted words: 'দুত' (দ্রুট) and 'গুরুত্বু' (গুরুত্ব)."
+  },
+  {
+    "chunk_id": "8-Home_science-3-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাদকাসতন্তি",
+    "note": "Corrupted word: 'মাদকাসতন্তি' should be 'মাদকাসক্তি'."
+  },
+  {
+    "chunk_id": "8-Home_science-3-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

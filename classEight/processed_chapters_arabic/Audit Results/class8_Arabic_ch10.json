@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "8-Arabic-10-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭২৩৫",
+    "note": "A non-contextual string of digits likely resulting from OCR artifacts or page numbering."
+  },
+  {
+    "chunk_id": "8-Arabic-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Arabic-10-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৩৬৬৩৩৬৬৬...৬৬৬০৬৬৬৬০৬৬৬০৬৬, ১৮৪৭ ৬০৯ ও ০০০০২ ০-৭%১৯০২-৭",
+    "note": "Contains a long repetitive digit sequence and broken numerical strings."
+  },
+  {
+    "chunk_id": "8-Arabic-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০০৩৬৩৬...০৬৬৬০৬৬৬০৬৬০, ৩৭৮০৮, ৬৬০৪৮, ১৭৮৩ ১১৬৫",
+    "note": "Large block of repeated digits and several instances of nonsensical digit sequences."
+  },
+  {
+    "chunk_id": "8-Arabic-10-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০১১ ১%- ২০, ১১১৩ ২১১৮১",
+    "note": "Several non-contextual digit sequences likely from layout noise."
+  },
+  {
+    "chunk_id": "8-Arabic-10-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১৪৭২, ২০৫৭, ২৩১ ৫",
+    "note": "Non-sequential digit strings likely from OCR errors in list markers or page headers."
+  },
+  {
+    "chunk_id": "8-Arabic-10-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০%৫, ২০৮৮৪, ৮৮০, ৬৮, ৩৫৫, ১৮১১০, ১৩৭ ২০৮১০",
+    "note": "Extensive digit noise throughout the chunk, likely from poorly OCR'd layout symbols."
+  },
+  {
+    "chunk_id": "8-Arabic-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০০ ৪, ২০৫",
+    "note": "Non-contextual digits likely from page headers or footer noise."
+  }
+]

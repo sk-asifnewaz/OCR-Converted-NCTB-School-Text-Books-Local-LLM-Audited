@@ -1,0 +1,722 @@
+[
+  {
+    "chunk_id": "8-Science-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুষ্ি, পুষ্ণিমান",
+    "note": "Words appear to be corrupted versions of 'পুষ্টি' and 'পুষ্টিমান'."
+  },
+  {
+    "chunk_id": "8-Science-13-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Repeated corruption of the word 'শক্তি' (energy)."
+  },
+  {
+    "chunk_id": "8-Science-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, পুষ্ণি",
+    "note": "Corrupted words 'শক্তি' and 'পুষ্টি'."
+  },
+  {
+    "chunk_id": "8-Science-13-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, পু্ষ্কি",
+    "note": "Corrupted words 'শক্তি' and 'পুষ্টি'."
+  },
+  {
+    "chunk_id": "8-Science-13-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নির্তর করে এঁ",
+    "note": "Corrupted phrasing of 'নির্ভর করে এই'."
+  },
+  {
+    "chunk_id": "8-Science-13-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted word 'শক্তি'."
+  },
+  {
+    "chunk_id": "8-Science-13-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted word 'শক্তি'."
+  },
+  {
+    "chunk_id": "8-Science-13-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, শর্বরা",
+    "note": "Corrupted words 'শক্তি' and likely 'শর্করা'."
+  },
+  {
+    "chunk_id": "8-Science-13-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্পনн, শত্তি",
+    "note": "Non-standard characters in 'উৎপন্ন' and corrupted word 'শক্তি'."
+  },
+  {
+    "chunk_id": "8-Science-13-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৬০১৫৪.৬)",
+    "note": "Malformed calculation/number string."
+  },
+  {
+    "chunk_id": "8-Science-13-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11%া081%0০1018)",
+    "note": "Garbled numbers and symbols in parentheses."
+  },
+  {
+    "chunk_id": "8-Science-13-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গল্ধ",
+    "note": "Corrupted word 'গন্ধ' (smell)."
+  },
+  {
+    "chunk_id": "8-Science-13-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডাল দুধ",
+    "note": "Garbled text/noise in the middle of a sentence."
+  },
+  {
+    "chunk_id": "8-Science-13-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উপর্গ ০ স্্‌ ৬ম, মাছ মাহ",
+    "note": "Nonsensical character strings and corrupted word 'মাছ' repeats."
+  },
+  {
+    "chunk_id": "8-Science-13-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "করছ",
+    "note": "Corrupted 'করছি' (doing)."
+  },
+  {
+    "chunk_id": "8-Science-13-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(13511101101)",
+    "note": "Garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "8-Science-13-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(২1313511115)",
+    "note": "Garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "8-Science-13-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্ব্স",
+    "note": "Corrupted word 'হ্রাস' or similar."
+  },
+  {
+    "chunk_id": "8-Science-13-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্পনн, গ্নিসারল, গ্লনিসারল",
+    "note": "Corrupted words for 'উৎপন্ন', 'গ্লিসারিন' or similar."
+  },
+  {
+    "chunk_id": "8-Science-13-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মনহ, ম্েনহ",
+    "note": "Corrupted words for 'মেদ' (fat)."
+  },
+  {
+    "chunk_id": "8-Science-13-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মেন꼐হবস্ুল",
+    "note": "Significant corruption of a phrase."
+  },
+  {
+    "chunk_id": "8-Science-13-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢি, ঘি",
+    "note": "Truncated or garbled words."
+  },
+  {
+    "chunk_id": "8-Science-13-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, উত্পনн",
+    "note": "Corrupted words for 'শক্তি' and 'উৎপন্ন'."
+  },
+  {
+    "chunk_id": "8-Science-13-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০1191030011177)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "8-Science-13-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০-৪৯, ৩০",
+    "note": "Mixed digits and potentially misread numerals in a table."
+  },
+  {
+    "chunk_id": "8-Science-13-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিনসম্হ",
+    "note": "Corrupted word 'ভিটামিনসমূহ'."
+  },
+  {
+    "chunk_id": "8-Science-13-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্লেগ্মাঝিল্লি, সংক্বামক",
+    "note": "Corrupted terms for 'কোষঝিল্লি' and 'সংক্রমণকারী'."
+  },
+  {
+    "chunk_id": "8-Science-13-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্কান্ত",
+    "note": "Corrupted word, likely 'অক্ষম' or similar."
+  },
+  {
+    "chunk_id": "8-Science-13-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১০10101101811018)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "8-Science-13-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিশ্লিষ",
+    "note": "Corrupted word 'বিশ্লিষ্ট'."
+  },
+  {
+    "chunk_id": "8-Science-13-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্তুধা, মনয়ুতন্ত্রকে",
+    "note": "Corrupted words 'সুস্থতা' and 'স্নায়ুতন্ত্রকে'."
+  },
+  {
+    "chunk_id": "8-Science-13-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রত্তকণিকা",
+    "note": "Corrupted word 'রক্তকণিকা'."
+  },
+  {
+    "chunk_id": "8-Science-13-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভীদ্ধাকপি",
+    "note": "Corrupted word 'বাঁধাকপি'."
+  },
+  {
+    "chunk_id": "8-Science-13-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীত, তৃক",
+    "note": "Corrupted words 'দাঁত' and 'ত্বক'."
+  },
+  {
+    "chunk_id": "8-Science-13-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্রিত্পীণ্ডের",
+    "note": "Corrupted word 'হৃদপিণ্ডের'."
+  },
+  {
+    "chunk_id": "8-Science-13-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুর্গ",
+    "note": "Corrupted word 'দুগ্ধ'."
+  },
+  {
+    "chunk_id": "8-Science-13-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রথোম্বিন, প্রধোচ্বিন, বীধতে",
+    "note": "Corrupted words 'প্রthrombin', 'প্রথম' and 'বাধ্যতে'."
+  },
+  {
+    "chunk_id": "8-Science-13-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রত্তক্ষরণ",
+    "note": "Corrupted word 'রক্তক্ষরণ'."
+  },
+  {
+    "chunk_id": "8-Science-13-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "য্নায়ু",
+    "note": "Corrupted word 'স্নায়ু'."
+  },
+  {
+    "chunk_id": "8-Science-13-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্ূমশ",
+    "note": "Corrupted word 'ক্ষুদ্র'."
+  },
+  {
+    "chunk_id": "8-Science-13-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রক্তাঙ্পতা",
+    "note": "Corrupted word 'রক্তাল্পতা'."
+  },
+  {
+    "chunk_id": "8-Science-13-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "Corrupted word 'দ্রুত'."
+  },
+  {
+    "chunk_id": "8-Science-13-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীত",
+    "note": "Corrupted word 'দাঁত'."
+  },
+  {
+    "chunk_id": "8-Science-13-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শস্য",
+    "note": "Corrupted term for 'সাশ্রয়ী'."
+  },
+  {
+    "chunk_id": "8-Science-13-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শুষকতা",
+    "note": "Corrupted word."
+  },
+  {
+    "chunk_id": "8-Science-13-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্নাযুকোষ",
+    "note": "Corrupted word 'স্নায়ুকোষ'."
+  },
+  {
+    "chunk_id": "8-Science-13-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাস্থ্য",
+    "note": "Corrupted word 'স্বাস্থ্য'."
+  },
+  {
+    "chunk_id": "8-Science-13-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তর্ভৃটন",
+    "note": "Corrupted word 'অন্তর্ভুক্তি'."
+  },
+  {
+    "chunk_id": "8-Science-13-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্ভিনোব",
+    "note": "Corrupted word 'অভিনব'."
+  },
+  {
+    "chunk_id": "8-Science-13-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ",
+    "note": "Corrupted word 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "8-Science-13-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মেহপদার্থ",
+    "note": "Corrupted word 'মেদ পদার্থ'."
+  },
+  {
+    "chunk_id": "8-Science-13-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্বি, ছঘ",
+    "note": "Corrupted word 'অস্থি' and trailing noise."
+  },
+  {
+    "chunk_id": "8-Science-13-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Science-13-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ ৯ তত »",
+    "note": "Garbled text/symbol noise."
+  },
+  {
+    "chunk_id": "8-Science-13-80",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০ ও ৮",
+    "note": "Dangling digits at the end of chunk."
+  }
+]
