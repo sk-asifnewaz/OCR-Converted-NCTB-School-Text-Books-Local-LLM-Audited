@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "7-Arabic-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০১৫ ৫. ঠা\n৬ ‏كشرةه تا‎ ক তত \n০? ০ - ০০ ও ০০7",
+    "note": "Multiple instances of non-contextual numbers and garbled script fragments."
+  },
+  {
+    "chunk_id": "7-Arabic-7-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ ১ ০ ৯ ও ৭ ৮ পা\n০১৫",
+    "note": "Random strings of digits and numbers appear out of context."
+  },
+  {
+    "chunk_id": "7-Arabic-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৮০০",
+    "note": "The number 1800 is likely an OCR error for a word or phrase."
+  },
+  {
+    "chunk_id": "7-Arabic-7-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬১১২",
+    "note": "The number sequence 6112 is not relevant to the lesson's content."
+  },
+  {
+    "chunk_id": "7-Arabic-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

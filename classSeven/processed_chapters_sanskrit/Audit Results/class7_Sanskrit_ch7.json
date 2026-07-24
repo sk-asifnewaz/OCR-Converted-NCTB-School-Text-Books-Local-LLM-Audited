@@ -1,0 +1,245 @@
+[
+  {
+    "chunk_id": "7-Sanskrit-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লিঙ্গপ্রকরণমৃ, স্ত্রীলিজঙ্জা, ক্লীবলিঙ্ঞা",
+    "note": "Garbled characters in gender terms (পুংলিঙ্গ, স্ত্রীলিঙ্গ, ক্লীবলিঙ্গ)."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুংলিজ্গ, স্ত্রীলিঙ্জা, ২। ১। ২।",
+    "note": "Garbled gender terms and extraneous digit strings."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পুংলিজ্গ",
+    "note": "Garbled 'পুংলিঙ্গ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সতরীলিঙ্গ, গগনমৃ্‌",
+    "note": "Corrupted 'স্ত্রীলিঙ্গ' and trailing artifact in nouns."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কৃত",
+    "note": "Truncated word 'সংস্কৃত' at the end of chunk."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বনমৃ্‌, নয়ন্মৃ্‌",
+    "note": "Repeated artifact 'মৃ' likely from Sanskrit 'm'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পুংলিজ্গ",
+    "note": "Garbled 'পুংলিঙ্গ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭১২৩)",
+    "note": "Nonsensical number string instead of calculation or count."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বিককন, চ্ত্থী, পঞ্মী, য্ষ্ঠী",
+    "note": "Multiple corrupted terms for dual/ordinal counts."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বিককন, ৪্থী, ঙস্তী",
+    "note": "Garbled terms for dual and ordinal numbers."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বিককন, ৪্থী",
+    "note": "Garbled terms for dual and ordinal numbers."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বিকন, ত্যা, ৪্থী",
+    "note": "Garbled terms for dual and ordinal numbers."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বিককন, ত্যা, ৪্থী",
+    "note": "Garbled terms for dual and ordinal numbers."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্য๋า",
+    "note": "Corrupted 'কন্যা' (girl)."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দে হেলা], স্যর, ড্রব্য",
+    "note": "Garbled artifacts and corrupted 'দ্রষ্টব্য'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বিককন, ত্যা, ৪্থী",
+    "note": "Garbled terms for dual and ordinal numbers."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্ণে",
+    "note": "Garbled character 'ত্ণে' used in multiple places."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-23",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চ্",
+    "note": "Abrupt end with a stray character."
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-7-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

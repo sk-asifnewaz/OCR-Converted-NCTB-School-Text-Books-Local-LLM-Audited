@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "7-Bangla-10-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ষড়খতুর",
+    "note": "Nonexistent word; likely OCR error for 'ঋ' in 'ঋতু'."
+  },
+  {
+    "chunk_id": "7-Bangla-10-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গ্রীষ্ম খতুতে",
+    "note": "Nonexistent word; likely OCR error for 'ঋ' in 'ঋতু'."
+  },
+  {
+    "chunk_id": "7-Bangla-10-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বর্ষা খতুর, এই খতুতে",
+    "note": "Nonsense words; likely OCR errors for 'ঋ' in 'ঋতু'."
+  },
+  {
+    "chunk_id": "7-Bangla-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এই খতুতে",
+    "note": "Nonexistent word; likely OCR error for 'ঋ' in 'ঋতু'."
+  },
+  {
+    "chunk_id": "7-Bangla-10-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হেমন্ত খতু, খতুর",
+    "note": "Nonexistent word; likely OCR error for 'ঋ' in 'ঋতু'."
+  },
+  {
+    "chunk_id": "7-Bangla-10-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বসন্ত খতু, বন্য নামে এই",
+    "note": "Nonsense word 'খতু' and sentence cut off at end."
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "chunk_id": "7-ICT-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চা\n้ํา কে \"? \nদু\nডা",
+    "note": "Garbled text and broken words suggest severe OCR corruption."
+  },
+  {
+    "chunk_id": "7-ICT-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1650310)",
+    "note": "Long string of digits in parentheses has no context."
+  },
+  {
+    "chunk_id": "7-ICT-2-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01056)",
+    "note": "Nonsensical digit string in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কল চৰু",
+    "note": "Garbled script for 'scroll' or similar term."
+  },
+  {
+    "chunk_id": "7-ICT-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭1101110116)",
+    "note": "Non-sensical long number string."
+  },
+  {
+    "chunk_id": "7-ICT-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(181031 €3111018)",
+    "note": "Mixed symbols and long digit run."
+  },
+  {
+    "chunk_id": "7-ICT-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ছা 08111)",
+    "note": "Garbled character 'ছা' and digit noise."
+  },
+  {
+    "chunk_id": "7-ICT-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভরয়া বাতয়েব ক্যামেরা",
+    "note": "Garbled words that do not make sense in context."
+  },
+  {
+    "chunk_id": "7-ICT-2-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00০৮১ ১৪৩১১১২০৮০১)",
+    "note": "Long string of digits in parentheses."
+  },
+  {
+    "chunk_id": "7-ICT-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "011২1",
+    "note": "Garbled/noised digits in a list."
+  },
+  {
+    "chunk_id": "7-ICT-2-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(07107)",
+    "note": "Nonsensical digit string."
+  },
+  {
+    "chunk_id": "7-ICT-2-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১২৩১১০১১০১ /১০০০৪৪\n491001৫)",
+    "note": "Complex digit strings likely representing mangled math or specs."
+  },
+  {
+    "chunk_id": "7-ICT-2-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৯৫১৬)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "7-ICT-2-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮া ৪",
+    "note": "Garbled phrase '08a 4' instead of clear text."
+  },
+  {
+    "chunk_id": "7-ICT-2-26",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র্যামের গতিও এখন অনেক।",
+    "note": "Sentence ends abruptly mid-thought."
+  },
+  {
+    "chunk_id": "7-ICT-2-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০২০১৭)",
+    "note": "Nonsensical digit string."
+  },
+  {
+    "chunk_id": "7-ICT-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮১০ ১৭১৫০)",
+    "note": "Nonsensical numbers in parentheses."
+  },
+  {
+    "chunk_id": "7-ICT-2-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ঘ₹॥১১১৬/১২০৮০)",
+    "note": "Garbled symbols instead of text."
+  },
+  {
+    "chunk_id": "7-ICT-2-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭৩৭৮)",
+    "note": "Nonsensical digits in brackets."
+  },
+  {
+    "chunk_id": "7-ICT-2-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(চ১৩৭৫১ ১১০৭৬ & ১০১১০১\n০৩১০)",
+    "note": "Garbled digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১১০৩)",
+    "note": "Numbers used as placeholders for media formats."
+  },
+  {
+    "chunk_id": "7-ICT-2-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১১০)",
+    "note": "Nonsensical digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০:৫৬)",
+    "note": "Nonsensical digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৩৭)",
+    "note": "Nonsensical digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭০), (০৯০)",
+    "note": "Nonsensical numbers instead of AC/DC."
+  },
+  {
+    "chunk_id": "7-ICT-2-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১১০ ০, ০১১০৫৯১",
+    "note": "Garbled digits in a list."
+  },
+  {
+    "chunk_id": "7-ICT-2-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১৭-০১০৩১ ১০০০৪৯১১৮ ০১১০)",
+    "note": "Extremely noisy segment of digits."
+  },
+  {
+    "chunk_id": "7-ICT-2-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০) ... (০০১০)",
+    "note": "Nonsensical digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬১৭০১১১১১৬০০ ৩১১০ ১০৫১০ ০১১০)",
+    "note": "Garbled digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অ্যাকুপাকু... (১৮০১১১১১৬ ১.৩১১৮০৮৮০)",
+    "note": "Corrupted text and digit noise."
+  },
+  {
+    "chunk_id": "7-ICT-2-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৪১৭৭৯১১০৮১১\nও০৯১১০৮১০ €০০ (০১ ১১১০০১১১৭৩০০১) ১১১০৬১০১৩০১১৬৬)",
+    "note": "Large block of garbled digits."
+  },
+  {
+    "chunk_id": "7-ICT-2-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১১০, ১১০০১৭৭০০১০ ... ০১৪, ০১০১০০",
+    "note": "Nonsense digits in list."
+  },
+  {
+    "chunk_id": "7-ICT-2-56",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১০১১০ €৮১-০)",
+    "note": "Nonsense digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮১১১ ১১)",
+    "note": "Nonsense digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১৮১০১১১১০৬৫ €৮১০)",
+    "note": "Nonsense digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২১৭)...(৩১৩)",
+    "note": "Garbled digits for 2D/3D."
+  },
+  {
+    "chunk_id": "7-ICT-2-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১০০০১ ৫০১-০০১১)",
+    "note": "Nonsense digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-66",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৯০০০০ ১২৭১ ১১৮৬)",
+    "note": "Nonsense digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ঢ১১১১১০৬১)",
+    "note": "Incorrect character 'ঢ' instead of 'প্র'."
+  },
+  {
+    "chunk_id": "7-ICT-2-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্ণ",
+    "note": "Garbled word for 'সাক্ষাৎ'."
+  },
+  {
+    "chunk_id": "7-ICT-2-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিরন্ত",
+    "note": "Garbled word for 'বিরক্ত'."
+  },
+  {
+    "chunk_id": "7-ICT-2-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-77",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১১০১১০৯১১০৬)",
+    "note": "Nonsense digits in parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-2-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-80",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১! ও ১, ১,১ও ১১১",
+    "note": "Garbled symbols/digits in a quiz."
+  },
+  {
+    "chunk_id": "7-ICT-2-81",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-2-82",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ও ১, ১ও ১১১",
+    "note": "Garbled symbols in quiz options."
+  },
+  {
+    "chunk_id": "7-ICT-2-83",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৯্সও ৫৮৮",
+    "note": "Garbled digits at the end of chunk."
+  }
+]

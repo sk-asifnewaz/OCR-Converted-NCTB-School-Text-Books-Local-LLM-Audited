@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "7-Sanskrit-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চিহ্ৃন",
+    "note": "Overlapping vowel mark and character corruption."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তুস্বস্বর, খ,খ্‌,৯, এ,এ,ও,ও",
+    "note": "Corrupted word for 'হ্রস্বস্বর' and noise in the list of vowels."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্যপ্জনবর্ণ, তুস্বস্বর, ৯",
+    "note": "Multiple instances of corrupted Sanskrit terminology and digit noise."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যপ্জনবর্ণ",
+    "note": "Corrupted word for 'ব্যঞ্জনবর্ণ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ট-বগ, ত.:-বর্গ",
+    "note": "Nonsensical character sequences instead of 'বর্গ' and proper punctuation."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উম্মবর্ণ",
+    "note": "Likely a corruption of 'উষ্ঠ্য' or another Sanskrit term."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹, ত্-ব্ব্গ",
+    "note": "Foreign symbol and gibberish sequence for 'বর্গ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ-ববর্গ",
+    "note": "Corrupted word for 'চ-বর্গ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মূধা",
+    "note": "Corrupted term for 'মূর্ধনী'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অন্শীলনী",
+    "note": "Corrupted word for 'অনুশীলনী'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তৃষ্ষষবর",
+    "note": "Severe corruption of the word 'হ্রস্বস্বর'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্ধিপ্রকরণমৃ",
+    "note": "Corrupted suffix/punctuation at the end of 'সম্পূর্ণ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্যপ্জনসম্ধির, হল্সমদ্ধি",
+    "note": "Corrupted words for 'ব্যঞ্জনসম্ধি' and 'হ্লসম্ধি'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সন্ধবিপ্রকরণমৃ",
+    "note": "Corrupted word for 'সন্ধিপ্রকরণম্'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্ণচলন্চ, দৃণ+চল্চ্চ",
+    "note": "Non-sensical segments in example list."
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-6-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

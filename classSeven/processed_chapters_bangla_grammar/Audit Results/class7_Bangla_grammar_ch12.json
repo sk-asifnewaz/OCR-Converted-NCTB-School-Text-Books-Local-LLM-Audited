@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "7-Bangla_grammar-12-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সারাং\nবলতে",
+    "note": "The word 'সারাংশ' is missing the final character 'ষ'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রমে টানে... দেওয়া আনি।",
+    "note": "Words appear garbled or incomplete due to OCR issues."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেন্হের",
+    "note": "Likely a corruption of the word 'সেবার' or similar."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অনুতনঙ্ত... দ্ব্থে",
+    "note": "Garbled words; 'দ্ব্থে' is likely a corruption of 'দ্বারা'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ষকুদ্র... একটুখানি",
+    "note": "'ষকদ্র' is gibberish and 'একটুখানি' is a typo for 'একটুখানি'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অচরণ",
+    "note": "Missing vowel 'া', likely intended to be 'আচরণ'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-19",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কিন্তু\nজন্য ক্ষতিকর।",
+    "note": "Sentence fragment missing between 'কিন্তু' and 'জন্য'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অলদ্্রিন",
+    "note": "OCR error for 'অ্যালড্রিন' (Aldrin)."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্কূর্তি",
+    "note": "Nonsensical word, likely a corruption of 'স্ফূর্তি'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-22",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আমরা বাঙালি,",
+    "note": "Sentence ends abruptly with a comma, indicating cut-off."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-12-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

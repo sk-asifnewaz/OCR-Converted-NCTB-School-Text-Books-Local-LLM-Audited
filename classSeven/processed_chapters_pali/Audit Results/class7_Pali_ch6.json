@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "7-Pali-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিন্লা, জিল্যা; (0 1111)",
+    "note": "Garbled terms for 'ক্রিয়া' and extra digit noise."
+  },
+  {
+    "chunk_id": "7-Pali-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রিন্মা; (2.0, (11110)",
+    "note": "Garbled word for 'ক্রিয়া' and numeric noise."
+  },
+  {
+    "chunk_id": "7-Pali-6-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খগ্ম ল গস্কা; খপচ 2 পচিত্যা; খল ল লডিতুল, লদ্যা",
+    "note": "Nonsensical sequence of characters and punctuation."
+  },
+  {
+    "chunk_id": "7-Pali-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝির্যা; (11110)",
+    "note": "Garbled term and extraneous digit noise."
+  },
+  {
+    "chunk_id": "7-Pali-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিন্সাঙ্গী",
+    "note": "Garbled word for 'ক্রিয়াবাচক'."
+  },
+  {
+    "chunk_id": "7-Pali-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝরিস়্াবাচր",
+    "note": "Garbled word for 'ক্রিয়াবাচন'."
+  },
+  {
+    "chunk_id": "7-Pali-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রিয়াবাঢক",
+    "note": "Garbled word for 'ক্রিয়াবাচন'."
+  },
+  {
+    "chunk_id": "7-Pali-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0880 01165)",
+    "note": "Irrelevant digit string likely from OCR."
+  },
+  {
+    "chunk_id": "7-Pali-6-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০৫",
+    "note": "Standalone number likely a page marker."
+  },
+  {
+    "chunk_id": "7-Pali-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝরিস়্াবাচր",
+    "note": "Garbled word for 'ক্রিয়াবাচন'."
+  },
+  {
+    "chunk_id": "7-Pali-6-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

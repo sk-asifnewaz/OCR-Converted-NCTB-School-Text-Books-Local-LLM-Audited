@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "7-Bangla_grammar-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুৎ উচ্চারণ... নব+অনু৮নবানন",
+    "note": "দুৎ is likely দ্বৈত; ৮ is noise replacing a dash."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[অ+ অ - আ!, [(8+ চ হ শ্চ]",
+    "note": "Garbled punctuation and symbols in the rule examples."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "নবানн",
+    "note": "Should be নবান্ন; 'হ' character is an OCR error."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নব + অমন ৮ নবান্ন",
+    "note": "Number 8 is used as a dash/separator."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[8৪+কল্দ্ক]",
+    "note": "Garbled symbols and numbers in the formula."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[ক্ণঅসল্গ], [ক্কঈলগী], ৫",
+    "note": "Nonsensical character strings and digit noise."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হ",
+    "note": "The character 'হ' is used instead of a dash separator."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫, হ",
+    "note": "Digits and 'হ' used as punctuation separators."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মৃণকল্ত্ক্তিক, সু্প+ হকৃত, সু্প+ হৃত",
+    "note": "Garbled phrases and 'হ' used as a separator."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মৃনকল্ত্ক্তিক",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২, ৫",
+    "note": "Digits used as punctuation separators."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২, ৫, হ",
+    "note": "Mixed digit noise and 'হ' for punctuation."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উচ্চার্প 5 উত্তুা়ন",
+    "note": "Digit '৫' used instead of a dash."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সংবাদ 5 সম্‌ + বাদ",
+    "note": "Digit '৫' used as a separator."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "জগৎ + নাথ 5",
+    "note": "Digit '৫' used as a separator."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-4-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

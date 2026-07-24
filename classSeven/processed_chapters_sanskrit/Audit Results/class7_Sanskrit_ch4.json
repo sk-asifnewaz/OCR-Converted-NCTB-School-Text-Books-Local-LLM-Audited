@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "7-Sanskrit-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাধঃপতিতমৃ্‌, অন্লস্বাদযুত্তফলানি, অম্স্বাদযুüttানি",
+    "note": "Garbled characters in Sanskrit words; 'ঋ' and extra letters are OCR noise."
+  },
+  {
+    "chunk_id": "7-Sanskrit-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সো২বদৎ, নাধঃপতিতমৃ্‌",
+    "note": "Digit '২' inside a word and garbled suffix on 'নাধঃপতিতমৃ์'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টব",
+    "note": "Garbled digit/character 'টব' likely intended as '২।'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-4-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সো২বদৎ",
+    "note": "Digit '২' appears inside a Sanskrit word."
+  },
+  {
+    "chunk_id": "7-Sanskrit-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

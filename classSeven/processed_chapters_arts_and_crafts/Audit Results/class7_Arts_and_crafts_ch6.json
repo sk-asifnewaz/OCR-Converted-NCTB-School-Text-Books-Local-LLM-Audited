@@ -1,0 +1,407 @@
+[
+  {
+    "chunk_id": "7-Arts_and_crafts-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নম ১\n...সুচিশিল্",
+    "note": "Corrupted words 'নাম' and 'সুচিশিল্প' appear in multiple chunks."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গড়্পা-৬ চারু ও কারুকলা-৭ম শ্রেণি\n৪২...দ্যা পট ডা\nহিন লা ৪ ড় ড় ৬",
+    "note": "Contains non-sensical character sequences and layout noise."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "আমাদের",
+    "note": "Sentence ends abruptly at the final word of the chunk."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৪৮ চারু ও কারুকলা\nসুচিশিল্",
+    "note": "Corrupted title and repeated 'সুচিশিল' error."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুচিশিক্প",
+    "note": "Word 'সুচিশিক্প' is a common corruption of 'সুচিশিল্প'."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুচিশিক্প",
+    "note": "Corrupted word 'সুচিশিক্প' found."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৬ জন -2 দঢে ৯ ০ গে £/\nরন\nরণ",
+    "note": "Garbled symbols and text fragments."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক ক কপ\nচট স৯৬৯৯৬৯২১\nপা ধা",
+    "note": "Garbled text and digit noise from page layout."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সা চা]",
+    "note": "Trailing bracket/fragment likely from a poorly parsed layout."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লা লন]\nএ চু পা ক দানা",
+    "note": "Garbled text and brackets from page layout."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা]\nপিলসসনল\nদেলেলন",
+    "note": "Contains non-sensical words and symbols."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\"/%%7\n/“ঙ্ঙ .\"",
+    "note": "Corrupted symbols and garbled text."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "২.৫৪ সেমি.",
+    "note": "Possible typo of 2.5 cm as a result of OCR."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "||",
+    "note": "Artifact character '||' is likely a transcription error."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা ফেরু\n০৮৮ ১ ২",
+    "note": "Garbled text and extraneous digits."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-38",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বারারসলল দলা রন",
+    "note": "Nonsensical sequence of characters."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-6-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

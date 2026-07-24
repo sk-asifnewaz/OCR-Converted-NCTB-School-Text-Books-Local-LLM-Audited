@@ -1,0 +1,353 @@
+[
+  {
+    "chunk_id": "7-Home_science-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পরনির্তরশীল",
+    "note": "Incorrect character for 'নির্ভরশীল'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্, দুখকফ্ট, বন্ধুভাবাপনন",
+    "note": "Garbled words instead of 'গুরুত্বপূর্ণ', 'দুঃখকে', 'বন্ধুভাবাপন্ন'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কুদ্র, হিগตร์",
+    "note": "Incorrect characters for 'ক্ষুদ্র' and 'হিংস্র'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নির্তরশীল",
+    "note": "Incorrect character for 'নির্ভরশীল'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুচথ, গুরুত্‌ব",
+    "note": "Garbled words for 'সুষ্ঠ' and 'গুরুত্বপূর্ণ'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সরণশত্তি",
+    "note": "Nonsensical word in context."
+  },
+  {
+    "chunk_id": "7-Home_science-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উপযুত্ত, মেনহের",
+    "note": "Garbled words for 'গুরুত্বপূর্ণ' and 'মমতার/হৃদয়ের'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নেতিবাচকঙউন্তির",
+    "note": "Incorrect character 'ঙ' in word."
+  },
+  {
+    "chunk_id": "7-Home_science-4-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(011551081 16০10110110, €০ঠ্মা10ছ6 1)০%০1001110116",
+    "note": "Extensive digit noise and nonsensical strings."
+  },
+  {
+    "chunk_id": "7-Home_science-4-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আব্গৌয়, (চ:1110001131 3110 ও300181 1)০ছ০10111101168",
+    "note": "Garbled word and long string of digits."
+  },
+  {
+    "chunk_id": "7-Home_science-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কণ্ঠ»র, সৃষ্ণি",
+    "note": "Symbol error and garbled word."
+  },
+  {
+    "chunk_id": "7-Home_science-4-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ, মনহের",
+    "note": "Garbled words for 'গুরুত্বপূর্ণ' and 'মমতার'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বন্ধুত্পূর্ণ",
+    "note": "Garbled word for 'বন্ধুপূর্ণ'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কার্যক্কমে",
+    "note": "Incorrect character for 'কার্যক্রমে'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মেন",
+    "note": "Nonsensical word in context."
+  },
+  {
+    "chunk_id": "7-Home_science-4-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গুরুত্তপূর্",
+    "note": "Garbled word for 'গুরুত্বপূর্ণ'"
+  },
+  {
+    "chunk_id": "7-Home_science-4-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সহশিক্ষাক্রমিক",
+    "note": "Garbled/non-existent word."
+  },
+  {
+    "chunk_id": "7-Home_science-4-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1, 11, 111",
+    "note": "Likely misread sequence of 1, 2, 3."
+  },
+  {
+    "chunk_id": "7-Home_science-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1ও]11",
+    "note": "Unwanted bracket in the text."
+  },
+  {
+    "chunk_id": "7-Home_science-4-35",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বকাশে",
+    "note": "Likely meant 'বিকাশে'."
+  },
+  {
+    "chunk_id": "7-Home_science-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-4-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

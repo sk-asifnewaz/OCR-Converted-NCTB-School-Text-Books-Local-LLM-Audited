@@ -1,0 +1,218 @@
+[
+  {
+    "chunk_id": "7-Sanskrit-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "একশিন্‌",
+    "note": "OCR error for Sanskrit 'স্ম' (should be একস্মিন্)."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রঙ্‌।",
+    "note": "Corrupted character sequence/noise in the word for 'color'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাউনমর্ম",
+    "note": "OCR artifact; likely intended to be 'বাহনম্'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সরষতীর",
+    "note": "Corruption of the name 'সরস্বতী'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হত্ত্ম্‌",
+    "note": "Non-standard/corrupted Sanskrit word."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মবদানমূ",
+    "note": "Corrupted word, likely intended to be 'অবদানম্'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিহ্তবাং",
+    "note": "Corrupted word/phrase in the text."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মবদানমূ",
+    "note": "Repeated corruption of the word for 'contribution'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মবদানমূ",
+    "note": "Repeated corruption of the word 'অবদানম্'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শীকৃষ্ণ",
+    "note": "Corrupted name of 'শ্রীকৃষ্ণ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "নিধানমрь",
+    "note": "OCR artifact for the 'm' sound/visarga."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পাডবগীতা",
+    "note": "Severe corruption of 'ভগবদ্গীতা'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাজৈশবর্য",
+    "note": "Corrupted word for 'রাজৈশ্বর্য'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted word for 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted word for 'শক্তি' in notes."
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-5-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

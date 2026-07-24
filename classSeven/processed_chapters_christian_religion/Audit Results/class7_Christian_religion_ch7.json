@@ -1,0 +1,308 @@
+[
+  {
+    "chunk_id": "7-Christian_religion-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এশরাজ্য",
+    "note": "Should be ঈশরাজ্য based on context and title."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খ্রীফ্, শত্তি, এশরাজ্য",
+    "note": "Multiple OCR errors for 'খ্রীষ্ট', 'শক্তি', and 'ঈশরাজ্য'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপূদুতগ্রসত, এশরাজ্য",
+    "note": "Corrupted words for 'অপদুূতগ্রস্ত' and 'ঈশরাজ্য'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মধু, খ্রীফ্ট, শত্তি, মজ্গলসমাচার",
+    "note": "Corrupted words for 'মথি', 'খ্রীষ্ট', 'শক্তি', and 'সুসমাচার'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নির্দিষ, খ্রীф্ট, শত্তি, গুরুত্ব্পূর্ণ",
+    "note": "OCR errors for 'নির্দিষ্ট', 'খ্রীষ্ট', 'শক্তি', and 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এশরাজ্য",
+    "note": "Incorrect character used for 'ঈশরাজ্য'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইস্াায়েল",
+    "note": "Corrupted word for 'ইস্রায়েল'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বিনমন্ন, স্কুদ্রতম",
+    "note": "Corrupted words for 'বিনম্র' and 'ক্ষুদ্রতম'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট",
+    "note": "Likely OCR error for a specific term or 'ষষ্ঠ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাপগীদের",
+    "note": "Corrupted word for 'পাপীদের'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খ্রীф্ট, সর্ধে",
+    "note": "Corrupted words for 'খ্রীষ্ট' and likely 'সরু' or similar."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নল র 1\" রা স\nপু 6 4 »&) ণ্টঁ ০৭ র্যা",
+    "note": "Garbled character run likely from a graphic or broken layout."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্রীф্ট",
+    "note": "Corrupted word for 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দাইট্‌ব",
+    "note": "Corrupted word for 'দায়িত্ব'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিহ্ৃই",
+    "note": "Corrupted word for 'চিহ্ন' or 'চিহ্নী'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপরুত্বগ্রস্ত",
+    "note": "Corrupted word for 'অসুগ্রস্ত' or similar."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted word for 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্রীষ্ট, অপূদুত",
+    "note": "Corrupted words for 'ষষ্ঠ' and 'অসুগ্রস্ত/অপদুূত'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপূদুত",
+    "note": "Corrupted word for 'অপদুূত' or similar."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপদুূতগ্রদত, মজ্গলসমাচার",
+    "note": "Corrupted words for 'অসুগ্রস্ত' and 'সুসমাচার'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপদুূতে",
+    "note": "Corrupted word for 'অপরুত্ব' or similar."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অপূদুূতরাজ",
+    "note": "Corrupted word for 'অপদুুতরাজ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খ্রীф্ট",
+    "note": "Corrupted word for 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্রীষ্ট",
+    "note": "Corrupted word for 'ষষ্ঠ' or similar."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1ও 11, 11 ওয়া",
+    "note": "Corrupted digits and symbols in multiple choice list."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শ ৯ গত *»",
+    "note": "Garbled characters at the end of the segment."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অৎংশগ্রহণ",
+    "note": "Corrupted word for 'অংশগ্রহণ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-7-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "chunk_id": "7-Science-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রান্ত ক্কমশ সরু। যেমন - মলম",
+    "note": "ক্কমশ is a typo for ক্রমশ; মলম appears to be an OCR error for মুলা."
+  },
+  {
+    "chunk_id": "7-Science-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কল্দাকৃতি মূল",
+    "note": "কল্দাকৃতি is not a word; it should be কন্দাকৃতি based on context."
+  },
+  {
+    "chunk_id": "7-Science-3-7",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হয়ে এবং... ও হয়",
+    "note": "Repetitive clause structure suggests an OCR merge/loop error."
+  },
+  {
+    "chunk_id": "7-Science-3-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1, ... চিত-৩.২",
+    "note": "1 is a stray digit; চিত is an OCR error for চিত্র."
+  },
+  {
+    "chunk_id": "7-Science-3-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্তন্তমূল",
+    "note": "স্তন্তমূল is a common OCR error for স্তম্ভমূল."
+  },
+  {
+    "chunk_id": "7-Science-3-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্তন্তমূল",
+    "note": "স্তন্তমূল is not a valid word; likely meant to be স্তম্ভমূল."
+  },
+  {
+    "chunk_id": "7-Science-3-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাণ্ডযুত্ত ... চত্র-৩.৬",
+    "note": "কাণ্ডযুত্ত should be কাণ্ডযুক্ত; চত্র is an OCR error for চিত্র."
+  },
+  {
+    "chunk_id": "7-Science-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাধাণরত",
+    "note": "সাধাণরত is a misspelling of সাধারণত."
+  },
+  {
+    "chunk_id": "7-Science-3-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভূনিমন্থ",
+    "note": "ভূনিমন্থ is a corruption of ভূনিম্নস্থ."
+  },
+  {
+    "chunk_id": "7-Science-3-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মুক্‌ল ... নয ... উদডদের",
+    "note": "Contains multiple OCR artifacts: মুক্‌ল (মুকুল), নয (যা), ও উদডদের (উদ্ভিদের)."
+  },
+  {
+    "chunk_id": "7-Science-3-16",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্র",
+    "note": "Single character 'প্র' indicates a word cut off at the chunk boundary."
+  },
+  {
+    "chunk_id": "7-Science-3-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উপদ্থিদে ... অজগাজ",
+    "note": "উপদ্থিদে is likely উদ্ভিদ; অজগাজ is a nonsensical word."
+  },
+  {
+    "chunk_id": "7-Science-3-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীটায়",
+    "note": "কীটায় is a likely OCR error for কাঁটায় or কণ্টকে."
+  },
+  {
+    "chunk_id": "7-Science-3-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রুপার্তরিত",
+    "note": "রুপার্তরিত is a corruption of রূপান্তরিত."
+  },
+  {
+    "chunk_id": "7-Science-3-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্প্রিংংএর",
+    "note": "স্প্রিংংএর contains an extra nasal character (ঙ) from OCR."
+  },
+  {
+    "chunk_id": "7-Science-3-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফীদ",
+    "note": "ফীদ is an OCR error for ফাঁদ."
+  },
+  {
+    "chunk_id": "7-Science-3-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভূনিমন্থ&্",
+    "note": "The ampersand is a clear script corruption of a Bengali character."
+  },
+  {
+    "chunk_id": "7-Science-3-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-3-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1 ও 11",
+    "note": "Numbers likely represent Roman numerals I and II corrupted by OCR."
+  },
+  {
+    "chunk_id": "7-Science-3-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খ্রাও0",
+    "note": "নonsensical string; likely a corruption of 'কোনটি' or similar."
+  },
+  {
+    "chunk_id": "7-Science-3-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭ন০৩-৫ও৪ও / €€",
+    "note": "Non-Bengali symbols and corrupted numbers at the end of chunk."
+  },
+  {
+    "chunk_id": "7-Science-3-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

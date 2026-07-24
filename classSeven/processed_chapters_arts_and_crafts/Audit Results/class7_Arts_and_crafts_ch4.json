@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "7-Arts_and_crafts-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তেলরৎ",
+    "note": "OCR error: 'ঃ' or 'ং' likely misread as 'ৎ'."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹3061 ৮৪19০0",
+    "note": "Random symbols and numbers inserted in a descriptive sentence."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আযাক্রেলিক",
+    "note": "Spelling error/OCR artifact of 'আ্যাক্রেলিক'."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬.",
+    "note": "Isolated digit and period in the middle of a paragraph."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন\nরণ",
+    "note": "Fragmented and repeated character sequences."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কাষ্ট্রিজ",
+    "note": "OCR corruption of 'কাগজ' (paper)."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৃষ্ণির",
+    "note": "Likely misread word (possibly 'বর্ষার' or similar)."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "OCR error for 'দ্রুত' (fast)."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

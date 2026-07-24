@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "7-Sanskrit-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সো২বদৎ",
+    "note": "Number 2 embedded in word is a common OCR error for a character."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "উল্চৈরহসৎ",
+    "note": "Nonsensical character sequence likely from a garbled Sanskrit word."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "^",
+    "note": "Isolated symbol at end of line likely an OCR artifact."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উচ্চৈরহসৎ ₹",
+    "note": "Currency symbol is clearly out of context for a Sanskrit text."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লোকাচ্তত্ত্র",
+    "note": "Garbled word likely from a mangled compound (Sandhi)."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সো২বদৎ",
+    "note": "Number 2 embedded in word is a common OCR error."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যাম্রঃ",
+    "note": "Garbled word likely meant to be 'বাঘ্ঃ' based on context."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কৌত্কাৎ, মেযান্‌",
+    "note": "Garbled words likely meant to be 'কৌতুকাৎ' and 'মেষান্‌'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

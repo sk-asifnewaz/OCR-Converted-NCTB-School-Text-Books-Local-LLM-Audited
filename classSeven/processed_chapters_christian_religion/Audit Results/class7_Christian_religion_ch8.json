@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "7-Christian_religion-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অফ্টম অধ্যায়\nখ্রী্মণ্ডলী এক, পবিত্র ও প্রেরিতিক",
+    "note": "অফ্টম and খ্রী্মণ্ডলী are clear OCR corruptions of অষ্টম and খ্রীষ্টমণ্ডলী."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্রীফমণ্ডলীর... খ্রীফ্টমণ্ডলী... খ্রীন্_",
+    "note": "Multiple corruptions of the word 'খ্রীষ্টমণ্ডলী'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বখ্রীষ্টমণ্ডলী... হ্রীষ্টম্ডলীর",
+    "note": "Garbled characters in the name of the church."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীষমন্ডলী এক, পবিত্র ও প্রৈরিতিক ৬১\nপাঠ ১: স্রীষ্টমণ্ডলী এক",
+    "note": "Several corruptions of 'খ্রীষ্টমণ্ডলী' and 'প্রেরিতিক'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রী্টমণ্ডলীর",
+    "note": "Corruption of 'খ্রীষ্টমণ্ডলী'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খ্রীষমণ্ডলী... স্রীফ্... অজ্গপ্রতজ্গা",
+    "note": "Significant garbling of 'খ্রীষ্টমণ্ডলী', 'খ্রীষ্ট' and the final phrase."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীষ্ভন্তগণ",
+    "note": "Corruption of 'খ্রীষ্টভক্তগণ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাক্বামেস্ত",
+    "note": "Nonsensical word, likely a corruption of a religious term."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম্জগল্পসাচার",
+    "note": "Garbled version of 'সুসমাচার' (Gospel)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ষুদ্র",
+    "note": "Corruption of 'ক্ষুদ্র'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মণ্ডচলীতে... খ্রীষতত্তই... খ্রীষ",
+    "note": "Multiple corruptions of 'মণ্ডলীতে', 'খ্রীষ্টতত্ত্ব', and 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফ্_ড",
+    "note": "Garbled sequence at the end of a word."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীষ্",
+    "note": "Truncated/corrupted 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফ্",
+    "note": "Corruption of 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খস্রীষ্_",
+    "note": "Garbled string for 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীষ্ষমণ্ডলী... সযত্বে",
+    "note": "Corrupted words for 'খ্রীষ্টমণ্ডলী' and 'সত্যে'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফ্টের",
+    "note": "Corruption of 'খ্রীষ্টের'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্্রী্টমন্ডলী",
+    "note": "Corruption of 'খ্রীষ্টমণ্ডলী'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও 11, 11 ও], 1,11ও111",
+    "note": "Garbled numbering for multiple choice options."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মণ্ডচলীকে",
+    "note": "Corruption of 'মণ্ডলীকে'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শল ৯ ওত 2»",
+    "note": "Garbled reference or page marker."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভর্নিদের",
+    "note": "Likely garbled word for 'members' or similar."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রীষ্টমন্ডলী",
+    "note": "Corruption of 'খ্রীষ্টমণ্ডলী'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-8-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

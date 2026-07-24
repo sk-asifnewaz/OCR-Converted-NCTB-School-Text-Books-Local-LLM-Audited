@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "7-Bangla_grammar-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্যঞ্জনধ্বনি",
+    "note": "Likely OCR error for 'ব্যঞ্জনধ্বনি' (consonant sound)."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ, উ, খ, এ, এ, ও, ও",
+    "note": "Repetitions and incorrect characters in the list of vowels."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্যপ্জনবর্ণের সংখ্যা\nমোট ৩৯টি ।",
+    "note": "ব্যপ্জন is a corruption of ব্যঞ্জন; ৎ২১ঃ is noise."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "করব্ব্গ কখগঘঙ\nচব্ব্গ চছজবঝ এঞ\nট্বর্গ টঠডঢণ",
+    "note": "Garbled OCR of a table; 'র' and 'ব' symbols are corrupted."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ, উ, প, ফ, ব, ভ, ম",
+    "note": "Repetition of 'উ' likely intended as 'উ, ঊ'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬",
+    "note": "Digit '6' used instead of the Bengali letter 'ঘ'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "“২' (অনুস্বার)",
+    "note": "Digit '2' used as a placeholder/noise for punctuation."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্বনিসমন্টিই ভাষা",
+    "note": "Garbled word, likely 'ধ্বনিসমূহ' or similar."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বাংমুখের ভাষায়",
+    "note": "Garbled word, likely 'বাংলার' or 'ভাষার'."
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_grammar-3-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

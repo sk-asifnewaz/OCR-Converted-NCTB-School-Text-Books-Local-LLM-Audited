@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "7-Arabic-2-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "لال .75\n০০ ৮\nচু",
+    "note": "Contains noise digits and a truncated syllable fragment."
+  },
+  {
+    "chunk_id": "7-Arabic-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০১০ ০১০ ৮০০ ৯১\nচু চক 3",
+    "note": "Contains long digit strings and a nonsensical garbled sequence."
+  }
+]

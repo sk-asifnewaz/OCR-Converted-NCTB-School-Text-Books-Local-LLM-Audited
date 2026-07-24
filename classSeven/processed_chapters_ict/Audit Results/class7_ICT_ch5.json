@@ -1,0 +1,398 @@
+[
+  {
+    "chunk_id": "7-ICT-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বি 0173 (04300131] (01110010010\n৭110 [০০৪০০ 30810)",
+    "note": "Significant garbled text and non-sensical characters in the middle section."
+  },
+  {
+    "chunk_id": "7-ICT-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জা তাল গ্র্যামি দা ত্রাল\n[.\nশা ও লাশ লি নদ",
+    "note": "Large block of incoherent text and garbled characters."
+  },
+  {
+    "chunk_id": "7-ICT-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অবলা গাযনাত আলা সময যত ঘা টা লেললা\nআআ তাচালা অম্ লি্ছরেই লা",
+    "note": "Entire chunk is largely garbled non-sense text."
+  },
+  {
+    "chunk_id": "7-ICT-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(11000://511100001.00117 )",
+    "note": "URL is corrupted into a string of digits and symbols."
+  },
+  {
+    "chunk_id": "7-ICT-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৫৫০ ০০০০০১-১১৫১০-১১\nদামাল! যাহ ঢশহ ১ দাতা দা চ্যা্গা ৪৫যত।",
+    "note": "Significant noise and garbled strings in the lower half."
+  },
+  {
+    "chunk_id": "7-ICT-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(দা .০০৮৮০।০০)",
+    "note": "URL is garbled."
+  },
+  {
+    "chunk_id": "7-ICT-5-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা ১৪১৮ [চু] চা চ্ চা,",
+    "note": "Garbled text at the end of the chunk."
+  },
+  {
+    "chunk_id": "7-ICT-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘদ্গ.১]০০০.৬০%।০০",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1000://91100101.0017",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দদলানে ও দলা দি যায [লাদাাহা0 |]ছ টাল! ধা রায় দি দলে ঢা দশটা ঘাসে",
+    "note": "Chunk contains large blocks of garbled text."
+  },
+  {
+    "chunk_id": "7-ICT-5-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাদাদ.১১০০০।২০৫।০০",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘণা১১[১৩১৭) ৩০০১০৬৯১া০৩১৬",
+    "note": "Garbled data/URL in list item 3."
+  },
+  {
+    "chunk_id": "7-ICT-5-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ.০৭০০০০০।২৬০%।০০",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ছদদদগ।দ১া০০০১৮।০১২)",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চলত ॥ অর্জন ৪ তু ঘা এতেটজলায ডল জান ভন জ্ঞল |র়ডত'",
+    "note": "Garbled text after the URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘদ্গ।০০০০১০৬।০০১৭০/০৯৯১/১০০৮১/১০৮০ ৯১১৭৩০১৮১৮",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১০০৫:/৮৮০]৮১১৮১৮।২৬১০০১১১০৮১৭১৭১২।০০১৭৭)",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১০০০৫://ঘদা ১ ১১-০১৪০১১০০০০০১৫।০১০৬",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১০০০৫:/১১১৩০১০১৫১১১১১৩০।০১৫।০০",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দাদা ৩৫০]১০০১৫।০০",
+    "note": "Malformed URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৯৩৩০-৬১১(০০১-০১১১১০১০১৩-১-১১৬১১৯১-১৮৪৬।০০১",
+    "note": "Highly garbled data/links in this chunk."
+  },
+  {
+    "chunk_id": "7-ICT-5-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১। বরং কার্যক্রম সম্পন্ন করা যায়",
+    "note": "Number 11 is used where a list sequence (2 or 3) should be."
+  },
+  {
+    "chunk_id": "7-ICT-5-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-5-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১। বরং হওয়া সক্ষমতা, ঘ। ঘামান্ড।০১।০৮০৩১৭৮০৮০৯১০৭৫।০১৫",
+    "note": "Incorrect sequence numbers (1 instead of 2) and mangled URL."
+  },
+  {
+    "chunk_id": "7-ICT-5-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

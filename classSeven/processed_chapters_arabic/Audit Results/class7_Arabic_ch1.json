@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "7-Arabic-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "The number '8' is likely an OCR artifact before the Bengali numeral."
+  },
+  {
+    "chunk_id": "7-Arabic-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৮21",
+    "note": "Random numbers inserted before the word 'أَدَابُ'."
+  },
+  {
+    "chunk_id": "7-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮১০",
+    "note": "Random number string at the start of the chunk."
+  },
+  {
+    "chunk_id": "7-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2১160",
+    "note": "Mixed numerals likely a corrupted verse or page reference."
+  },
+  {
+    "chunk_id": "7-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢু",
+    "note": "Bengali characters appearing as noise in an Arabic text segment."
+  },
+  {
+    "chunk_id": "7-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩09",
+    "note": "Non-sequential/garbled numbers."
+  },
+  {
+    "chunk_id": "7-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2১145",
+    "note": "Mixed numerals in Arabic text."
+  },
+  {
+    "chunk_id": "7-Arabic-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০০, ১৮০৮",
+    "note": "Strings of zeros and random numbers are noise."
+  },
+  {
+    "chunk_id": "7-Arabic-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গল জেন",
+    "note": "Nonsensical Bengali text fragment in Arabic context."
+  },
+  {
+    "chunk_id": "7-Arabic-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০",
+    "note": "Repetitive zeros are a typical OCR artifact."
+  },
+  {
+    "chunk_id": "7-Arabic-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0919 29040150117",
+    "note": "Long string of digits is likely noise."
+  }
+]

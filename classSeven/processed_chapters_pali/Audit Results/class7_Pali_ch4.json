@@ -1,0 +1,389 @@
+[
+  {
+    "chunk_id": "7-Pali-4-1",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্ব্লণ, লকৃতি ও প্রয়োগরীতি বুস্মিয়ে",
+    "note": "Several words are clearly corrupted OCR results of Bengali/Pali terms."
+  },
+  {
+    "chunk_id": "7-Pali-4-2",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্ননি, শলগডছ, বাগযারা প্রভুতি পাক্কিভাঘাও",
+    "note": "Significant script corruption in descriptive adjectives and nouns."
+  },
+  {
+    "chunk_id": "7-Pali-4-3",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খিক্লুনা কালক্রমে পরিবাতিত ছে",
+    "note": "The word 'খিক্লুনা' is a nonsensical OCR result."
+  },
+  {
+    "chunk_id": "7-Pali-4-4",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হূদ » হাত: ভর » ভাত; যৃদ্ধা ।",
+    "note": "Garbled characters and incorrect punctuation symbols."
+  },
+  {
+    "chunk_id": "7-Pali-4-5",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্চুনো + পদঃ ₹ মচ্ছুনোপদ*।",
+    "note": "Nonsense word 'ম্চুনো' and stray symbols like ℑ and *."
+  },
+  {
+    "chunk_id": "7-Pali-4-6",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্রবর্দের পর ষ্বরবর্ণ পাকলে",
+    "note": "Mangled words due to OCR failure on script nuances."
+  },
+  {
+    "chunk_id": "7-Pali-4-7",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হুক়া + অপি ল হুড়াশি",
+    "note": "Incoherent words 'হুক๋า' and 'মুড়াশি'."
+  },
+  {
+    "chunk_id": "7-Pali-4-8",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্ক্যাসব্রংলুত্তে; ভ্খনও অদমান শ্রাম্র",
+    "note": "Nonsensical word strings that don't form real words."
+  },
+  {
+    "chunk_id": "7-Pali-4-9",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুতুয়ং; হ ছদ্বলমহ",
+    "note": "Mangled word forms and nonsensical character combinations."
+  },
+  {
+    "chunk_id": "7-Pali-4-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৬ যমদস্বসূসা দেলো",
+    "note": "Random digit '৮৬' and corrupted words."
+  },
+  {
+    "chunk_id": "7-Pali-4-11",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইবযরোষংলবা; হচ়",
+    "note": "Non-existent words resulting from OCR errors."
+  },
+  {
+    "chunk_id": "7-Pali-4-12",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮। বসোদূলদ্জানঃ; সুস্মি",
+    "note": "Garbled title and word 'সুস্মি' is likely a corruption of 'স্বল্প'."
+  },
+  {
+    "chunk_id": "7-Pali-4-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০৪ । সন্দ্রোচন্তি",
+    "note": "The digit '১০৪' is an outlier/noise."
+  },
+  {
+    "chunk_id": "7-Pali-4-14",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিকসে; হচ্চেন",
+    "note": "Mangled Bengali words."
+  },
+  {
+    "chunk_id": "7-Pali-4-15",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রূদ্ধনও; উন্তয়; ষত্রা",
+    "note": "Several words are mangled or unintelligible."
+  },
+  {
+    "chunk_id": "7-Pali-4-16",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্তিন্স; অঝ্যব্য",
+    "note": "Garbled words from OCR processing."
+  },
+  {
+    "chunk_id": "7-Pali-4-17",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খলানং; নিগ্ধমাধামিক্ক",
+    "note": "Malformed words."
+  },
+  {
+    "chunk_id": "7-Pali-4-18",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উব; হটু",
+    "note": "Corrupted words from OCR."
+  },
+  {
+    "chunk_id": "7-Pali-4-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১২০ । দেন বা ইবতে",
+    "note": "Arbitrary digit '১২০' and mangled text."
+  },
+  {
+    "chunk_id": "7-Pali-4-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২৭১ রব্লং",
+    "note": "Number '২৭১' is likely a noise artifact."
+  },
+  {
+    "chunk_id": "7-Pali-4-21",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দিস্যিটি; মীলব্রতং",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪১ লোপগ্ কত্রাকাতরো",
+    "note": "The number '৪১' is a non-sequential artifact."
+  },
+  {
+    "chunk_id": "7-Pali-4-23",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হীম্মা; নিটজিতহ",
+    "note": "Unintelligible words."
+  },
+  {
+    "chunk_id": "7-Pali-4-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪১ অবস্স",
+    "note": "The number '৪১' is likely noise."
+  },
+  {
+    "chunk_id": "7-Pali-4-25",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভীঝোকসিনচ",
+    "note": "Nonsense word from OCR."
+  },
+  {
+    "chunk_id": "7-Pali-4-26",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যর্বা; যর্বাঙ্গ",
+    "note": "Garbled text segments."
+  },
+  {
+    "chunk_id": "7-Pali-4-27",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কৃচি পাটি পত্চিসুল",
+    "note": "Nonsense phrase resulting from OCR errors."
+  },
+  {
+    "chunk_id": "7-Pali-4-28",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বগ্‌গন্তং; ভিনিত্বা",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "7-Pali-4-29",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংযুঁজহ; বাঙলু",
+    "note": "Mangled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-30",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অরিমসজ্জালদ্সলং",
+    "note": "Garbled word."
+  },
+  {
+    "chunk_id": "7-Pali-4-31",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উন্দিন; দিলী",
+    "note": "Mangled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-32",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাদ্ধ্যু; হাচলুন",
+    "note": "Mangled text."
+  },
+  {
+    "chunk_id": "7-Pali-4-33",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সন্মোচস্তিন; মক্পি",
+    "note": "Garbled terms."
+  },
+  {
+    "chunk_id": "7-Pali-4-34",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বরস্বিদ; শল্লচ",
+    "note": "Mangled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-35",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হীমুँ; ভ্যিটি",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-36",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সনীটুঠ; শখরিযো",
+    "note": "Mangled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-37",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দস্মীলী; মেধাবী গেোধাবিনী",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-38",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিক্কি; ভীতি",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-39",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মদ্ধুলো; উন্ম্য",
+    "note": "Mangled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-40",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিন; ওনদী",
+    "note": "Garbled word parts."
+  },
+  {
+    "chunk_id": "7-Pali-4-41",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বত্বি; ডীট্থা",
+    "note": "Mangled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-42",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্যাকে; ধলা",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "7-Pali-4-43",
+    "status": "flagged",
+    "issues": ["SCRPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ল্য, লুন্দর; সটু",
+    "note": "Mangled words."
+  }
+]

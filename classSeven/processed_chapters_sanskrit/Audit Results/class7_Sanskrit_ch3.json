@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "7-Sanskrit-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুষিকো২বদৎ",
+    "note": "The number 2 is a likely corruption of a punctuation mark."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুষিকো২বদৎ; মুত্তস্বমূ",
+    "note": "Contains non-conforming characters (number 2 and ₹ symbol)."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ও৩য়া",
+    "note": "Nonsensical character sequence likely a corruption of '৩য়'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুষিকো২বদৎ",
+    "note": "The number 2 is a likely corruption of a punctuation mark."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ফটিকস্তম্ডে",
+    "note": "The word 'স্তম্ড' is a likely OCR corruption of 'স্তম্ভ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুবুস্তং; স্তম্ডাৎ",
+    "note": "Missing characters in 'গুরুস্তং' and corruption of 'স্তম্ভাৎ'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ৩য়া",
+    "note": "Nonsensical character sequence likely a corruption of '৩য়া'."
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Sanskrit-3-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধর্মো রক্ষতি ধার্মিকমূ",
+    "note": "The vowel 'ূ' is likely a corruption of the final Sanskrit character."
+  }
+]

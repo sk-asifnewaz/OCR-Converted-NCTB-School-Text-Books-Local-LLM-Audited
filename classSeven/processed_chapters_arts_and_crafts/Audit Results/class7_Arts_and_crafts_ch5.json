@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "7-Arts_and_crafts-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তা\nডে ২ কী",
+    "note": "Garbled text likely from a header or footer fragment."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৯১৬১১৬৩৬১৯)\n2722 ৬২৩২\n২৪রঞ্জে ৯ ৮\n২৫৩৫ ঠ\n১২৩-ও৩৯৩১৩*৩",
+    "note": "Non-meaningful digit strings and symbols are typical OCR artifacts."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দয় রর",
+    "note": "Garbled/incoherent text fragment."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "-2 5৬৬\n\" 9389\n--235€ও",
+    "note": "Random numbers and symbols (like €) are noise."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন\nরণ",
+    "note": "Repeated nonsensical fragment at the end of chunk."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$৬$ ৪৬\nঙ ঙ\n_ ৫ ঙ রি *$\nছা ও\nকক $$২\n$ ক দ্ও",
+    "note": "Significant symbol corruption throughout the chunk."
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arts_and_crafts-5-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "Item 4 in a list is erroneously rendered as '৮৪.'."
+  }
+]

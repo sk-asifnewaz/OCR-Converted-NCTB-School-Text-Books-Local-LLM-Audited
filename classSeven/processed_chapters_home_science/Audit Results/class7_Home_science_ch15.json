@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "7-Home_science-15-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্যন্তিবিশেষের... উত্তম মানুষ মানুষের কাছ থেকে দূরে সরে যায়।",
+    "note": "ব্যন্তিবিশেষের is nonsense; the sentence about people moving away is incoherent."
+  },
+  {
+    "chunk_id": "7-Home_science-15-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ব্যক্তিত্সম্পনন",
+    "note": "Garbled word for ব্যক্তিত্বসম্পন্ন."
+  },
+  {
+    "chunk_id": "7-Home_science-15-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সৃষ্ণি করে... পা ইত্যাদির যত্ন",
+    "note": "সৃষ্ণি is a garbled word; chunk ends abruptly."
+  },
+  {
+    "chunk_id": "7-Home_science-15-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ... কৃষ্ির... খতু... বীধব। প্রসাধনসাম্রী",
+    "note": "Multiple OCR corruptions of 'গুরুত্বপূর্ণ', 'পরিবেশের', 'সময়', etc."
+  },
+  {
+    "chunk_id": "7-Home_science-15-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বৈশিষ্য... ব্যন্তিত্ব",
+    "note": "Typographical/OCR errors for বৈশিষ্ট্য and ব্যক্তিত্ব."
+  },
+  {
+    "chunk_id": "7-Home_science-15-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উপযুত্ত... ব্যক্তিত্ব অনেকখানি স্নান হয়ে যায়।",
+    "note": "উপযুত্ত is a typo; 'স্নান' (bath) makes no sense in clothing color context."
+  },
+  {
+    "chunk_id": "7-Home_science-15-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্ল্ধ... ব্যত্তিত্",
+    "note": "Garbled words for 'ঠান্ডা' and 'ব্যক্তিত্ব'."
+  },
+  {
+    "chunk_id": "7-Home_science-15-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Should be '৪.', an OCR artifact of the number 4."
+  },
+  {
+    "chunk_id": "7-Home_science-15-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গার্হস্ত্যবিজ্ঞান... 1ও... 1ওয়া",
+    "note": "Garbled title and mangled MCQ option characters."
+  },
+  {
+    "chunk_id": "7-Home_science-15-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪... 1ও... 11",
+    "note": "Number artifact and garbled MCQ options."
+  },
+  {
+    "chunk_id": "7-Home_science-15-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-15-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গার্হস্ত্যবিজ্ঞান... সুঠ",
+    "note": "Garbled title and likely typo of 'সুস্থ'."
+  }
+]

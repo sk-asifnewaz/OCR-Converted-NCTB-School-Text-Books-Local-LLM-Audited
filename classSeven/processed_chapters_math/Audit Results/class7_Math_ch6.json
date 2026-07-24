@@ -1,0 +1,263 @@
+[
+  {
+    "chunk_id": "7-Math-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-6-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩৫ 2৫ ৫ 7 ++71",
+    "note": "Garbled symbols and non-standard characters in fraction expressions."
+  },
+  {
+    "chunk_id": "7-Math-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২২৪২ ৪ ২ ২৪৩ (০৬",
+    "note": "Mangled numeric sequence and characters in mathematical context."
+  },
+  {
+    "chunk_id": "7-Math-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€ ₹ ০",
+    "note": "Foreign/unrelated symbols included in the text."
+  },
+  {
+    "chunk_id": "7-Math-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ট ৪৫৭০০ _ ২ম২৫স৫স০ম০৫ _ ২",
+    "note": "Garbled characters and numbers in math equations."
+  },
+  {
+    "chunk_id": "7-Math-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫% চু 7১ _ সস",
+    "note": "Nonsensical character strings in mathematical expressions."
+  },
+  {
+    "chunk_id": "7-Math-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(২৭+৭৩৭৮)০৭-৩৬৮)",
+    "note": "Garbled numbers and symbols in fraction expressions."
+  },
+  {
+    "chunk_id": "7-Math-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৮৭/",
+    "note": "Garbled fraction notation and punctuation."
+  },
+  {
+    "chunk_id": "7-Math-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫\" -৪ ৫%+৭৩৫-১০",
+    "note": "Garbled symbols and characters in fractions."
+  },
+  {
+    "chunk_id": "7-Math-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫৭৮২)(৫-£%)",
+    "note": "Foreign symbol '£' and garbled fractions."
+  },
+  {
+    "chunk_id": "7-Math-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩৭ ০: ১স্ম৭২০-৪)",
+    "note": "Nonsense characters replacing mathematical notation."
+  },
+  {
+    "chunk_id": "7-Math-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২২৭০০-২)",
+    "note": "Garbled sequence of numbers and symbols."
+  },
+  {
+    "chunk_id": "7-Math-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫া ত",
+    "note": "Garbled characters likely from misread fraction marks."
+  },
+  {
+    "chunk_id": "7-Math-6-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫া ত",
+    "note": "Garbled characters in list items."
+  },
+  {
+    "chunk_id": "7-Math-6-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮া",
+    "note": "Garbled characters in mathematical text."
+  },
+  {
+    "chunk_id": "7-Math-6-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "+শ_-++৭",
+    "note": "Garbled symbols in fraction expressions."
+  },
+  {
+    "chunk_id": "7-Math-6-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫-৮",
+    "note": "Garbled symbols in mathematical context."
+  },
+  {
+    "chunk_id": "7-Math-6-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩। ০",
+    "note": "Garbled characters in table/list."
+  },
+  {
+    "chunk_id": "7-Math-6-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ু",
+    "note": "Garbled character sequence in fractions."
+  },
+  {
+    "chunk_id": "7-Math-6-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২০-২৭২",
+    "note": "Garbled numbers in fraction context."
+  },
+  {
+    "chunk_id": "7-Math-6-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮া",
+    "note": "Garbled character sequence in fraction options."
+  },
+  {
+    "chunk_id": "7-Math-6-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-6-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ু",
+    "note": "Garbled character sequence in fractions."
+  },
+  {
+    "chunk_id": "7-Math-6-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫া ত",
+    "note": "Garbled characters in list items."
+  },
+  {
+    "chunk_id": "7-Math-6-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮া",
+    "note": "Garbled character sequence in fractions."
+  },
+  {
+    "chunk_id": "7-Math-6-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬ ৪ ২৪ণে২",
+    "note": "Garbled characters in calculation section."
+  },
+  {
+    "chunk_id": "7-Math-6-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ু",
+    "note": "Garbled character sequence in fractions."
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "7-Home_science-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তত্ত্বর, তশ্চুর",
+    "note": "Garbled OCR for the word 'তন্তুর' (fiber)."
+  },
+  {
+    "chunk_id": "7-Home_science-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তুলাতন্ন, তুলাতন্ত্ব, সব খতুতে",
+    "note": "Multiple instances of garbled OCR for 'তন্তুর' and 'ক্ষেত্রে'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফ়্যাক্সতত্তր, লিনেন বন্ত্র",
+    "note": "Garbled characters in 'ফ্লাক্সতন্তু' and 'বস্ত্র'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বয়ন তন্তু ১১৩, ফ়্যাক্সতত্তু",
+    "note": "Page number '113' mixed with text; garbled 'তন্তু'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯১০১০১১২৩ ৮৪৮১ ২১১১৮, টু. রং রত এপ টি পোকর লা থেকে",
+    "note": "Random digits and a nonsensical sentence fragment."
+  },
+  {
+    "chunk_id": "7-Home_science-12-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এই তত্তু",
+    "note": "Garbled OCR for the word 'তন্তু'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তন্মু, শত্তি",
+    "note": "Garbled OCR for 'তন্তুর' and 'শক্তির'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১৪",
+    "note": "Isolated page number included in the text block."
+  },
+  {
+    "chunk_id": "7-Home_science-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ্‌বে",
+    "note": "Garbled Unicode (Arabic harf-he) in the word 'হবে'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রেশম তত্ত্ুর, তুলাতন্ন, স্যেসেঁতে",
+    "note": "Garbled OCR for 'তন্তুর' and 'স্যাঁচেসেঁতে'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এই তত্তু",
+    "note": "Garbled OCR for the word 'তন্তু'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাইলনতন্ত্বর, শত্তির",
+    "note": "Garbled OCR for 'নাইলনতন্তুর' and 'শক্তির'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১৫",
+    "note": "Page number '115' embedded in the text."
+  },
+  {
+    "chunk_id": "7-Home_science-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাইলনতাত্তু",
+    "note": "Garbled OCR for 'নাইলনতন্তুর'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-12-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রাকৃতিক তন্ত্র",
+    "note": "Garbled OCR for the word 'তন্তুর'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ও, ১১উয, ১,১১ওয়া",
+    "note": "Nonsensical/garbled options for a multiple-choice question."
+  },
+  {
+    "chunk_id": "7-Home_science-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হৃগছে",
+    "note": "Garbled OCR for the word 'ভুগছে'."
+  },
+  {
+    "chunk_id": "7-Home_science-12-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

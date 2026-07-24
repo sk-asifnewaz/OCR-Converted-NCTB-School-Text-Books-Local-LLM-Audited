@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "7-Arabic-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-3-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০ 2১১১১",
+    "note": "Repetitive numbers likely from OCR noise or layout artifacts."
+  },
+  {
+    "chunk_id": "7-Arabic-3-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১১১১১১১০১১১১১১১১০১১১১১১১১১১১১১১১১১১১১",
+    "note": "Long sequence of digits is clearly an OCR artifact."
+  },
+  {
+    "chunk_id": "7-Arabic-3-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৭:০০ ৯০",
+    "note": "Random numeric strings inserted into the middle of sentences."
+  },
+  {
+    "chunk_id": "7-Arabic-3-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৫ লা",
+    "note": "Numbers appearing in place of text or as noise."
+  },
+  {
+    "chunk_id": "7-Arabic-3-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "يبدا اختبا",
+    "note": "Word 'اختبار' is cut off at the end."
+  },
+  {
+    "chunk_id": "7-Arabic-3-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৮৭২",
+    "note": "Random digits appear mid-sentence in Arabic section."
+  },
+  {
+    "chunk_id": "7-Arabic-3-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১২১১১১১১১১২১১২০১২১১২১১২১১২১",
+    "note": "Long digit string is a typical OCR looping/noise artifact."
+  },
+  {
+    "chunk_id": "7-Arabic-3-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১২১১১১১১১১২১১২০১২১১২১১২১১২১",
+    "note": "Long digit string is a typical OCR looping/noise artifact."
+  },
+  {
+    "chunk_id": "7-Arabic-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-3-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১১১১০০০১০০০০০০",
+    "note": "Nonsensical string of digits likely from layout/scans."
+  },
+  {
+    "chunk_id": "7-Arabic-3-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৭৩)",
+    "note": "Numbers appearing in the middle of Arabic text blocks."
+  },
+  {
+    "chunk_id": "7-Arabic-3-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬১৫০২",
+    "note": "Numbers interspersed in text where they do not belong."
+  },
+  {
+    "chunk_id": "7-Arabic-3-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০৮",
+    "note": "Random digits in text block."
+  },
+  {
+    "chunk_id": "7-Arabic-3-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১০০০",
+    "note": "Non-contextual number string."
+  },
+  {
+    "chunk_id": "7-Arabic-3-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-3-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৮৭২",
+    "note": "Random digit strings in Arabic text."
+  },
+  {
+    "chunk_id": "7-Arabic-3-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৮০৮০৮০৭৭০৭",
+    "note": "Long string of digits likely from OCR corruption."
+  },
+  {
+    "chunk_id": "7-Arabic-3-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০০৯",
+    "note": "Number string likely from OCR noise."
+  },
+  {
+    "chunk_id": "7-Arabic-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-3-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০০০০৬০৬০৩৬৩৬৬ ৩৬১৬৬",
+    "note": "Long repeated/complex digit string is clearly OCR noise."
+  },
+  {
+    "chunk_id": "7-Arabic-3-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০৮",
+    "note": "Number strings in Arabic text blocks."
+  },
+  {
+    "chunk_id": "7-Arabic-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

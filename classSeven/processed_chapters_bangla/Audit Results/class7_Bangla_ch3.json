@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "7-Bangla-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-3-5",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আআ আত্মা",
+    "note": "The word 'আত্মা' (soul) is likely an OCR error for a repeated vowel sound."
+  },
+  {
+    "chunk_id": "7-Bangla-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-3-7",
+    "status": "flagged",
+    "issues": ["SCRUPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীটা",
+    "note": "'কীটা' is likely a misread of 'কাঁটা' (thorn) in the context of 'ফোটার'."
+  },
+  {
+    "chunk_id": "7-Bangla-3-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-3-9",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শহিদ",
+    "note": "The text cuts off mid-phrase; the next chunk continues with 'মিনারে'."
+  },
+  {
+    "chunk_id": "7-Bangla-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

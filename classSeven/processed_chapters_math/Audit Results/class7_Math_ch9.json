@@ -1,0 +1,497 @@
+[
+  {
+    "chunk_id": "7-Math-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১৫১৫৬ ৫১৫/",
+    "note": "Likely a corrupted page number or formatting artifact."
+  },
+  {
+    "chunk_id": "7-Math-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "430, 119, 90, 04, 44, 7, /0, 41), 4190",
+    "note": "Numbers are clearly misread geometric symbols (e.g., triangles)."
+  },
+  {
+    "chunk_id": "7-Math-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "40, 10, 414, 4190",
+    "note": "Numbers are misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/১470, 1), 0019",
+    "note": "Numbers are misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4470, 4840 ও 4408, 44019",
+    "note": "Numbers are misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৮০০",
+    "note": "Likely 180 degrees (180°) misread as 1800."
+  },
+  {
+    "chunk_id": "7-Math-9-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "430, 447, 605, 1809",
+    "note": "Number strings misread from geometry symbols and degree marks."
+  },
+  {
+    "chunk_id": "7-Math-9-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4190, 40647, 4806+7 4028",
+    "note": "Numbers are misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "78405, 7480, 7408, 74009077408",
+    "note": "Number strings are artifacts of misread symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "60.",
+    "note": "The dot is likely a misread degree symbol."
+  },
+  {
+    "chunk_id": "7-Math-9-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "50\", 4730-এর 401 730 1, ০৮০-:41370",
+    "note": "Numbers are misread geometry symbols and degree signs."
+  },
+  {
+    "chunk_id": "7-Math-9-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8, 4, 6, ৪, ৮০ এবং /৬া-০",
+    "note": "Numbers are misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4170, 443, 40, 44730, 4078",
+    "note": "Numbers are misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৮চ-80-৭০ /0০€/“৬\"-€/টঢ",
+    "note": "Garbled text resulting from failed OCR of formulas."
+  },
+  {
+    "chunk_id": "7-Math-9-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4190, 47, 40, 486, 4043",
+    "note": "Numbers are misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4480, 4819, 44730, 4008, 4817, 4041",
+    "note": "Number strings are misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "40, 4, 47, 77/0, ১৮, ৬৮, 40৯47, 4730৯ 74408",
+    "note": "Mixed symbols and numbers misread from geometry."
+  },
+  {
+    "chunk_id": "7-Math-9-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "//14//0",
+    "note": "Number string is a misread geometric symbol."
+  },
+  {
+    "chunk_id": "7-Math-9-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ ১৯১১১/, ৫৭, ০, ৮",
+    "note": "Numbers are artifacts of misread geometric data."
+  },
+  {
+    "chunk_id": "7-Math-9-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "180, 4190",
+    "note": "Numbers are misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7800, 94/5, 4020177370, 77145",
+    "note": "Number strings are misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "49:40, 4409",
+    "note": "Misread values for angles (likely 45 and 90)."
+  },
+  {
+    "chunk_id": "7-Math-9-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "483, 40, 4730-এর 401 730 1",
+    "note": "Misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4190, 48, 40, 413, 41, 419049, 47, 40, 4130€",
+    "note": "Mixed misread symbols and a currency sign error."
+  },
+  {
+    "chunk_id": "7-Math-9-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4190, 47, 540, 171, 40, 410, 47140",
+    "note": "Misread geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "70114, 41014, 4018-90-20, 01914, 74, 70174, 47104",
+    "note": "Misread geometry labels."
+  },
+  {
+    "chunk_id": "7-Math-9-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫, 0, €",
+    "note": "Currency symbol is an artifact of a misread variable."
+  },
+  {
+    "chunk_id": "7-Math-9-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "919, 5, 190, ০, ৮, ৩0, 41490",
+    "note": "Misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "49017",
+    "note": "Misread geometry label."
+  },
+  {
+    "chunk_id": "7-Math-9-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "07, 4, 87408",
+    "note": "Misread geometry labels."
+  },
+  {
+    "chunk_id": "7-Math-9-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "31), 5, 90, ৪, ৮০, ৪৪০৮",
+    "note": "Misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4, 7, 5, 9",
+    "note": "Misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4190, 4806€, 407৪",
+    "note": "Misread geometry symbols and currency artifacts."
+  },
+  {
+    "chunk_id": "7-Math-9-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "319, 1391, 9/4",
+    "note": "Misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4130, 4190, 5৮, 420",
+    "note": "Misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4190, 480, 4130",
+    "note": "Misread geometry symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "19, যিক, 13 রত",
+    "note": "Mangled words and misread symbols."
+  },
+  {
+    "chunk_id": "7-Math-9-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "720",
+    "note": "Misread angle value."
+  },
+  {
+    "chunk_id": "7-Math-9-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৯টি",
+    "note": "Misread count (3) as thirty (৩৯)."
+  },
+  {
+    "chunk_id": "7-Math-9-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "60৯, 45০, 120৫",
+    "note": "Degree symbols misread as digits."
+  },
+  {
+    "chunk_id": "7-Math-9-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "60%, 30৯",
+    "note": "Degree symbols misread as digits."
+  },
+  {
+    "chunk_id": "7-Math-9-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩0\"",
+    "note": "Misread degree symbol."
+  },
+  {
+    "chunk_id": "7-Math-9-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "90, 40৭",
+    "note": "Misread degree symbol."
+  },
+  {
+    "chunk_id": "7-Math-9-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "40৮",
+    "note": "Misread degree symbol."
+  },
+  {
+    "chunk_id": "7-Math-9-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-9-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7/48০, 4_401",
+    "note": "Misread geometry symbols."
+  }
+]

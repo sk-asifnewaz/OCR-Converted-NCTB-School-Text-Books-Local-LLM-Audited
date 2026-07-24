@@ -1,0 +1,461 @@
+[
+  {
+    "chunk_id": "7-Science-11-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আমরা",
+    "note": "The sentence ends abruptly, likely cut off from the next chunk."
+  },
+  {
+    "chunk_id": "7-Science-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কত্ত ... টম",
+    "note": "Malformed words and a random nonsensical suffix/word 'টম'."
+  },
+  {
+    "chunk_id": "7-Science-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিনিউন ... পানিযুত্ত",
+    "note": "Incorrectly rendered Bengali conjuncts (should be 'নতুন' and 'পানিযুক্ত')."
+  },
+  {
+    "chunk_id": "7-Science-11-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্বোমিয়াম",
+    "note": "Should be 'ক্রোমিয়াম'; 'ক্ব' is an incorrect character usage."
+  },
+  {
+    "chunk_id": "7-Science-11-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দচ্তা",
+    "note": "Should be 'দস্তা' (zinc)."
+  },
+  {
+    "chunk_id": "7-Science-11-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নফষ্ণ",
+    "note": "Garbled word, likely meant to be 'ক্ষয়' or 'দুর্বল'."
+  },
+  {
+    "chunk_id": "7-Science-11-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রক্কিয়া ... কোমিয়াম",
+    "note": "Incorrectly rendered 'প্রক্রিয়া' and 'ক্রোমিয়াম'."
+  },
+  {
+    "chunk_id": "7-Science-11-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4 ৯",
+    "note": "Random digits inserted in the middle of a paragraph."
+  },
+  {
+    "chunk_id": "7-Science-11-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুর্ধের",
+    "note": "Should be 'সূর্যের' (of the sun)."
+  },
+  {
+    "chunk_id": "7-Science-11-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৃষ্ণি",
+    "note": "Should be 'বৃষ্টি' (rain)."
+  },
+  {
+    "chunk_id": "7-Science-11-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাষীতবন",
+    "note": "Should be 'বাষ্পীভবন' (evaporation)."
+  },
+  {
+    "chunk_id": "7-Science-11-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাষদীতবন",
+    "note": "Should be 'বাষ্পীভবন'."
+  },
+  {
+    "chunk_id": "7-Science-11-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্বনচত্র",
+    "note": "Should be 'কার্বনচক্র' (carbon cycle)."
+  },
+  {
+    "chunk_id": "7-Science-11-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ",
+    "note": "Should be 'গুরুত্বপূর্ণ' (important)."
+  },
+  {
+    "chunk_id": "7-Science-11-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্বন ডাইঅক্সীইড",
+    "note": "Extra 'ই' in 'ডাইঅক্সাইড'."
+  },
+  {
+    "chunk_id": "7-Science-11-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পারিপাখ্বিক",
+    "note": "Should be 'পারিপার্শ্বিক'."
+  },
+  {
+    "chunk_id": "7-Science-11-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অজ্গাঅষক্গিভাবে",
+    "note": "Highly garbled word, likely 'অত্যন্ত গুরুত্বপূর্ণভাবে' or similar."
+  },
+  {
+    "chunk_id": "7-Science-11-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রজ্্বলিত",
+    "note": "Should be 'প্রজ্জ্বলিত'."
+  },
+  {
+    "chunk_id": "7-Science-11-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হাইডরলোরিক, চভ১১ ৯, কাট নাগ",
+    "note": "Corrupted chemical name and nonsensical digit/text string."
+  },
+  {
+    "chunk_id": "7-Science-11-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বুদবুনদ",
+    "note": "Should be 'বুদবুদ'."
+  },
+  {
+    "chunk_id": "7-Science-11-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হাইডরলোরিক",
+    "note": "Should be 'হাইড্রোক্লোরিক'."
+  },
+  {
+    "chunk_id": "7-Science-11-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হাইডরলোরিক, পরির্বতন",
+    "note": "Corrupted chemical name and word for 'পরিবর্তন'."
+  },
+  {
+    "chunk_id": "7-Science-11-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-11-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিম্বিনুন",
+    "note": "Should be 'বিভিন্ন'."
+  },
+  {
+    "chunk_id": "7-Science-11-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১।, ১১।, ১১১।",
+    "note": "Repeated digits/mangled numbering for 1, 2, and 3."
+  },
+  {
+    "chunk_id": "7-Science-11-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চত্রাকারে, /* ও -",
+    "note": "Corrupted word for 'চক্রাকারে' and nonsensical symbols."
+  },
+  {
+    "chunk_id": "7-Science-11-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Currency symbol is not part of the Bengali language."
+  }
+]

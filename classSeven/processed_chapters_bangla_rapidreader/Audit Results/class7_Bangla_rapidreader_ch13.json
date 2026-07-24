@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "7-Bangla_rapidreader-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_rapidreader-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_rapidreader-13-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(সমস্ত 'স'-এর উচ্চারণ দন্ত্য\nকল্পনা\nকঙ্কণ\nকামাল\nওংকার\nকামাল",
+    "note": "Clause cut off at 'দন্ত্য' and duplicate name 'কামাল'."
+  },
+  {
+    "chunk_id": "7-Bangla_rapidreader-13-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla_rapidreader-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[দাতে পাত\nকঙ্কণ\nকল্পনা\nলাগার শব্দ]",
+    "note": "Garbled/split phrase in brackets with extraneous names inserted."
+  }
+]

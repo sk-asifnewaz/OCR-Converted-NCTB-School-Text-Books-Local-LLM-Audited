@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "7-Bangla-24-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শত? এত ৬",
+    "note": "The digit 6 is likely an OCR artifact or a stray page number."
+  },
+  {
+    "chunk_id": "7-Bangla-24-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-24-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

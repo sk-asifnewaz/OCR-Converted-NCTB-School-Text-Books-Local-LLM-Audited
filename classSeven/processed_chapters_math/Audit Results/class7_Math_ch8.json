@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "7-Math-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অঙন্কন",
+    "note": "Likely OCR error for 'আঙ্কন' or 'অঙ্কন'"
+  },
+  {
+    "chunk_id": "7-Math-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Math-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্ধকন, টুহ",
+    "note": "অন্ধকন is likely 'অঙ্কন', টুহ appears to be a fragment."
+  },
+  {
+    "chunk_id": "7-Math-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রং স্কুদ্তর",
+    "note": "Nonsensical phrase resulting from failed OCR of geometric terms."
+  },
+  {
+    "chunk_id": "7-Math-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "443, (01, 1474, 4149, 41,/2,43,4ূ4,45,46,47, 48",
+    "note": "Numbers and punctuation are mangled representations of angle labels."
+  },
+  {
+    "chunk_id": "7-Math-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"1, /5,/2, 43, /7, 44, \"8",
+    "note": "Symbols are mangled by OCR into numbers and punctuation."
+  },
+  {
+    "chunk_id": "7-Math-8-8",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একাত্তর",
+    "note": "Should be 'একান্তর' (alternate); 'একাত্তর' means 71."
+  },
+  {
+    "chunk_id": "7-Math-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লম্বদূরতৃকে, দূরতু",
+    "note": "Grammatical/spelling errors from OCR (should be 'লম্ব দূরত্বকে', 'দূরত্ব')."
+  },
+  {
+    "chunk_id": "7-Math-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "44, 017, 7৮, 4149, 43,4ূ4,45,46,47, 48",
+    "note": "Numeric noise replacing geometric angle labels."
+  },
+  {
+    "chunk_id": "7-Math-8-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"1, /5,42, \"3, /7, /4, /8",
+    "note": "Garbled symbols for angle identification."
+  },
+  {
+    "chunk_id": "7-Math-8-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "180০",
+    "note": "Zero used as a placeholder for the degree (°) symbol."
+  },
+  {
+    "chunk_id": "7-Math-8-13",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তঃস্থ কোণ দুটির",
+    "note": "Sentence ends abruptly without a concluding predicate."
+  },
+  {
+    "chunk_id": "7-Math-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01012617)",
+    "note": "Random digits inserted into text, likely a page or ref artifact."
+  },
+  {
+    "chunk_id": "7-Math-8-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমান্ত||পরল্প",
+    "note": "Garbled text in the middle of 'সমান্তরাল'."
+  },
+  {
+    "chunk_id": "7-Math-8-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4731, 07, 17, একাত্তর, 7৮8",
+    "note": "Severe OCR corruption of geometric symbols and terminology."
+  },
+  {
+    "chunk_id": "7-Math-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1213, স-, 48107",
+    "note": "Garbled symbols for angles and measurements."
+  },
+  {
+    "chunk_id": "7-Math-8-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "60\", অস্কিত",
+    "note": "\" is a degree symbol error; 'অস্কিত' is likely 'অতিরিক্ত' or similar."
+  },
+  {
+    "chunk_id": "7-Math-8-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "124, 473, 019, +0",
+    "note": "Garbled geometry labels and page/figure markers."
+  },
+  {
+    "chunk_id": "7-Math-8-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ, টু, 7201, -55*, /1404",
+    "note": "Mixed noise and mangled angle measurements."
+  },
+  {
+    "chunk_id": "7-Math-8-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫০&১, / ৫২",
+    "note": "Mangeld angle markers."
+  },
+  {
+    "chunk_id": "7-Math-8-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সস, ++, ল-",
+    "note": "Garbled symbols instead of angle names or operators."
+  },
+  {
+    "chunk_id": "7-Math-8-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "126, 77108",
+    "note": "Garbled page numbers and angle labels."
+  },
+  {
+    "chunk_id": "7-Math-8-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও, ! ও 11, /4/47৮",
+    "note": "Extensive OCR issues with geometric symbols."
+  },
+  {
+    "chunk_id": "7-Math-8-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"%, 25*",
+    "note": "Garbled angle markers and degree symbols."
+  },
+  {
+    "chunk_id": "7-Math-8-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪০০, 197",
+    "note": "Mangeld angle labels."
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "chunk_id": "7-Buddhist_religion-10-1",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "একাদশ অধ্যায়",
+    "note": "Title says Chapter 10, but text says 'Chapter Eleven'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বাট, অন্দ",
+    "note": "Words 'সম্বাট' (instead of সম্রাট) and 'অন্দ' (instead of অব্দ) are corrupted."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বাট, স্মা্ট",
+    "note": "Corrupted/truncated forms of 'সম্রাট' (Emperor)."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বাট, ১০৩",
+    "note": "Corrupted 'সম্রাট' and a standalone digit likely from page numbering."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বাট",
+    "note": "Corrupted form of 'সম্রাট'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অমরতু",
+    "note": "Should be 'অমৃতু' (Nectar/Immortality)."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৌদ্ধধ্ম",
+    "note": "Missing character; should be 'বৌদ্ধধর্ম'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেহ-মমতা",
+    "note": "Should be 'সহ-মমতা'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বা্ট",
+    "note": "Corrupted form of 'সম্রাট'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বাট",
+    "note": "Corrupted form of 'সম্রাট'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রচেন্না, সীমারেখা",
+    "note": "Corrupted 'প্রচেষ্টা' and sentence ends abruptly at boundary."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ফমা নং ১৪, বে দ্ধধম শঙ্ষা ৭ম",
+    "note": "Garbled line with mixed digits and corrupted Bengali characters."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাজতৃ",
+    "note": "Should be 'রাজত্ব'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্মা্ট",
+    "note": "Corrupted/truncated form of 'সম্রাট'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্ষুগ্ন",
+    "note": "Should be 'অক্ষুণ্ণ'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাষ্ত্র",
+    "note": "Should be 'রাষ্ট্র'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্বাট",
+    "note": "Corrupted form of 'সম্রাট'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্তন্ত",
+    "note": "Should be 'স্তূপ'."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক.1ওয়, খ.া ওয়",
+    "note": "Garbled options and non-standard punctuation in multiple choice."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্ত",
+    "note": "Garbled word, likely 'ধর্ম' or similar."
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Buddhist_religion-10-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-গাঙ৩",
+    "note": "Garbled text likely from page footer or layout artifact."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "7-Arabic-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0৩0৮, 2৫; হী ৫ 5 নি; ৩০ এ",
+    "note": "Numerous non-functional digits and garbled character sequences throughout."
+  },
+  {
+    "chunk_id": "7-Arabic-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ 7:9৯; নূর ০৩০৩০ লা ন্‌; ০৩ ০",
+    "note": "Embedded digit strings and garbled phrases interrupt the text flow."
+  },
+  {
+    "chunk_id": "7-Arabic-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "د ও ও2; ২১ : ৩২; ممم مم ممম",
+    "note": "Arabic text mixed with Bengali characters and repeating gibberish sequences."
+  },
+  {
+    "chunk_id": "7-Arabic-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০০০০০০০০০০০০০০; লতা পে; র ও",
+    "note": "Repeated zeros and garbled Bengali/Arabic mixed segments."
+  },
+  {
+    "chunk_id": "7-Arabic-6-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ন্‌ লতা ৯০৩০০; 0459; ২০২৬",
+    "note": "Random digits and garbled character clusters in the text."
+  }
+]

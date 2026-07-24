@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "7-Hindu_religion-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধর্মগ্রহ",
+    "note": "Likely a typo or OCR error for 'ধর্মগ্রন্থ'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মার্কত্ডয়, শ্রীশীচপ্তী",
+    "note": "Garbled words for 'মার্কণ্ডেয়' and 'শ্রীশ্রীচণ্ডী'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধর্মগ্রই, সৃষ্ি, খষি, তীঁর্থমাহাত্ত্য",
+    "note": "Multiple OCR errors for 'ধর্মগ্রন্থ', 'সৃষ্টি', 'ঋষি', and 'তীর্থমাহাত্ম্য'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুরারn সংখ্যা দনেক। ভবে প্রধান গাল",
+    "note": "Severe corruption of sentence regarding the number of Puranas."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮) শিব পুরাণ, মার্কণেয়, ব্রশ্মবৈবর্ত",
+    "note": "Incorrect numbering (8 instead of 4) and garbled names."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মার্কওয়্য, ব্রহ্মবৈবর্ত",
+    "note": "Garbled word 'মার্কণ্ডেয়'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হাঁউস কথা, সৃকধি হন, অর্ধিক",
+    "note": "Garbled words for 'আসুরা', 'সৃষ্টি', and 'অধিক'. "
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "++. ++, ৪ ৬, ৫্-, ৮৮৮১",
+    "note": "Non-sensical digits and symbols inserted into the text."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০ ধ্ম릉সথ",
+    "note": "Likely a mangled page title or footer."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রীশীচপ্তী, মার্কত্ডয়",
+    "note": "Garbled names 'শ্রীশ্রীচণ্ডী' and 'মার্কণ্ডেয়'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চণ্জী, ৯ ৪",
+    "note": "Garbled word 'চণ্ডী' and extraneous digit sequence."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শুরূপক্ষের",
+    "note": "Garbled word, likely 'শুরু থেকে' or similar."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমব্যকী",
+    "note": "Garbled word, likely 'সমব্যক্ত' or 'একই কথা'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুূজাপদ্ধতি, মূন্ময়ী",
+    "note": "Garbled words for 'পূজাপদ্ধতি' and 'মূর্তী'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রীশ্মীচপ্তী",
+    "note": "Garbled word 'শ্রীশ্রীচণ্ডী'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সক্ুদ্ধূর্তি",
+    "note": "Garbled word, nonsensical in context."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শুস্ত, নিশুস্ভ",
+    "note": "Garbled names of demons."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্বিকারা",
+    "note": "Garbled word, likely 'অসুররা'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রীশীচপ্তী, সুষ্ট নিশুস্ভ",
+    "note": "Garbled words 'শ্রীশ্রীচণ্ডী' and names of demons."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, শ্রীশীচপ্ডী",
+    "note": "Garbled words for 'শক্তি' and 'শ্রীশ্রীচণ্ডী'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিত্ত্ব, শ্রীশীচপ্ডী",
+    "note": "Garbled words for 'শক্তি' and 'শ্রীশ্রীচণ্ডী'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মুর্গলময়ী, মজ্গল্যে",
+    "note": "Severe corruption of 'দুর্গতময়িনী' and 'দুর্গলাপরত'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মজল",
+    "note": "Garbled word for 'দুর্গলাপরত' or similar."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ) জন্মান্তর, গ) ভক্তিপূর্ণ",
+    "note": "Duplicate labels in a list."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক)! ও], খা] ও]া], গ)1ও]1]",
+    "note": "Garbled output for multiple-choice answers."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফর্মা-৪",
+    "note": "Garbled word likely intended as 'পাঠ' or similar."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-3-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

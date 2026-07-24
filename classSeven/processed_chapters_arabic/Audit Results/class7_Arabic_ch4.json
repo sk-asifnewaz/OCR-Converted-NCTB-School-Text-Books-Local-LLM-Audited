@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "7-Arabic-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০১৮০ 52% 152.",
+    "note": "Random numbers and symbols mixed in the text."
+  },
+  {
+    "chunk_id": "7-Arabic-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "15৮ ০১%% $2.%",
+    "note": "Non-linguistic symbols and numbers interspersed in text."
+  },
+  {
+    "chunk_id": "7-Arabic-4-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১*%%%",
+    "note": "Garbled symbol sequences from OCR artifacts."
+  },
+  {
+    "chunk_id": "7-Arabic-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Arabic-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "273175",
+    "note": "Large digit strings that do not belong to the curriculum."
+  },
+  {
+    "chunk_id": "7-Arabic-4-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ ০ 0 7 > > 7",
+    "note": "Garbage characters and symbols at the start of chunk."
+  },
+  {
+    "chunk_id": "7-Arabic-4-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০.ঃ 3 )142",
+    "note": "Nonsensical punctuation and digit strings."
+  },
+  {
+    "chunk_id": "7-Arabic-4-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০২৬",
+    "note": "Isolated numbers likely from page headers or footers."
+  },
+  {
+    "chunk_id": "7-Arabic-4-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০, সে ২২",
+    "note": "Fragmented and nonsensical character sequence."
+  },
+  {
+    "chunk_id": "7-Arabic-4-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০০০০০০০০",
+    "note": "Long string of zeros is a clear OCR/transcription error."
+  },
+  {
+    "chunk_id": "7-Arabic-4-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১০৮০",
+    "note": "Nonsensical large numbers embedded in Arabic text."
+  },
+  {
+    "chunk_id": "7-Arabic-4-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পা ক কক",
+    "note": "Nonsensical repetition of letters."
+  }
+]

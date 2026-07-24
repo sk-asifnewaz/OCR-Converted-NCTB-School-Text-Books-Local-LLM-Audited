@@ -1,0 +1,344 @@
+[
+  {
+    "chunk_id": "7-Christian_religion-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যীশু খ্রী্, সঈশ্বরপুত্রের",
+    "note": "Malformed words for Christ and God's son due to OCR errors."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফধর্ম, যীশু খ্রীষ্",
+    "note": "Incorrect rendering of the word 'Christ' (খ্রীষ্ট)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফ",
+    "note": "Incorrect rendering of 'Christ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাস্তিস্স",
+    "note": "Nonsensical word likely a corruption of a different Bengali term."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁতিহাসিক",
+    "note": "Incorrect diacritic/character in the word 'historical'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইন্লায়েল",
+    "note": "Likely a corruption of the name 'Israel' (ইস্রায়েল)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফৌরাণ",
+    "note": "Likely a corruption of 'Pharaoh' (ফারাও)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দৃষ্ণি, অপদুট",
+    "note": "Garbled words for 'visible' and 'handicapped'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হিক্রু, হিৰু, খ্রীফ, হ্রীষ্, যুত্তু",
+    "note": "Multiple corrupted words for Hebrew, Greek, and Christ."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রব্তাদের, উৎসর্গীকৃত, প্রবন্তা",
+    "note": "Garbled words for 'priests' and 'sacrificed'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাস্তিস্মের, উৎসগীকৃত, ক্কুশে",
+    "note": "Garbled words for 'reality', 'sacrificed', and 'why'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিশ্ববৃন্মাণ্ডের",
+    "note": "Garbled word for 'Universe' (মহাবিশ্ব)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্রীষ্ট",
+    "note": "Incorrect rendering of 'Christ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দৃষফ্, কণ্জঁকে, শত্তি, এশ্বরিক শত্তির",
+    "note": "Severe corruption of 'visible', 'temple', and 'power'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রেরিতশিয্যেরা",
+    "note": "Garbled word for 'apostles' (প্রেরিতশিষ্যেরা)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফ",
+    "note": "Incorrect rendering of 'Christ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীফ",
+    "note": "Incorrect rendering of 'Christ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্রীষ, খ্্রীষ্ট",
+    "note": "Inconsistent/corrupted renderings of 'Christ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "থ্রী",
+    "note": "Garbled word for 'তিনি' (He)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এঁশ্বরিক",
+    "note": "Garbled word for 'divine' (ঈশ্বরিক)."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধরীফ্ণ, শত্তি, যাজকত্বৃকে",
+    "note": "Garbled words for 'Christ', 'power', and 'priesthood'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1. ... 11. ... 111. ... খ.া1ও11, ঘ. 1,11ও 111",
+    "note": "Garbled digits and corrupted options in a multiple choice question."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্রীফধর্ম",
+    "note": "Incorrect rendering of 'Christ'."
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Christian_religion-1-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

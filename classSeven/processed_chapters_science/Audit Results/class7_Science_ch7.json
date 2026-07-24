@@ -1,0 +1,578 @@
+[
+  {
+    "chunk_id": "7-Science-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির ব্যবহার",
+    "note": "The word 'শক্তি' (energy) is consistently corrupted as 'শত্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন\nչ\nরা",
+    "note": "Fragmented and garbled text at the end of the chunk."
+  },
+  {
+    "chunk_id": "7-Science-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্মান্ত",
+    "note": "Nonsensical word, likely a corruption of 'আড়িকুণি' or similar."
+  },
+  {
+    "chunk_id": "7-Science-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির ব্যবহার",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি ৷",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(70016)",
+    "note": "Non-contextual digits likely from a page or reference number."
+  },
+  {
+    "chunk_id": "7-Science-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যান্ত্রিক শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দিত্তিশক্তি, ত্থিতিশক্তি",
+    "note": "Corrupted spellings of 'স্থিতিশক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাসায়নিক শরক্তিক",
+    "note": "Corrupted spelling of 'রাসায়নিক শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তাপশত্তি",
+    "note": "Corrupted spelling of 'তাপশক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আলোকশত্তি",
+    "note": "Corrupted spelling of 'আলোকশক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শব্দ শত্তি",
+    "note": "Corrupted spelling of 'শব্দ শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিদ্যুৎশত্তি",
+    "note": "Corrupted spelling of 'বিদ্যুৎশক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্থিতিশক্তি, শাত্তিশালী",
+    "note": "Corrupted spellings of 'স্থিতিশক্তি' and 'শক্তিশালী'."
+  },
+  {
+    "chunk_id": "7-Science-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির রূপান্তর",
+    "note": "Corrupted spelling of 'শক্তির'."
+  },
+  {
+    "chunk_id": "7-Science-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "থিত্তি শত্তি, ত্থিতিশক্তি",
+    "note": "Corrupted spellings of 'স্থিতিশক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির রূপান্তর",
+    "note": "Corrupted spelling of 'শক্তির'."
+  },
+  {
+    "chunk_id": "7-Science-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অগ্নিকুলিন্জা",
+    "note": "Garbled word, likely 'অগ্নিকুণ্ড' or a similar term."
+  },
+  {
+    "chunk_id": "7-Science-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্পন্নু, বন\nչ\nরা",
+    "note": "Corrupted words and fragmented text."
+  },
+  {
+    "chunk_id": "7-Science-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চৌম্বক শত্তির",
+    "note": "Corrupted spelling of 'শক্তির'."
+  },
+  {
+    "chunk_id": "7-Science-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্দত, উচ্চারণকৃত",
+    "note": "Corrupted spelling of 'দ্রুত' and 'চৌম্বক'."
+  },
+  {
+    "chunk_id": "7-Science-7-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্পন্নু, যাত্তিক",
+    "note": "Corrupted spellings of 'উৎপাদন' and 'যান্ত্রিক'."
+  },
+  {
+    "chunk_id": "7-Science-7-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্পন্নু, শত্তি",
+    "note": "Corrupted spellings of 'উৎপাদন' and 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্পন্নু, যাত্তিক",
+    "note": "Corrupted spellings of 'উৎপাদন' and 'যান্ত্রিক'."
+  },
+  {
+    "chunk_id": "7-Science-7-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ্থিতিশক্তি",
+    "note": "Corrupted spelling of 'স্থিতিশক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্পন্নু, শত্তি",
+    "note": "Corrupted spellings of 'উৎপাদন' and 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, সূর্যরশ্মি",
+    "note": "Corrupted spellings of 'শক্তি' and 'সূর্যরশ্মি'."
+  },
+  {
+    "chunk_id": "7-Science-7-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-7-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উ্পন্নু, শত্তি",
+    "note": "Corrupted spellings of 'উৎপাদন' and 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লেঙ্স",
+    "note": "Corrupted spelling of 'লেন্স'."
+  },
+  {
+    "chunk_id": "7-Science-7-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাস্য্যকর",
+    "note": "Corrupted/nonsensical word."
+  },
+  {
+    "chunk_id": "7-Science-7-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অফরন্ত, স্লোতকে",
+    "note": "Corrupted spellings of 'অফুরন্ত' and 'স্রোতকে'."
+  },
+  {
+    "chunk_id": "7-Science-7-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যয়সুল",
+    "note": "Corrupted spelling of 'ব্যয়বহুল'."
+  },
+  {
+    "chunk_id": "7-Science-7-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কফ্টসাধ্য",
+    "note": "Corrupted spelling of 'সরাসরি' or similar."
+  },
+  {
+    "chunk_id": "7-Science-7-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিজ্কেট",
+    "note": "Corrupted spelling of 'নিম্নোক্ত'."
+  },
+  {
+    "chunk_id": "7-Science-7-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রারন্তিক",
+    "note": "Corrupted spelling of 'প্রাথমিক'."
+  },
+  {
+    "chunk_id": "7-Science-7-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাবানির",
+    "note": "Corrupted spelling of 'সরবরাহের'."
+  },
+  {
+    "chunk_id": "7-Science-7-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমুদ্রসনোত",
+    "note": "Corrupted spelling of 'সমুদ্রস্রোত'."
+  },
+  {
+    "chunk_id": "7-Science-7-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "Corrupted spelling of 'শক্তির'."
+  },
+  {
+    "chunk_id": "7-Science-7-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্ণি",
+    "note": "Corrupted spelling of 'সৃষ্টি'."
+  },
+  {
+    "chunk_id": "7-Science-7-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লাইটযুত্ত",
+    "note": "Corrupted spelling of 'লাইট বা'."
+  },
+  {
+    "chunk_id": "7-Science-7-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তিত্তিশক্তি, চিত্তিশক্কি",
+    "note": "Corrupted spelling of 'স্থিতিশক্তি' and messy formatting."
+  },
+  {
+    "chunk_id": "7-Science-7-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Science-7-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted spelling of 'শক্তি'."
+  }
+]

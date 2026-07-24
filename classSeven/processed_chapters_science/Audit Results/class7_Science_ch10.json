@@ -1,0 +1,416 @@
+[
+  {
+    "chunk_id": "7-Science-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুম্ঘক",
+    "note": "Should be 'চুম্বক' (magnet)."
+  },
+  {
+    "chunk_id": "7-Science-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শ্থিরবিদ্যুৎ",
+    "note": "Should be 'স্থিরবিদ্যুৎ' (static electricity)."
+  },
+  {
+    "chunk_id": "7-Science-10-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১০২",
+    "note": "Appears to be an artifact (page/chapter number)."
+  },
+  {
+    "chunk_id": "7-Science-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খণাত্মক",
+    "note": "Corrupted form of 'ঋণাত্মক' (negative)."
+  },
+  {
+    "chunk_id": "7-Science-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খণাত্মক, খণাত্ত্যক",
+    "note": "Corrupted forms of 'ঋণাত্মক' (negative)."
+  },
+  {
+    "chunk_id": "7-Science-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিজ্ঞান ১০৩",
+    "note": "Likely a page number artifact."
+  },
+  {
+    "chunk_id": "7-Science-10-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "টুকরো।",
+    "note": "Sentence ends abruptly at the chunk boundary."
+  },
+  {
+    "chunk_id": "7-Science-10-12",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সৌজন্যে সহজেই কাগজের",
+    "note": "Clause/sentence breaks mid-thought; continues in next chunk."
+  },
+  {
+    "chunk_id": "7-Science-10-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পরিপাইী",
+    "note": "Should be 'পরিবাহী' (conductor)."
+  },
+  {
+    "chunk_id": "7-Science-10-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আধানযুত্তু",
+    "note": "Should be 'আধানযুক্ত' (charged)."
+  },
+  {
+    "chunk_id": "7-Science-10-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্থিরিবিদ্যুৎ",
+    "note": "Should be 'স্থিরবিদ্যুৎ'."
+  },
+  {
+    "chunk_id": "7-Science-10-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বোবা, উত্পনন",
+    "note": "Should be 'বোঝা' and 'উৎপাদন'."
+  },
+  {
+    "chunk_id": "7-Science-10-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিদ্যুৎ্রবাহ",
+    "note": "Should be 'বিদ্যুৎপ্রবাহ'."
+  },
+  {
+    "chunk_id": "7-Science-10-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিদ্যুত্বর্তনী",
+    "note": "Mangled word for circuit/path."
+  },
+  {
+    "chunk_id": "7-Science-10-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সম্পনুন",
+    "note": "Should be 'সম্পন্ন'."
+  },
+  {
+    "chunk_id": "7-Science-10-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বাদ্ব, বাঘ",
+    "note": "Both are garbled versions of 'বাল্ব' (bulb)."
+  },
+  {
+    "chunk_id": "7-Science-10-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাদ্ব, মা,",
+    "note": "Malformed word for bulb and trailing comma/truncation."
+  },
+  {
+    "chunk_id": "7-Science-10-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নাইক্কোম",
+    "note": "Should be 'নিক্রোম' (nichrome)."
+  },
+  {
+    "chunk_id": "7-Science-10-24",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চ।",
+    "note": "Sentence ends abruptly."
+  },
+  {
+    "chunk_id": "7-Science-10-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুমন্বক",
+    "note": "Should be 'চুম্বক'."
+  },
+  {
+    "chunk_id": "7-Science-10-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সদ্ে, না_",
+    "note": "Nonsensical characters/garbled words."
+  },
+  {
+    "chunk_id": "7-Science-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুন্বক",
+    "note": "Should be 'চুম্বক'."
+  },
+  {
+    "chunk_id": "7-Science-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুর্ম্যকের",
+    "note": "Mangled form of 'চুম্বকের'."
+  },
+  {
+    "chunk_id": "7-Science-10-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুন্ম্যকের",
+    "note": "Mangled form of 'চুম্বকের'."
+  },
+  {
+    "chunk_id": "7-Science-10-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুন্মক",
+    "note": "Mangled form of 'চুম্বক'."
+  },
+  {
+    "chunk_id": "7-Science-10-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুম্ঘকটি",
+    "note": "Should be 'চুম্বকটি'."
+  },
+  {
+    "chunk_id": "7-Science-10-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুন্বক",
+    "note": "Should be 'চুম্বক'."
+  },
+  {
+    "chunk_id": "7-Science-10-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চট্র-১০.১৩",
+    "note": "Should be 'চিত্র' (image)."
+  },
+  {
+    "chunk_id": "7-Science-10-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্যকের, র ঢা",
+    "note": "Mangled 'চুম্বকের' and garbled ending phrase."
+  },
+  {
+    "chunk_id": "7-Science-10-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৃষ্ি",
+    "note": "Missing character 'ষ' (should be সৃষ্টি)."
+  },
+  {
+    "chunk_id": "7-Science-10-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দন্ড",
+    "note": "Should be 'ডণ্ড' (rod)."
+  },
+  {
+    "chunk_id": "7-Science-10-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭ -৮৯, ৮ -৮",
+    "note": "Arbitrary numbers inserted in the middle of labels."
+  },
+  {
+    "chunk_id": "7-Science-10-44",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪। / ও ৩",
+    "note": "Nonsensical symbols/numbers."
+  },
+  {
+    "chunk_id": "7-Science-10-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Science-10-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

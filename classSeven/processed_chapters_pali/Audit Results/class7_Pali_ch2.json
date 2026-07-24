@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "7-Pali-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বট্রক জাতক",
+    "note": "The word 'বট্রক' appears to be a mangled OCR artifact of a title."
+  },
+  {
+    "chunk_id": "7-Pali-2-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪১",
+    "note": "This is likely a corrupted list marker (4.) instead of '৪।'."
+  },
+  {
+    "chunk_id": "7-Pali-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৫?",
+    "note": "The question mark is likely an artifact of a mangled list marker (5.)."
+  },
+  {
+    "chunk_id": "7-Pali-2-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "23",
+    "note": "The number '23' appears as a non-sequitur digit in the middle of sentence."
+  }
+]

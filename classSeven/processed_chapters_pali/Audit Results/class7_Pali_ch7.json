@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "7-Pali-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Pali-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন 'ও",
+    "note": "Contains stray punctuation and garbled script fragments."
+  },
+  {
+    "chunk_id": "7-Pali-7-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বত্তমানা1",
+    "note": "Number '1' appears as an artifact at the end of a word."
+  },
+  {
+    "chunk_id": "7-Pali-7-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কিরণ দ্য স চন্দো রস্তিং",
+    "note": "Nonsensical sequence of words likely due to poor OCR."
+  },
+  {
+    "chunk_id": "7-Pali-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কচবরালি ছচ্ধেড়ছি",
+    "note": "Corrupted text where characters are replaced by others."
+  },
+  {
+    "chunk_id": "7-Pali-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দারিক্কা পিপাসিত্ভসূদ",
+    "note": "Garbled Pali/Bengali text resulting from OCR errors."
+  },
+  {
+    "chunk_id": "7-Pali-7-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাড়গস্ত",
+    "note": "Nonsensical word formation in the context of the sentence."
+  },
+  {
+    "chunk_id": "7-Pali-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনাথপিত্তিক শ্রেষ্ঠী জেতব্ন",
+    "note": "Corrupted words resulting from poor character recognition."
+  },
+  {
+    "chunk_id": "7-Pali-7-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

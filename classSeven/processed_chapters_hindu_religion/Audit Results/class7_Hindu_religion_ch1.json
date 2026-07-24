@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "7-Hindu_religion-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Repeated corruption of the word 'শক্তি' (power)."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঈশ্র, সর্ব্তিমান, ভীব-জগংকে",
+    "note": "Garbled words likely intended as 'ঈশ্বর', 'সর্বশক্তিমান', and 'জীব-জগৎকে'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ষ্টারই, স্নষ্টার",
+    "note": "Corrupted words likely intended as 'একটাই' and 'একটির'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পা ঞ, (1., ৩, ৮)",
+    "note": "Random characters and numbers from page layout or bad OCR."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অচিতত্তব",
+    "note": "Nonsensical word resulting from poor OCR."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বয়্ম্ম_ ",
+    "note": "Trailing underscore is a common OCR noise character."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Corrupted word 'শক্তি'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দাচা :\nঈশ্বরের স্বরূপ ৫",
+    "note": "Significant layout noise and artifacts at the bottom of chunk."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্তবস্তুতি",
+    "note": "Garbled word at the end of the paragraph."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খগ্বেদে",
+    "note": "Likely a corrupted word for 'ধর্মগ্রন্থে' or similar."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পীচটি যুত্তি",
+    "note": "Garbled words likely intended as 'একটি প্রশ্ন'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সৃষ্ণির, ব্রন্ধা, মর্প্ধা",
+    "note": "Highly garbled terms likely referring to 'স্বর্গের', 'ব্রহ্মা' etc."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি, সৃষ্ণি",
+    "note": "Corrupted words for 'শক্তি' and 'সৃষ্টি'."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.]ও]] খ.াা ও], গ.]ও]ৌ11 ঘ. 1,11,ও 1]",
+    "note": "Severe corruption of the multiple-choice option strings."
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Hindu_religion-1-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

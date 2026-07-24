@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "7-Arabic-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "077 ‎618১ ০০৮1:‏ مَامُوْنَ ‎৮0৮",
+    "note": "Multiple instances of non-semantic numbers and symbols embedded in Arabic text."
+  },
+  {
+    "chunk_id": "7-Arabic-5-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০০০০১",
+    "note": "Sequence of zeros is an OCR artifact."
+  },
+  {
+    "chunk_id": "7-Arabic-5-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩০৬৬৬৩৬৬৬৩৬০৬৬৬৬০৬৬৬৬০৬৬৬৯০৬৬৬৬৬৬৬৬৬৬৬৬০০৬৬৬০৬৬৬৬৬৬৬৬৬০৬৬",
+    "note": "Long, repetitive string of numbers indicates an OCR looping error."
+  },
+  {
+    "chunk_id": "7-Arabic-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১০০০৮০৩০২১",
+    "note": "Strings of numbers and garbled characters are not part of the content."
+  }
+]

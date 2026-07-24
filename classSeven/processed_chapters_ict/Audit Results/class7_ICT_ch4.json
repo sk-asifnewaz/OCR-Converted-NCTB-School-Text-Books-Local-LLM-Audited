@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "7-ICT-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "প17/৬1073",
+    "note": "Number string is clearly an OCR artifact for a keyboard shortcut."
+  },
+  {
+    "chunk_id": "7-ICT-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সক | দ|শ|[|দমাগষ দাহ | | ও | |[ভদ্",
+    "note": "Large block of corrupted characters and noise following 'ইউনিকোড'."
+  },
+  {
+    "chunk_id": "7-ICT-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ || ьа[লা|[মদ্াাঘা",
+    "note": "Non-sensical character sequence/corruption in the first line."
+  },
+  {
+    "chunk_id": "7-ICT-4-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "3171 081718185 5811\n881",
+    "note": "Random digit string embedded in a sentence describing a song."
+  },
+  {
+    "chunk_id": "7-ICT-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আমার সোনার বাং",
+    "note": "Likely truncated from 'আমার সোনার বাংলাদেশ'."
+  },
+  {
+    "chunk_id": "7-ICT-4-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0010115)",
+    "note": "Nonsensical number sequence likely replacing 'Ctrl' or similar."
+  },
+  {
+    "chunk_id": "7-ICT-4-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0৮0)",
+    "note": "Digits and symbols likely artifacts of keyboard shortcut names."
+  },
+  {
+    "chunk_id": "7-ICT-4-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শ]এবং \" কী\n' (গ+)",
+    "note": "Corrupted characters and noise in shortcut descriptions."
+  },
+  {
+    "chunk_id": "7-ICT-4-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1)61606 বা 129] বা 380151306",
+    "note": "Complex, nonsensical number strings in a list of shortcut options."
+  },
+  {
+    "chunk_id": "7-ICT-4-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01076",
+    "note": "Numerical noise appearing where a shortcut key is expected."
+  },
+  {
+    "chunk_id": "7-ICT-4-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গণো+]",
+    "note": "Garbled characters at the end of a sentence."
+  },
+  {
+    "chunk_id": "7-ICT-4-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪, 1, [7",
+    "note": "Garbled characters/digits in a section about font styling."
+  },
+  {
+    "chunk_id": "7-ICT-4-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ্জাছ ছু লা",
+    "note": "Nonsensical characters likely resulting from poor OCR of icons/buttons."
+  },
+  {
+    "chunk_id": "7-ICT-4-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গো+1",
+    "note": "Numerical noise in shortcut instruction list."
+  },
+  {
+    "chunk_id": "7-ICT-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১1010",
+    "note": "Number string likely noise for a specific icon/key."
+  },
+  {
+    "chunk_id": "7-ICT-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(33০)",
+    "note": "Garbled number/character in a parenthesis."
+  },
+  {
+    "chunk_id": "7-ICT-4-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-24",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পম",
+    "note": "Likely truncated word 'প্রশ্ন' (question)."
+  },
+  {
+    "chunk_id": "7-ICT-4-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক্ষ \"দল ০৬৪ \"",
+    "note": "Corrupted script and noise in the final line."
+  },
+  {
+    "chunk_id": "7-ICT-4-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-ICT-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও11",
+    "note": "Nonsensical numbering for options (i, ii) corrupted by OCR."
+  },
+  {
+    "chunk_id": "7-ICT-4-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0০৭)",
+    "note": "Garbled numbers likely for 'Ctrl' or similar command."
+  }
+]

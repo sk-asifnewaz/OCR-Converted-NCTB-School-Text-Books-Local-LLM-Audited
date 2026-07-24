@@ -1,0 +1,299 @@
+[
+  {
+    "chunk_id": "7-Home_science-14-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্র অলংকরণ",
+    "note": "The word 'বস্ত্র' (cloth) is corrupted to 'ক্র'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বনত্র, বসেত্র, বঞ্চদ্র",
+    "note": "Multiple instances of 'বস্ত্র' are corrupted by OCR."
+  },
+  {
+    "chunk_id": "7-Home_science-14-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বসেত্রের, বঞ্চদ্রকে",
+    "note": "Consistent script corruption of the word 'বস্ত্র'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বচদตร์, বঞ্চদ্র",
+    "note": "Corrupted text for 'বস্ত্র' appears multiple times."
+  },
+  {
+    "chunk_id": "7-Home_science-14-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বস সজ্জামূলক নকশার বসত",
+    "note": "The sentence is nonsensical and likely a garbled fragment."
+  },
+  {
+    "chunk_id": "7-Home_science-14-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "হবে।",
+    "note": "Chunk ends abruptly; context suggests a sentence was cut off."
+  },
+  {
+    "chunk_id": "7-Home_science-14-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রক্বীয়",
+    "note": "Incorrect character 'ক্ব' instead of 'ক্র' in 'প্রক্রিয়া'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বচতটটি, বসেত্রর",
+    "note": "Corrupted spelling of 'বস্ত্র' throughout the paragraph."
+  },
+  {
+    "chunk_id": "7-Home_science-14-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডাইথ, বক্র অলংকরণ",
+    "note": "'ডাইথ' should be 'ডাইং' and 'বক্র' should be 'বস্ত্র'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্পা",
+    "note": "Trailing 'স্পা' is a fragment of a word or title."
+  },
+  {
+    "chunk_id": "7-Home_science-14-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাযালুমিনিয়ামের",
+    "note": "Likely a corruption of 'অ্যালুমিনিয়াম' (aluminium)."
+  },
+  {
+    "chunk_id": "7-Home_science-14-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রিন্টিঘ, বচদตร์",
+    "note": "Corrupted spelling for 'প্রিন্টিং' and 'বস্ত্র'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রিন্টিৎ-এর",
+    "note": "Incorrect character 'ৎ' instead of 'ং'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গারহথ্যবিজ্ঞান, মা\nরা",
+    "note": "Misspelled 'গারহস্থ্যবিজ্ঞান' and fragmented word at end."
+  },
+  {
+    "chunk_id": "7-Home_science-14-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্স ফৌড়",
+    "note": "Should be 'ক্রস' (Cross) stitch."
+  },
+  {
+    "chunk_id": "7-Home_science-14-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা, হেরিৎ বোন",
+    "note": "Corrupted characters in 'বস্ত্র' and 'হেরিংবোন'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অং:",
+    "note": "Punctuation error or script corruption in 'অঙ্গ'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "” 0 প্",
+    "note": "Random digits and symbols injected mid-sentence."
+  },
+  {
+    "chunk_id": "7-Home_science-14-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Home_science-14-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ও পুঁতি লাগিয়ে দিলেন।",
+    "note": "Sentence appears out of context or joined from another page."
+  },
+  {
+    "chunk_id": "7-Home_science-14-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1উ1, 11ও111, ],মওয়া",
+    "note": "Garbled symbols and incorrect numerals for '১ ও ২'."
+  },
+  {
+    "chunk_id": "7-Home_science-14-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

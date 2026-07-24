@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "7-Bangla-19-1",
+    "status": "flagged",
+    "issues": ["SCRIPTCORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "'খাবণে'",
+    "note": "OCR error: 'খাবণে' should be 'শ্রাবণে' based on context."
+  },
+  {
+    "chunk_id": "7-Bangla-19-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-19-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "7-Bangla-19-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPTCORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "-41্পতি\nরণ ৷\n২ / /\nপল\n/? 4",
+    "note": "Contains random digits and symbols from OCR artifacts."
+  }
+]
