@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "6-Arabic-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-7-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০ >١١ বে\nক কক\n০৩০ ‏د‎\nو\n2 27 ؟ ةق .و",
+    "note": "Garbled characters and messy number strings suggest OCR corruption."
+  },
+  {
+    "chunk_id": "6-Arabic-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-_ _চ\nক\nকক ক\nলা\n- ০ +- ١, ‏و ىا‎ ০ 27",
+    "note": "Nonsensical character sequences and mangled numeric strings."
+  },
+  {
+    "chunk_id": "6-Arabic-7-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তল ০ - ৭? লে ০ ০\n25 2 9! ‏و‎ লও ‏و‎ ০ ৫",
+    "note": "Significant corruption of Bengali/Arabic text into numeric noise."
+  },
+  {
+    "chunk_id": "6-Arabic-7-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

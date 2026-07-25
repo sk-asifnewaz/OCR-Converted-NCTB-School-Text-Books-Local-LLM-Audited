@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "6-Arabic-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0%9",
+    "note": "Digit noise from OCR error in the title line."
+  },
+  {
+    "chunk_id": "6-Arabic-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ">7١",
+    "note": "Incoherent numbers/symbols mixed with Arabic text."
+  },
+  {
+    "chunk_id": "6-Arabic-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-1-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "9১১৮?",
+    "note": "Mixed numeral systems and noise in the exercise section."
+  },
+  {
+    "chunk_id": "6-Arabic-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-1-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "%১% ... 2١ -",
+    "note": "Garbled symbols and noise in the Arabic text."
+  },
+  {
+    "chunk_id": "6-Arabic-1-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পে > ... ১.০... ... ب١‎ > 2",
+    "note": "Multiple instances of OCR noise and garbled text."
+  },
+  {
+    "chunk_id": "6-Arabic-1-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "* 7) ... ০৩ ... ২১",
+    "note": "Random digits and symbols appearing in the middle of Arabic sentences."
+  },
+  {
+    "chunk_id": "6-Arabic-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ".271",
+    "note": "Random digits inserted into the text."
+  },
+  {
+    "chunk_id": "6-Arabic-1-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বং",
+    "note": "Likely a script corruption/OCR artifact of the word 'বরং'."
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাথা গৌজার",
+    "note": "Nonsensical phrase likely caused by an OCR error of the original text."
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাগুটা",
+    "note": "Likely a script corruption of 'কাণ্ডটটা' as seen in chunk 7."
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কাণ্টাও",
+    "note": "Likely a script corruption of 'কাণ্ডও'."
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আ্ান্ড",
+    "note": "Garbled Unicode/character sequence for the word 'অ্যান্ড'."
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_rapidreader-7-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০ ৩ ৩ ৮ ৯০",
+    "note": "Sequence of digits likely from a garbled calculation or page layout."
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "%/২ ৮",
+    "note": "Garbled symbols and numbers in place of a single value."
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিঝচন, দ্বিককন",
+    "note": "Garbled OCR of the term 'দ্বিবচন' (dual number)."
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিকন, ভবেতমূ",
+    "note": "Garbled OCR of 'দ্বিবচন' and a Sanskrit verb form."
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কে), গে)",
+    "note": "Garbled OCR of standard Bengali list indicators (খ, গ)."
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(14), (0)",
+    "note": "Non-standard digit strings likely replacing list markers or symbols."
+  },
+  {
+    "chunk_id": "6-Sanskrit-9-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1), (14), (0)",
+    "note": "Non-standard digit strings likely replacing list markers or symbols."
+  }
+]

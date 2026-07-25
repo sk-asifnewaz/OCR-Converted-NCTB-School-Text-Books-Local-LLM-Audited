@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-3-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১০০০০০০",
+    "note": "Numeric string clearly replaces a word/phrase in the exercise."
+  },
+  {
+    "chunk_id": "6-Sanskrit-3-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাতৃদুঃধম্‌",
+    "note": "Garbled character sequence (দুঃধ) in the word for 'mother's milk'."
+  }
+]

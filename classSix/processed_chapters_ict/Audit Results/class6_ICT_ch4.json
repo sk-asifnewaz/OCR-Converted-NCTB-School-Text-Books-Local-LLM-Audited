@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "6-ICT-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01006531118)",
+    "note": "Non-sensical number string likely replacing a word or punctuation."
+  },
+  {
+    "chunk_id": "6-ICT-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চোর চ1ধচ\nদিদ্যা25010৮/210 [10160 (32085 চীদ তে",
+    "note": "Severe OCR corruption and garbled digit sequences."
+  },
+  {
+    "chunk_id": "6-ICT-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ওস্্্পা",
+    "note": "Garbled sequence of characters at the end of the section."
+  },
+  {
+    "chunk_id": "6-ICT-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€ ছভদঞ মিচ044দ ১ দি (লিওাওয] | লগা -",
+    "note": "Entire segment is garbled, nonsensical characters."
+  },
+  {
+    "chunk_id": "6-ICT-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পুপছন গাছ চাট ডগ\n...[দ10চ401-1011৮71",
+    "note": "Significant corruption and non-contextual digit sequences."
+  },
+  {
+    "chunk_id": "6-ICT-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "19 5৫[০16771067 2011",
+    "note": "Garbage numbers/symbols inserted mid-text."
+  },
+  {
+    "chunk_id": "6-ICT-4-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চু দুলাচ্ছ চালা [চ্যান [পেত টে টয়া টো",
+    "note": "Non-sensical characters and garbled script."
+  },
+  {
+    "chunk_id": "6-ICT-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮1501",
+    "note": "Numeric strings replacing standard words/symbols."
+  },
+  {
+    "chunk_id": "6-ICT-4-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "32300 1381, 30806",
+    "note": "Digits likely substituted for text words."
+  },
+  {
+    "chunk_id": "6-ICT-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "73791006, €৮1501",
+    "note": "Corrupted symbols and digit noise."
+  },
+  {
+    "chunk_id": "6-ICT-4-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "387০",
+    "note": "Number sequence clearly replacing a word like 'Save'."
+  },
+  {
+    "chunk_id": "6-ICT-4-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "116, 01111, 3850, 3380",
+    "note": "Consistent digit noise patterns replacing Bengali words."
+  },
+  {
+    "chunk_id": "6-ICT-4-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "17116, [ঢম1 00001]",
+    "note": "Garbled text and digit noise."
+  },
+  {
+    "chunk_id": "6-ICT-4-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "386",
+    "note": "Number used in place of a word."
+  },
+  {
+    "chunk_id": "6-ICT-4-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "17116, 00911",
+    "note": "Garbled and noise-filled segments."
+  },
+  {
+    "chunk_id": "6-ICT-4-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "38০",
+    "note": "Numeric substitution for a word."
+  },
+  {
+    "chunk_id": "6-ICT-4-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1)6 00161, ঢ116",
+    "note": "Heavy corruption and digit noise."
+  },
+  {
+    "chunk_id": "6-ICT-4-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01111, 1৫69, 080151306",
+    "note": "Strings of numbers replacing word/keys."
+  },
+  {
+    "chunk_id": "6-ICT-4-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0191, ১৪০, ১১০",
+    "note": "Digits replacing words in multiple instances."
+  },
+  {
+    "chunk_id": "6-ICT-4-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-ICT-4-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪800",
+    "note": "Number used as word substitute."
+  }
+]

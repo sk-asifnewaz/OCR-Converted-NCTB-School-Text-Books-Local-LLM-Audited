@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "6-Pali-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-1-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ফর্মা-১ (নিরাপত্তা), ৬ষ্ঠ পালি\n'\nনং 34\nবর 1133 ধর৭ বৃযর\nরবঃ34\nগনা\nকার্তিক",
+    "note": "Contains printing metadata and non-sequitur information from another page or section."
+  },
+  {
+    "chunk_id": "6-Pali-1-4",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কুজবার মজ্গালবার",
+    "note": "Likely OCR errors for 'মঙ্গল' and other Bengali words in the calendar list."
+  },
+  {
+    "chunk_id": "6-Pali-1-5",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী, ত্চ, পুঞ্জ্জ্পুญ্ণ্‌",
+    "note": "Contains garbled characters and broken words in the vocabulary list."
+  },
+  {
+    "chunk_id": "6-Pali-1-6",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কারাস্ত",
+    "note": "Likely OCR corruption of the Bengali word 'কার' (sign/mark)."
+  },
+  {
+    "chunk_id": "6-Pali-1-7",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুংলিজ্গ, স্ত্রীলিজ্গ",
+    "note": "OCR errors for 'পুংলিঙ্গ' (masculine) and 'স্ত্রীলিঙ্গ' (feminine)."
+  },
+  {
+    "chunk_id": "6-Pali-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স,২১ক, ৮. ভ,হ,ল",
+    "note": "Garbled numbering and extraneous characters in the multiple-choice options."
+  },
+  {
+    "chunk_id": "6-Pali-1-9",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "সাবণ, গহণ",
+    "note": "Likely OCR errors for 'পাবন' and 'গহন'."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অসি্তি",
+    "note": "Likely a corruption of the Sanskrit word 'অস্তি' (exists)."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মত্বা-_-",
+    "note": "Non-sensical character sequences (symbols) used instead of standard punctuation."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়",
+    "note": "Garbled Unicode/corruption of the Bengali word 'হয়'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্শীলনী",
+    "note": "Mangled transcription of the Bengali word 'অনুশীলনী'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্যাম্রণ্চ",
+    "note": "Garbled Sanskrit/Bengali script for the word 'বাঘ' (tiger)."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(আই)",
+    "note": "Misinterpreted character; 'আই' likely used instead of the numeral '১'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্শীলনী",
+    "note": "Mangled transcription of the Bengali word 'অনুশীলনী'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধূরঙঃ",
+    "note": "Garbled script; 'ধূ' and 'ঙ' are incorrect for the word 'ধূর্তঃ'."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "6-English_grammar-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| love",
+    "note": "The pipe character is an OCR artifact replacing the word 'I'."
+  },
+  {
+    "chunk_id": "6-English_grammar-10-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| have",
+    "note": "The pipe character is an OCR artifact replacing the word 'I'."
+  },
+  {
+    "chunk_id": "6-English_grammar-10-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| can say",
+    "note": "The pipe character is an OCR artifact replacing the word 'I'."
+  },
+  {
+    "chunk_id": "6-English_grammar-10-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "h hI",
+    "note": "Garbled characters/OCR artifact where a word like 'his' was expected."
+  },
+  {
+    "chunk_id": "6-English_grammar-10-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "erat] with] and | an | really a Jécticious) the |",
+    "note": "Contains nonsensical sequences 'erat]' and 'Jécticious' likely from corrupted OCR."
+  }
+]

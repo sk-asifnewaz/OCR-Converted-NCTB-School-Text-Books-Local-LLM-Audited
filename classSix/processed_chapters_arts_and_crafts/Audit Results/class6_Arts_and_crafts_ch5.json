@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "6-Arts_and_crafts-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিত্রুলো... জানব।",
+    "note": "Incorrect spelling of 'চিত্রগুলো' and truncated clause at the end."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং্রহ",
+    "note": "Incorrect character construction for 'সংগ্রহ'."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টা",
+    "note": "The suffix 'টা' appears at the end, likely cut from a larger word."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীকা",
+    "note": "Likely a corruption of 'বাঁকা' (curved)."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খতু",
+    "note": "Nonsensical word likely resulting from OCR failure of 'একটি' or similar."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খতুবৈচিত্র্য",
+    "note": "Nonsensical word sequence; 'খতু' is not a standard term."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অলংকারণ",
+    "note": "Incorrect spelling/corruption of 'অলংকার'."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রদ, ৭৯/৬৫, ৫\"১৫\"",
+    "note": "Includes non-standard numeric strings and a garbled word 'রদ'."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

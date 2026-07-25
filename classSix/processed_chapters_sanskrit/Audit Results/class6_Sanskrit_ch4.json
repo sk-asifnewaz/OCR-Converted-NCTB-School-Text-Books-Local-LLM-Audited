@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অন্শীলনী",
+    "note": "Missing diacritic in 'অনুশীলনী' (exercise) resulting in a non-word."
+  },
+  {
+    "chunk_id": "6-Sanskrit-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পগুরুভন্তঃ, অত্লনীয়ঃ",
+    "note": "Extra 'প' and missing diacritic in 'অতুলনীয়া' (atulyah)."
+  },
+  {
+    "chunk_id": "6-Sanskrit-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কৃসুমানি, অ্যম্প",
+    "note": "Likely OCR errors for 'কুসুমানি' and the Sanskrit pronoun."
+  },
+  {
+    "chunk_id": "6-Sanskrit-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-6-3",
+    "status": "flagged",
+    "issues": ["SCRIP_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(গে, শাত্তিঃ, ঘেৌ, কে)",
+    "note": "Garbled markers (গ), (ঘ), (ক) and word 'শান্তিঃ'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-6-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-6-5",
+    "status": "flagged",
+    "issues": ["SCRIP_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(যা), বাজ্গালা, (1), (14)",
+    "note": "Corrupted markers, word 'বাংলার', and Bengali numerals."
+  },
+  {
+    "chunk_id": "6-Sanskrit-6-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1), (14)",
+    "note": "Incorrectly recognized Bengali numerals ১ and ৪."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "6-Arts_and_crafts-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹; ৮৯৮ ২৫:০১৮ ৪০ ৮১১৪ ৮৩১১০, ২১৬১চ এ) ১২ %৮ ৮৫০০১",
+    "note": "Rupee symbol and long digit strings are irrelevant to the art curriculum."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-7-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1৩]]4২ ৮০) ৪)1৩) 1৬০1০১105০১; মিথ্যাবাদীকে কেউ বিশ্বাস করে না।",
+    "note": "Garbled digit string and a moral quote are out of place in an art chapter."
+  }
+]

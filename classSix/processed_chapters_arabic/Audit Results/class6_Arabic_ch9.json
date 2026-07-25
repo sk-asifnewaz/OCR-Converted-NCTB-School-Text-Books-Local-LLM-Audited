@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "6-Arabic-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ ঁ 2 7 >» \n৭২ ০ :৩ £২ ৩৫",
+    "note": "The Arabic section contains garbled characters and non-sequential digit noise."
+  },
+  {
+    "chunk_id": "6-Arabic-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2771 ০431",
+    "note": "The Arabic text is mixed with garbled symbols and random number strings."
+  }
+]

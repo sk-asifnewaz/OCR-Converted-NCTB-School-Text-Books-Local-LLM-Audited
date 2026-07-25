@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "6-Home_science-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বন্ত্র",
+    "note": "Likely an OCR error for 'বস্ত্র' (cloth) which is used correctly in other sections."
+  },
+  {
+    "chunk_id": "6-Home_science-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডল\nь আজ তে পা",
+    "note": "Nonsensical character sequence, likely a layout or artifact from OCR."
+  },
+  {
+    "chunk_id": "6-Home_science-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু\n1॥\nচূ-",
+    "note": "Fragments of broken layout or garbled Unicode characters."
+  },
+  {
+    "chunk_id": "6-Home_science-10-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র পা\nরা *- ১৯\nচা ॥ চে. বর",
+    "note": "Garbled text likely from headers, footers, or adjacent page artifacts."
+  },
+  {
+    "chunk_id": "6-Home_science-10-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "বন্ত",
+    "note": "Typo for 'বস্ত্র' (cloth) caused by OCR error."
+  },
+  {
+    "chunk_id": "6-Home_science-10-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নতুনতৃ... হ্য়।",
+    "note": "Garbled characters/punctuation at end of phrase."
+  },
+  {
+    "chunk_id": "6-Home_science-10-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফ্রেব্বিক... ফ্রেববেক",
+    "note": "Corrupted words for 'ফেব্রিক' (fabric)."
+  },
+  {
+    "chunk_id": "6-Home_science-10-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1।... ১১।... 1ও11... 1ও 111",
+    "note": "Mangled digit strings for multiple-choice options."
+  },
+  {
+    "chunk_id": "6-Home_science-10-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Home_science-10-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রর... নন্দ",
+    "note": "Nonsensical strings, likely leftover page markers or artifacts."
+  }
+]

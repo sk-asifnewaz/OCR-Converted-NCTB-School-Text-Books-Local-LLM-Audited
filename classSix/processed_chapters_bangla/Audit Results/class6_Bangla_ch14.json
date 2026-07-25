@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "6-Bangla-14-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-14-2",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শব্দার্থ ও টাকা",
+    "note": "The word 'টাকা' (money) is likely a corruption of 'টিকা' (notes)."
+  },
+  {
+    "chunk_id": "6-Bangla-14-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-14-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "30161)",
+    "note": "Random digits inserted into the middle of a sentence."
+  },
+  {
+    "chunk_id": "6-Bangla-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-14-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-14-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-14-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-14-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দারস্য, 1ও 11",
+    "note": "Broken 'দ্র' character and mangled numerical options."
+  },
+  {
+    "chunk_id": "6-Bangla-14-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হাডিডসার",
+    "note": "Garbled word likely resulting from OCR corruption."
+  },
+  {
+    "chunk_id": "6-Bangla-14-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

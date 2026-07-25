@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "6-Bangla_grammar-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং্রহ-জাতীয়ত্বকে",
+    "note": "The character in 'সং্রহ' appears to be a corrupted or non-standard glyph."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(\"০০৬ ট্যা চা া0 দাণ পাটা04/7 , চদা, 1.6, ৮চ01া00087 )",
+    "note": "Garbled numeric strings and symbols likely from a source's bibliographic data."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ঃ;",
+    "note": "The currency symbol and punctuation clusters are not suitable for the context."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কষ্টক্ক্ষক্লগ্নগ্ধক্কক্ষঙ্জঙ্গজ্বজঅঅচ্চচ্ছজ্জজ্বজ্ঞ্চঞ্",
+    "note": "A run of mashed, non-semantic characters followed by isolated numbers."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬২",
+    "note": "Isolated number '৬২' is likely a page number from the original source."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-8-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

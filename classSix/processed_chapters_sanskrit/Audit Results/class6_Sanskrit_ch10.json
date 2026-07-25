@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-10-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪8",
+    "note": "The '8' in 48 is likely an OCR artifact or noise."
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "$",
+    "note": "The symbol $ is likely an OCR error for a colon or punctuation."
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পকৃম্‌ ফলমৃ্‌; ক্রিয়াবিশেষণ ৪",
+    "note": "Malformed Sanskrit words and an intrusive digit in the heading."
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রীম্‌",
+    "note": "Likely a corrupted OCR of 'তূম্' (you) in Sanskrit."
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-10-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬); (0); (14); প“পৰুমূ",
+    "note": "Multiple OCR errors: 6 for ঙ, numbers instead of options/symbols, and garbled Sanskrit."
+  }
+]

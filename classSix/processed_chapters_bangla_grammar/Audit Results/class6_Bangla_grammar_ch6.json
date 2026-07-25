@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "6-Bangla_grammar-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ও, ২ ক্ষ",
+    "note": "The digit '২' is likely an OCR error for a symbol or letter."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরবর্তँকালে",
+    "note": "Chandrabindu used instead of the 'i' vowel mark (ি)."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(9)",
+    "note": "Number 9 is likely an OCR error for a character."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪, ৩, ৪, ৯], ৯(",
+    "note": "Multiple digits appear to replace Bengali script characters in list."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(4)",
+    "note": "The digit 4 likely replaces a checkmark or other symbol."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

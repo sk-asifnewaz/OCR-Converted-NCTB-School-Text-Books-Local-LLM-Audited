@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_id": "6-Math-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা, %+1-5 ;",
+    "note": "Symbols + and % are OCR artifacts replacing the variable 'x'."
+  },
+  {
+    "chunk_id": "6-Math-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "++71-5",
+    "note": "Symbol + is an OCR artifact for the variable 'x'."
+  },
+  {
+    "chunk_id": "6-Math-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1%++ 155, 2%-1-3",
+    "note": "Equations are heavily garbled by OCR artifacts."
+  },
+  {
+    "chunk_id": "6-Math-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "%+)-3, 2%-57-5",
+    "note": "Equations are garbled by OCR symbols for variables."
+  },
+  {
+    "chunk_id": "6-Math-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Foreign currency symbol used as a substitute for 'x'."
+  },
+  {
+    "chunk_id": "6-Math-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ - ০৫০-৪- ০",
+    "note": "Mathematical expressions are garbled and incoherent."
+  },
+  {
+    "chunk_id": "6-Math-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭০-/%০৫",
+    "note": "Equation is garbled with non-standard characters."
+  },
+  {
+    "chunk_id": "6-Math-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2%- 1 - 5",
+    "note": "Equation is mangled by OCR artifacts."
+  },
+  {
+    "chunk_id": "6-Math-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "27-1 - 5",
+    "note": "Garbled equation using symbols for variables."
+  },
+  {
+    "chunk_id": "6-Math-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুর 2&%-1 স 23-1 - 6-1 স-স 5ল",
+    "note": "Highly garbled text due to OCR failure."
+  },
+  {
+    "chunk_id": "6-Math-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "+সু?",
+    "note": "Garbled expression where variable was not recognized."
+  },
+  {
+    "chunk_id": "6-Math-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৭-২৭-৩৭৭৮",
+    "note": "Equation is nonsensical and full of OCR noise."
+  },
+  {
+    "chunk_id": "6-Math-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, সা",
+    "note": "Fragment is garbled and unintelligible."
+  },
+  {
+    "chunk_id": "6-Math-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2%৮+5 -%",
+    "note": "Equations are mangled with symbols."
+  },
+  {
+    "chunk_id": "6-Math-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স-+ঁ-_- টস]",
+    "note": "Garbled text that doesn't form words."
+  },
+  {
+    "chunk_id": "6-Math-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, ঢ - 5",
+    "note": "Garbled equation."
+  },
+  {
+    "chunk_id": "6-Math-5-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "+সু?৭",
+    "note": "Garbled expression."
+  },
+  {
+    "chunk_id": "6-Math-5-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, না ু্",
+    "note": "Garbled text segment."
+  },
+  {
+    "chunk_id": "6-Math-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, *: 3 » ] ১ 3",
+    "note": "Garbled equations and punctuation."
+  },
+  {
+    "chunk_id": "6-Math-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, -+--৩; বা, (-1) (-% ৮ (-1) « (-5)",
+    "note": "Extremely garbled equations."
+  },
+  {
+    "chunk_id": "6-Math-5-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹ (৫০ - ২০)",
+    "note": "Foreign currency symbol used as OCR noise."
+  },
+  {
+    "chunk_id": "6-Math-5-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, ক র্‌ রব",
+    "note": "Garbled word due to OCR processing."
+  },
+  {
+    "chunk_id": "6-Math-5-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, ৪ল2৭424; বা, 2৭224",
+    "note": "Garbled mathematical expressions."
+  },
+  {
+    "chunk_id": "6-Math-5-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, - --পু; বা, ১ল 3",
+    "note": "Garbled equations/text."
+  },
+  {
+    "chunk_id": "6-Math-5-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ক) +-) (খ) 20) (গ) ++; ০,৪, €",
+    "note": "Garbled equations and currency symbol for variable."
+  },
+  {
+    "chunk_id": "6-Math-5-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-5-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

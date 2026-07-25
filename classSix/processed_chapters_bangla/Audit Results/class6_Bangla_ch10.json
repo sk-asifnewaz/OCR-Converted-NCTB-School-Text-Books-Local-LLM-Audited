@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "6-Bangla-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-10-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.1ও]1 খ.া1ওা\nগ.াাও]া ঘ.1,11ও 111",
+    "note": "Options for question 2 contain non-linguistic digits and symbols."
+  },
+  {
+    "chunk_id": "6-Bangla-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

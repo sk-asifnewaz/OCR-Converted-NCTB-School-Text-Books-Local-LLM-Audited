@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "6-Bangla-18-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রত্ত",
+    "note": "likely OCR error for 'রক্ত' (blood)"
+  },
+  {
+    "chunk_id": "6-Bangla-18-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফ্যেড়ে",
+    "note": "nonsensical word in the context of a glossary."
+  },
+  {
+    "chunk_id": "6-Bangla-18-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খতুর",
+    "note": "likely OCR error for 'বসন্তর' or similar."
+  },
+  {
+    "chunk_id": "6-Bangla-18-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "appears to be a corrupted word."
+  },
+  {
+    "chunk_id": "6-Bangla-18-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জোগায়",
+    "note": "likely OCR error for 'জাগায়' (awaken)."
+  },
+  {
+    "chunk_id": "6-Bangla-18-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্থমায়ুন",
+    "note": "Missing 'ু' vowel; should be 'হুমায়ুন'."
+  },
+  {
+    "chunk_id": "6-Bangla-18-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-18-13",
+    "status": "flagged",
+    "issues": ["DIG_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. 1ও11 খ. 1ওা1া\nগ. 11ও111] ঘ. 1,11ও111",
+    "note": "Garbled numbers and symbols in multiple choice options."
+  },
+  {
+    "chunk_id": "6-Bangla-18-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্রামে",
+    "note": "Incorrect character 'ঞ' instead of nasal 'ং'."
+  },
+  {
+    "chunk_id": "6-Bangla-18-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

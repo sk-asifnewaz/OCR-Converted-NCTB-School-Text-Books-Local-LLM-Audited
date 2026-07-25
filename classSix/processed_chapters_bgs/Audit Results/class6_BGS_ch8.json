@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "6-BGS-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১,৫০৬",
+    "note": "Standalone number string likely from a header or page count."
+  },
+  {
+    "chunk_id": "6-BGS-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(3/১/1২০)",
+    "note": "Garbled numerical sequence likely from a poorly read title or date."
+  },
+  {
+    "chunk_id": "6-BGS-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "3০৮0 /৬৯১৩১ /১৪৯০০১৮০০১) (১২০৮৪১০১১৮১ ০০০১০৯১৮০০১) (৩//১১[২০)",
+    "note": "Extensive sequence of digits/symbols that are clearly OCR artifacts."
+  },
+  {
+    "chunk_id": "6-BGS-8-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৬/১৬[২০,",
+    "note": "Fragment likely from a page footer or header."
+  },
+  {
+    "chunk_id": "6-BGS-8-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(31. )",
+    "note": "Isolated number/punctuation artifact."
+  },
+  {
+    "chunk_id": "6-BGS-8-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/১৪৪৩০০১৮০০১) 0১: ১০৮০৭-৭৮৯০ ৪১৩১) ৭ বা৪০০১০৫ (+৮১১৮/৬ ২)",
+    "note": "Complex string of numbers and symbols with no meaning in context."
+  },
+  {
+    "chunk_id": "6-BGS-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "(0০৭)",
+    "note": "Malformed page reference or artifact."
+  },
+  {
+    "chunk_id": "6-BGS-8-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01010 ০01 ৪০)",
+    "note": "Garbled numeric sequence."
+  },
+  {
+    "chunk_id": "6-BGS-8-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "018811178001) 01131317106 €০০]০180011 (010)",
+    "note": "Long string of numbers and symbols, clearly OCR noise."
+  },
+  {
+    "chunk_id": "6-BGS-8-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01881178001) ০: ১10৮১) 11 (০/০); ... ১৪০১-/১]১৮১১৬০ [০%১০৯১০ (০৪/৬১৪)",
+    "note": "Multiple sequences of corrupted digits and symbols."
+  },
+  {
+    "chunk_id": "6-BGS-8-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "||. ... ।ও|| ... |।ও|| ... 1,|| ও |||",
+    "note": "Repeated non-sensical symbols/digits likely from list markers."
+  },
+  {
+    "chunk_id": "6-BGS-8-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-8-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

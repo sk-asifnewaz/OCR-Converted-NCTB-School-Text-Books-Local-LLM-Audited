@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Arabic-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "الكَالِبٌ ‎০৪১:‏ ار ‎তত‏",
+    "note": "Bengali digits and garbled characters embedded in Arabic script."
+  },
+  {
+    "chunk_id": "6-Arabic-10-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০ 5১০",
+    "note": "Mixed numerals and corrupted script in the header/intro."
+  },
+  {
+    "chunk_id": "6-Arabic-10-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "752 -এর ব্যবহার, 8 তা, ৩ লা, 2 ল ০",
+    "note": "Random digits and fragments of words indicate layout/OCR noise."
+  },
+  {
+    "chunk_id": "6-Arabic-10-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০, ২, ৫৩ ত ১",
+    "note": "Random numerals and broken character fragments throughout the chunk."
+  }
+]

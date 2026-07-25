@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "6-Bangla_grammar-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রূপতন্ত্ব",
+    "note": "The word 'রূপতত্ত্ব' is corrupted/truncated at the end."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আ+অ+আ+র্‍্য",
+    "note": "Non-standard character sequence likely resulting from OCR of 'ত্ব'."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খেল্‌ + আ রী",
+    "note": "The character 'র্‍ি' is a recurring OCR error for 'ত্ব'."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ ঢাকাই, খেল্ণ অনা 5 খেলনা",
+    "note": "Extra 'হ' and digit '5' are noise; 'খেল্ণ' is garbled."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পড়িল১পড়ল; দেখ্‌ 7 ইব - দেখিব৯দেখব, রূপতত্তব",
+    "note": "Random digits and corrupted title word."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€ উপ + হার",
+    "note": "Currency symbol used instead of Bengali character 'এ'."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আকাল;",
+    "note": "Presence of corrupted character strings near punctuation."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তারা*",
+    "note": "Asterisk is a common OCR noise character."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রূপতন্ত্ব",
+    "note": "Title/header word is corrupted."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ধারণা _ :",
+    "note": "Underscore is likely an artifact or placeholder."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিহ্নৃসহ",
+    "note": "Strange character inserted into the word 'চিহ্নসহ'."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-21",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শোতাপক্ষ",
+    "note": "Incorrect word for 'শ্রোতাপক্ষ' (Listener side)."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-22",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উওম পুরুষ",
+    "note": "Nonsense term; likely a corruption of 'উত্তম পুরুষ'."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-23",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খশোতাপক্ষ, নাম পুরুষ",
+    "note": "Incoherent terms; likely 'শ্রোতাপক্ষ' and 'প্রথম পুরুষ'."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রূপতত্তব",
+    "note": "Word 'রূপতত্ত্ব' is corrupted."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ফর্মা-৬",
+    "note": "Garbled footer information."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪২ লা",
+    "note": "Page number artifact."
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla_grammar-3-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "6-Arabic-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2 7 ٠, ২০৩+০",
+    "note": "Non-standard number strings and garbled symbols in Arabic section."
+  },
+  {
+    "chunk_id": "6-Arabic-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ك + ات +٠|+ب, ى ++ س + ম +ى +ن يَاسْمِيْنٌ",
+    "note": "Inclusion of non-linguistic symbols and digits within Arabic text."
+  },
+  {
+    "chunk_id": "6-Arabic-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "++ | + ات +ف, + | ان",
+    "note": "Abundance of noise symbols (pipes, pluses) likely from OCR errors."
+  },
+  {
+    "chunk_id": "6-Arabic-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "97 €১+০০+1+8, গ০.., ঠ০ ০",
+    "note": "Presence of currency symbols, random digits, and nonsensical character strings."
+  },
+  {
+    "chunk_id": "6-Arabic-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

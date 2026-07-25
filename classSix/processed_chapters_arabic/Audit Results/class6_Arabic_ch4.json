@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Arabic-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "5344) 03",
+    "note": "Random digit strings and symbols appear to be OCR noise."
+  },
+  {
+    "chunk_id": "6-Arabic-4-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "0+5+১",
+    "note": "Non-standard digit sequence embedded in the text."
+  },
+  {
+    "chunk_id": "6-Arabic-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুঁ 2",
+    "note": "Garbled character 'চুঁ' and random digits suggest OCR artifacts."
+  },
+  {
+    "chunk_id": "6-Arabic-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

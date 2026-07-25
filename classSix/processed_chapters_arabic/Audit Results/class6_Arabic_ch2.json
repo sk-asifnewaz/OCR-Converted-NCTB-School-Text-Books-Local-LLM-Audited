@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "6-Arabic-2-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১০ ১\n...৬২)\n7০০ )\n2 ০০৮ 7 ١",
+    "note": "Random digit strings and non-standard number formats scattered in text."
+  },
+  {
+    "chunk_id": "6-Arabic-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২০২৬\n৩০ ... ১:১৮",
+    "note": "Non-sensical numeric sequences and possible timestamp OCR errors."
+  },
+  {
+    "chunk_id": "6-Arabic-2-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ".21 ... ১১১০",
+    "note": "Random digit strings appearing as noise between text blocks."
+  },
+  {
+    "chunk_id": "6-Arabic-2-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": ".271\nরন সি সস",
+    "note": "Random digits and nonsensical Bengali character sequences."
+  },
+  {
+    "chunk_id": "6-Arabic-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "77১",
+    "note": "Isolated digit string likely a page footer or OCR artifact."
+  }
+]

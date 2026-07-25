@@ -1,0 +1,191 @@
+[
+  {
+    "chunk_id": "6-Buddhist_religion-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সিম্ধার্থ, পৃহত্যাগ",
+    "note": "Corrupted words 'সিম্ধার্থ' (should be সিদ্ধার্থ) and 'পৃহত্যাগ' (গৃহত্যাগ)."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "The digit 8 before the Bengali numeral ৪ is likely a noise artifact."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮. মৃত্যু",
+    "note": "The digit ৮ is likely a misread of ৪, breaking the sequential list."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অফ্টাঙ্গিক, সম্যক সং",
+    "note": "Corrupted 'অফ্টাঙ্গিক' (should be অষ্টাঙ্গিক) and truncated phrase 'সম্যক সং'."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আআ মসস্্",
+    "note": "Nonsensical character sequence likely caused by OCR failure."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-14",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কিছু পাওয়া",
+    "note": "Sentence ends abruptly, continuing in the next chunk."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চত্ুরার্য",
+    "note": "The word 'চতুরার্য' contains an incorrect diacritic/character."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ও]১, ১া!ওাা",
+    "note": "Garbled character sequences in the options list."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "The number '৮৪' appears to be a stray digit or page marker."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-5-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭৯০১০৮তে৫/৫ ৮",
+    "note": "Garbled numerical sequence at the end of the chunk."
+  }
+]

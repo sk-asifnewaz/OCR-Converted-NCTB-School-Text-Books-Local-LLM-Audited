@@ -1,0 +1,191 @@
+[
+  {
+    "chunk_id": "6-Arts_and_crafts-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লোকশিল্টপে",
+    "note": "The character 'ত' is an extra/incorrect insertion in the word 'লোকশিল্পে'."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": ", তার",
+    "note": "The chunk ends abruptly with a comma and possessive pronoun, indicating truncation."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাবুশিল্পের",
+    "note": "The word should be 'কারুশিল্প' (craft); the 'ব' is an OCR error for 'র'."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চারু ও কারুকলা",
+    "note": "The word is likely 'কারু' (craft); 'চারু' is a common OCR misreading."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দারুশিল্প",
+    "note": "The word should be 'কারুশিল্প'; 'দ' is an OCR error for 'ক'."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীশ ও\nউঠেছে",
+    "note": "The sentence structure is broken and 'বীশ' appears to be a corruption."
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arts_and_crafts-3-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

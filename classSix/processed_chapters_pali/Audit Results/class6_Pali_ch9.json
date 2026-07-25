@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "6-Pali-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দারকো 5-",
+    "note": "The digit '5-' is an artifact or misread of a punctuation/word."
+  },
+  {
+    "chunk_id": "6-Pali-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্‌ খেতু)",
+    "note": "Contains garbled text and an misplaced closing parenthesis."
+  },
+  {
+    "chunk_id": "6-Pali-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "The '8' is an OCR artifact for the list number 4."
+  },
+  {
+    "chunk_id": "6-Pali-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪৮",
+    "note": "The '8' and '৪' are garbled digit strings, likely from a list or order."
+  },
+  {
+    "chunk_id": "6-Pali-9-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-9-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-9-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-9-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "The '8' is an artifact before the Bengali number 4."
+  },
+  {
+    "chunk_id": "6-Pali-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

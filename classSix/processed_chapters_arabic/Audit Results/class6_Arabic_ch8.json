@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Arabic-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-8-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭021 ৮১৮00051902",
+    "note": "Random digit strings and garbled text fragments are present."
+  },
+  {
+    "chunk_id": "6-Arabic-8-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডে ও |",
+    "note": "Text cuts off abruptly with a trailing pipe character."
+  },
+  {
+    "chunk_id": "6-Arabic-8-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ঃঠঃ4, 19:02:১6 |",
+    "note": "Presence of non-sensical character sequences and timestamp-like digit noise."
+  }
+]

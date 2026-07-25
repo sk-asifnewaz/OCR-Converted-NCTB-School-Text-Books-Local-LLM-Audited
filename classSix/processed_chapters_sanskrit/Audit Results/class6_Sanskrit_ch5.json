@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নির্মলমৃ, স্লিগ্ধকিরণমৃ, দুর্গাদেবীম্‌",
+    "note": "Sanskrit 'ম্' misread as 'মৃ', a common OCR error in Bengali script."
+  },
+  {
+    "chunk_id": "6-Sanskrit-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0), (1), যা",
+    "note": "Options (0) and (1) are misread Bengali 'ক' and 'খ'; 'যা' is a misreading of 'খ'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0%), (14)",
+    "note": "Garbled symbols and non-sensical numbers likely from misreading layout markers."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "6-Hindu_religion-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাসদুর",
+    "note": "Clearly a corruption of 'পাণ্ডু' (Pandu)."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধর্মঘহ্থ",
+    "note": "Garbled characters; likely meant to be 'ধর্মশিক্ষা'."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তঁভক্ত",
+    "note": "Likely a corruption of 'আর্ত ভক্ত'."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed numerals and likely an OCR error for a Bengali digit."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাহাত্ম্য-শ্নোক",
+    "note": "Garbled word, likely meant to be 'মাহাত্ম্য-শ্লোক'."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8০৯৯",
+    "note": "Mixed numeral systems (Arabic '8' and Bengali others) in a sequence."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11ও]001",
+    "note": "Garbled sequence of digits and symbols in a multiple-choice answer."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1!! ও [1]",
+    "note": "Garbled digits and punctuation in a multiple-choice option."
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Hindu_religion-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

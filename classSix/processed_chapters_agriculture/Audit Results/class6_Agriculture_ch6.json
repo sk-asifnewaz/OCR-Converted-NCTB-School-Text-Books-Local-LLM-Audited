@@ -1,0 +1,542 @@
+[
+  {
+    "chunk_id": "6-Agriculture-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-3",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "া\n-. কু\nনু 1 চু\n|",
+    "note": "Garbled characters and symbols likely from a table or sidebar."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-5",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লতা-গুল্ও",
+    "note": "Incorrect diacritic/artifact in the word 'গুলু'."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. প্রাকৃতিক বন",
+    "note": "The digit '8' is an OCR error for the number '৩'."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-12",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছু\n_ সু নল",
+    "note": "Garbage characters at the end of the chunk."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-16",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রেইনট্র",
+    "note": "Missing diacritic in the word 'রেইনট্রী'."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-20",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "рь\n্‍\n৯০ ক শন\nএ",
+    "note": "Garbled characters likely from table headers/labels."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-23",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভভিদের সংস্যা\nকৃত বরং... ফীঁকে ফীকে",
+    "note": "Severe corruption in technical descriptions."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-24",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দু: ১ ১ দ্‌চ\n...[++ (১১১\n...লও 7",
+    "note": "Garbled text and digit artifacts in a list."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-25",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তু \nস্পা, লা\n1 ৪\n|",
+    "note": "Garbled characters from a table/diagram layout."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-30",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹শগ্রাহণের",
+    "note": "Foreign currency symbol and broken word."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-35",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "হ্থাস",
+    "note": "Likely typo or OCR error for 'হ্রাস'."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-37",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "প্র চো তাস নন\"\nর্্‌",
+    "note": "Garbled text at end of chunk."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-38",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "| র রা না ডি, । ০৮\n: সু \" স্ট রর চা বি শাছপালা",
+    "note": "Garbled text from a complex table or layout."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-40",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮\nদিক... - -\nপ্রবেশ...",
+    "note": "Garbled formatting and stray digits."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-41",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত ও পা\nমাঝারি",
+    "note": "Garbled text from merged table columns."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৫০ সেমি ১: ৫০ সেমি ১: ৫০ সেমি)",
+    "note": "Redundant/strange digit sequence."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-48",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চারার গোড়ায়",
+    "note": "Clause ends abruptly mid-instruction."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪8৫ সেমি",
+    "note": "Garbled digit sequence in measurement."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-54",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬ষ্ট-",
+    "note": "Incorrect digit used for 'ষষ্ঠ'."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-57",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কষ",
+    "note": "Garbled word for 'প্রশ্ন'."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-58",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPT", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪8৪... 1ও 11... 1ও]ন1",
+    "note": "Garbled options and digits."
+  },
+  {
+    "chunk_id": "6-Agriculture-6-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Agriculture-6-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

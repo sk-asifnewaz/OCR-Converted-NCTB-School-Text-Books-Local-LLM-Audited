@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "6-Arabic-3-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "0%9",
+    "note": "Nonsensical digit string likely due to encoding or OCR artifacts."
+  },
+  {
+    "chunk_id": "6-Arabic-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Arabic-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "[",
+    "note": "Stray bracket symbol likely an OCR artifact or page layout noise."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-11-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুংলিজ্গ",
+    "note": "OCR corruption where 'ঙ্গ' is incorrectly rendered as '্জ'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-11-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ নোং, রীবলিঙ্গ",
+    "note": "Garbled characters and incorrect script substitution from OCR."
+  }
+]

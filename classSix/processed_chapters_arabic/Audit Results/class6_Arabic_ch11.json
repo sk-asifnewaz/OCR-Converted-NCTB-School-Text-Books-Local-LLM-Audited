@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Arabic-11-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২০ ২১৭, ০5423 ;৮], চ% 2) |",
+    "note": "Mixed numerals and special characters indicate corrupted OCR of Arabic/Bengali script."
+  },
+  {
+    "chunk_id": "6-Arabic-11-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সচিত্র আরবি পাঠ\nসচিত্র আরবি পাঠ\nসচিত্র আরবি পাঠ",
+    "note": "Repetition of 'সচিত্র আরবি পাঠ' and non-standard digit strings."
+  },
+  {
+    "chunk_id": "6-Arabic-11-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০১১-2%-০ও £ £.2-, 42০) ১7277)",
+    "note": "Garbled symbols and numbers likely resulting from failed Arabic script recognition."
+  },
+  {
+    "chunk_id": "6-Arabic-11-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৬৮৮০], 2 5 লা ০ রব",
+    "note": "Mixed numbers and symbols in text segments suggest OCR artifacts."
+  }
+]

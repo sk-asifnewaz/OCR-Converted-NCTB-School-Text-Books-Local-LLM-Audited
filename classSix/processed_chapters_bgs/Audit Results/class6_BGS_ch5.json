@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "6-BGS-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সার্বভৌমোটৃ",
+    "note": "Corrupted OCR of 'সার্বভৌমত্ব' (sovereignty)."
+  },
+  {
+    "chunk_id": "6-BGS-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হলো জনসমষ্টি",
+    "note": "Likely corrupted OCR of 'জনসংক্ষিপ্ত' or 'জনসংখ্যা'."
+  },
+  {
+    "chunk_id": "6-BGS-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভূখণও",
+    "note": "OCR error for 'ভূখণ্ড'."
+  },
+  {
+    "chunk_id": "6-BGS-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পাঠ-২$",
+    "note": "The '$' symbol is a non-textual OCR artifact."
+  },
+  {
+    "chunk_id": "6-BGS-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "31 : ০১\nরাষ্ট্র হিসাবে... ৬ 24258 \"৮০ ৭১-২১১৭ র্‌\n7875 ।\nঢলে ১১৭২১ 10\n) শত ওটা লা\nদরকার তার সবগুলোই বাংলাদেশের রয়েছে। ২১১3১0১0310",
+    "note": "Complete breakdown of text into garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "6-BGS-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ\nঢ্",
+    "note": "Isolated characters at end of chunk suggest a broken page cut."
+  },
+  {
+    "chunk_id": "6-BGS-5-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মে ভ্রালতও\nসি চা) ভাবত দুদ পা রা লা\n৮ মি পডক্বালাদ/ সালক্ষোত্ল ছি",
+    "note": "Entire chunk is nonsensical garbled text."
+  },
+  {
+    "chunk_id": "6-BGS-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভূখও",
+    "note": "OCR error for 'ভূখণ্ড'."
+  },
+  {
+    "chunk_id": "6-BGS-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-16",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আমরা বাং\nনাগরিক",
+    "note": "Word 'বাঙালি' or 'বাংলাদেশী' is broken by a line break/missing text."
+  },
+  {
+    "chunk_id": "6-BGS-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃু, অনুমোদনসৃূত্রে",
+    "note": "Corrupted OCR for 'নাগরিকত্ব' and 'অনুমোদনসূত্রে'."
+  },
+  {
+    "chunk_id": "6-BGS-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্তিতৃ, দায়িতু",
+    "note": "Corrupted OCR of 'অস্তিত্ব' and 'দায়িত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃপূর্ণ, দায়িতু",
+    "note": "Corrupted OCR of 'গুরুত্বপূর্ণ' and 'দায়িত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "||., |||",
+    "note": "Non-standard characters used instead of digits for list numbering."
+  },
+  {
+    "chunk_id": "6-BGS-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-BGS-5-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "||., ||.",
+    "note": "Non-standard characters used instead of digits for list numbering."
+  },
+  {
+    "chunk_id": "6-BGS-5-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সর্বভৌমোটৃ",
+    "note": "Corrupted OCR of 'সার্বভৌমত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাগরিকতৃ",
+    "note": "Common OCR error for 'নাগরিকত্ব'."
+  },
+  {
+    "chunk_id": "6-BGS-5-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

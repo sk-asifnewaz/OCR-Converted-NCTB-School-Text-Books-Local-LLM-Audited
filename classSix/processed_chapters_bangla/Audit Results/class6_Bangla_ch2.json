@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "6-Bangla-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ চারুপাঠ",
+    "note": "The digit 8 is likely an artifact from a page footer."
+  },
+  {
+    "chunk_id": "6-Bangla-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "6, ১৬, 14 1, 70৮১১ ৮১১",
+    "note": "Contains multiple sequences of non-contextual numbers and garbled characters."
+  },
+  {
+    "chunk_id": "6-Bangla-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮. , ২২ 7, * * সস",
+    "note": "Contains OCR artifacts from page numbering and nonsense character runs."
+  },
+  {
+    "chunk_id": "6-Bangla-2-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘটিটা ০, * * সস",
+    "note": "Contains a lone digit and garbled characters at the end of lines."
+  },
+  {
+    "chunk_id": "6-Bangla-2-8",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এর কারণ আছে । তার",
+    "note": "The sentence ends abruptly with a possessive pronoun."
+  },
+  {
+    "chunk_id": "6-Bangla-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মিনু ৯",
+    "note": "The digit 9 is likely a page or section indicator."
+  },
+  {
+    "chunk_id": "6-Bangla-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মিনু ১১",
+    "note": "The digits 11 are likely a page or section number."
+  },
+  {
+    "chunk_id": "6-Bangla-2-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-2-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১২ চারুপাঠ",
+    "note": "The number 12 is likely a page or section indicator."
+  },
+  {
+    "chunk_id": "6-Bangla-2-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ ও 8",
+    "note": "Uses an Arabic numeral '8' instead of the Bengali script '৮'."
+  },
+  {
+    "chunk_id": "6-Bangla-2-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1, 11, 111, ১,১১ ও ১১",
+    "note": "Repetitive digit sequences indicate failed OCR of a list or numbering system."
+  },
+  {
+    "chunk_id": "6-Bangla-2-19",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন্যা তার কাজ",
+    "note": "The sentence cuts off abruptly at the word 'work'."
+  },
+  {
+    "chunk_id": "6-Bangla-2-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

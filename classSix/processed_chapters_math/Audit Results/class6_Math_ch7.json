@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "6-Math-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১৯\"",
+    "note": "Likely a mangled bullet point or degree symbol"
+  },
+  {
+    "chunk_id": "6-Math-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একপ্রান্তে একটি করে কীটা",
+    "note": "The description of the compass is repeated in this chunk"
+  },
+  {
+    "chunk_id": "6-Math-7-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "039",
+    "note": "Likely a mangled label or symbol misread as numbers"
+  },
+  {
+    "chunk_id": "6-Math-7-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "43, 02, 1/479",
+    "note": "Numbers appear to be misread geometry labels"
+  },
+  {
+    "chunk_id": "6-Math-7-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "49, 48, 43, 7;",
+    "note": "Numbers likely represent misread geometry labels"
+  },
+  {
+    "chunk_id": "6-Math-7-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0, 1, 172, 07; সমদ্বিখপ্ডতিত",
+    "note": "Mixed digit noise and garbled text"
+  },
+  {
+    "chunk_id": "6-Math-7-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4», ?",
+    "note": "Garbled symbols or placeholder question marks"
+  },
+  {
+    "chunk_id": "6-Math-7-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "720, 70, 7201, 478, বন ৬৯",
+    "note": "Numbers used in place of geometry labels and garbled text"
+  },
+  {
+    "chunk_id": "6-Math-7-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4, 9",
+    "note": "Numbers likely used as labels (e.g., A and B)"
+  },
+  {
+    "chunk_id": "6-Math-7-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4, 12, 7, 0, 48, 4 7, 20 1 47",
+    "note": "Multiple labels misread as digits"
+  },
+  {
+    "chunk_id": "6-Math-7-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "47, 07, 7, 49",
+    "note": "Numbers likely misread as geometry labels"
+  },
+  {
+    "chunk_id": "6-Math-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€, 19, 7), 0,7",
+    "note": "Garbled symbols and digit noise"
+  },
+  {
+    "chunk_id": "6-Math-7-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4, 48, 049, 017",
+    "note": "Labels misread as numbers"
+  },
+  {
+    "chunk_id": "6-Math-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ")2 ৩]",
+    "note": "Garbled character sequence"
+  },
+  {
+    "chunk_id": "6-Math-7-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "12, 419, 14, 3, 8, ৭14",
+    "note": "Numerous labels misread as digits"
+  },
+  {
+    "chunk_id": "6-Math-7-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "10, ?, 17, 2, 4",
+    "note": "Mixed noise and numbers substituted for labels"
+  },
+  {
+    "chunk_id": "6-Math-7-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "48, 0, 47",
+    "note": "Numbers used instead of geometry labels"
+  },
+  {
+    "chunk_id": "6-Math-7-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "473, 40°1 10",
+    "note": "Garbled mathematical expressions and labels"
+  },
+  {
+    "chunk_id": "6-Math-7-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7৮09, 419, 84",
+    "note": "Numbers misread as labels"
+  },
+  {
+    "chunk_id": "6-Math-7-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1,1£, ր407",
+    "note": "Garbled symbols and mangled numbers"
+  },
+  {
+    "chunk_id": "6-Math-7-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮440, 7? ও 0",
+    "note": "Labels misread as numbers"
+  },
+  {
+    "chunk_id": "6-Math-7-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€, 19, 4,19",
+    "note": "Symbol and digit noise in geometry context"
+  },
+  {
+    "chunk_id": "6-Math-7-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4, 48, 049, 017, 09, 7804, 601",
+    "note": "Numerous labels misread as numbers"
+  },
+  {
+    "chunk_id": "6-Math-7-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-7-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "++",
+    "note": "Garbled symbol"
+  },
+  {
+    "chunk_id": "6-Math-7-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "408, 707 7 /৮০8-180",
+    "note": "Garbled geometric notation"
+  },
+  {
+    "chunk_id": "6-Math-7-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€৫+74& 5",
+    "note": "Garbled mathematical expression"
+  },
+  {
+    "chunk_id": "6-Math-7-35",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও]1, খৌা1ওাা",
+    "note": "Nonsensical character sequences/garbled text"
+  },
+  {
+    "chunk_id": "6-Math-7-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7৮09, 45৯",
+    "note": "Labels misread as numbers"
+  }
+]

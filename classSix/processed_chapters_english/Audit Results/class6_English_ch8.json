@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "6-English-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "e recognise English sounds\n© recognise intonation",
+    "note": "Symbols 'e' and '©' are likely OCR errors for bullet points."
+  },
+  {
+    "chunk_id": "6-English-8-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "e recognise English sounds\n© recognise word stress\n@ use proper intonation",
+    "note": "Symbols 'e', '©', and '@' are OCR artifacts for list bullets."
+  },
+  {
+    "chunk_id": "6-English-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Al, Underline the words",
+    "note": "The 'Al,' is likely an OCR error for a question or instruction number like '(a)'."
+  },
+  {
+    "chunk_id": "6-English-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

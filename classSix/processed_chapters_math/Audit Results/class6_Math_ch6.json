@@ -1,0 +1,542 @@
+[
+  {
+    "chunk_id": "6-Math-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "13010100115",
+    "note": "Long string of digits appears to be an OCR artifact/page reference."
+  },
+  {
+    "chunk_id": "6-Math-6-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "্ছচর্চারর্চর্চ্র্চ",
+    "note": "Nonsensical repeated characters."
+  },
+  {
+    "chunk_id": "6-Math-6-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কূদ্রস্থানের",
+    "note": "Incorrect spelling of 'ক্ষুদ্রস্থান' (small space)."
+  },
+  {
+    "chunk_id": "6-Math-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পেঙন্সিলের",
+    "note": "Incorrect spelling of 'পেন্সিলের' (pencil)."
+  },
+  {
+    "chunk_id": "6-Math-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4; ??; 48; 47; ঢং ঢ",
+    "note": "Mangled geometric labels and gibberish at end."
+  },
+  {
+    "chunk_id": "6-Math-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47; 4; ??; ঢং ঢা",
+    "note": "Mangled geometry labels and gibberish."
+  },
+  {
+    "chunk_id": "6-Math-6-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "47; 417",
+    "note": "Digits likely replaced geometric labels like 'AB'."
+  },
+  {
+    "chunk_id": "6-Math-6-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1910; 10+01/(-17); রো; ৩ঙ ৮",
+    "note": "Highly corrupted numeric and script fragments."
+  },
+  {
+    "chunk_id": "6-Math-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রশিদ্বয়",
+    "note": "Should be 'রশ্মিদ্বয়' (pair of rays)."
+  },
+  {
+    "chunk_id": "6-Math-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "43; 47; 40; ১৮০\"",
+    "note": "Geometry labels mangled as digits; 180\" likely meant 180 degrees."
+  },
+  {
+    "chunk_id": "6-Math-6-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "340; /০413; €340; ৭৪40; /০41",
+    "note": "Multiple instances of geometry labels mangled as digits."
+  },
+  {
+    "chunk_id": "6-Math-6-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৮০০; 419",
+    "note": "1800 likely a misread of 180 degrees."
+  },
+  {
+    "chunk_id": "6-Math-6-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮40; /047; 417",
+    "note": "Geometry labels mangled as digits."
+  },
+  {
+    "chunk_id": "6-Math-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4408; 006; রশ্ি; ৯০০",
+    "note": "Mangled labels and incorrect 'রশ্মি' spelling."
+  },
+  {
+    "chunk_id": "6-Math-6-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০০; 47; 00; ০৪; ০৮; ১৮০০",
+    "note": "Multiple instances of mangled labels/angles."
+  },
+  {
+    "chunk_id": "6-Math-6-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০০; ১৮০০",
+    "note": "Values 90 and 180 degrees mangled as 900, 1800."
+  },
+  {
+    "chunk_id": "6-Math-6-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47; 079; 0; ০০; ৭০০৪; ৭4৮01; ৮017; ৪00; ৪৮00; /42ে04",
+    "note": "Heavy digit noise where geometric labels should be."
+  },
+  {
+    "chunk_id": "6-Math-6-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "04; 07; রশিfft",
+    "note": "Mangled labels and incorrect 'রশ্মি' spelling."
+  },
+  {
+    "chunk_id": "6-Math-6-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢু",
+    "note": "Non-sensical character."
+  },
+  {
+    "chunk_id": "6-Math-6-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4; 0; 19; 4400; ৪7; 190; ৪৬০৬৮; 7 7০০0৮",
+    "note": "Intense digit noise in geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47; 073; 4400; 70078; 74801; 401",
+    "note": "Mangled geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "019; ৪019; 7 /801; 4০০0৪; 4019",
+    "note": "Mangled geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "5 /1৮৫ম; 1.; 17; 1.4, 0, 1",
+    "note": "Mangled labels and noise in measurements."
+  },
+  {
+    "chunk_id": "6-Math-6-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "43; 09; ৪৮; 4৭; 4৮; 4৫,742; €/৭,/৪",
+    "note": "Significant digit noise in labels."
+  },
+  {
+    "chunk_id": "6-Math-6-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "473; ১ ঢ ৬",
+    "note": "Mangled label and gibberish at end."
+  },
+  {
+    "chunk_id": "6-Math-6-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-31",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢু; %৮+ 77৮ -০০০",
+    "note": "Gibberish and mangled math symbols/labels."
+  },
+  {
+    "chunk_id": "6-Math-6-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "40; 4, 7, €; 840,420; 78৪04",
+    "note": "Geometry labels mangled as digits."
+  },
+  {
+    "chunk_id": "6-Math-6-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "480; 4/9; ₹; 7০; €4",
+    "note": "Mangled labels and symbols."
+  },
+  {
+    "chunk_id": "6-Math-6-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "480; 479; ₹; 00",
+    "note": "Mangled labels and symbols."
+  },
+  {
+    "chunk_id": "6-Math-6-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "48, ৪0০; 10 09; 3.2 07",
+    "note": "Mangled labels and measurements."
+  },
+  {
+    "chunk_id": "6-Math-6-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "40; 440,4480,47804; ৯০০",
+    "note": "Mangled labels and angle value."
+  },
+  {
+    "chunk_id": "6-Math-6-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "17977৮; 71917; 4097; ০01; ০108",
+    "note": "Mangled labels and measurements."
+  },
+  {
+    "chunk_id": "6-Math-6-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্কূলকোণ; $/০৪1",
+    "note": "Incorrect spelling and mangled labels."
+  },
+  {
+    "chunk_id": "6-Math-6-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(14); (1)",
+    "note": "Likely mangled Bengali list indicators like (ক) and (খ)."
+  },
+  {
+    "chunk_id": "6-Math-6-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4307; 48,730; 079,194; 4,,0",
+    "note": "Mangled geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7 48019",
+    "note": "Mangled geometry label."
+  },
+  {
+    "chunk_id": "6-Math-6-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4801; 7 ঢ; 90০; 417",
+    "note": "Mangled labels and symbols."
+  },
+  {
+    "chunk_id": "6-Math-6-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "00; 40; 010",
+    "note": "Mangled geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4801; 7 নু; 7৪000; 41304",
+    "note": "Mangled geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "407",
+    "note": "Mangled triangle label."
+  },
+  {
+    "chunk_id": "6-Math-6-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4019; 417",
+    "note": "Mangled geometry labels."
+  },
+  {
+    "chunk_id": "6-Math-6-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-51",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢু; ৯০০",
+    "note": "Gibberish and mangled angle value."
+  },
+  {
+    "chunk_id": "6-Math-6-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-53",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ; নে; ঢং; 1/10; 90৯",
+    "note": "Gibberish and mangled angles."
+  },
+  {
+    "chunk_id": "6-Math-6-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Math-6-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "140; 07ৈ; 7049; 8140; 4811; 77110; 73811; 13/+0",
+    "note": "Mangled labels/symbols."
+  },
+  {
+    "chunk_id": "6-Math-6-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47819; 41:78",
+    "note": "Mangled labels."
+  },
+  {
+    "chunk_id": "6-Math-6-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1801",
+    "note": "Mangled angle value (should be 180)."
+  }
+]

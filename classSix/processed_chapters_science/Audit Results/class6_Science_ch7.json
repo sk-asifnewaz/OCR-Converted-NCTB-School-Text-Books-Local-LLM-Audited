@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "6-Science-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডা সমрь দে\n\n৷ || নি ০০৭",
+    "note": "Contains garbled script and nonsensical characters/numbers."
+  },
+  {
+    "chunk_id": "6-Science-7-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২)\nশা\nঠ্ব\nঠা",
+    "note": "Nonsensical character sequence likely from page artifacts."
+  },
+  {
+    "chunk_id": "6-Science-7-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪. ... ১ও]১১",
+    "note": "Corrupted digits and garbled punctuation in the options."
+  }
+]

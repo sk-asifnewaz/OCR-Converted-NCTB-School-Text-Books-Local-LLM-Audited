@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-12-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রর",
+    "note": "Repeating characters at the end of a sentence likely caused by OCR."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত।",
+    "note": "The character 'ত' is likely a misread of the digit '৩'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কে)\nখে)\nগে)",
+    "note": "The 'e' vowel sign is likely an artifact from misinterpreting list markers."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(|), (0), (14)",
+    "note": "Multiple instances of corrupted symbols and digits in place of standard markings."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫মী",
+    "note": "The word '৫মী' is likely a corruption of '৫নং' or similar."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উর্ধেবে",
+    "note": "Likely a misreading of the Sanskrit word 'ঊর্ধ্বে'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(রীৰ), (পুথ)",
+    "note": "Grammatical markers in brackets are mangled by OCR."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সত্রী, র্ীব",
+    "note": "Highly corrupted Sanskrit grammar labels (likely intended to be 'স্ত্রী' and 'ঋ')."
+  },
+  {
+    "chunk_id": "6-Sanskrit-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হচ্তস্য, সূর্য সথার্তকে",
+    "note": "Several words are garbled due to poor character recognition."
+  }
+]

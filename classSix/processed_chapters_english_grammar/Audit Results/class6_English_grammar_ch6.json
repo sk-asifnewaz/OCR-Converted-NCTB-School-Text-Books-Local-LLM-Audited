@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_id": "6-English_grammar-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| have lost my ball point pen.",
+    "note": "Pipe character '|' is a common OCR error for the pronoun 'I'."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-2",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "A sentence is a group of with at least a and a.",
+    "note": "Sentence is missing key nouns (words, subject, verb) making it nonsensical."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Sonice of you, mom!",
+    "note": "Words 'So' and 'nice' are merged into a single nonsensical string."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Forma-8, English Grammar and Composition, 6\n58 English Grammar and Composition",
+    "note": "Repetitive numbers/titles suggest page headers or layout artifacts."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Do't be lat",
+    "note": "Broken contraction/words likely due to poor character recognition."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "60 English Grammar and Composition",
+    "note": "Page number appears inside the body of the text."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| have been Alfaz’s friend",
+    "note": "Pipe character '|' is an OCR error for the pronoun 'I'."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "e disquals : He lives",
+    "note": "The 'e' is likely a misread bullet point or list marker."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| can’t walk any more.",
+    "note": "Pipe character '|' is an OCR error for the pronoun 'I'."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-16",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "I go to the",
+    "note": "Sentence cuts off at chunk end and contains pipe error."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-17",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "school picnic.",
+    "note": "Fragment of a sentence continued from the previous chunk."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1000?",
+    "note": "The number 1000 is likely a misread count or blank space."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Now <==\ngo straight",
+    "note": "The '<==' symbols are non-standard artifacts in the text."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "jUs1e4}s OD",
+    "note": "Nonsensical string of characters resulting from OCR failure."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "NID) Wy) BB] WwW] nN] eR",
+    "note": "Garbled characters likely replacing table or image content."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Forma-9, English Grammar and Composition, 6",
+    "note": "Repetition of header info with numerical noise."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "adjectivet+tsubject",
+    "note": "Garbled characters in a grammatical formula."
+  },
+  {
+    "chunk_id": "6-English_grammar-6-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English_grammar-6-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

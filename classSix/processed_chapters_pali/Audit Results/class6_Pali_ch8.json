@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "6-Pali-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নর ₹ নৃ",
+    "note": "Symbol '₹' is a script corruption for punctuation or a separator."
+  },
+  {
+    "chunk_id": "6-Pali-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যপ্জনবর্ণ",
+    "note": "Word is incorrectly transcribed; should be 'ব্যঞ্জনবর্ণ'."
+  },
+  {
+    "chunk_id": "6-Pali-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নিচের উদাহরণগুলো লক্ষ্য কর ঃ নিচের উদাহরণগুলো লক্ষ্য কর ঃ",
+    "note": "Phrase is duplicated exactly, suggesting a loop or layout artifact."
+  },
+  {
+    "chunk_id": "6-Pali-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিত্ব\nহয়ে গেছে। তাহলে বব, ম-এ",
+    "note": "Words like 'দ্বিত্ব' and 'বব' are garbled results of OCR on technical terms."
+  },
+  {
+    "chunk_id": "6-Pali-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1 01 3 01) 1\nহীুু্যarczিক্য।\"3093",
+    "note": "Extensive digit noise and garbled characters from a table structure."
+  },
+  {
+    "chunk_id": "6-Pali-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1003 10073\n10743 1073\n০৩ ০৭৮০৩",
+    "note": "Chunk contains significant noise and digit strings from table artifacts."
+  },
+  {
+    "chunk_id": "6-Pali-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "113 773\nচত্র্থ",
+    "note": "Digit noise from table and misspelling of 'চতুর্থ' as 'চত্র্থ'."
+  },
+  {
+    "chunk_id": "6-Pali-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ঙ, মূর্দ্থন্য, ৪৪8",
+    "note": "Garbled characters in terms like 'গুরুত্বপূর্ণ' and noise digits."
+  },
+  {
+    "chunk_id": "6-Pali-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধাতু $ ক্রিয়ার\nপদসমফ্টিকে",
+    "note": "Special character '$' is a corruption and 'পদসমֆ্টিকে' is garbled."
+  },
+  {
+    "chunk_id": "6-Pali-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-8-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিকরণ $ঃ\nতি ₹ পচতি",
+    "note": "Symbols '$' and '₹' are script corruption from the source."
+  },
+  {
+    "chunk_id": "6-Pali-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যুত্তু",
+    "note": "Word 'যুত্তু' is a corruption of 'যুক্ত'."
+  },
+  {
+    "chunk_id": "6-Pali-8-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২₹+",
+    "note": "Garbled character sequence likely from a separator or symbol."
+  },
+  {
+    "chunk_id": "6-Pali-8-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এ গজ সপন্তশ্র বত: ৯৬৪৫\৬",
+    "note": "Significant noise and corrupted text from layout artifacts."
+  },
+  {
+    "chunk_id": "6-Pali-8-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Pali-8-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অং, ৪৮৪., ২১,",
+    "note": "Truncated words and noise from page numbering/layout."
+  },
+  {
+    "chunk_id": "6-Pali-8-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

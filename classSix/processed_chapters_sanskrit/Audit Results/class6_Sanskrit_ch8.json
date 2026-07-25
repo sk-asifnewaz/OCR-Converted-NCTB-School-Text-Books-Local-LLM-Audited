@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "6-Sanskrit-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরমনস্তপঃ, প্রীতিমাপন্নে, প্রয়োজনমৃ",
+    "note": "OCR errors where 'ং' or 'র্ম' were replaced by incorrect characters."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টাকা ঃ, ₹",
+    "note": "Non-contextual words/symbols likely from OCR misreading of punctuation or symbols."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হচ্তস্য",
+    "note": "Incorrect character 'চ' instead of 'স' in 'হস্তস্য'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যস্সিন্‌",
+    "note": "Incorrect character 'স' instead of 'ং' in 'যংসিন্‌'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভূষণমৃ",
+    "note": "Extra character 'র' likely from misreading of a halant (ং)."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিককন, ন্মী",
+    "note": "Consistent OCR errors for 'দ্বিকচন' and 'ষষ্ঠী'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিকন",
+    "note": "OCR error for 'দ্বিকচন'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিকন",
+    "note": "OCR error for 'দ্বিকচন'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়াঁ, ত্যা, মৌ",
+    "note": "Garbled OCR of Sanskrit grammar markers."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্্রীলিঙ্গ",
+    "note": "Incorrect punctuation/extra character in 'স্ত্রীলিঙ্গ'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বিঝচন",
+    "note": "OCR error for 'দ্বিকচন'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শতব্দবিভতক্তির",
+    "note": "OCR error for 'শব্দবিভন্তির'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যষ্ঠীর",
+    "note": "Likely error for 'ষষ্ঠীর'."
+  },
+  {
+    "chunk_id": "6-Sanskrit-8-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "(14)",
+    "note": "Parentheses with numbers appear to be artifacts from a list or page layout."
+  }
+]

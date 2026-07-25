@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "6-English-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "% © = ¥v",
+    "note": "Non-linguistic symbols and garbled characters from OCR."
+  },
+  {
+    "chunk_id": "6-English-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "AMP YN SH",
+    "note": "Garbled text likely from a page header or footer."
+  },
+  {
+    "chunk_id": "6-English-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| slice",
+    "note": "Isolated pipe symbol is an OCR artifact."
+  },
+  {
+    "chunk_id": "6-English-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "a=y",
+    "note": "Multiple instances of garbled Unicode and symbols."
+  },
+  {
+    "chunk_id": "6-English-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| onion",
+    "note": "Pipe character is a common OCR artifact."
+  },
+  {
+    "chunk_id": "6-English-9-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "oe ND wR WN",
+    "note": "Garbled character string likely from a layout element."
+  }
+]

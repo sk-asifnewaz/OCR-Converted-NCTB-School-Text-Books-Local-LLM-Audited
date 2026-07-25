@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "6-Arabic-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "%%9",
+    "note": "Non-sequential symbols and digits appearing as OCR artifacts."
+  },
+  {
+    "chunk_id": "6-Arabic-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০‏ را 29و د ও, ০ 21 ১৫৫ তা ০, ২০২৬",
+    "note": "Multiple instances of digit noise interspersed in the text."
+  },
+  {
+    "chunk_id": "6-Arabic-6-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩২০ ‏و‎ 2 তল গলপ",
+    "note": "Garbled sequence and non-sequitur phrase at end of chunk."
+  },
+  {
+    "chunk_id": "6-Arabic-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭১৮৮৮ 01902, 147 0১0 ১1১২, ال5",
+    "note": "Random digit runs and a numeral embedded in Arabic script."
+  }
+]

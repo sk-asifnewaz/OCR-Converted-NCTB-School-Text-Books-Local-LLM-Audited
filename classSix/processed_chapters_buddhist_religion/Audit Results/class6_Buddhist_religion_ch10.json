@@ -1,0 +1,227 @@
+[
+  {
+    "chunk_id": "6-Buddhist_religion-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-2",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সীকৃত",
+    "note": "Word 'সীকৃত' is not a standard Bengali word; likely OCR corruption of 'সিদ্ধকৃত'."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-3",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিশষ্বিসার",
+    "note": "Garbled name; should be 'বিশ্বিসার' as seen in other chunks."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-5",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হর্ষক্ক",
+    "note": "Likely a typo or OCR artifact of 'হর্ষ' or another dynasty name."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-7",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিশিসারের",
+    "note": "Inconsistent spelling of the name 'বিশ্বিসার'."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-8",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ৰ\nশা\nচু\nলা",
+    "note": "Garbled characters/symbols at the top of the chunk."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নির্মাণ এবং",
+    "note": "Sentence is cut off at the end of the chunk."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-11",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খ্‌",
+    "note": "Unusual character/punctuation following 'খ'."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিক্ষুংখঘ",
+    "note": "Garbled sequence; likely 'ভিক্ষুসংঘ' (monk order)."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-18",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধর্ম",
+    "note": "Sentence ends abruptly mid-clause at the chunk boundary."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-20",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা.",
+    "note": "Likely an OCR error where 'ঘ.' was misidentified as 'ঢ.'."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ.1ও]11",
+    "note": "Garbled digit/symbol sequence likely representing multiple choice options."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ.1ওা",
+    "note": "Garbled digit/symbol sequence in the multiple-choice options."
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Buddhist_religion-10-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "The sequence 3, 8, 5 suggests '8' is a corrupted digit (likely 4)."
+  }
+]

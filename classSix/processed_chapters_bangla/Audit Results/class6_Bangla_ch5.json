@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "6-Bangla-5-1",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কল্পনা করা শত্ত",
+    "note": "The word 'শত্ত' is likely a malformed OCR of 'সম্ভব'."
+  },
+  {
+    "chunk_id": "6-Bangla-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্যাস-ভরতি",
+    "note": "Garbled characters, likely 'বিশাল' or similar."
+  },
+  {
+    "chunk_id": "6-Bangla-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩২ চারুপাঠ",
+    "note": "Page/section number and title leaked into the text."
+  },
+  {
+    "chunk_id": "6-Bangla-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যন্ত্রপাতিসুদ্ধ",
+    "note": "Malformed word, likely 'যন্ত্রপাটির সাহায্যে' or similar."
+  },
+  {
+    "chunk_id": "6-Bangla-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হব",
+    "note": "Corrupted OCR for 'হুবহু'."
+  },
+  {
+    "chunk_id": "6-Bangla-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্িক্রম",
+    "note": "Garbled text for 'অতিক্রম'."
+  },
+  {
+    "chunk_id": "6-Bangla-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হত্য দ",
+    "note": "Garbled OCR for 'হৃদয়'."
+  },
+  {
+    "chunk_id": "6-Bangla-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ. কালে",
+    "note": "Likely meant 'কালো' in a multiple-choice question."
+  },
+  {
+    "chunk_id": "6-Bangla-5-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1, 11, 111",
+    "note": "Garbled digits for roman numerals or list indices."
+  },
+  {
+    "chunk_id": "6-Bangla-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPT", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ্বসহ্ণ, বায়ুমগডলে, এ ৬ ৯৬ », আকাশ ৩৫, 8৪.",
+    "note": "Multiple OCR errors and artifacts from page footer/header."
+  },
+  {
+    "chunk_id": "6-Bangla-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-5-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ ৬ এ &",
+    "note": "Garbled artifacts at the end of the chunk."
+  }
+]

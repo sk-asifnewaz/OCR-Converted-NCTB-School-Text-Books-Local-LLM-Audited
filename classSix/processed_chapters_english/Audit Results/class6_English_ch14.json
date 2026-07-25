@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "6-English-14-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-14-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-14-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "the kettle 1s on the, d of the box",
+    "note": "1s is a digit noise for 'is'; phrases are truncated."
+  },
+  {
+    "chunk_id": "6-English-14-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "to be back 10 half an hour.",
+    "note": "The digit '10' is a common OCR error for the word 'in'."
+  },
+  {
+    "chunk_id": "6-English-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-14-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[write down | tak | puraway | read ]",
+    "note": "Words 'tak' and 'puraway' are truncated versions of 'take' and 'put away'."
+  },
+  {
+    "chunk_id": "6-English-14-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-English-14-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "li., lil.",
+    "note": "Roman numerals 'ii.' and 'iii.' are corrupted as 'li.' and 'lil.'."
+  },
+  {
+    "chunk_id": "6-English-14-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "V. carefully.",
+    "note": "Numeral 'V.' is a corruption of the roman numeral 'iv.'."
+  }
+]

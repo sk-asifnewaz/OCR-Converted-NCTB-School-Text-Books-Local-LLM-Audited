@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "6-Bangla-20-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-20-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-20-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০113110, দৃশাকভিদীপর",
+    "note": "Corrupted script and nonsensical digit strings."
+  },
+  {
+    "chunk_id": "6-Bangla-20-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাঙকমের, অন্তরভুদ্ধ, হতেছবে",
+    "note": "OCR errors in common words like 'শিক্ষাক্রম' and 'অন্তর্ভুক্ত'."
+  },
+  {
+    "chunk_id": "6-Bangla-20-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সন্দমলনম্দ [নদ",
+    "note": "Garbled characters and a truncated ending."
+  },
+  {
+    "chunk_id": "6-Bangla-20-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "কোনে",
+    "note": "Likely an OCR error for the word 'কোন'."
+  },
+  {
+    "chunk_id": "6-Bangla-20-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হুবস্থ",
+    "note": "Likely a corrupted version of 'হুবহু'."
+  },
+  {
+    "chunk_id": "6-Bangla-20-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "6-Bangla-20-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তর্ভুতত",
+    "note": "OCR corruption of the word 'অন্তর্ভুক্ত'."
+  },
+  {
+    "chunk_id": "6-Bangla-20-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]
