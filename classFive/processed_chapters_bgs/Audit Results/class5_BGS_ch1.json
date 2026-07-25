@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "5-BGS-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০০৫ ++ ।",
+    "note": "Likely a page number or artifact from the original layout."
+  },
+  {
+    "chunk_id": "5-BGS-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আর্ডতে",
+    "note": "Corrupted word; should likely be 'আর আর্দ্রতাকে' (and humidity)."
+  },
+  {
+    "chunk_id": "5-BGS-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত... গলার... অঞ্জলে",
+    "note": "Common OCR errors for 'দ্রুত', 'গলার' and 'অঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-BGS-1-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৩৬৩৬০৬৬ ৬৩৩৬৬৬৫৫৩০৬৬৬৫০৬৬৫০৬",
+    "note": "Long string of random numbers, clearly an OCR artifact."
+  },
+  {
+    "chunk_id": "5-BGS-1-5",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১) কা কাজ করা হচ্ছে? ... ১ কী কাজ করা হচ্ছে?",
+    "note": "The list of questions 1-3 is repeated twice in the same block."
+  },
+  {
+    "chunk_id": "5-BGS-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-1-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "Incorrect character; should be 'শক্তির' (of power)."
+  },
+  {
+    "chunk_id": "5-BGS-1-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বনাঞল ষ্বংস",
+    "note": "Incorrect characters; should be 'বনভূমি ধ্বংস'."
+  },
+  {
+    "chunk_id": "5-BGS-1-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ গ?ণগগগ? | ...pৰ॥ ॥ নদ ভন",
+    "note": "Garbled characters and symbols that do not form valid words."
+  },
+  {
+    "chunk_id": "5-BGS-1-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তাপশ্তি",
+    "note": "Incorrect character; should be 'তাপশক্তি'."
+  },
+  {
+    "chunk_id": "5-BGS-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৮.",
+    "note": "The list jumps from 3 to 8; likely a misread '৪' (four)."
+  },
+  {
+    "chunk_id": "5-BGS-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Likely a misread '৪' (four) due to OCR confusion between ৪ and ৮."
+  },
+  {
+    "chunk_id": "5-BGS-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

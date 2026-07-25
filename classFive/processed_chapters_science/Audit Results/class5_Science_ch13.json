@@ -1,0 +1,299 @@
+[
+  {
+    "chunk_id": "5-Science-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-13-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১১",
+    "note": "Number sequence likely a corrupted OCR of the Bengali word 'একটি'"
+  },
+  {
+    "chunk_id": "5-Science-13-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চুদে জে চি চা দ্র\\nগে নর চ\nলা গদি দ নে 5 যয 4178 5 দীন ভয়",
+    "note": "Contains significant garbled text and random number strings"
+  },
+  {
+    "chunk_id": "5-Science-13-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মদন ৷ চে রত দে ক্র\nদে চলে দিছি শি দম ৭\n্ ন্ দল গচ0মাপ 51",
+    "note": "Large block of nonsensical text and digit-heavy corruption"
+  },
+  {
+    "chunk_id": "5-Science-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গা গস\n217031 00011 পীস্ুলüe\nগ্রহণ করে গ8ঘ০ বাটন",
+    "note": "Contains garbled Unicode and nonsensical script fragments"
+  },
+  {
+    "chunk_id": "5-Science-13-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(000516 (001016, 1160» বা /11610301\n008০)",
+    "note": "Long string of numbers likely replacing a browser name or list"
+  },
+  {
+    "chunk_id": "5-Science-13-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লা ডা\nজা ল্যাদ লা ছব -॥ দাদ\n্থাতার লাগত চাহ বাগ জলা পাত পায় আতর দি জর",
+    "note": "Multiple lines of nonsensical garbled text"
+  },
+  {
+    "chunk_id": "5-Science-13-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১৮১১০১)০০০০১১১০১১১",
+    "note": "String of digits likely a corrupted OCR for Bengali text"
+  },
+  {
+    "chunk_id": "5-Science-13-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টানি চদর। ছ ও চারার ছয় ադনাচ ১১০৮৩০৮১৭৮৮ টা\nাছা।য চাদ রে চে, দো ৪৪ ১১১",
+    "note": "Entire block of text is nonsensical garbled content"
+  },
+  {
+    "chunk_id": "5-Science-13-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-13-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-13-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(30180)",
+    "note": "Likely a corrupted OCR of the word 'একটি'"
+  },
+  {
+    "chunk_id": "5-Science-13-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-13-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'স্টুলু যা করতে হবে",
+    "note": "The word 'স্টুলু' is clearly corrupted text"
+  },
+  {
+    "chunk_id": "5-Science-13-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(+, -, , )",
+    "note": "Missing operators in the mathematical symbol sequence"
+  },
+  {
+    "chunk_id": "5-Science-13-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-13-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "000516 00101716\nসার্চ বারে 3০018001..1110.০00",
+    "note": "Numeric strings appear to be corrupted OCR of words or URLs"
+  },
+  {
+    "chunk_id": "5-Science-13-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00115)\nদ্র: বা পোশাক ক পদ্াগল ১. লে ১০\n\nঞ গাভ",
+    "note": "Contains both digit noise and garbled script fragments"
+  },
+  {
+    "chunk_id": "5-Science-13-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০। ্ত\n$ ২০৯\n১:\nও চিল দে\nচপ্টযার",
+    "note": "Chunk consists mostly of garbled text and symbols"
+  },
+  {
+    "chunk_id": "5-Science-13-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গি লগত পু",
+    "note": "Garbled text at the end of the chunk"
+  },
+  {
+    "chunk_id": "5-Science-13-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ311881০3)\n২ সম ণ্যাঃক ই\nলক্মকর সংস্যা« এপ্রবঃম্মান্াক্ষাকর",
+    "note": "Mix of digit noise and garbled script fragments"
+  },
+  {
+    "chunk_id": "5-Science-13-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(30118115)\nকেন্ডের সেলা টাচ চটী লল\nপন দা পন শা",
+    "note": "Contains digit noise and a block of garbled text"
+  },
+  {
+    "chunk_id": "5-Science-13-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0.00135)\nটে ক পহআছ সহ থয যাটক্ত? আছ",
+    "note": "Digit noise and garbled text sequence"
+  },
+  {
+    "chunk_id": "5-Science-13-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00%180013)\nদশা্রণ কার",
+    "note": "Digit noise and garbled script at the end"
+  },
+  {
+    "chunk_id": "5-Science-13-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1.0013)\nশশা কর সহযযা 3 এএথহং মখংপেনশুদস কম",
+    "note": "Digit noise and garbled text segments"
+  },
+  {
+    "chunk_id": "5-Science-13-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ311881০৩)\nত্শ্য রর ওজর নির্ধারণ কর",
+    "note": "Combination of digit noise and garbled text"
+  },
+  {
+    "chunk_id": "5-Science-13-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ31180163)\nদবং আ.পেন্লা কর",
+    "note": "Garbled text and digit noise in script path"
+  },
+  {
+    "chunk_id": "5-Science-13-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ31130816)\nযাজানু 9119016",
+    "note": "Multiple instances of digit noise in the chunk"
+  },
+  {
+    "chunk_id": "5-Science-13-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮ু\nলী\n+:+৬০৮ এ মুক্ত হর মাইন হন ড\"",
+    "note": "Large amount of nonsensical/garbled text"
+  },
+  {
+    "chunk_id": "5-Science-13-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ল্ত্ঞ দে :: চ়ঞ্ 1\nঙ (১৬০\n১১ ২২১১\nরং ॥",
+    "note": "Garbled text and nonsensical symbols"
+  },
+  {
+    "chunk_id": "5-Science-13-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-13-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(30180)",
+    "note": "Digits likely represent a corrupted word like 'একটি'"
+  },
+  {
+    "chunk_id": "5-Science-13-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

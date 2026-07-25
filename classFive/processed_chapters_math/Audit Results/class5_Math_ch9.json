@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "5-Math-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কি ২৬ চা] 05",
+    "note": "Non-sensical number and symbol string likely from OCR artifacts."
+  },
+  {
+    "chunk_id": "5-Math-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/ক্ চে], রা রাজ, লু",
+    "note": "Fragments of garbled text and isolated characters."
+  },
+  {
+    "chunk_id": "5-Math-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "|], মহা]",
+    "note": "Isolated characters/symbols likely from page layout artifacts."
+  },
+  {
+    "chunk_id": "5-Math-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "5০০০০০০০০০০",
+    "note": "Long string of zeros likely resulting from OCR misinterpreting lines."
+  },
+  {
+    "chunk_id": "5-Math-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫৫০, ৭০০, ৩৫০, বিদ্দুদ্বয়",
+    "note": "Incoherent values for angles and misspelling of 'বিন্দুদ্বয়'."
+  },
+  {
+    "chunk_id": "5-Math-9-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৫০, অক্ক্িত",
+    "note": "Incorrect numerical value for angle and spelling of 'আঙ্কিত'."
+  },
+  {
+    "chunk_id": "5-Math-9-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ণ্ত:।",
+    "note": "Truncated word likely meant to be 'সুতরাং' or similar."
+  },
+  {
+    "chunk_id": "5-Math-9-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[0 নল লুল দেল গে। ], ০ হী পে ৭০",
+    "note": "Nonsensical phrase and garbled numeric content."
+  },
+  {
+    "chunk_id": "5-Math-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/&৬, /২৬, বত্রিতুজের, গ্ব্স হ্যাঁ",
+    "note": "Garbled text and incorrect spelling of 'চতুর্ভুজের'."
+  },
+  {
+    "chunk_id": "5-Math-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-9-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ান্প, -/ সমরিক / -, স্যসে",
+    "note": "Garbled words in the selection options."
+  },
+  {
+    "chunk_id": "5-Math-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "জঁকি",
+    "note": "Misspelling of 'আঙ্কি'."
+  },
+  {
+    "chunk_id": "5-Math-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ভঞ্চাপ",
+    "note": "Garbled word likely intended to be 'চাপ'."
+  },
+  {
+    "chunk_id": "5-Math-9-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অঞ্তন",
+    "note": "Misspelling of 'আঙ্কন'."
+  },
+  {
+    "chunk_id": "5-Math-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী, বী, ফি",
+    "note": "Fragmented characters/noise likely from diagram labels."
+  },
+  {
+    "chunk_id": "5-Math-9-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্ক্িত",
+    "note": "Misspelling of 'আঙ্কিত'."
+  },
+  {
+    "chunk_id": "5-Math-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2... সেমি 1",
+    "note": "Garbled measurement data likely from a table."
+  },
+  {
+    "chunk_id": "5-Math-9-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৯১১",
+    "note": "Number '১৯১১' is likely a misread of the word 'নিচে'."
+  },
+  {
+    "chunk_id": "5-Math-9-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯ এত ৯ এতশত",
+    "note": "Nonsensical repeating string."
+  },
+  {
+    "chunk_id": "5-Math-9-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চটুর্ভুজ, ০৮০০০, হ:৫-০০",
+    "note": "Mixed corruption of words and non-sensical numbers."
+  },
+  {
+    "chunk_id": "5-Math-9-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০০, ৩৫০",
+    "note": "Unlikely angles for the grade level, likely OCR artifacts."
+  },
+  {
+    "chunk_id": "5-Math-9-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-9-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-9-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "5-Bangla-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-5-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১২১২১২১২১২১২১২",
+    "note": "Repetitive digits and garbled characters like 'ম্৷ললোোবেদোলদাদোোোোোোাান' are present."
+  },
+  {
+    "chunk_id": "5-Bangla-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬৬৬৩৬৬ ৬৬৩৩৬০৬৬০৩৩৬৬৩৬৬০৬৩৩৩৬৬৩৬০৬৩৬৩৩৬৬৬০৩৬৩৬৩৬৩৬৬৩৬৩৩৩৬৬৩৬৩৬৩৩৬৩৬০৬৬৩৩৬৩৬৬৬০৩৩৬৬৬৬০৬৩৩৩৬৬৬০৩৩৬৬৬৬০৬৬৩৬৩৬৬৬৬৩৬৩৬৬০৬০৬৩৬০৬৬০৬৬০০৬৬০৬৬০৬০৩৬",
+    "note": "A long string of nonsensical digits at the start of the chunk."
+  },
+  {
+    "chunk_id": "5-Bangla-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এম্ম ন চনে মাও ৩০৫০৬০৫০৬০৬ ৬৬০৬৩০৬৫৬৩৬৫৬০৬০৬৫০৫৬০৬৫০৬০৩৪৬৫০৬৫০৬০৫০৩০৬৫৬০৬০৬৫০০৫০৬৬০৬০৬০০০৬৩০৬০৬০০০০৬০৬০৬০০০০৬ ৬",
+    "note": "Garbled text followed by a long string of irrelevant digits."
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "5-Math-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৪ - ক ল ৮",
+    "note": "The 'ল' and subsequent symbols are likely OCR errors for '=' or punctuation."
+  },
+  {
+    "chunk_id": "5-Math-2-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চটি করে চকলেট পায়",
+    "note": "'চটি' is likely a corruption of 'প্রতি' (each)."
+  },
+  {
+    "chunk_id": "5-Math-2-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬/“৪",
+    "note": "Contains incoherent symbols and punctuation."
+  },
+  {
+    "chunk_id": "5-Math-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪৮ -_ গ - ৩৩",
+    "note": "The '৮' before '৪' is a likely noise character."
+  },
+  {
+    "chunk_id": "5-Math-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪ + ১৫০৫২৪৬",
+    "note": "Numbers are mashed together, likely a spacing/OCR error."
+  },
+  {
+    "chunk_id": "5-Math-2-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সস ২৪ + ১৫০ -২৪৬ *স ২৪ + ১৫০-২৪৬",
+    "note": "Repeated symbols and 'স' are likely noise."
+  },
+  {
+    "chunk_id": "5-Math-2-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ন৫্খ",
+    "note": "Non-sensical character sequence."
+  },
+  {
+    "chunk_id": "5-Math-2-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬১€৩",
+    "note": "Contains a currency symbol or unrelated character."
+  },
+  {
+    "chunk_id": "5-Math-2-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "рь য জন",
+    "note": "Fragmented and corrupted text at the end of a sentence."
+  },
+  {
+    "chunk_id": "5-Math-2-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লা ডা ]ু",
+    "note": "Garbled characters and symbols in the result section."
+  },
+  {
+    "chunk_id": "5-Math-2-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€৭ সদন অন দুইসন সমঘবন্দেনর",
+    "note": "Nonsensical string of characters."
+  },
+  {
+    "chunk_id": "5-Math-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী বা সং",
+    "note": "Garbled text/fragments."
+  },
+  {
+    "chunk_id": "5-Math-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রে ৮৫",
+    "note": "Fragments of words and numbers."
+  },
+  {
+    "chunk_id": "5-Math-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রর টাকা",
+    "note": "Garbled word/phrase."
+  },
+  {
+    "chunk_id": "5-Math-2-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪, ১৪",
+    "note": "Mangled calculation logic and broken words."
+  },
+  {
+    "chunk_id": "5-Math-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৬৬৬৬৬৬৬৬৬৬",
+    "note": "Repetitive digits are a common OCR looping artifact."
+  },
+  {
+    "chunk_id": "5-Math-2-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চটি কমলার",
+    "note": "'চটি' is likely 'প্রতি'."
+  },
+  {
+    "chunk_id": "5-Math-2-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/৪২",
+    "note": "Leading symbols and garbled text."
+  },
+  {
+    "chunk_id": "5-Math-2-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩১ং২ ৬১৩৪",
+    "note": "Garbled table/list data."
+  },
+  {
+    "chunk_id": "5-Math-2-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এঁ কুয়া",
+    "note": "Garbled word for 'এই' or similar."
+  },
+  {
+    "chunk_id": "5-Math-2-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৮৬ ৯*২",
+    "note": "Garbled mathematical expression."
+  },
+  {
+    "chunk_id": "5-Math-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯ু",
+    "note": "Non-sensical symbol usage."
+  },
+  {
+    "chunk_id": "5-Math-2-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-2-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী মা",
+    "note": "'হী' is a common fragment of 'যদি'."
+  },
+  {
+    "chunk_id": "5-Math-2-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

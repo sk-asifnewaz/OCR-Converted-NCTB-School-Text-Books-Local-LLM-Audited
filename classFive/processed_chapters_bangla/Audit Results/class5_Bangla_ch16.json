@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "5-Bangla-16-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญ্লের",
+    "note": "Corrupted word; likely intended to be 'অঞ্চলের'."
+  },
+  {
+    "chunk_id": "5-Bangla-16-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০চে০%1\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬\n\"৬৭",
+    "note": "Contains garbled characters and nonsensical symbols."
+  },
+  {
+    "chunk_id": "5-Bangla-16-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরিক",
+    "note": "Nonsensical word; likely an OCR error for 'দুজনকেই' or similar."
+  },
+  {
+    "chunk_id": "5-Bangla-16-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গাচিশ",
+    "note": "Nonsensical word; likely a corrupted form of 'দশ'."
+  },
+  {
+    "chunk_id": "5-Bangla-16-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীঁর",
+    "note": "Corrupted character; likely meant to be 'তাঁর'."
+  },
+  {
+    "chunk_id": "5-Bangla-16-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শত্রসেনারা",
+    "note": "Missing vowel; likely 'শত্রুসেনারা'."
+  },
+  {
+    "chunk_id": "5-Bangla-16-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তির",
+    "note": "Corrupted word; likely intended to be 'তাঁদের' or 'তাদের'."
+  },
+  {
+    "chunk_id": "5-Bangla-16-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্মি",
+    "note": "Missing vowel; should be 'তুমি'."
+  },
+  {
+    "chunk_id": "5-Bangla-16-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫৬০৫৬৬৬৬ ৬৬৩০৫৬৬৬০... ",
+    "note": "Large block of meaningless digits and garbled text."
+  },
+  {
+    "chunk_id": "5-Bangla-16-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-16-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬০৬৩৬৩ ৬৬৬৬৩৩৬৬০৬৬০... ",
+    "note": "Massive run of non-contextual digits."
+  },
+  {
+    "chunk_id": "5-Bangla-16-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

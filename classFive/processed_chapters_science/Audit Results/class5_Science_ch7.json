@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "5-Science-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বস্কুর",
+    "note": "Incorrect character 'ক' instead of 'ত' in 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নিচু স্বান থেকে",
+    "note": "'স্বান' is likely a misreading of 'স্থান'."
+  },
+  {
+    "chunk_id": "5-Science-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সা দর \\nচে রা",
+    "note": "Garbled fragments likely from table borders or layout."
+  },
+  {
+    "chunk_id": "5-Science-7-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চার\n৩.",
+    "note": "The word 'চা' appears to be a truncated fragment of another word."
+  },
+  {
+    "chunk_id": "5-Science-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্কু দুত",
+    "note": "'দুত' is a misread of 'দ্রুত'."
+  },
+  {
+    "chunk_id": "5-Science-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুত... অতিক্বম",
+    "note": "'দুত' and 'অতিক্বম' are misreadings of 'দ্রুত' and 'অতিক্রম'."
+  },
+  {
+    "chunk_id": "5-Science-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্কুর... বোশধুর",
+    "note": "Consistent misreading of 'বস্তু' as 'বোশ্কু/বোশধুর'."
+  },
+  {
+    "chunk_id": "5-Science-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্ধুক... বোশধুর",
+    "note": "Misreadings of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মেবেতে",
+    "note": "Likely a misreading of 'মেঝে'."
+  },
+  {
+    "chunk_id": "5-Science-7-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সরু... (11 গ্লটুটিদে।)",
+    "note": "Nonsensical strings likely from layout artifacts."
+  },
+  {
+    "chunk_id": "5-Science-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্ধু",
+    "note": "Misreading of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বানে",
+    "note": "Likely misread word for 'ছকএ'."
+  },
+  {
+    "chunk_id": "5-Science-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্কু... হ্পর",
+    "note": "'বোশ্কু' and 'হ্পর' are misreadings of 'বস্তু' and 'উপর'."
+  },
+  {
+    "chunk_id": "5-Science-7-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শত্ত্রি",
+    "note": "Likely misreading of 'শক্তির'."
+  },
+  {
+    "chunk_id": "5-Science-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্কু",
+    "note": "Misreading of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শনাত্তকরণ",
+    "note": "Misreading of 'শনাক্তকরণ'."
+  },
+  {
+    "chunk_id": "5-Science-7-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নদ ১৮৮... ভুপগলা",
+    "note": "Garbled text and non-standard numbers in table area."
+  },
+  {
+    "chunk_id": "5-Science-7-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষ্কু ডাইভার",
+    "note": "Likely misread of 'স্কু ও বৈজ'."
+  },
+  {
+    "chunk_id": "5-Science-7-23",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টি... ็ুলু",
+    "note": "Broken words/symbols from OCR artifacts."
+  },
+  {
+    "chunk_id": "5-Science-7-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বানে",
+    "note": "Likely misread word for 'ছকএ'."
+  },
+  {
+    "chunk_id": "5-Science-7-25",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঢা",
+    "note": "Sentence ends abruptly at 'ঢা'."
+  },
+  {
+    "chunk_id": "5-Science-7-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বস্কু... বোশ্কু",
+    "note": "Misreadings of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্কু",
+    "note": "Misreading of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশধুর",
+    "note": "Misreading of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "[0",
+    "note": "Unexpected digit '0' inside bracket."
+  },
+  {
+    "chunk_id": "5-Science-7-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "7 সিড়ি",
+    "note": "Digit '7' likely replaced a list indicator."
+  },
+  {
+    "chunk_id": "5-Science-7-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঢ]",
+    "note": "Likely misreading of 'ঘ]'."
+  },
+  {
+    "chunk_id": "5-Science-7-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বোশ্ধুর",
+    "note": "Misreading of 'বস্তু'."
+  },
+  {
+    "chunk_id": "5-Science-7-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রা [",
+    "note": "Fragmented characters from a table structure."
+  },
+  {
+    "chunk_id": "5-Science-7-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬.",
+    "note": "Non-standard numbering in a sequential list."
+  },
+  {
+    "chunk_id": "5-Science-7-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অমসুণ",
+    "note": "Misreading of 'অমসৃণ'."
+  },
+  {
+    "chunk_id": "5-Science-7-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

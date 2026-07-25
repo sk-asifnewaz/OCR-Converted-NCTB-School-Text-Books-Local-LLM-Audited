@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "5-BGS-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "€็ি",
+    "note": "Non-Bengali characters (Euro symbol) used in text."
+  },
+  {
+    "chunk_id": "5-BGS-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed digit types likely resulting from OCR of a single number."
+  },
+  {
+    "chunk_id": "5-BGS-2-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শর রর র যর",
+    "note": "Nonsensical repeated character sequence."
+  },
+  {
+    "chunk_id": "5-BGS-2-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ফচ",
+    "note": "Incoherent character string."
+  },
+  {
+    "chunk_id": "5-BGS-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৩৬০৬৬৬৩০৬৬৬৬৩৬৬৬৬৬৬০৬৬৬৬০৬৩৬৬০৬৬৬৩৬",
+    "note": "Large block of non-meaningful digits likely from a graphic or table."
+  },
+  {
+    "chunk_id": "5-BGS-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed digit types likely resulting from OCR of a single number."
+  },
+  {
+    "chunk_id": "5-BGS-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€ল",
+    "note": "Non-Bengali character (Euro symbol) included."
+  },
+  {
+    "chunk_id": "5-BGS-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তক্বমিক... ০৪৫ |/ |\"... আদিকীকদবা",
+    "note": "Multiple instances of nonsensical text and garbled symbols."
+  },
+  {
+    "chunk_id": "5-BGS-2-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জেসিক কব",
+    "note": "Nonsensical phrase likely from bad OCR."
+  },
+  {
+    "chunk_id": "5-BGS-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-2-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "Likely a misread of the numeral 4 in sequence."
+  },
+  {
+    "chunk_id": "5-BGS-2-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

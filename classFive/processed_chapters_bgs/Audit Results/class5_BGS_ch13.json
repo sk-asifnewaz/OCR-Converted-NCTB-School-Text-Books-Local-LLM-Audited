@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "5-BGS-13-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "็ বাংলাদেশের",
+    "note": "Non-Bengali character (Thai/Lao) likely a result of OCR noise."
+  },
+  {
+    "chunk_id": "5-BGS-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-13-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অন্তর্তুস্ত",
+    "note": "Corrupted word; likely a misread of 'অন্তর্ভুক্ত' or similar."
+  },
+  {
+    "chunk_id": "5-BGS-13-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উৎস বৃষ্ণি, উত্তিদজাত",
+    "note": "Likely corruptions of 'উৎস বৃষ্টি' and 'উৎপাদিত'."
+  },
+  {
+    "chunk_id": "5-BGS-13-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-13-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[\n[ _\n[ _\n[ __\n[\n[ _\n[ __\n[ _ [\n[ __\n[ ___",
+    "note": "Nonsensical sequence likely from a poorly OCR'd diagram or chart."
+  },
+  {
+    "chunk_id": "5-BGS-13-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কীচামাল",
+    "note": "Recurring typo; 'কি' instead of 'কা'. Should be 'কাঁচামাল'."
+  },
+  {
+    "chunk_id": "5-BGS-13-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আবাসস্বল",
+    "note": "Corrupted word; likely 'আবাসস্থল'."
+  },
+  {
+    "chunk_id": "5-BGS-13-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কীচামাল",
+    "note": "Recurring typo; 'কি' instead of 'কা'. Should be 'কাঁচামাল'."
+  },
+  {
+    "chunk_id": "5-BGS-13-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ট৮11111117",
+    "note": "Random alphanumeric string clearly unrelated to the text."
+  },
+  {
+    "chunk_id": "5-BGS-13-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গู้ছ, হাস",
+    "note": "Garbled words; likely 'গুচ্ছ' and a corrupted verb/noun."
+  },
+  {
+    "chunk_id": "5-BGS-13-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অন্তর্তুন্ত, অন্তর্তুত্ত",
+    "note": "Nonsensical words likely from repeated OCR errors on 'অন্তর্ভুক্ত'."
+  },
+  {
+    "chunk_id": "5-BGS-13-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮. ... ৬..",
+    "note": "Out of order numbering and extra punctuation."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "5-English-15-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "iw,",
+    "note": "Non-sensical character sequence likely caused by OCR artifact in author line."
+  },
+  {
+    "chunk_id": "5-English-15-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Cc)",
+    "note": "Repeated character 'c' suggests a duplication error in the list label."
+  },
+  {
+    "chunk_id": "5-English-15-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-English-15-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

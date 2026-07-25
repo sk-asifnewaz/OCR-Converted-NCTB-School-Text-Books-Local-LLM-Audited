@@ -1,0 +1,1046 @@
+[
+  {
+    "chunk_id": "5-Islam-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৃষ্িগুলো",
+    "note": "Word 'সৃষ্টি' is missing a letter, likely an OCR artifact."
+  },
+  {
+    "chunk_id": "5-Islam-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যকিক্বম",
+    "note": "Non-sensical word, likely a corruption of 'বৈচিত্র্য' or similar."
+  },
+  {
+    "chunk_id": "5-Islam-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০২ 18 ০৮০ ০৪ ৮",
+    "note": "Random numbers before the Arabic transcription."
+  },
+  {
+    "chunk_id": "5-Islam-1-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "না।",
+    "note": "Isolated 'না।' suggests a line break or truncation from a previous section."
+  },
+  {
+    "chunk_id": "5-Islam-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১227)",
+    "note": "Mixed punctuation and digits likely resulting from corrupted citation."
+  },
+  {
+    "chunk_id": "5-Islam-1-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শ লন দ্1, চু পাও ? ্ণ না লি পা",
+    "note": "Garbled sequence of characters/symbols."
+  },
+  {
+    "chunk_id": "5-Islam-1-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৃষ্িজগতের",
+    "note": "Typo/corruption in the word 'সৃষ্টিজগৎ'."
+  },
+  {
+    "chunk_id": "5-Islam-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(এ%৭)\n(এ,-৬২)",
+    "note": "Nonsensical symbols and numbers used as markers."
+  },
+  {
+    "chunk_id": "5-Islam-1-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্পষ্ণভাবে",
+    "note": "Missing letter in 'স্পষ্টভাবে'."
+  },
+  {
+    "chunk_id": "5-Islam-1-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "£:৮- ь 1 রা",
+    "note": "Garbled characters and numbers in the reference line."
+  },
+  {
+    "chunk_id": "5-Islam-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রা রা\nрьতা রঙ্গ",
+    "note": "Garbled symbols and nonsensical words before the prayer."
+  },
+  {
+    "chunk_id": "5-Islam-1-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভুলত্রমে",
+    "note": "Typo; 'ভুল' is likely the intended word, but it looks like a corrupted character."
+  },
+  {
+    "chunk_id": "5-Islam-1-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(+৯১%)",
+    "note": "Nonsense percentage in brackets."
+  },
+  {
+    "chunk_id": "5-Islam-1-25",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "না",
+    "note": "Isolated word at the end of a chunk, likely footer/fragment."
+  },
+  {
+    "chunk_id": "5-Islam-1-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হন শ৷জ চ ৯কবকিসড ও তে ৮",
+    "note": "Garbled text/symbols likely from a messy OCR pass."
+  },
+  {
+    "chunk_id": "5-Islam-1-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১4:১২)",
+    "note": "Garbled numeric reference."
+  },
+  {
+    "chunk_id": "5-Islam-1-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪১,০২১, ৪০০৫ , ,/- -॥",
+    "note": "Garbled symbols and numbers."
+  },
+  {
+    "chunk_id": "5-Islam-1-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\"১৩:৮৭ ৬. \"৭ |",
+    "note": "Garbled symbols and punctuation."
+  },
+  {
+    "chunk_id": "5-Islam-1-31",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "না",
+    "note": "Fragment at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Islam-1-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩: লও হ নুছনি 'আল্লিন",
+    "note": "Garbled phrase, likely a failed attempt to transcribe a transliteration."
+  },
+  {
+    "chunk_id": "5-Islam-1-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা এন% ৬৬৭৭৯",
+    "note": "Garbled text and digits."
+  },
+  {
+    "chunk_id": "5-Islam-1-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-38",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লই ২ পন চিল ইত ওই বনি",
+    "note": "Garbled sequence that makes no sense."
+  },
+  {
+    "chunk_id": "5-Islam-1-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৬ লা পণ লী কলা দল",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "5-Islam-1-40",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্যণে\nটম",
+    "note": "Non-sensical words likely from footer/header scrap."
+  },
+  {
+    "chunk_id": "5-Islam-1-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(২৮৭)",
+    "note": "Garbled citation/reference."
+  },
+  {
+    "chunk_id": "5-Islam-1-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.\n৫.",
+    "note": "Incorrect list order (should be 4, then 5)."
+  },
+  {
+    "chunk_id": "5-Islam-1-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৬৪ এস ডউ৬৪ দে ও বরন মিলে ৬০ বা ১য ২০৪ কল ঢ",
+    "note": "Garbled text/symbols."
+  },
+  {
+    "chunk_id": "5-Islam-1-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$%৮",
+    "note": "Garbled symbol/digit string."
+  },
+  {
+    "chunk_id": "5-Islam-1-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-48",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টম\nকি ০৯ ও ৭৮",
+    "note": "Garbled words and numbers."
+  },
+  {
+    "chunk_id": "5-Islam-1-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭:১ £ ৰাزء ০১৫ বা",
+    "note": "Garbled script/symbols."
+  },
+  {
+    "chunk_id": "5-Islam-1-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-52",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নিয়োত্ত",
+    "note": "Truncated word 'নির্ধারিত' or similar."
+  },
+  {
+    "chunk_id": "5-Islam-1-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.\n৫.",
+    "note": "Incorrect list numbering."
+  },
+  {
+    "chunk_id": "5-Islam-1-54",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্যণে\nটম",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "5-Islam-1-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-56",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "Incorrect list number (should be 4)."
+  },
+  {
+    "chunk_id": "5-Islam-1-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৯০১০০৫৪ / ৮",
+    "note": "Non-sense number sequence."
+  },
+  {
+    "chunk_id": "5-Islam-1-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| | |\nবি\nবা",
+    "note": "Broken formatting and fragments."
+  },
+  {
+    "chunk_id": "5-Islam-1-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-63",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.\n৯ ৫.",
+    "note": "Incorrect list numbering."
+  },
+  {
+    "chunk_id": "5-Islam-1-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-66",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টম",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "5-Islam-1-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নো ২\n০১১৭-১১-১১ -,-১",
+    "note": "Garbled numerals/symbols."
+  },
+  {
+    "chunk_id": "5-Islam-1-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-69",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৩%) ... (৫%)",
+    "note": "Duplicate/broken percentage notation."
+  },
+  {
+    "chunk_id": "5-Islam-1-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর",
+    "note": "Likely 'তখন' misidentified by OCR."
+  },
+  {
+    "chunk_id": "5-Islam-1-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-76",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Should be '৪।' - incorrect digit."
+  },
+  {
+    "chunk_id": "5-Islam-1-77",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টম\nত্মণে",
+    "note": "Garbled words and broken segment."
+  },
+  {
+    "chunk_id": "5-Islam-1-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-80",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "টে\nনা,",
+    "note": "Fragments/broken text."
+  },
+  {
+    "chunk_id": "5-Islam-1-81",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১১১)",
+    "note": "Nonsense number in parentheses."
+  },
+  {
+    "chunk_id": "5-Islam-1-82",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৬:৩১ ৮১%",
+    "note": "Nonsense digits/percent for a text section."
+  },
+  {
+    "chunk_id": "5-Islam-1-83",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রন",
+    "note": "Incomplete/corrupted word."
+  },
+  {
+    "chunk_id": "5-Islam-1-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-85",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Incorrect digit for list item 4."
+  },
+  {
+    "chunk_id": "5-Islam-1-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-87",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-88",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-89",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-91",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "?)",
+    "note": "Trailing punctuation/artifact."
+  },
+  {
+    "chunk_id": "5-Islam-1-92",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-94",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-95",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৬£%",
+    "note": "Garbled symbols."
+  },
+  {
+    "chunk_id": "5-Islam-1-96",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪|",
+    "note": "Garbled punctuation/separator."
+  },
+  {
+    "chunk_id": "5-Islam-1-97",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৮]",
+    "note": "Garbled count/reference."
+  },
+  {
+    "chunk_id": "5-Islam-1-98",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-99",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ - - -_ ০",
+    "note": "Garbled line/symbol string."
+  },
+  {
+    "chunk_id": "5-Islam-1-100",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-101",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ - ১-",
+    "note": "Garbled/unconventional formatting of numbers."
+  },
+  {
+    "chunk_id": "5-Islam-1-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-103",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪ ₹",
+    "note": "Garbled currency symbol/digit."
+  },
+  {
+    "chunk_id": "5-Islam-1-104",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-105",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১.৬)",
+    "note": "Garbled decimal/count."
+  },
+  {
+    "chunk_id": "5-Islam-1-106",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-107",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ ঢী",
+    "note": "Garbled word/punctuation."
+  },
+  {
+    "chunk_id": "5-Islam-1-108",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "না।",
+    "note": "Isolated word at end of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-1-109",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-110",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "না",
+    "note": "Isolated word at end of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-1-111",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-112",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৩... ০০...",
+    "note": "Garbled numbers and repetitive zeros."
+  },
+  {
+    "chunk_id": "5-Islam-1-113",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-114",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-115",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-1-116",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

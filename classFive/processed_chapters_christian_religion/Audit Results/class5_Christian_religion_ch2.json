@@ -1,0 +1,533 @@
+[
+  {
+    "chunk_id": "5-Christian_religion-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পা)",
+    "note": "Contains a stray parenthesis likely from layout artifacts."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ গং\n)",
+    "note": "Non-meaningful digits/symbols likely from a header or page number."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-7",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated metadata string likely from an OCR loop of a page footer."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যা\nর্‌\nবন্ধুকে কীভাবে рь।\nযা\nরন\nলু\n।",
+    "note": "Fragmented characters and symbols indicating a layout/table failure."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮্গাং-",
+    "note": "Nonsensical character/digit sequence."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "sb ২০২৬\n“৬ ২ংশ",
+    "note": "Corrupted header/footer text."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লাারালাঢঢঢঢঢঢননননননঢঢচচঢচচচঢ",
+    "note": "Non-meaningful repetitive character string."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "“৬ ২ংশ০\nশিক্ষাবর্ষ ২০২৬\n2)\nрь",
+    "note": "Mixed non-meaningful symbols and numerals in header/footer."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "“৬ ২ংশ",
+    "note": "Non-meaningful character/number sequence."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তত\nরত\nরর\n্্ম্সрь",
+    "note": "Garbled character segments."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Likely a single digit '8' incorrectly OCR'd as '84'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Includes a non-meaningful header and repeated content."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ গং\n)",
+    "note": "Non-meaningful symbols from header/footer."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "র্‌ |",
+    "note": "Garbled characters or symbols."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬ ২ংশ",
+    "note": "Non-meaningful characters/digits."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ গং\n)",
+    "note": "Non-meaningful symbols from footer/header."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\| ]\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Garbled symbols and repeated text."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Likely a single digit '8' misidentified."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ গং\n)\nস্বীষ্টধর্ম শিক্ষা\n“৯১৯",
+    "note": "Several non-meaningful numbers and symbols."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-43",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কি নির্বোধ",
+    "note": "Sentence ends abruptly at a sentence break."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮্-ぁং-\n)\nশিক্ষাবর্ষ",
+    "note": "Non-meaningful symbols/digits."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Likely a single digit '8' misidentified."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ তাঁট «",
+    "note": "Garbled characters and symbols."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Misread word 'শক্তি' (power)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ নাং\n)",
+    "note": "Non-meaningful symbols."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাস্তিন্ম",
+    "note": "Misread word 'বিশ্বাস' (belief)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রঃ\nরা\n1]\n...[7]",
+    "note": "Garbled symbols and brackets."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Likely a single digit '8' misidentified."
+  },
+  {
+    "chunk_id": "5-Christian_religion-2-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দা\n)",
+    "note": "Garbled characters/symbols."
+  }
+]

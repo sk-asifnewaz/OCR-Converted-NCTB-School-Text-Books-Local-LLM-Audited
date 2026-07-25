@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "5-Bangla-20-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-20-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-20-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-20-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-20-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০৫০৬০৫০৬৬ ৬৬০৫০৬",
+    "note": "Long string of digits likely from layout lines/artifacts."
+  },
+  {
+    "chunk_id": "5-Bangla-20-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-20-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আত ৬৬৬৬৬৬৬০৬৬৬ ৬৬ ৬৬৬৬৫০৬৫৬০৬ ৬০৫৫৬০৬৬০৫০৩৬৫৬৫০৬৫৩৫৬০৬৩৬০৬৫০৬",
+    "note": "Repeated digit sequences and non-meaningful characters from layout errors."
+  },
+  {
+    "chunk_id": "5-Bangla-20-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

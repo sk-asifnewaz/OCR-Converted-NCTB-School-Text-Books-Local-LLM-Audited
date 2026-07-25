@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "5-Bangla-19-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-19-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১,১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১২১১১১২১২১২২২১২২২১২২",
+    "note": "Large block of repetitive digits likely caused by OCRing symbols or lines."
+  },
+  {
+    "chunk_id": "5-Bangla-19-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০০৬৬৩৬৩৬৬ ৬৩৩৬৬৬৬০৩৬৩৩৬৩৬৩৬৬৩৬৬৩৩৬৬০৩৬৩৬৩৩৬৬০৩৬৩৬৩৬৩৬৬৬০৩৩৩৩৬৬৩৬৩৩৬৩৬০৬৩৬৩৬৩৬৩৩৬৬৩৬৩৩৬৩৩৩৬৩৬৩৬০৬৩৩৩৬৩৬০৬৬৩০৫৬৬৬০৩৬৬৬৬০৬৬৩৩৬৬৬০",
+    "note": "Repetitive number string is clearly an OCR artifact."
+  },
+  {
+    "chunk_id": "5-Bangla-19-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০৫০০০৩৬৫৬৩ ০৬৬৫৩৬৫৬৬৫৬০৩০৫৬৬৩৬০৬০৩০৬৬৬০৬৫০৬৩০৬৫৩৬৬০৬৩০৫০৫৬৫৬০৬৫০৬০৩৬০৫০৬৩০৫৩৫৬০৬৩০৫০৩০৫৬০৬",
+    "note": "Multiple blocks of nonsensical digits."
+  },
+  {
+    "chunk_id": "5-Bangla-19-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০০৩৪৬০৫৬স্ব০৬৬স্ব০৬৬স্বরুসিক২৬০৩৩৬৩৬০৬৬০৫৩৬৬৯০ষ্য৬৬৯০ষ্য৬৬",
+    "note": "Contains a long sequence of digits not relevant to the text."
+  },
+  {
+    "chunk_id": "5-Bangla-19-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০০৫০৩৬৬৬ ৬৩৫৬০৬৬০ষ্য৬৬৩৬৬৯০৬৩৬৫৬৬৬০৬০৫৩৬৫৬৬৬৫০৫৫৬৬৯০৫৩৬৬৯০ষ্য৬৬৯০ষ্য৬৬২০৩৩৬৩৬০৬৬০৫৩৬৬৯০ষ্য৬৬৯০ষ্য৬৬",
+    "note": "The same block of digit noise is repeated twice."
+  },
+  {
+    "chunk_id": "5-Bangla-19-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০০৫০৩৬৫৬৬ ৬৩৫৬০৬৬০ষ্য৬৬৩৬৬৯০৬৩৬৫৬৬৬০৬০৫৩৬৫৬৬৬৫০৫৫৬৬৯০৫৩৬৬৯০ষ্য৬৬৯০ষ্য৬৬",
+    "note": "Long sequence of digits is an OCR artifact."
+  },
+  {
+    "chunk_id": "5-Bangla-19-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কেոোাodটিছট\nচল্্নমলেെ",
+    "note": "Contains non-Bengali characters and garbled text sequences."
+  },
+  {
+    "chunk_id": "5-Bangla-19-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০০৫০৩৫৬৩৬ ০৬০৫৫৬০৬০৬৫০৩০৬৬০৬৬০৬৫০৬০৬৬০৬৬০০৬০৬৬০৬০০০০৬০৬০০",
+    "note": "Contains multiple blocks of repetitive, nonsensical digits."
+  },
+  {
+    "chunk_id": "5-Bangla-19-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-19-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একদিন রাজা বড়ো",
+    "note": "Sentence ends abruptly mid-clause."
+  }
+]

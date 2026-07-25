@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "5-Bangla-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধান 1শিল্ষব, বরব্াার, ৯২",
+    "note": "Garbled script in date/name and random numbers."
+  },
+  {
+    "chunk_id": "5-Bangla-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "рь্,",
+    "note": "Garbled Unicode characters at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Bangla-4-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬০৬৩৬৬৩ ৬৬৬৬৩৬৩৬০৬৬৩৩৬০৬৬০৬৩৬৬৬০৬৩৩৬৬৬০৩৩৬৩৩৬০৬৬০৬৩৬৩৬৬৬৬৩৩৩৬৬০৬৩৬৩৩৩৬৩৬০৬৬০৩৩৬৬৬০৬৩৬৩৬০৬৩৩৬৬৬০৩৬৬৬৬০৬৬৬৬০৬৬৬০৬৩৬০৬৬০৬৬৩৬৬",
+    "note": "Long sequence of repetitive, nonsensical digits."
+  },
+  {
+    "chunk_id": "5-Bangla-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ও্রেমন-'আছে? আনা ক্র ভালো আছে ।আনমরাও ববাহু ভালো আরহচ্ছি মনেবর্মদনে",
+    "note": "Significant corruption making sentences unintelligible."
+  },
+  {
+    "chunk_id": "5-Bangla-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

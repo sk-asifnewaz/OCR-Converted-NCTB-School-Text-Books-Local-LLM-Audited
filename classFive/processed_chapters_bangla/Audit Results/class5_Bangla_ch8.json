@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "5-Bangla-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ্বাণশকত্তি",
+    "note": "Corrupted word; likely meant to be 'ঘ্রাণশক্তি' (sense of smell)."
+  },
+  {
+    "chunk_id": "5-Bangla-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-8-5",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অর্থ জেনে নিই",
+    "note": "Phrase is semantically incoherent in the context of tiger conservation."
+  },
+  {
+    "chunk_id": "5-Bangla-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বাণশত্তি, দৃশ্যফ্িশিক্তি",
+    "note": "Corrupted words in the vocabulary list (likely ঘ্রাণশক্তি and দৃশ্যশক্তি)."
+  },
+  {
+    "chunk_id": "5-Bangla-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-8-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated dates and non-sense symbols (শ 2 এত &) suggest OCR errors."
+  },
+  {
+    "chunk_id": "5-Bangla-8-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১, ৬৬৬৬৬৬",
+    "note": "Repetitive digit runs and nonsensical phrases like 'লো দন' indicate corruption."
+  },
+  {
+    "chunk_id": "5-Bangla-8-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৩০০৬০৬০৬৬৬, রে মেক ্ম্েমো্ো বকে",
+    "note": "Long digit string and garbled Bengali text indicate high OCR failure."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "5-Bangla-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-11-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-11-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০০৬০৩৬৬৬",
+    "note": "Long strings of digits and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "5-Bangla-11-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বেদে রা রা রা",
+    "note": "Repetitive, nonsensical character sequence."
+  },
+  {
+    "chunk_id": "5-Bangla-11-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬৬৩৬৬৬, নেেলেনেেেেদের",
+    "note": "Large blocks of digits and garbled script/repeated vowels."
+  },
+  {
+    "chunk_id": "5-Bangla-11-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬০৩৬৬৬০৬৬৩৩ ৬৬৬০৩৩৬৬৬০৬৩৩৩৬৬৬৬৩৩৬৬৬৬৬৬৩০৬৩৬৬৬০৩৬৬৬৬৩০৬৬০৬৬০৬৬৬০৬৬০৬৬৩৬৩৬৬৬০৬০৬৩০৬৬",
+    "note": "Extensive line of non-standard digit strings."
+  },
+  {
+    "chunk_id": "5-Bangla-11-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬০৩০৬৬৬ ৬৩৬৩৬৬৬৬০৬৬০৬৬৬৬৬০৩৬৬০৬০৬০৩০৬৬",
+    "note": "Identical digit strings repeated in a row."
+  },
+  {
+    "chunk_id": "5-Bangla-11-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬০৩০৬৬৬ ৬৩৬৩৬৬৬৬০৬৬০৬৬৬৬৬০৩৬৬০৬০৬০৩০৬৬",
+    "note": "Multiple repeated lines of digit strings."
+  }
+]

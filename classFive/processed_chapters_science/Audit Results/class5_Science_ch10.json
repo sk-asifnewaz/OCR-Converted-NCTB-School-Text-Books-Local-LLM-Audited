@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "5-Science-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সস",
+    "note": "Isolated garbled character likely from a broken title or footer."
+  },
+  {
+    "chunk_id": "5-Science-10-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(_পৃথ্ষির কোনো খাল বনের বেলা সুরের রা সম সী",
+    "note": "Nonsensical string likely from a malformed table or diagram."
+  },
+  {
+    "chunk_id": "5-Science-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "। ২,\nক\nনা",
+    "note": "Fragmented characters suggesting poor OCR of list/table formatting."
+  },
+  {
+    "chunk_id": "5-Science-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্ট্",
+    "note": "Garbled trailing character/syllable at end of chunk."
+  },
+  {
+    "chunk_id": "5-Science-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অংক্ষের, আকহ্িক, খতু",
+    "note": "Repeated OCR errors for 'অক্ষের', 'আক্ষিক', and 'ঋতুর'."
+  },
+  {
+    "chunk_id": "5-Science-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আকহ্িক",
+    "note": "Garbled OCR for 'আক্ষিক'."
+  },
+  {
+    "chunk_id": "5-Science-10-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আহ্নিক, খতু, /ট",
+    "note": "Garbled words and a stray forward slash/letter symbol."
+  },
+  {
+    "chunk_id": "5-Science-10-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিষ্ুবরেখার",
+    "note": "Garbled character in 'বিষুবরেখা'."
+  },
+  {
+    "chunk_id": "5-Science-10-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নক\nবাংলাদেশ অ্লের | বাংলাদেশ\nঢা পর্যন আলো দে দেয়",
+    "note": "Broken table content with incoherent fragments."
+  },
+  {
+    "chunk_id": "5-Science-10-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খতু",
+    "note": "Garbled word for 'ঋতু'."
+  },
+  {
+    "chunk_id": "5-Science-10-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আহ্নিক, অญল",
+    "note": "Garbled OCR for 'আক্ষিক' and 'অঞ্চল'."
+  },
+  {
+    "chunk_id": "5-Science-10-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অশ্ণলে",
+    "note": "Garbled OCR for 'অঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-Science-10-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญ্লে, বৰযাকাল",
+    "note": "Garbled OCR for 'অঞ্চলে' and 'বর্ষাকাল'."
+  },
+  {
+    "chunk_id": "5-Science-10-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญলে",
+    "note": "Garbled OCR for 'অঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-Science-10-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญ্লে, শুষঙ্ক",
+    "note": "Garbled OCR for 'অঞ্চলে' and 'শুষ্ক'."
+  },
+  {
+    "chunk_id": "5-Science-10-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্করী, স্টল",
+    "note": "Nonsense words resulting from bad OCR of layout headers."
+  },
+  {
+    "chunk_id": "5-Science-10-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খতু, ঝতুৃতে",
+    "note": "Garbled words for 'ঋতু' and 'ঝটুৃতে' (likely ঋতুবৈচিত্র্যে)."
+  },
+  {
+    "chunk_id": "5-Science-10-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খতৃতে",
+    "note": "Garbled word for 'ঋতুর' or 'ঋতুতে'."
+  },
+  {
+    "chunk_id": "5-Science-10-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষড়খতুর, খত্র",
+    "note": "Garbled words for 'ঋতুদের' and 'ঋতু'."
+  },
+  {
+    "chunk_id": "5-Science-10-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-10-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আহ্নিক, যুক্তরাজ্য, যুক্তরাষ্ট্র",
+    "note": "Garbled words 'আহ্নিক' and mangled country names."
+  },
+  {
+    "chunk_id": "5-Science-10-31",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রর",
+    "note": "Repeated nonsense character sequence."
+  },
+  {
+    "chunk_id": "5-Science-10-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

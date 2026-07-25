@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "5-BGS-16-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€ি জলোদ্ছাস ... ৩০০৬৬৬০৬৬৬৩ ০৬৬৬৩৬৩০৩৬৬৬৬০৬৬৬৬৬০৬৬৩৬০৬৬০৬৬০০৬৬৬৬০৬৬৬০৬৬০৬৬৬০৬৬০৬৬০৬৬০৬৬০৬৬",
+    "note": "Garbled script symbol and long string of repetitive digits."
+  },
+  {
+    "chunk_id": "5-BGS-16-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-16-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৯০৫৪ ++ ।৮ত",
+    "note": "Random digit string and nonsensical punctuation/character sequence."
+  },
+  {
+    "chunk_id": "5-BGS-16-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-16-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-16-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সা? এ",
+    "note": "Fragmented/incomplete text at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-BGS-16-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জালের ছায়ন্ছয় নাল |: দাত 33 আন ... দে ৭৯21০",
+    "note": "Garbled text from a different element and random digit insertion."
+  },
+  {
+    "chunk_id": "5-BGS-16-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-16-9",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়",
+    "note": "Incomplete or mangled word (likely 'হয়')."
+  },
+  {
+    "chunk_id": "5-BGS-16-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

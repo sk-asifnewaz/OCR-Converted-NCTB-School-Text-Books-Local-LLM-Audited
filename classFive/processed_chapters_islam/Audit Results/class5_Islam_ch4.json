@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "5-Islam-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৭ দাও: কে)",
+    "note": "The digit 7 is likely an OCR error for a bracket or punctuation."
+  },
+  {
+    "chunk_id": "5-Islam-4-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৩. স্বভাবজাত 8. নৈতিক",
+    "note": "The digit 8 is likely a misread of the Bengali number 4."
+  },
+  {
+    "chunk_id": "5-Islam-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "----------০-০০---",
+    "note": "Nonsensical character string resulting from an attempted to OCR blank lines."
+  },
+  {
+    "chunk_id": "5-Islam-4-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তে\nনা|\nশিক্ষাবর্ষ ২০২৬\nরন\nচু",
+    "note": "Fragmented words and layout artifacts at the start of the chunk."
+  },
+  {
+    "chunk_id": "5-Islam-4-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেদ্ধঅশুদ্ধ",
+    "note": "Garbled text likely intended to be 'সঠিক/ভুল' or similar."
+  },
+  {
+    "chunk_id": "5-Islam-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ডে\nনা,",
+    "note": "Isolated characters/fragments likely from page layout artifacts."
+  },
+  {
+    "chunk_id": "5-Islam-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৮৯০১ ৬5৮5ছ17৬21 ১৬ ১1 ০০২% ৩০৯ ১০০ লা ঃ",
+    "note": "Garbled text and random numbers likely from page decoration or header/footer."
+  },
+  {
+    "chunk_id": "5-Islam-4-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ০১৩০",
+    "note": "Random digits/numbers inserted where they do not belong in context."
+  },
+  {
+    "chunk_id": "5-Islam-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৭টি",
+    "note": "The digit 8 is likely a misread of the Bengali numeral for 8 or a nearby symbol."
+  },
+  {
+    "chunk_id": "5-Islam-4-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "||\nমধ্যে\\nপে\nনা",
+    "note": "Vertical bars and line breaks suggest layout artifacts or corrupted symbols."
+  },
+  {
+    "chunk_id": "5-Islam-4-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8. সকলের জীবন",
+    "note": "The digit 8 is likely a misread of the Bengali number 4."
+  },
+  {
+    "chunk_id": "5-Islam-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-20",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রে\nনা|",
+    "note": "Fragmented words at the end suggesting a page break artifact."
+  },
+  {
+    "chunk_id": "5-Islam-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৭ দাও:)",
+    "note": "The digit 7 is likely a misread of a punctuation mark or different symbol."
+  },
+  {
+    "chunk_id": "5-Islam-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8. অন্যের ধর্ম সম্পর্কে",
+    "note": "The digit 8 is likely a misread of the Bengali number 4."
+  },
+  {
+    "chunk_id": "5-Islam-4-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8. ধর্মীয় সম্প্রীতি",
+    "note": "The digit 8 is likely a misread of the Bengali number 4."
+  },
+  {
+    "chunk_id": "5-Islam-4-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "----০০০০০০০০০--",
+    "note": "Nonsensical character string resulting from an attempt to OCR blank lines."
+  },
+  {
+    "chunk_id": "5-Islam-4-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেদ্ধ/অশুদ্ধ",
+    "note": "Garbled text likely intended to be 'সঠিক/ভুল' or similar."
+  },
+  {
+    "chunk_id": "5-Islam-4-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-4-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

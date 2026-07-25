@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "5-Bangla-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এে্্ম়্্ম়্মসেঘঘবঘঘ়বঘে়েঘখঘ្ម্ঘেো রে সে অঅসতওঅোাছছ্ঘ়়্্5।ছ।ে।ছ।ছ।ছ।ছছছ়্েএ মে্্ব্",
+    "note": "The end of the chunk contains a long sequence of garbled characters."
+  },
+  {
+    "chunk_id": "5-Bangla-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ে็়্ম়্মমঘঘম়়়্্‍្ម্ম্যর্হ্ব্যঋ\n৩০০০৩০৬৩৩৫৩ ৫৩০৫৩৬০৫৩৬৯০৫৬...",
+    "note": "Contains garbled script followed by a large block of non-sequential digits."
+  },
+  {
+    "chunk_id": "5-Bangla-3-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৩০৬৩০৬৩৬৩৩ ০৬৫৬৩৬৩৬৩৫৩৬৩৩৩৩৫৩৩৬৩৩৩৬৩৬০৩৬৩৬৩৫৩৬৩৬৩৩৬৩৩৩৩৫৩৩৬৩৩০৫৩৬৩৬৩৬৩৬৩৩৬৩৩৬৩৩৫৬৩৬৫৩৩৩৬৩৩৬৩০৩৬৩৬৩০৬৩৬৩৩৬৩৩৩৬৩৩৩৬৫৩৩৬৩৬৩০৩৬৩৬৬৩০৬৩৬০৬৩৬০৩৬০৫০৩৬৩০৬০৩০৩০৬০৩৬",
+    "note": "A long string of digits appears to be OCR noise or artifacts."
+  },
+  {
+    "chunk_id": "5-Bangla-3-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৩০৬০৩৫০৬০৩ ৬৫৬৩০৫৬৩৬৬৩৬৩৬৩০৬৩৩৬৩৬৩৬৫৬৫৬৩৬৬৩৩৬৩০৬৩৬৩৩৬৩০৬৩৬৩৫৬০৩৬৩০৬৩৬৩৬৬৩০৬৩৬৩৩৬৩০৫৬৩৫৬০৩০৬৬৩০৬৫৬৩৬৬৩০৩৬৩৬৫৩০৩৬৩৬০৫০৬৩০৬০৬০৬৩০৬০৩০৬৬০৬৩০৬৩০৬০৬০৩০৬০৩৬",
+    "note": "Large block of digit noise at the start of the chunk."
+  },
+  {
+    "chunk_id": "5-Bangla-3-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬৫০৬০৬... (repeated blocks of digits)",
+    "note": "The chunk is dominated by long strings of numbers unrelated to the text."
+  },
+  {
+    "chunk_id": "5-Bangla-3-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬৫০৬০৬... (repeated blocks of digits)",
+    "note": "Contains multiple repeated segments of digit noise."
+  },
+  {
+    "chunk_id": "5-Bangla-3-8",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডু",
+    "note": "Text ends abruptly with a single partial character or short syllable."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "5-Bangla-2-1",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated metadata and a nonsensical fragment 'বিচ' at the end."
+  },
+  {
+    "chunk_id": "5-Bangla-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১১ /",
+    "note": "Isolated numbers with a slash appear to be page/section noise."
+  },
+  {
+    "chunk_id": "5-Bangla-2-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চাবকে _ চাবুক",
+    "note": "Underscore is a non-Bengali character; metadata also repeats."
+  },
+  {
+    "chunk_id": "5-Bangla-2-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উপযুত্ত",
+    "note": "Word does not exist in Bengali; likely a corrupted word like 'উচিত' or 'উপযুক্ত'."
+  },
+  {
+    "chunk_id": "5-Bangla-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-2-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অসুবিডা\nকরিটেসে\nখররব",
+    "note": "Multiple nonsensical words; likely corrupted versions of 'অসুবিধ', etc."
+  },
+  {
+    "chunk_id": "5-Bangla-2-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০টে",
+    "note": "Malformed number string; likely a corrupted year '২০২৬'."
+  }
+]

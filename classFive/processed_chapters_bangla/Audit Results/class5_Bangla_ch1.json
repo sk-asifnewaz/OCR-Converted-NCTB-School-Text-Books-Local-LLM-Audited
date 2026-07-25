@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "5-Bangla-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ষুদ্র, তঞ্্্যা, সীওতাল, অঞ্্‌লে",
+    "note": "Multiple words show clear OCR corruption of common Bengali characters."
+  },
+  {
+    "chunk_id": "5-Bangla-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-1-5",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "The header/year line is repeated twice."
+  },
+  {
+    "chunk_id": "5-Bangla-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-1-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লঞ্‌",
+    "note": "Likely a corrupted character for 'লঞ্চ' (launches)."
+  },
+  {
+    "chunk_id": "5-Bangla-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০০০৬০০৬০৬৬ ৬৬৬৬৬৬৬৬৬৬৬ ৬ ৬০৬৬৬০৬০০৬৬ ৬৬*৬৬\n০০০০৬০৬০৬০৬ ৬০৬০৬৬ ৬৬০৬৬৬৬৬০০৬ ০৬৬ ৬",
+    "note": "Long strings of non-functional digits appear at the end."
+  },
+  {
+    "chunk_id": "5-Bangla-1-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০৬০৬৬৩৬৬ ৬৬০৬০৬৩৬৬০৬৩৬৩০৬৬০৬৬০০৬৬০৬৬৬০৬৩০৬৬",
+    "note": "Extensive digit noise and gibberish in the middle of a sentence."
+  },
+  {
+    "chunk_id": "5-Bangla-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২",
+    "note": "Random digit inserted in the middle of a phrase."
+  },
+  {
+    "chunk_id": "5-Bangla-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-1-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চে মা ষষচ ৷্-ে}},\nশপ রা চা তাক\nজে আআ\nক ক চে বস\nরে চে _নৎছন্্ব}},।্বআ1আববব।ন।্যআ\n_ ৮ _ ৮ _ ৮ _",
+    "note": "The second half of the chunk contains significant OCR garbage."
+  }
+]

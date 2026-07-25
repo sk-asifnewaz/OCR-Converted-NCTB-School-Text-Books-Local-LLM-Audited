@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "5-BGS-17-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-17-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-17-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষংসাবশেষ, উদৃঘাটন",
+    "note": "Words are mangled by OCR; they do not form standard words."
+  },
+  {
+    "chunk_id": "5-BGS-17-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[16 071110০0 ৭010115 (ঢা)",
+    "note": "Random digit string injected into the middle of a sentence."
+  },
+  {
+    "chunk_id": "5-BGS-17-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ ৬ *, উদ্ংলাদেশ'",
+    "note": "Contains random characters and symbols from a flawed OCR process."
+  }
+]

@@ -1,0 +1,623 @@
+[
+  {
+    "chunk_id": "5-Islam-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্যি.)",
+    "note": "Incorrect character sequence; likely a corruption of (স.)"
+  },
+  {
+    "chunk_id": "5-Islam-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মু\n৮]",
+    "note": "Nonsensical fragments likely from a title or page number."
+  },
+  {
+    "chunk_id": "5-Islam-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর সন্তানদের",
+    "note": "Likely OCR corruption of 'তার' (his)."
+  },
+  {
+    "chunk_id": "5-Islam-2-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কে\nটম",
+    "note": "Nonsensical character sequence at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-6",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated header/footer text from OCR."
+  },
+  {
+    "chunk_id": "5-Islam-2-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠ\n\n\nঠ\n\n\nবি",
+    "note": "Garbled characters interspersed in the text."
+  },
+  {
+    "chunk_id": "5-Islam-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8০",
+    "note": "Western digit '8' used in a Bengali number string."
+  },
+  {
+    "chunk_id": "5-Islam-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হী তির",
+    "note": "Likely OCR corruption of 'হীর' or 'তার'."
+  },
+  {
+    "chunk_id": "5-Islam-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তীর, গে\nটম",
+    "note": "Multiple OCR errors including corrupted words and garbled strings."
+  },
+  {
+    "chunk_id": "5-Islam-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর, ্ডেও ১",
+    "note": "Repeated script corruption and trailing gibberish."
+  },
+  {
+    "chunk_id": "5-Islam-2-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অল ্না\n|\n",
+    "note": "Garbled characters and symbols at start of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুধ",
+    "note": "Nonsensical word likely resulting from OCR of a specific term."
+  },
+  {
+    "chunk_id": "5-Islam-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর জ্ঞান,",
+    "note": "Likely OCR error for 'তার' or 'তাঁর'."
+  },
+  {
+    "chunk_id": "5-Islam-2-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মু\nনা\nইসলাম শিক্ষা",
+    "note": "Garbled text likely from a page break or header."
+  },
+  {
+    "chunk_id": "5-Islam-2-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর বয়স",
+    "note": "Likely OCR error for 'তরুণ' or 'তাঁর'."
+  },
+  {
+    "chunk_id": "5-Islam-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর পবিত্র শরীর",
+    "note": "Likely OCR error for 'তার'."
+  },
+  {
+    "chunk_id": "5-Islam-2-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টম",
+    "note": "Garbled text at the start of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর জীবনের",
+    "note": "Likely OCR error for 'তাঁর' or 'তার'."
+  },
+  {
+    "chunk_id": "5-Islam-2-34",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ট্রা\nইসলাম শিক্ষা",
+    "note": "Garbled text at the end of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৯ ৯",
+    "note": "Non-sequential/arbitrary digit run at the end."
+  },
+  {
+    "chunk_id": "5-Islam-2-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র্র্বঁ র্র্বঁ",
+    "note": "Garbled character sequence at the start."
+  },
+  {
+    "chunk_id": "5-Islam-2-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রে\nনা\nশিক্ষাবর্ষ",
+    "note": "Fragmented words/garbage text at the end."
+  },
+  {
+    "chunk_id": "5-Islam-2-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর পুত্র",
+    "note": "Likely OCR error for 'তার' or 'তাঁর'."
+  },
+  {
+    "chunk_id": "5-Islam-2-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-40",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক তির তা\nইসলাম শিক্ষা",
+    "note": "Garbled text at the start of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-43",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মু\nরে\nটম",
+    "note": "Garbled characters at the end of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-44",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ৭৯\nরর রর",
+    "note": "Garbled text at start of chunk."
+  },
+  {
+    "chunk_id": "5-Islam-2-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর মাতা",
+    "note": "Likely OCR error for 'তাঁর' or 'তার'."
+  },
+  {
+    "chunk_id": "5-Islam-2-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর বয়স, গে\nনা,\nইসলাম শিক্ষা",
+    "note": "Multiple OCR errors including garbled tailing text."
+  },
+  {
+    "chunk_id": "5-Islam-2-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু্তিপত্রের",
+    "note": "Likely OCR error for 'চুক্তিটির' or similar."
+  },
+  {
+    "chunk_id": "5-Islam-2-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর গুণের",
+    "note": "Likely OCR error for 'তাঁর' or 'উচ্চ'."
+  },
+  {
+    "chunk_id": "5-Islam-2-52",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রে\nটম\n... \nক.",
+    "note": "Garbled tailing text."
+  },
+  {
+    "chunk_id": "5-Islam-2-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর উপাধি",
+    "note": "Likely OCR error for 'তাঁর' or 'তার'."
+  },
+  {
+    "chunk_id": "5-Islam-2-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর সুখ্যাতি",
+    "note": "Likely OCR error for 'তাঁর' or 'তার'."
+  },
+  {
+    "chunk_id": "5-Islam-2-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তীর কথাবার্তা, গে\nটম",
+    "note": "Multiple errors including 'তীর' and garbled tailing text."
+  },
+  {
+    "chunk_id": "5-Islam-2-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭ দাও:",
+    "note": "Likely OCR error for 'টিক চিহ্ন' or similar."
+  },
+  {
+    "chunk_id": "5-Islam-2-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8., হু",
+    "note": "Western digit used for numbering and garbled text at end."
+  },
+  {
+    "chunk_id": "5-Islam-2-66",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. বাদশাহ তালুত তাঁর কন্যাকে অসুস্থ রোগীদের সেবা করব।",
+    "note": "Merging two unrelated topics into a single sentence."
+  },
+  {
+    "chunk_id": "5-Islam-2-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেদ্ধ/অশুদ্ধ)",
+    "note": "Likely OCR error for 'সঠিক'."
+  },
+  {
+    "chunk_id": "5-Islam-2-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-2-69",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তে\nনা,",
+    "note": "Garbled text at end of chunk."
+  }
+]

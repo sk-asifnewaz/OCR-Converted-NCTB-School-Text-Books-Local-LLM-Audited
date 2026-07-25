@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "5-Bangla-17-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "The phrase 'শিক্ষাবর্ষ ২০২৬' is repeated twice consecutively."
+  },
+  {
+    "chunk_id": "5-Bangla-17-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-17-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬০৩৬৫৬৬ ৬০৬৩৬৩৩৬৩৬৬৬৬৩৩৬৩৬৩৬৬৬constexpr...",
+    "note": "Large block of non-meaningful digit strings."
+  },
+  {
+    "chunk_id": "5-Bangla-17-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫০৩৫৬০৬৬ ৬০৬৬১৩৬৬৬৬৬৬৯৬৬... ",
+    "note": "Long string of digits inserted between question numbers."
+  },
+  {
+    "chunk_id": "5-Bangla-17-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০০৫০৩৫৬৬ ৬০৬৬৫৬৬৬৬৫০৬০৫৩৬৬০৬০৬...",
+    "note": "Multiple blocks of nonsensical digit strings."
+  },
+  {
+    "chunk_id": "5-Bangla-17-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৩৬৩৬৬ ৬০৬৩৬৩৬৬৬৩৬৩৬৩৩৩৬৬০৩৬৩৬৩৩৬৩৬...",
+    "note": "Long string of digits before the final exercise."
+  }
+]

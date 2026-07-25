@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "5-Bangla-18-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১০২ ্ঢ",
+    "note": "The character sequence '্ঢ' is a non-sensical script corruption."
+  },
+  {
+    "chunk_id": "5-Bangla-18-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-18-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-18-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৬৬৬ ৬০৬৬৬০৬৬৬৬০৬৩৬০৬৬ ৬\n৩০৬০০৬০৬৬৬৬ ৬০৬৬৬০৬৬৬৬০৬৬৬\n৬৩০৬০০৬০৬৬৬ ৬০৬৬৬০৬৬৬৬০০৬০৬৬৬",
+    "note": "Large block of repetitive digit strings and symbols are OCR artifacts."
+  },
+  {
+    "chunk_id": "5-Bangla-18-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০০৬৫০৬০৬ ৬০৬০৬০৬০৬৬০৬০৬০০৬০৬০৬৬",
+    "note": "Non-sensical long string of digits at the beginning."
+  }
+]

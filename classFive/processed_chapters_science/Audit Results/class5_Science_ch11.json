@@ -1,0 +1,524 @@
+[
+  {
+    "chunk_id": "5-Science-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7? ",
+    "note": "Garbled numeral and question mark."
+  },
+  {
+    "chunk_id": "5-Science-11-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বায়ুরর্ছত) 7৫",
+    "note": "Garbled text and non-standard numerals."
+  },
+  {
+    "chunk_id": "5-Science-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খուր",
+    "note": "Incorrect word for region/diversity."
+  },
+  {
+    "chunk_id": "5-Science-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গঠান্ডা",
+    "note": "Garbled word for 'cold'."
+  },
+  {
+    "chunk_id": "5-Science-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated phrase and garbled words."
+  },
+  {
+    "chunk_id": "5-Science-11-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অপ্ন্টল",
+    "note": "Garbled word for 'region'."
+  },
+  {
+    "chunk_id": "5-Science-11-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জলীয়বাম্প",
+    "note": "Missing character in water vapor."
+  },
+  {
+    "chunk_id": "5-Science-11-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাম্পে",
+    "note": "Corrupted word 'বাষ্পে'."
+  },
+  {
+    "chunk_id": "5-Science-11-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7?",
+    "note": "Garbled list marker."
+  },
+  {
+    "chunk_id": "5-Science-11-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা চর\nসক আআ",
+    "note": "Nonsensical characters at end of block."
+  },
+  {
+    "chunk_id": "5-Science-11-14",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Duplicate line at end of chunk."
+  },
+  {
+    "chunk_id": "5-Science-11-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "Missing 'র' in word 'দ্রুত'."
+  },
+  {
+    "chunk_id": "5-Science-11-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/£",
+    "note": "Garbled symbols/characters."
+  },
+  {
+    "chunk_id": "5-Science-11-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(হাস বা বৃদ্ধি)",
+    "note": "Garbled table headers."
+  },
+  {
+    "chunk_id": "5-Science-11-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চচ৮০৬দ ৬০৯৫ খন\n৬৮৮চঞী আত খন 7 ঁ",
+    "note": "Garbage characters from failed table OCR."
+  },
+  {
+    "chunk_id": "5-Science-11-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আণ্যিক",
+    "note": "Garbled word 'আঞ্চলিক'."
+  },
+  {
+    "chunk_id": "5-Science-11-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বারী",
+    "note": "Garbled word 'স্থায়ী'."
+  },
+  {
+    "chunk_id": "5-Science-11-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญ্টলের",
+    "note": "Garbled word for region."
+  },
+  {
+    "chunk_id": "5-Science-11-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বানভেদে",
+    "note": "Garbled word 'স্থানভেদে'."
+  },
+  {
+    "chunk_id": "5-Science-11-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অষ্ণলে",
+    "note": "Garbled word 'অঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দক্ষিণাঞ্জলে",
+    "note": "Garbled word 'দক্ষিণাঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বড়বญাঙ্গার",
+    "note": "Garbled word 'বৃহদ' or similar."
+  },
+  {
+    "chunk_id": "5-Science-11-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্লেটৰা",
+    "note": "Garbled word 'প্লেটার'."
+  },
+  {
+    "chunk_id": "5-Science-11-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুু",
+    "note": "Garbled word 'দুটো'."
+  },
+  {
+    "chunk_id": "5-Science-11-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বায়ুমনলে",
+    "note": "Garbled word 'বায়ুমণ্ডলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বায়ুমডলে",
+    "note": "Garbled word 'বায়ুমণ্ডলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বায়ুমান্দলে",
+    "note": "Garbled word 'বায়ুমণ্ডলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "07৮৮ আআ",
+    "note": "Garbage characters."
+  },
+  {
+    "chunk_id": "5-Science-11-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অঞ্জলের",
+    "note": "Garbled word 'অঞ্চলের'."
+  },
+  {
+    "chunk_id": "5-Science-11-38",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ",
+    "note": "Sentence cut off at the end."
+  },
+  {
+    "chunk_id": "5-Science-11-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অ উমাতরয",
+    "note": "Garbled text and extraneous digits."
+  },
+  {
+    "chunk_id": "5-Science-11-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তিশালী",
+    "note": "Garbled word 'শক্তিশালী'."
+  },
+  {
+    "chunk_id": "5-Science-11-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญলে",
+    "note": "Garbled word 'অঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিয্নাญ্টল",
+    "note": "Garbled word 'নিম্ম অঞ্চলে'."
+  },
+  {
+    "chunk_id": "5-Science-11-46",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সে",
+    "note": "Garbled/truncated line end."
+  },
+  {
+    "chunk_id": "5-Science-11-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভুূগি",
+    "note": "Garbled word 'ভোগি'."
+  },
+  {
+    "chunk_id": "5-Science-11-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুষণের",
+    "note": "Garbled word 'উষ্ণতার'."
+  },
+  {
+    "chunk_id": "5-Science-11-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ত",
+    "note": "Garbage digits at end of line."
+  },
+  {
+    "chunk_id": "5-Science-11-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রস্কুতি",
+    "note": "Garbled word 'প্রস্তুতি'."
+  },
+  {
+    "chunk_id": "5-Science-11-54",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ট্",
+    "note": "Truncated line."
+  },
+  {
+    "chunk_id": "5-Science-11-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-56",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর ] |",
+    "note": "Garbled characters at end of chunk."
+  },
+  {
+    "chunk_id": "5-Science-11-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-11-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

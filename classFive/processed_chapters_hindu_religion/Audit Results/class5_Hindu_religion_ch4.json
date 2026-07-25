@@ -1,0 +1,191 @@
+[
+  {
+    "chunk_id": "5-Hindu_religion-4-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮. ... গে)",
+    "note": "Incorrect numerals (8 instead of 4) and corrupted character 'গে' for 'ঘ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "The number 8 is clearly a misread of the Bengali numeral 4 in a sequence."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "The sequence 1, 2, 3, then 84, then 5 indicates a misread of 4."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্ত্যাসাে",
+    "note": "Nonsensical character sequence, likely a result of page border noise."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Number 8 is used instead of 4 in a sequence (1,2,3,8,5)."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "Number 8 used instead of 4 in a sequence."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪. ... ঘে)",
+    "note": "Malformed numerals and corrupted character for 'ঘ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Number 8 used instead of 4 in a sequence."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৪/",
+    "note": "Isolated number with slash, likely a page count or scan artifact."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৬/ ... অর রান",
+    "note": "Fragmented words and numbers suggesting noise from page borders."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Number 8 used instead of 4 in a sequence."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-37",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চু |",
+    "note": "Fragmented character/symbol likely from page boundary."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪. ... ঘে)",
+    "note": "Malformed numeral and corrupted character for 'ঘ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. ... ৬ঙ)",
+    "note": "Incorrect numeral 8 and a malformed item marker '৬ঙ)'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-40",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পনতেটড",
+    "note": "Nonsensical word, likely a result of overlapping text/artifacts."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭০/ ... রন, র",
+    "note": "Page numbering artifacts and fragmented words from header/footer."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮১৮",
+    "note": "Isolated numbers likely representing a page footer."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-47",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "্। না. - ১ ইন ...",
+    "note": "Chunk contains almost entirely nonsensical artifacts from scan edges."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-51",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর্ক্ষেত্র",
+    "note": "Word is truncated or missing a character (should be তীর্থক্ষেত্র)."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-53",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রে দ্যা যয টু ... ธ์ চে দ্রাং গা",
+    "note": "Completely garbled content from page artifacts."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-4-61",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "্্ঠ১",
+    "note": "Garbled text likely being a misread page number."
+  }
+]

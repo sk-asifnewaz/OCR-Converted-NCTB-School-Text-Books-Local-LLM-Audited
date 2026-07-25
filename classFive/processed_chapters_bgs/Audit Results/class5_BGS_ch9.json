@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "5-BGS-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাষ্ধু",
+    "note": "OCR error for 'রাষ্ট্র' (state)."
+  },
+  {
+    "chunk_id": "5-BGS-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাস্ফ্রের",
+    "note": "OCR error for 'রাষ্ট্রের'."
+  },
+  {
+    "chunk_id": "5-BGS-9-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০৫৪ / |€ৃ",
+    "note": "Garbled characters at end of chunk."
+  },
+  {
+    "chunk_id": "5-BGS-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মেম্বর \"৮",
+    "note": "Includes punctuation and digit noise."
+  },
+  {
+    "chunk_id": "5-BGS-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মাসি সমাবেশ 5 রে শল্যবাহেন ফা",
+    "note": "Nonsensical text, likely garbled OCR of a phone number."
+  },
+  {
+    "chunk_id": "5-BGS-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€& ... ৩০৬৬৬৬৬৬৬৬",
+    "note": "Garbled symbols and long repeating digit strings."
+  },
+  {
+    "chunk_id": "5-BGS-9-12",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬৬৬৬৬৬ ... ৩০০৬৬৬৬৬৬৬৬",
+    "note": "Repetitive digit strings and duplicated question blocks."
+  },
+  {
+    "chunk_id": "5-BGS-9-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সহমম্মী",
+    "note": "Likely intended to be 'সহনশীল'."
+  },
+  {
+    "chunk_id": "5-BGS-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭১৯১০২০২ ৫ [৮ ।€৩ত",
+    "note": "Garbled characters at the end of line."
+  },
+  {
+    "chunk_id": "5-BGS-9-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টে ঞগুর 9",
+    "note": "Garbled text likely from page footer/header."
+  },
+  {
+    "chunk_id": "5-BGS-9-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঁ বন ্বা চাপ ল ২ ডতিতোগীদের",
+    "note": "Entire segment is heavily garbled."
+  },
+  {
+    "chunk_id": "5-BGS-9-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-9-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

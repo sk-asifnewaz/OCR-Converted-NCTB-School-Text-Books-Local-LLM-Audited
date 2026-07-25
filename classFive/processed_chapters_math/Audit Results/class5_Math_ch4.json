@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "5-Math-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "& আমরা",
+    "note": "Leading ampersand is a common OCR artifact for stylized text."
+  },
+  {
+    "chunk_id": "5-Math-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১২- ++ ু (২) ৩৩- না রা",
+    "note": "Severe corruption of mathematical expressions and symbols."
+  },
+  {
+    "chunk_id": "5-Math-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&, ইঁ এর সমতুল",
+    "note": "Garbled characters at the start of the sentence."
+  },
+  {
+    "chunk_id": "5-Math-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/২৬লথিষ্ঠ আকার, নিব, চু",
+    "note": "Broken words and nonsensical items at the end of a list."
+  },
+  {
+    "chunk_id": "5-Math-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "|] ||, '.' / |",
+    "note": "OCR artifacts likely representing fraction bars or dividers."
+  },
+  {
+    "chunk_id": "5-Math-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১০, \"১ ১৫ ১৫ ! *\" ৫ যু ৩, চলল লা লন লাল",
+    "note": "Complex OCR failures on equations and a repetition of 'লাল' (red)."
+  },
+  {
+    "chunk_id": "5-Math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹- ৩, লা ১২২ _ ।, ৯-৯-২ উইল",
+    "note": "Garbled currency symbols and nonsensical word strings."
+  },
+  {
+    "chunk_id": "5-Math-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[7 ৮-[৮], €* \"৯\" বা \"ল'\" ",
+    "note": "Special characters and bracket noise from math formatting."
+  },
+  {
+    "chunk_id": "5-Math-4-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/৫৬, ঢা]",
+    "note": "Garbled characters from fraction parsing."
+  },
+  {
+    "chunk_id": "5-Math-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১ঠ৬+ ২৯৬ ২১৬+ স্‌ ৩ চ+",
+    "note": "Severe corruption of mathematical expressions."
+  },
+  {
+    "chunk_id": "5-Math-4-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভঁ, জপ, কউ এপ",
+    "note": "Nonsensical words likely due to failed math notation OCR."
+  },
+  {
+    "chunk_id": "5-Math-4-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রানা রান",
+    "note": "Repetitive nonsensical word."
+  },
+  {
+    "chunk_id": "5-Math-4-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উাকউবাল লক, চার মে তা চে রা",
+    "note": "Nonsensical phrase strings appearing in the middle of sentences."
+  },
+  {
+    "chunk_id": "5-Math-4-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫১৩০১ স্০]",
+    "note": "Garbled characters likely from a fraction or list marker."
+  },
+  {
+    "chunk_id": "5-Math-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৮৯, ১ ৭৬, ৪৮৮",
+    "note": "Numbers merged without proper fraction spacing/bars."
+  },
+  {
+    "chunk_id": "5-Math-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Math-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কে) ইঁ, ৩তেকু-ঙী",
+    "note": "Garbled character sequences and nonsensical words."
+  },
+  {
+    "chunk_id": "5-Math-4-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&্া, ভিী",
+    "note": "Garbled characters at the start of lines."
+  },
+  {
+    "chunk_id": "5-Math-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

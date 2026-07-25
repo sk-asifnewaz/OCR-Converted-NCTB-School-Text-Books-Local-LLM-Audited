@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "5-Islam-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ল পা | রর সা লা ০ না ॥\nদন রা 12 দেল রা ০২২৬ ০",
+    "note": "Arabic verse is severely corrupted by OCR."
+  },
+  {
+    "chunk_id": "5-Islam-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "£рьু লা ০ তলত দর লাক ও বল্ল লন শল্ा",
+    "note": "Garbled characters likely from an Arabic verse."
+  },
+  {
+    "chunk_id": "5-Islam-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(14",
+    "note": "Isolated digit in parentheses is likely a page number or noise."
+  },
+  {
+    "chunk_id": "5-Islam-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রটে\nউড ক\nতি ১৪ ০৯৯৬ 5৬৪ ০৪০০ 0 ৭০৯৬ ৪০",
+    "note": "Fragmented text and long string of non-sensical digits."
+  },
+  {
+    "chunk_id": "5-Islam-5-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রস্মাীরীলিস মা",
+    "note": "Nonsensical character sequence at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Islam-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-12",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্তিদ",
+    "note": "The word 'উত্তিদ' (enthusiasm) is used where 'উদ্ভিদ' (plants) belongs."
+  },
+  {
+    "chunk_id": "5-Islam-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা লক নে লা নী পু লা রর",
+    "note": "Corrupted Arabic-related text."
+  },
+  {
+    "chunk_id": "5-Islam-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠুঁ",
+    "note": "Garbled character sequence instead of a word like 'অর্থ'."
+  },
+  {
+    "chunk_id": "5-Islam-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "꼐 বং মী\nচে",
+    "note": "Garbled text fragment near a caption."
+  },
+  {
+    "chunk_id": "5-Islam-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রটে\nটম",
+    "note": "Nonsensical artifacts from page layout."
+  },
+  {
+    "chunk_id": "5-Islam-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩. ... ৮. ... ৫.",
+    "note": "Non-sequential numbering (1, 3, 8, 5) due to OCR errors."
+  },
+  {
+    "chunk_id": "5-Islam-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৫১১৮ |৫%",
+    "note": "Garbled data and symbols."
+  },
+  {
+    "chunk_id": "5-Islam-5-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. সূরা ইখলাস",
+    "note": "Number 8 is likely an OCR error for 4 in a sequence."
+  },
+  {
+    "chunk_id": "5-Islam-5-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. জীবজগতের গল্প শোনা",
+    "note": "Number 8 is likely an OCR error for 4 in a sequence."
+  },
+  {
+    "chunk_id": "5-Islam-5-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০০০০০০০",
+    "note": "Repetitive zero strings likely from layout noise."
+  },
+  {
+    "chunk_id": "5-Islam-5-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Islam-5-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ":$।",
+    "note": "Garbled character at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Islam-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

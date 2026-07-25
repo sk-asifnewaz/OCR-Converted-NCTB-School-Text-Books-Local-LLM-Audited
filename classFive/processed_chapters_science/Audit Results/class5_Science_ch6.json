@@ -1,0 +1,344 @@
+[
+  {
+    "chunk_id": "5-Science-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "Repeated use of 'শত্তি' instead of 'শক্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির... খ্বিতিশক্তি",
+    "note": "'শত্তি' is a corruption of 'শক্তি'; 'খ্বিতিশক্তি' is likely 'শব্দশক্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টং রে 4\nএত ড৬ ৯",
+    "note": "Nonsensical text and numbers appearing mid-chunk."
+  },
+  {
+    "chunk_id": "5-Science-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "Consistent corruption of 'শক্তি' to 'শত্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯, ৬, ॥, ৩)",
+    "note": "Random numbers and symbols interspersed with corrupted words."
+  },
+  {
+    "chunk_id": "5-Science-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যাত্রিক\nশত্তিতে",
+    "note": "'যাত্রিক' is a corruption of 'যান্ত্রিক'."
+  },
+  {
+    "chunk_id": "5-Science-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৯",
+    "note": "Random digit inserted in title/heading."
+  },
+  {
+    "chunk_id": "5-Science-6-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯, ॥, নে",
+    "note": "Artifacts and non-sensical fragments."
+  },
+  {
+    "chunk_id": "5-Science-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লাক \"১৯৮, যুত্ত, বাস্তবের, ব্যান্টি",
+    "note": "Multiple corruptions of 'বাস্তবের' (বাল্বের) and 'ব্যান্টি' (বাল্ব)."
+  },
+  {
+    "chunk_id": "5-Science-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বান্টি, ৭?",
+    "note": "Corrupted word 'বান্টি' and digit noise."
+  },
+  {
+    "chunk_id": "5-Science-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপ্জালিত",
+    "note": "Systemic corruption of the term for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তন্মু",
+    "note": "'তন্মু' is a corruption of 'তোমরা' or similar instruction."
+  },
+  {
+    "chunk_id": "5-Science-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপণ্জালিত",
+    "note": "Corrupted word for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপণ্জালিত",
+    "note": "Corrupted word for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'্টুলু",
+    "note": "Garbled word likely intended as 'তোমরা'."
+  },
+  {
+    "chunk_id": "5-Science-6-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সণ্টালিত, সপ্টালন",
+    "note": "Corrupted terms for 'সংবহিত' or 'চলন'."
+  },
+  {
+    "chunk_id": "5-Science-6-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চালিত",
+    "note": "Consistent variation of corrupted heat transfer term."
+  },
+  {
+    "chunk_id": "5-Science-6-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সমণ্জালন, বাস্তবের, স্টল",
+    "note": "Multiple corruptions and garbled words."
+  },
+  {
+    "chunk_id": "5-Science-6-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপ্জালিত",
+    "note": "Corrupted word for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপ্টালন, সপ্টালিত",
+    "note": "Corrupted term for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সণ্যালন, %?",
+    "note": "Corrupted term and non-sensical characters."
+  },
+  {
+    "chunk_id": "5-Science-6-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্টল, পা বা",
+    "note": "'স্টল' is corrupted; 'পা বা' suggests truncation or artifacts."
+  },
+  {
+    "chunk_id": "5-Science-6-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপণ্জালন",
+    "note": "Corrupted term for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$/\", সপ্টালিত, ?",
+    "note": "Garbled symbols and corrupted terms."
+  },
+  {
+    "chunk_id": "5-Science-6-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত",
+    "note": "'শত্ত' is likely a corruption of 'কাগজ' or 'হালকা'."
+  },
+  {
+    "chunk_id": "5-Science-6-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত",
+    "note": "'শত্ত' is a corruption of 'কাগজ'."
+  },
+  {
+    "chunk_id": "5-Science-6-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমণ্জালন",
+    "note": "Corrupted term for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সঞালিত, ন\nতট\nহু",
+    "note": "Corrupted term and garbled Unicode/line breaks."
+  },
+  {
+    "chunk_id": "5-Science-6-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপ্টালন, সপণ্জালন",
+    "note": "Corrupted terms for heat transfer."
+  },
+  {
+    "chunk_id": "5-Science-6-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তর",
+    "note": "Consistent corruption of 'শক্তি' to 'শত্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Consistent corruption of 'শক্তি' to 'শত্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্টল",
+    "note": "'স্টল' is corrupted from 'তোমরা'."
+  },
+  {
+    "chunk_id": "5-Science-6-34",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা [\nটি\nসা পা",
+    "note": "Non-sensical characters and line breaks."
+  },
+  {
+    "chunk_id": "5-Science-6-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Consistent corruption of 'শক্তি' to 'শত্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Consistent corruption of 'শক্তি' to 'শত্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্টালন, শত্তি",
+    "note": "Corrupted term and 'শত্তি' for 'শক্তি'."
+  },
+  {
+    "chunk_id": "5-Science-6-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Consistent corruption of 'শক্তি' to 'শত্তি'."
+  }
+]

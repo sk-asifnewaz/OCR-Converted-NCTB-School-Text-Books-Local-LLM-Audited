@@ -1,0 +1,596 @@
+[
+  {
+    "chunk_id": "5-Christian_religion-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭২০২ ১৮৬৬৬)",
+    "note": "Random numbers at the start of a heading."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Common OCR error where 'খ' is replaced by 'স্ব'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীক্ষায়ান",
+    "note": "Incorrect spelling of 'দীক্ষাস্নান' due to script corruption."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্কি",
+    "note": "Incorrect spelling of 'সৃষ্টি' due to script corruption."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্বীষ্ট, স্বীষ্ট",
+    "note": "Common character substitution errors."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Consistent script corruption in religious terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫, ত্, ৬.২, বন\nরন",
+    "note": "Mixed noise from layout elements and garbled fragments."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীক্ষায়ান, সীফ্টপ্রসাদের",
+    "note": "Corrupted terms for 'দীক্ষাস্নান' and 'স্বীষ্টপ্রসাদ'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, সাক্রামেন্ত",
+    "note": "Ongoing script corruption of specific terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Number '84' likely a misread of '4.' or similar."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্্মি, স্রীষ্টপ্রসাদ",
+    "note": "Grammar and script corruption in the text."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-13",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০젹",
+    "note": "Repeated header/footer line."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "থ্বীফ্টের, স্বীষ্টপ্রসাদ",
+    "note": "Consistent script corruption of religious terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted script in key terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Recurring script errors."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Recurring script errors."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ গা «",
+    "note": "Nonsensical character string at end of section."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম, থীফ্টকে",
+    "note": "Script errors in theological terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টমউলী, খ্বীষ্টের",
+    "note": "Corrupted spelling of 'সুশীত' or similar."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ -আং-।",
+    "note": "Garbled character sequence likely from a footer."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-22",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated text block."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টবাণী, স্বীফ্টের",
+    "note": "Script errors in holy terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Consistent script issues."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ -আং-।",
+    "note": "Garbled characters likely from page footer."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীক্ষায়ান, খ্বীষ্টের",
+    "note": "Corrupted words for 'দীক্ষাস্নান' and 'খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ -আং-\n)\nশিক্ষাবর্ষ\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Garbled symbols and repeated school year."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীক্ষায়ান, খ্বীষ্টের",
+    "note": "Corrupted script in key terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীক্ষায়ান, স্বীষ্টীয়",
+    "note": "Consistent term corruption."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, দীক্ষায়ান",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীক্ষায়ান, খ্বীষ্ট",
+    "note": "Corrupted terminology."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রিন\n|\nতা",
+    "note": "Fragmented words from layout lines."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্টের",
+    "note": "Corrupted script in core terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ -াঁট «",
+    "note": "Garbled symbols and script errors."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Consistent script errors."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, স্বীষ্ট",
+    "note": "Corrupted script in key terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted script."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্টের",
+    "note": "Corrupted term 'খ্রীষ্ট' as 'স্বীষ্ট'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ ২ংশ০",
+    "note": "Garbled symbols in the header."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, বিদ্যাল",
+    "note": "Corrupted script and spelling."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Consistent script issues."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬২াংশ০",
+    "note": "Garbled symbols in header."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted script."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted script."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ ৩\n)",
+    "note": "Garbled characters in header."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ ৩\n)",
+    "note": "Garbled header elements."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্বীষ্টপ্রসাদ, খ্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাক্রামেন্তীয়",
+    "note": "Corrupted script in the title."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ ৩\n)",
+    "note": "Garbled header elements."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "থ্রীফшему, খ্বীষ্ট",
+    "note": "Corrupted terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাক্রামেন্ত, খ্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্বীষ্ট, স্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্ট, খ্বীষ্ট",
+    "note": "Corrupted scripture terms."
+  },
+  {
+    "chunk_id": "5-Christian_religion-4-66",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬২াংশ০",
+    "note": "Garbled header elements."
+  }
+]

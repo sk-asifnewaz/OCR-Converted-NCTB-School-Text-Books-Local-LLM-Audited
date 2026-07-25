@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "5-BGS-15-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&ি",
+    "note": "Non-Bengali character/symbol mixed into the text."
+  },
+  {
+    "chunk_id": "5-BGS-15-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পণ্ম, 8৪০",
+    "note": "Garbled word 'পণ্ম' and non-standard number format '8৪০'."
+  },
+  {
+    "chunk_id": "5-BGS-15-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্য়",
+    "note": "Garbled character sequence, likely a misread of 'সঞ্চয়'."
+  },
+  {
+    "chunk_id": "5-BGS-15-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Non-standard numbering format likely caused by OCR."
+  },
+  {
+    "chunk_id": "5-BGS-15-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Number '8' is likely an OCR artifact of a different character."
+  },
+  {
+    "chunk_id": "5-BGS-15-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹ক, খণ",
+    "note": "Symbol ₹ is foreign; 'খণ' is semantically incorrect in this context."
+  },
+  {
+    "chunk_id": "5-BGS-15-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অাাাা",
+    "note": "Nonsensical character sequence likely from a poorly scanned form."
+  },
+  {
+    "chunk_id": "5-BGS-15-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দাদ্যান। মাল চ [বায়ারালা",
+    "note": "Garbled text resulting from OCR of a form's decorative or layout elements."
+  },
+  {
+    "chunk_id": "5-BGS-15-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Non-standard numbering format."
+  },
+  {
+    "chunk_id": "5-BGS-15-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক্ক-৫৭, শাখাতাং",
+    "note": "Garbled words and symbols from a poorly recognized form."
+  },
+  {
+    "chunk_id": "5-BGS-15-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মিলান দেনা নওনন টা ঢা তন",
+    "note": "Nonsensical sequence of words, likely from a corrupted image."
+  },
+  {
+    "chunk_id": "5-BGS-15-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপ্টিত, ঝণ",
+    "note": "Garbled words likely meant to be 'সঞ্চিত' and 'ঋণ'."
+  },
+  {
+    "chunk_id": "5-BGS-15-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

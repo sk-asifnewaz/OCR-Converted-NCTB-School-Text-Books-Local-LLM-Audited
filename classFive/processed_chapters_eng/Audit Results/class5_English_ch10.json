@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "5-English-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "aaiek",
+    "note": "Non-sensical string 'aaiek' appears mid-sentence in a poem."
+  },
+  {
+    "chunk_id": "5-English-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-English-10-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "and\nand\nand\nand",
+    "note": "Repeated 'and' suggests OCR failure in capturing rhyming word pairs."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "5-Bangla-23-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-23-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অন্যরাও এই কথা",
+    "note": "The sentence ends abruptly, likely missing words like 'শুনল' or similar."
+  },
+  {
+    "chunk_id": "5-Bangla-23-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "The phrase 'শিক্ষাবর্ষ ২০২৬' is repeated consecutively."
+  },
+  {
+    "chunk_id": "5-Bangla-23-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তু মোটা কাগজে লেখা হয়",
+    "note": "The word 'শত্তু' is likely an OCR corruption of a standard Bengali word."
+  },
+  {
+    "chunk_id": "5-Bangla-23-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিরাপদ পুন্দর\nপৃথিবী রাঁখ\nগড়ি",
+    "note": "Phrases like 'পুন্দর' and 'রাঁখ' appear to be mangled OCR results."
+  },
+  {
+    "chunk_id": "5-Bangla-23-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্ডও»\nভব ঠ$",
+    "note": "Contains non-Bengali symbols and garbled character sequences."
+  },
+  {
+    "chunk_id": "5-Bangla-23-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

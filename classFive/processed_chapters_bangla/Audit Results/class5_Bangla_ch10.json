@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "5-Bangla-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-10-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০০৬৩০৬৬৬ ৬০৩৬৩৬৬৬০৬৩৬৩৬৬৬০৬৩০৬৬০৬৬০৬৩৬৩৬০৬৬০৬৬০৬৩০৬৬০৬৬০৬৩০৬৬\nনেনে কয",
+    "note": "Long strings of random numbers and nonsensical fragments at end."
+  },
+  {
+    "chunk_id": "5-Bangla-10-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬৫৫৩৬৫৬ ৬৬০৩৬৬৬৬০৬৩৬৬৬৬৬০৬৩৬৬৬৬০৬০৬০৬৬৬৬০৬৬০৬৬৬০৬০০৬০৬৬",
+    "note": "Large blocks of digit sequences are clearly OCR noise."
+  },
+  {
+    "chunk_id": "5-Bangla-10-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ ০--|৪৪১১.১১১........\nকুটিরটি কেমন? £১১১১,২১১১২১১২১১১১১১১২১১২২১১২২১১২১১২২১১২২১২ ১০০",
+    "note": "Presence of non-standard symbols and long number strings."
+  },
+  {
+    "chunk_id": "5-Bangla-10-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৬৩৬৬৬ ৬০৬৬৬৬৬৬৬০৬৬৬০৬০৬০৬০৬৬৬৬০৬০৬৬ ৬৬৬০৬৫৬৬৬৬০৬৫৩৬৩৬৬৬৬০৬৬৬৬৬০৬৬০৬৬৬৬০৬০৬০৬৬৬",
+    "note": "Large blocks of numeric noise."
+  },
+  {
+    "chunk_id": "5-Bangla-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৬৩৬৬৬ ৬০৬৬৬৬৬৬৬০৬৬৬০৬০৬০৬০৬৬৬৬০৬০৬৬ ৬৬৬০৬৫৬৬৬৬০৬৫৩৬৩৬৬৬৬০৬৬৬৬৬০৬৬০৬৬৬৬০৬০৬০৬৬৬",
+    "note": "Large blocks of numeric noise."
+  }
+]

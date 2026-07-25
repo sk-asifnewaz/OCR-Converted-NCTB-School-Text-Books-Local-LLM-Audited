@@ -1,0 +1,434 @@
+[
+  {
+    "chunk_id": "5-Math-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[+++ - টিমার্বেল",
+    "note": "Symmetry/bracket characters and extra symbols are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "5-Math-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "- 8৪ ।",
+    "note": "Number and punctuation noise likely from table or line parsing."
+  },
+  {
+    "chunk_id": "5-Math-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "গড় 2",
+    "note": "Number '2' appears out of place in the definition."
+  },
+  {
+    "chunk_id": "5-Math-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/১১",
+    "note": "Leading slash is a common OCR artifact."
+  },
+  {
+    "chunk_id": "5-Math-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮ল",
+    "note": "Non-standard character construction likely from a number."
+  },
+  {
+    "chunk_id": "5-Math-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹২",
+    "note": "Currency symbol used incorrectly for list numbering."
+  },
+  {
+    "chunk_id": "5-Math-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ছা)",
+    "note": "Character 'ছা' is likely a corrupted number '৫'."
+  },
+  {
+    "chunk_id": "5-Math-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বুড়ির",
+    "note": "Likely corruption of 'ঝুড়ির' (basket) in context."
+  },
+  {
+    "chunk_id": "5-Math-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ 7 ্ টি",
+    "note": "Currency symbol and broken characters in calculation."
+  },
+  {
+    "chunk_id": "5-Math-7-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লে মস সস",
+    "note": "Nonsensical sequence in a math problem."
+  },
+  {
+    "chunk_id": "5-Math-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "(১৮ + ২১) ল টি",
+    "note": "The character 'ল' is likely a transcription error for unit or punctuation."
+  },
+  {
+    "chunk_id": "5-Math-7-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01001010010 0710",
+    "note": "Random binary-like sequence is clearly OCR noise."
+  },
+  {
+    "chunk_id": "5-Math-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[ ]+[ ]-[ [",
+    "note": "Broken brackets and symbols in an equation."
+  },
+  {
+    "chunk_id": "5-Math-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/৮৬",
+    "note": "Leading slash and number segment are likely artifacts."
+  },
+  {
+    "chunk_id": "5-Math-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কে) (খ)",
+    "note": "Likely corrupted list labels."
+  },
+  {
+    "chunk_id": "5-Math-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "খ”তে",
+    "note": "Incorrect punctuation or quotation mark."
+  },
+  {
+    "chunk_id": "5-Math-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4 চ চন",
+    "note": "Garbled characters likely intended as a number (e.g., 400)."
+  },
+  {
+    "chunk_id": "5-Math-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নে (মিলি)",
+    "note": "Non-numeric characters in a numeric context."
+  },
+  {
+    "chunk_id": "5-Math-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দা!",
+    "note": "Fragmented word at start of line."
+  },
+  {
+    "chunk_id": "5-Math-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী আমাদের",
+    "note": "Broken word at start of sentence."
+  },
+  {
+    "chunk_id": "5-Math-7-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর",
+    "note": "Nonsensical repeated character sequence."
+  },
+  {
+    "chunk_id": "5-Math-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রং",
+    "note": "Garbled character in a math result."
+  },
+  {
+    "chunk_id": "5-Math-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মঞঙ্জল",
+    "note": "Garbled word, should be 'মঙ্গল' (Tuesday)."
+  },
+  {
+    "chunk_id": "5-Math-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ ল্য ০সে",
+    "note": "Garbled text in result line."
+  },
+  {
+    "chunk_id": "5-Math-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জল লে",
+    "note": "Garbled text for '৯০০' or similar value."
+  },
+  {
+    "chunk_id": "5-Math-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "|!",
+    "note": "Garbled symbol in the data table."
+  },
+  {
+    "chunk_id": "5-Math-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মঞঙ্জল",
+    "note": "Garbled word for 'মঙ্গল'."
+  },
+  {
+    "chunk_id": "5-Math-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&,",
+    "note": "Incorrect symbol for a list or item."
+  },
+  {
+    "chunk_id": "5-Math-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹-",
+    "note": "Currency symbol used incorrectly."
+  },
+  {
+    "chunk_id": "5-Math-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রী",
+    "note": "Incomplete word/character."
+  },
+  {
+    "chunk_id": "5-Math-7-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4৮.",
+    "note": "Garbled numeric notation."
+  },
+  {
+    "chunk_id": "5-Math-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সর্বনিзьন",
+    "note": "Garbled spelling of 'সর্বনিম্ন'."
+  },
+  {
+    "chunk_id": "5-Math-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Incorrect symbol usage."
+  },
+  {
+    "chunk_id": "5-Math-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1+ )",
+    "note": "Garbled expression in calculation."
+  },
+  {
+    "chunk_id": "5-Math-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(__ রাফিরকৌশল _)",
+    "note": "Unnecessary underscores/punctuation."
+  },
+  {
+    "chunk_id": "5-Math-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭ ৩ ₹-",
+    "note": "Garbled symbols in calculation."
+  },
+  {
+    "chunk_id": "5-Math-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "++ 4 | 7",
+    "note": "Garbled calculation string."
+  },
+  {
+    "chunk_id": "5-Math-7-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শণঁ",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "5-Math-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রস চে রান",
+    "note": "Garbled text for 'কত রান'."
+  },
+  {
+    "chunk_id": "5-Math-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা লে রান",
+    "note": "Garbled text for 'কত রান'."
+  },
+  {
+    "chunk_id": "5-Math-7-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Garbled numeric representation."
+  },
+  {
+    "chunk_id": "5-Math-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ 7 র্‌",
+    "note": "Garbled symbol/character sequence."
+  },
+  {
+    "chunk_id": "5-Math-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(রী",
+    "note": "Incomplete word/segment."
+  },
+  {
+    "chunk_id": "5-Math-7-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৮",
+    "note": "Garbled numerical value."
+  },
+  {
+    "chunk_id": "5-Math-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডী",
+    "note": "Garbled start of word."
+  },
+  {
+    "chunk_id": "5-Math-7-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৭",
+    "note": "Garbled numerical value."
+  },
+  {
+    "chunk_id": "5-Math-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(রী",
+    "note": "Incomplete word/segment."
+  },
+  {
+    "chunk_id": "5-Math-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(রী",
+    "note": "Incomplete word/segment."
+  }
+]

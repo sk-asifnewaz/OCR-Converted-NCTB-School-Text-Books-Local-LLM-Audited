@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "5-Bangla-15-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-15-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-15-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জাপটে рь",
+    "note": "Cyrillic character 'рь' is a foreign script fragment."
+  },
+  {
+    "chunk_id": "5-Bangla-15-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘুূর্ণি+পাক ₹ ঘুূর্ণিপাক",
+    "note": "The currency symbol '₹' does not belong in this context."
+  },
+  {
+    "chunk_id": "5-Bangla-15-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ь ৷ ৷ ৷\nঠ",
+    "note": "Nonsensical character sequence likely from a table or layout."
+  },
+  {
+    "chunk_id": "5-Bangla-15-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬০৬৬৩৬৬",
+    "note": "Large block of digits is a clear OCR artifact/noise."
+  },
+  {
+    "chunk_id": "5-Bangla-15-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫৬০৫০৬৬৬",
+    "note": "Large block of digits at start is OCR artifact/noise."
+  }
+]

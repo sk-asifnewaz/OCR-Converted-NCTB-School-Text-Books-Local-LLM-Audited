@@ -1,0 +1,299 @@
+[
+  {
+    "chunk_id": "5-Hindu_religion-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হী",
+    "note": "OCR error; 'হী' instead of 'এই'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বো,\nতীরে",
+    "note": "'বো' is garbage; 'তীরে' is likely a corruption of 'তাঁর'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্ির, তীর, সৃষ্ণিই",
+    "note": "Repeated corruption of 'র' or 'র্' characters into 'ী'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্ত্যাযাো",
+    "note": "Nonsensical character sequence, likely a corrupted word."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্লিগ্ধ",
+    "note": "Garbled word, likely 'শিশির' or similar."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী, ভাগ্যক্কমে",
+    "note": "'হী' is 'এই'; 'ভাগ্যক্কমে' is 'ভাগ্যক্রমে'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র\nঠ",
+    "note": "Nonsensical characters/formatting artifact."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮., স্রф্ণার",
+    "note": "'৮' used in a 1-4 list; 'ф' is non-Bengali script."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ঙ",
+    "note": "Incorrect sub-listing character; likely '৬খ' or '৬গ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম্নেহে, চচ/",
+    "note": "Nonsensical character sequences."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4টী",
+    "note": "Arabic '4' used instead of Bengali '৪'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4?, 4টী",
+    "note": "Arabic '4' used instead of Bengali '৪'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্ণিকে",
+    "note": "Corruption of 'সৃষ্টিকে'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-20",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্‌ন।",
+    "note": "Appears to be a truncated word like 'গুণ' or 'হয়'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮., খীঘি",
+    "note": "'৮' instead of '৪'; 'খীঘি' is corrupted."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬ঙ, ৭২০২ ৮১৭৬১",
+    "note": "Incorrect sub-list character; digit strings are noise."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাহিঙ্মতিপুর, পাঙ্ব",
+    "note": "Corrupted spellings of 'মাহিষ্মতীপুর' and 'পাঙ্গু'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4টী",
+    "note": "Arabic '4' instead of Bengali '৪'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "Arabic '8' instead of Bengali '৪'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গেম ও পচ),",
+    "note": "Nonsensical string at end of chunk."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-5-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

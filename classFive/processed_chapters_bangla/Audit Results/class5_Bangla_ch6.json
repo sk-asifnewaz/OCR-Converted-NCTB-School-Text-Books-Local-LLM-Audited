@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "5-Bangla-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুখ্‌",
+    "note": "The name 'দুখু' is corrupted with an incorrect character."
+  },
+  {
+    "chunk_id": "5-Bangla-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "չগ্",
+    "note": "Non-Bengali script fragment (likely Armenian or similar) present."
+  },
+  {
+    "chunk_id": "5-Bangla-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুখ্‌",
+    "note": "The name 'দুখু' is corrupted with an incorrect character."
+  },
+  {
+    "chunk_id": "5-Bangla-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুখ দীড়াল",
+    "note": "Name 'দুখু' is corrupted to 'দুখ'."
+  },
+  {
+    "chunk_id": "5-Bangla-6-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-6-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুখু্‌",
+    "note": "Name 'দুখু' is corrupted with an extra mark."
+  },
+  {
+    "chunk_id": "5-Bangla-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুখ্‌",
+    "note": "The name 'দুখু' is corrupted with an incorrect character."
+  },
+  {
+    "chunk_id": "5-Bangla-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুখ্‌",
+    "note": "The name 'দুখু' is corrupted with an incorrect character."
+  },
+  {
+    "chunk_id": "5-Bangla-6-11",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আমীর বুড়ির নামে খারাপ কথা বলে",
+    "note": "The sentence is nonsensical and out of context for the story."
+  },
+  {
+    "chunk_id": "5-Bangla-6-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হীটতে লাগল",
+    "note": "The word 'হীটতে' is not a valid Bengali word in this context."
+  },
+  {
+    "chunk_id": "5-Bangla-6-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৫০৬৫০৬৫ ০৩০৫...",
+    "note": "Large block of unrelated digits and garbled text."
+  },
+  {
+    "chunk_id": "5-Bangla-6-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬৬৬৩৬৬ ৬৬৬৩৬...",
+    "note": "Large block of unrelated digits."
+  }
+]

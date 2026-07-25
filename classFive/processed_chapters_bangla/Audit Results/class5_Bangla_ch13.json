@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "5-Bangla-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-13-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৩৫৬০৬ ০৬০৬৩৩৬৬৬৩৬০৬৩০৬০৬০৬০৬০৬০০৬৩০৬০৬০৬০৬০০৬",
+    "note": "Long strings of non-meaningful digits and repeating patterns."
+  },
+  {
+    "chunk_id": "5-Bangla-13-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৬০৬৬৫০৩৫৬৬ ৬০৬৫৬৬৬৬০৬০৬০৬৫৬৬৬০৬০৫০৬৩৬৬৬০৬০০৫৬০৬০৬০০৬০৬০৬০৬০৬০৬০৬",
+    "note": "A string of digits at the start does not belong in the text."
+  },
+  {
+    "chunk_id": "5-Bangla-13-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক নাচ ক রযব লা\nপপ | ভা | ত | চু|ফ |ল | গ [পা",
+    "note": "Nonsensical characters and broken formatting at the end of chunk."
+  },
+  {
+    "chunk_id": "5-Bangla-13-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১১",
+    "note": "Repetitive digit strings likely from OCR errors of decorative elements."
+  }
+]

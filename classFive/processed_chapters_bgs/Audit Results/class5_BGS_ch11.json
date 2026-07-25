@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "5-BGS-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "িী যোগযোগ, ৰা, রি",
+    "note": "Contains non-Bengali scripts and incomplete character sequences."
+  },
+  {
+    "chunk_id": "5-BGS-11-2",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১) মানচিত্রে কোন ধরনের যোগাযোগের পথ দেখানো হয়েছে? ২) ... ১) মানচিত্রে কোন ধরনের",
+    "note": "The same question set is repeated twice in a row."
+  },
+  {
+    "chunk_id": "5-BGS-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-11-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তর পাগাংশকু, মাহয্যাপ তোর, €__-৷&১ ৮\"",
+    "note": "Contains nonsensical word strings and special characters/garbled text."
+  },
+  {
+    "chunk_id": "5-BGS-11-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪ ও ৭৭৪, ঢবচা ৬10. ইাদ16 20৬১ ২45",
+    "note": "Contains random digit strings and non-sensical alphanumeric sequences."
+  },
+  {
+    "chunk_id": "5-BGS-11-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "075 (জিপিএস)-এর পূর্ণরূপ 01088] চ05100171178 ৩751911|",
+    "note": "Long string of numbers and brackets suggests OCR noise from a phone number/coords."
+  },
+  {
+    "chunk_id": "5-BGS-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "টিক (\"৭",
+    "note": "The digit 7 is likely a corruption of a tick mark symbol (√)."
+  },
+  {
+    "chunk_id": "5-BGS-11-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-11-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

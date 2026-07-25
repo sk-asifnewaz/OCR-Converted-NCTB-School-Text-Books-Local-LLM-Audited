@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "5-Christian_religion-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম",
+    "note": "Incorrect spelling of 'খ্রীষ্টধর্ম' (Christianity) due to OCR error."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পঞ্ম",
+    "note": "OCR error for 'পঞ্চম' (fifth)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৃষ্ণি",
+    "note": "OCR error for 'সৃষ্টি' (creation)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-2",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আমরা তীর দেওয়া",
+    "note": "Should be 'তাঁর' (His) not 'তীর' (arrow)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ গং",
+    "note": "Garbled digit and symbol, likely layout artifact."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৃষ্ণি পৃথিবী",
+    "note": "OCR error for 'সৃষ্টি' (creation)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তীর সৃষ্ট",
+    "note": "OCR error for 'তাঁর সৃষ্টি' (His creation)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সরীষটধর্ম",
+    "note": "OCR error for 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৃষ্ণ বস্তুকে",
+    "note": "OCR error for 'সৃষ্ট বস্তুকে'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Garbled number, likely an artifact of '4.' from a list."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্ৃপ্টি",
+    "note": "Incorrect vowel placement in 'তৃপ্তি'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সু্ব ও",
+    "note": "Garbled text, likely 'সুষ্ঠ' or similar."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বন\nরন\n|:",
+    "note": "Garbage characters from layout/page breaks."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ফিঁকা ঘরে",
+    "note": "OCR error for 'ফাঁকা' (empty)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উদ্তিদজগটের",
+    "note": "OCR error for 'উদ্ভিদজগতের' (plant world)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "-““শ্৷ । ষ",
+    "note": "Garbage characters at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লঙ্গিকি হয়",
+    "note": "Garbled OCR; likely 'লজ্জিত' (embarrassed)."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "রিশ\nঅসবা াবিক",
+    "note": "Garbled fragments; likely 'সুষ্ঠ' and 'অস্বাভাবিক'."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬১ ২৯",
+    "note": "Likely page numbers or layout noise."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "((১০০০০\n71]",
+    "note": "Garbled data from table/box artifacts."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-40",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রন\n৮ -গীং",
+    "note": "Garbled symbols from page layout."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধা বসে\nলা পা\nউদ্ধার",
+    "note": "Garbled text from a table being read as running text."
+  },
+  {
+    "chunk_id": "5-Christian_religion-5-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বরীষ্টধর্ম",
+    "note": "OCR error for 'খ্রীষ্টধর্ম'."
+  }
+]

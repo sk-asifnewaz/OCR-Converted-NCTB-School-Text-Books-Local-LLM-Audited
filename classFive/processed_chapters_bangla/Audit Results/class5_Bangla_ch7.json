@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "5-Bangla-7-1",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "The year indicator is repeated twice in a row."
+  },
+  {
+    "chunk_id": "5-Bangla-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ওড়া 0 ১১১১১১১১১১১১১১১১১১১১১৬১১১১১১৬১১১১৬১৬১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১২১১১২০",
+    "note": "Long string of digits is a clear OCR artifact/noise."
+  }
+]

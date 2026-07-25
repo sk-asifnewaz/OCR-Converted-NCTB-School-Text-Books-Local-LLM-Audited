@@ -1,0 +1,542 @@
+[
+  {
+    "chunk_id": "5-Hindu_religion-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অভিতরীন হন। এ",
+    "note": "Sentence ends abruptly with a single character likely part of 'এই'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8৪/৭-৮)",
+    "note": "Mixed English and Bengali numerals in a likely broken reference code."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বত্রেতায়ুগে",
+    "note": "Likely OCR error for 'ত্রৈতযুগে' or 'ত্রেতযুগে'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-7",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repetition of the year line suggests a page header/footer scan artifact."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| \nশিক্ষাবর্ষ\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Includes a pipe character and repeated 'শিক্ষাবর্ষ' lines."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভরতেরে দেহ সিংহাসন",
+    "note": "Word 'দেহ' is likely a corruption of another word or artifact."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লক্ষ্লণ",
+    "note": "Extra 'ল' in the name लक्ष्मण/লক্ষ্মণ."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮. রাবণ সীতাকে হরণ করে জনক।",
+    "note": "Number '৮' is used where '৪' (4) should be in the sequence."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(%)",
+    "note": "Nonsensical symbol used where a checkbox or mark is expected."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. লক্ষ্মণের স্ত্রীর নাম কী?",
+    "note": "Number '8' is used instead of '৪' (4) in a list of 5 items."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "The string '৮৪.' is likely a garbled '৪' (4)."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮. কৈকেয়ী কে ছিলেন? ... শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Incorrect list number '৮' and repeated footer/header text."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আর্দশ",
+    "note": "Corrupted word for 'আদর্শ' (ideal)."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নরেসদ্রনাথ",
+    "note": "Incorrect name 'নরেসদ্রনাথ' for 'নরেন্দ্রনাথ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞার হয়",
+    "note": "Garbled word, likely intended to be 'সাফল্য' or 'জন্য'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দারীদ্য আর দারিদ্র্য",
+    "note": "Repetitive/mangled word 'দারিদ্দ্য' alongside correct 'দারিদ্র্য'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বত্তৃতায়",
+    "note": "Likely corruption of 'বক্তৃতায়'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8)",
+    "note": "Number '8' used instead of '৪' (4) in the list."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আর্দশ",
+    "note": "Corrupted word for 'আদর্শ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মত্য়া",
+    "note": "Corruption of 'মতুয়া'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরত্ব",
+    "note": "Missing vowel 'ু' in word গুরুত্ব."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরত্ব",
+    "note": "Missing vowel 'ু' in word গুরুত্ব."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হরিচীদ",
+    "note": "Inconsistent name for 'হরিচাঁদ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8)",
+    "note": "Number '8' used instead of '৪'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-49",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধর্মচচচায়",
+    "note": "Garbled word 'ধর্মচচচায়' instead of 'ধর্মচর্চায়'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আর্দশ",
+    "note": "Corrupted word for 'আদর্শ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪ বছর",
+    "note": "The number '৮৪' is likely a garbled '৪০'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আর্দশ",
+    "note": "Corrupted word for 'আদর্শ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪, হরিচীদ",
+    "note": "Garbled digit '৮৪' and inconsistent name 'হরিচীদ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮., মত্য়াবাদ",
+    "note": "Garbled digit '৮' and corrupted word 'মত্য়াবাদ'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪., মত্য়াবাদের",
+    "note": "Garbled digit '৮৪' and corrupted word 'মত্য়াবাদের'."
+  },
+  {
+    "chunk_id": "5-Hindu_religion-2-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "Number '৮' used instead of '৪'."
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_id": "5-Science-12-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্বমবিকাশমান; 7? দেনন্দিন",
+    "note": "ক্বমবিকাষ is a script corruption of ক্রমবিকাষ; 7? contains digit noise."
+  },
+  {
+    "chunk_id": "5-Science-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্ট্য; ডো] [ডা; জা; $/",
+    "note": "Several garbled sequences and non-Bengali symbols indicate poor OCR."
+  },
+  {
+    "chunk_id": "5-Science-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত; ক্বমবিকাষ",
+    "note": "দুտ is likely a corruption of দ্রুট (fast)."
+  },
+  {
+    "chunk_id": "5-Science-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত; ষ্মা; সা",
+    "note": "দুտ is a common OCR error for দ্রুট; 'ষ্মা' and 'সা' look like fragment corruption."
+  },
+  {
+    "chunk_id": "5-Science-12-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুտ",
+    "note": "দুտ is likely a corruption of দ্রুট."
+  },
+  {
+    "chunk_id": "5-Science-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্তিদ; কমবিকাষ",
+    "note": "উত্তিদ and কমবিকাষ are likely script errors for 'উদ্দীপক' or 'ক্রমবিকাশ'."
+  },
+  {
+    "chunk_id": "5-Science-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্বমবিকাশের; ্জ্্ তে",
+    "note": "ক্বমবিকাষ is corrupted; '্জ্্ তে' is garbled noise."
+  },
+  {
+    "chunk_id": "5-Science-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক্বমবিকাশমান; টঢ ৭ ৮ ৭ / 7",
+    "note": "Contains both script corruption and random digit/symbol noise."
+  },
+  {
+    "chunk_id": "5-Science-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুտ; স্্",
+    "note": "দুտ is a corruption of দ্রুট; স্্ is a garbled character."
+  },
+  {
+    "chunk_id": "5-Science-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&ী",
+    "note": "The & symbol is a corruption of a bullet point or list number."
+  },
+  {
+    "chunk_id": "5-Science-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1000181 11119111691106; ক্বমবিকাশের",
+    "note": "Contains long digit strings as noise and script corruption."
+  },
+  {
+    "chunk_id": "5-Science-12-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছা ছা18]1২০8110অ",
+    "note": "Garbled Unicode/corrupted text at the end."
+  },
+  {
+    "chunk_id": "5-Science-12-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঞ&ী",
+    "note": "Garbled character sequence used as a bullet point."
+  },
+  {
+    "chunk_id": "5-Science-12-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&; 31)",
+    "note": "Ambiguous symbol and digit noise."
+  },
+  {
+    "chunk_id": "5-Science-12-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7?; স্্",
+    "note": "Digits used as noise; স্্ is a garbled character."
+  },
+  {
+    "chunk_id": "5-Science-12-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুট; অ্যাপ্নিকেশন; ৮৪টি",
+    "note": "Durut (দ্রুট) and Appnication are common OCR errors."
+  },
+  {
+    "chunk_id": "5-Science-12-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭?; স্ট্য",
+    "note": "7? is digit noise; স্ট্য is garbled."
+  },
+  {
+    "chunk_id": "5-Science-12-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(বল 6 কোথায় সপন; (৫ সোম সওকসটলে।",
+    "note": "Garbled sequences in the parentheses."
+  },
+  {
+    "chunk_id": "5-Science-12-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রক্বিয়াকরণ",
+    "note": "Corrupted spelling of 'প্রক্রিয়া' (process)."
+  },
+  {
+    "chunk_id": "5-Science-12-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1০%৮০৪।০); (40৮6); (5০317791)",
+    "note": "Data replaced by garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "5-Science-12-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ছ॥০৮০০৪1); €ণ081121000591115; (02107)",
+    "note": "Severe corruption of labels into random numbers/symbols."
+  },
+  {
+    "chunk_id": "5-Science-12-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ট্য",
+    "note": "Garbled suffix at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-Science-12-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২/৮11 (0২81700107; ৭২014 (0২০৪৫)",
+    "note": "Garbled text replaced by numeric strings."
+  },
+  {
+    "chunk_id": "5-Science-12-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Science-12-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুট",
+    "note": "Corrupted spelling of 'দ্রুট'."
+  },
+  {
+    "chunk_id": "5-Science-12-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হোয়াটসআযযাপ",
+    "note": "Corrupted spelling of 'হোয়াটসঅ্যাপ'."
+  },
+  {
+    "chunk_id": "5-Science-12-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উপযুত্ত",
+    "note": "Corrupted word for 'উপযুক্ত' or similar."
+  },
+  {
+    "chunk_id": "5-Science-12-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

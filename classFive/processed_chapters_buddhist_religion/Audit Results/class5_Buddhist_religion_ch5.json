@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "5-Buddhist_religion-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৯ ক ৯ $ ৯ ক",
+    "note": "Non-standard digit and symbol sequence."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-10",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated line likely caused by OCR looping."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিক্রিকতে",
+    "note": "Nonsensical word, likely a failed OCR of 'ভীত' or similar."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সক বনেরকে জাপান পা গৈপার",
+    "note": "Garbled phrase that does not form meaningful words."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হী",
+    "note": "Likely misread of the word 'হা' (open)."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪।",
+    "note": "Mangled digit for the list number 4."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টব",
+    "note": "Mangled digit or character for list item 4."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Mangled digit for the list number 4."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪|",
+    "note": "Mangled digit for the list number 4."
+  },
+  {
+    "chunk_id": "5-Buddhist_religion-5-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নী সুস্থ হোক।\nজগতের সকল প্রা 0\n₹লাদেশ'ং",
+    "note": "Garbled characters and broken sentences at the end."
+  }
+]

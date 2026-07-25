@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "5-Bangla-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢু]\nরব\n৬)\nরত্ন\n।\nপাঠ ৯\n০২ ০১ ও বু",
+    "note": "Garbled characters and non-contextual numbers at the start of the chunk."
+  },
+  {
+    "chunk_id": "5-Bangla-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দৃষ্ণিতে",
+    "note": "Likely an OCR error for 'দৃষ্টিতে' (dristite)."
+  },
+  {
+    "chunk_id": "5-Bangla-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-9-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দীঁড়িয়ে আছে। আর্তস্বরে প্র,\nবিড়ালটি তখনওীকারছে",
+    "note": "Truncated word 'প্র' and garbled word 'হীকারছে'."
+  },
+  {
+    "chunk_id": "5-Bangla-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৪৭.",
+    "note": "Standalone number likely a page indicator."
+  },
+  {
+    "chunk_id": "5-Bangla-9-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রীম্মের ছুঁটির",
+    "note": "Garbled words (likely 'স্কুলের ছুটির')."
+  },
+  {
+    "chunk_id": "5-Bangla-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধন্যবাদ বন্যৃ!",
+    "note": "Garbled word at the end of a dialogue."
+  },
+  {
+    "chunk_id": "5-Bangla-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nহষ্পুশ",
+    "note": "Garbled word and year/date noise at the end of chunk."
+  },
+  {
+    "chunk_id": "5-Bangla-9-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-Bangla-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫০.\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Page numbers and dates are noise."
+  },
+  {
+    "chunk_id": "5-Bangla-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রীম্মের ছুটি শূরু।",
+    "note": "Garbled words for 'স্কুলের' and 'শুরু'."
+  },
+  {
+    "chunk_id": "5-Bangla-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সত্যি,১মাগো! এ...\", \"কে পারবিনা? এ...\"",
+    "note": "Garbled punctuation/words and trailing ellipsis."
+  },
+  {
+    "chunk_id": "5-Bangla-9-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫২.\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Page number and year noise."
+  }
+]
