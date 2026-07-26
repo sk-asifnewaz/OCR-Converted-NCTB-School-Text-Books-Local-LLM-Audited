@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "2-Bangla-8-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ট",
+    "note": "Single character is a likely OCR artifact or noise."
+  },
+  {
+    "chunk_id": "2-Bangla-8-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রা টস রা!",
+    "note": "Broken word fragment likely due to line/page wrap."
+  },
+  {
+    "chunk_id": "2-Bangla-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-8-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭৯০১০ ও £/",
+    "note": "Random digits and symbols are clearly OCR artifacts."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "2-Bangla-22-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-22-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-22-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর স্যাম\nটস ক",
+    "note": "Nonsensical character sequences resulting from OCR corruption."
+  },
+  {
+    "chunk_id": "2-Bangla-22-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০.",
+    "note": "Isolated digit likely a page number or formatting artifact."
+  },
+  {
+    "chunk_id": "2-Bangla-22-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

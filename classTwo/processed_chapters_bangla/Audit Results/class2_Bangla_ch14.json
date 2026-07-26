@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-14-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "প্রা আদানদেহ রণ-লানীতর। শেষ্ইলা? ঢল চঠলচার৪৭ যি\nর্্̛চ স্যাম.\n১৯ ৬২৯-\nদেখা হু বাই চুমু থোরিযা",
+    "note": "Multiple instances of garbled text, random digits, and nonsensical words."
+  },
+  {
+    "chunk_id": "2-Bangla-14-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঠধণ তুর ২ 2০\nমাফ এলি গা পি০'\n2 বলি",
+    "note": "The entire chunk consists of nonsensical characters and digit noise."
+  }
+]

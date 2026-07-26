@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-3-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পাঁ",
+    "note": "Stray character likely resulting from OCR noise or layout artifacts."
+  },
+  {
+    "chunk_id": "2-Bangla-3-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "/ ক, 4)",
+    "note": "Stray character and digit noise likely from OCR artifacts."
+  }
+]

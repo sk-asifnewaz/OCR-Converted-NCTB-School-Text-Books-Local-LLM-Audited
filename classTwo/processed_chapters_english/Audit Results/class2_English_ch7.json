@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "2-English-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "E\nRed, red, red\nThe rose is red.\n®\nViolet, violet, violet\nThe balloon is violet.\nZZ",
+    "note": "Single characters and symbols (E, ®, ZZ) are likely OCR artifacts from graphics."
+  },
+  {
+    "chunk_id": "2-English-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "@2eewvw_wvss@ @\n@a@_aq gag gag\n* & & &",
+    "note": "Garbled character sequences and symbols are typical of OCR-processed decorative elements."
+  },
+  {
+    "chunk_id": "2-English-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "q\nEnglish io Colours...oO Gn-@\n970%\nyellow\nRainbow\nOo\nEngisn tor",
+    "note": "Garbled text like 'iq', '970%', and 'Engisn' suggests broken headers/titles."
+  },
+  {
+    "chunk_id": "2-English-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\n—s° Shapes and sizes O3a\n...on A\ncircle square triangle rectangle\not",
+    "note": "Symbols like '10°', '970%', and 'O3a' are noise from page layout."
+  },
+  {
+    "chunk_id": "2-English-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "friangle\n(m) po\ntriangle Zz\ncircle | |\nrectangle C)",
+    "note": "Misspellings like 'friangle' and symbol noise (Zz, ||, C) are artifacts."
+  },
+  {
+    "chunk_id": "2-English-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Enolen a More about shapes Oe\nlam Mr. Shape",
+    "note": "Garbled phrases 'Enolen' and 'lam' are OCR errors for 'Lesson' and 'I am'."
+  },
+  {
+    "chunk_id": "2-English-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Oe circles.\nee squares.\nfe nee. triangles.\nOo rectangles.\n...ei\nsizes\non\nT+ Ge on",
+    "note": "Garbled text (Oe, ee, fe) are likely misread numerals and 'of'."
+  },
+  {
+    "chunk_id": "2-English-7-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "lal\nafatcow athincow\n+s\natallman ashortman",
+    "note": "Garbled strings like 'afatcow' are merged words/mangled sentences from OCR."
+  },
+  {
+    "chunk_id": "2-English-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\n(Py\net\n...Green light says QO\nC) Red light says STOOD",
+    "note": "Garbled symbols and 'QO'/'STOOD' appear to be corrupted text for 'WAIT' or 'STOP'."
+  },
+  {
+    "chunk_id": "2-English-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "WO IT\n...oS\nTurn right AN!\nNo parking Turn left Zebra crossing g",
+    "note": "Garbled text 'WO IT' is likely a mangled 'WAIT' command."
+  },
+  {
+    "chunk_id": "2-English-7-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$1 will drive... S82 will show",
+    "note": "The symbols '$1' and 'S82' are likely garbled text for 'Student 1'."
+  }
+]

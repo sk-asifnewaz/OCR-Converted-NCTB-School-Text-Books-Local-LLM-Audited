@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "2-English-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\\nAnimals and Birds &@",
+    "note": "Contains digit noise (970%) and script corruption (&@, Engisn tor)."
+  },
+  {
+    "chunk_id": "2-English-9-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(8)\\n970%",
+    "note": "Contains non-contextual numbers/symbols (8) and 970%."
+  },
+  {
+    "chunk_id": "2-English-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "5s\\n<",
+    "note": "Contains non-linguistic symbols and noise."
+  },
+  {
+    "chunk_id": "2-English-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "©\\nOo\\nEngisn tor... 970%\\non\\nEnglish for 10°",
+    "note": "Contains various script and digit noise artifacts."
+  },
+  {
+    "chunk_id": "2-English-9-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-9-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-9-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-9-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Pe ee meer rere reser sereseeseser ese ese reese see ee eee ses",
+    "note": "Complete block of nonsensical, repeated character sequences."
+  },
+  {
+    "chunk_id": "2-English-9-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Pome eeeecrreresceresereeseserereesesresereeeesesesererereeseserereeneserersereseereseneeeeseserere®",
+    "note": "Start of chunk is heavily corrupted garbled text."
+  },
+  {
+    "chunk_id": "2-English-9-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Gr\\n970%... 10°",
+    "note": "Contains truncated word 'Gr' and digit noise."
+  },
+  {
+    "chunk_id": "2-English-9-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

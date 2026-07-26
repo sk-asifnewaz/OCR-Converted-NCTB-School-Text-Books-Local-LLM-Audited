@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-26-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুত্তিসেনা",
+    "note": "OCR error; title should be 'মুক্তিসেনা' based on metadata."
+  },
+  {
+    "chunk_id": "2-Bangla-26-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর পচ্স্qe, টস ক",
+    "note": "Contains non-Bengali characters and nonsensical fragments."
+  }
+]

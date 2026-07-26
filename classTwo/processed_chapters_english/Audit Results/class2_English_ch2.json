@@ -1,0 +1,335 @@
+[
+  {
+    "chunk_id": "2-English-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&@",
+    "note": "Non-alphanumeric symbols in title; likely OCR noise."
+  },
+  {
+    "chunk_id": "2-English-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Aes 4 8 GP",
+    "note": "Random character/digit string not belonging to text."
+  },
+  {
+    "chunk_id": "2-English-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "e€E",
+    "note": "Currency symbol included in alphabet list."
+  },
+  {
+    "chunk_id": "2-English-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Engisn tor",
+    "note": "OCR corruption of 'English for'."
+  },
+  {
+    "chunk_id": "2-English-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ear ~@d Bn",
+    "note": "Garbled symbols and characters."
+  },
+  {
+    "chunk_id": "2-English-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\\not",
+    "note": "Nonsense numbers and symbols inserted in text."
+  },
+  {
+    "chunk_id": "2-English-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "% Wy Se ae",
+    "note": "Nonsensical symbols and characters."
+  },
+  {
+    "chunk_id": "2-English-2-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\\on",
+    "note": "Nonsense numbers and symbols."
+  },
+  {
+    "chunk_id": "2-English-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "one ON@",
+    "note": "Garbled characters following word."
+  },
+  {
+    "chunk_id": "2-English-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "é 3 :",
+    "note": "Garbled symbols and numbers."
+  },
+  {
+    "chunk_id": "2-English-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Engisn tor",
+    "note": "OCR corruption of 'English for'."
+  },
+  {
+    "chunk_id": "2-English-2-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%",
+    "note": "Nonsense numbers."
+  },
+  {
+    "chunk_id": "2-English-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "C4 hen @",
+    "note": "Garbled text/symbols in item list."
+  },
+  {
+    "chunk_id": "2-English-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "i jug ae",
+    "note": "Nonsensical phrase."
+  },
+  {
+    "chunk_id": "2-English-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "STF honey",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "2-English-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "su < @ fk",
+    "note": "Garbled symbols and letters."
+  },
+  {
+    "chunk_id": "2-English-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "920%\\nYn,\\nx<",
+    "note": "Garbled symbols and numbers."
+  },
+  {
+    "chunk_id": "2-English-2-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Engisn tor",
+    "note": "OCR corruption of 'English for'."
+  },
+  {
+    "chunk_id": "2-English-2-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Citgh rrr b\\nNein 90 rrr 7\\n(>) 1 6 ee 9\\nISX 0 weeee eset: 8\\nSCCVN eee errr eee 10",
+    "note": "Massive OCR corruption/gibberish in the entire block."
+  },
+  {
+    "chunk_id": "2-English-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "e\\\"a9",
+    "note": "Garbled character sequence."
+  },
+  {
+    "chunk_id": "2-English-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Engisn or",
+    "note": "OCR corruption of 'English for'."
+  },
+  {
+    "chunk_id": "2-English-2-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "asitststs—sS",
+    "note": "Nonsensical repetition of characters."
+  },
+  {
+    "chunk_id": "2-English-2-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "offangqe",
+    "note": "Garbled word."
+  },
+  {
+    "chunk_id": "2-English-2-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "OoOargen lddare",
+    "note": "Nonsense repetition of letters."
+  },
+  {
+    "chunk_id": "2-English-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "6)\nEnglish tot 10°",
+    "note": "Garbled punctuation and word 'tot'."
+  },
+  {
+    "chunk_id": "2-English-2-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "I)\noO\\ni)\non",
+    "note": "Garbled symbols and characters."
+  },
+  {
+    "chunk_id": "2-English-2-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "_sS_",
+    "note": "Garbled underscore symbols."
+  },
+  {
+    "chunk_id": "2-English-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Enonot mo",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "2-English-2-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORR"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "dadd 9999 Anith \\\\\\\\ eeee\\ndade ies LAL \\WW\\\\ ee\\ndade a eee\\ndddd et in NW none",
+    "note": "Entire section is garbled by OCR."
+  },
+  {
+    "chunk_id": "2-English-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "VdAS@",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "2-English-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "XTAY",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "2-English-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "vaes okye wleah",
+    "note": "Garbled word sequences."
+  },
+  {
+    "chunk_id": "2-English-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Gur",
+    "note": "Garbled word."
+  },
+  {
+    "chunk_id": "2-English-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "aay,",
+    "note": "Garbled suffix/text."
+  },
+  {
+    "chunk_id": "2-English-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Can)\n",
+    "note": "Garbled text/punctuation."
+  },
+  {
+    "chunk_id": "2-English-2-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(By",
+    "note": "Possible garbled bracket/text."
+  },
+  {
+    "chunk_id": "2-English-2-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "xy\\nx\\nee",
+    "note": "Garbled symbols/letters."
+  }
+]

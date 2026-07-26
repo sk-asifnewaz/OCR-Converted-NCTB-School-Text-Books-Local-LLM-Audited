@@ -1,0 +1,263 @@
+[
+  {
+    "chunk_id": "2-Math-1-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চুনলকই\nও৫ পদ্ম [৬৫ ন্মমট ৭৫ প্চাতর ৮৫ চলি ১৫: গগলকইই",
+    "note": "The text contains nonsensical word strings and corrupted phrase segments."
+  },
+  {
+    "chunk_id": "2-Math-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮২১১ ২২২\n৮২১১ ২২২\n৮১১১ ২২২",
+    "note": "Repeated, seemingly garbled number sequences."
+  },
+  {
+    "chunk_id": "2-Math-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রায়ারায়াযা টরাযারাযাযাযায়ায়ায়ায",
+    "note": "Extensive repeated nonsense and garbled characters."
+  },
+  {
+    "chunk_id": "2-Math-1-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লীলা ০৬ টীচ চলা ৬ মী চলি ৯ (এ",
+    "note": "Nonsensical word fragments and broken sentence structure."
+  },
+  {
+    "chunk_id": "2-Math-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹_ নিজে করি",
+    "note": "Currency symbol used as a noise artifact."
+  },
+  {
+    "chunk_id": "2-Math-1-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভস]- [াশল্ পক এল\nচঢা]- [াশল পক এল\nলনা অধলগ আশল্ পল লল",
+    "note": "Large amount of non-sensical garbled text."
+  },
+  {
+    "chunk_id": "2-Math-1-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কট কম্দ্দলদদদ)",
+    "note": "Garbled text at the top of the chunk."
+  },
+  {
+    "chunk_id": "2-Math-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম্্স্$ সস ৯ ডা",
+    "note": "Nonsense characters and symbols at end of line."
+  },
+  {
+    "chunk_id": "2-Math-1-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্জ্ পাতে কত //",
+    "note": "Garbled text fragment."
+  },
+  {
+    "chunk_id": "2-Math-1-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হিনির সংখ্যা শুরু ১ ১১২ সী ক\nদিয়ে এবং প্রতি ক্ষেত্রে ২ ২. ২ ২",
+    "note": "Nonsensical repeated characters and garbled words."
+  },
+  {
+    "chunk_id": "2-Math-1-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০,৫, ১০, ১৫, ২০, ০১১১ *০০) ***",
+    "note": "Garbled symbols and nonsensical numbers at end."
+  },
+  {
+    "chunk_id": "2-Math-1-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্থ পাতে তা /",
+    "note": "Garbled text fragment."
+  },
+  {
+    "chunk_id": "2-Math-1-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দাদাযম্লদাগস্াচাল\nসস ৮৬ নাভলান ০৬ ন ৬\nপে পাদ দাদ পাদ নন",
+    "note": "Large block of incoherent, garbled text."
+  },
+  {
+    "chunk_id": "2-Math-1-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-1-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কন ভিজ ্যান্তী / (ল\nঠ1 1114",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "2-Math-1-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[বমবেকে ভন & ৭ খিল”",
+    "note": "Garbled text phrase."
+  },
+  {
+    "chunk_id": "2-Math-1-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চচচ",
+    "note": "Repeated character nonsense."
+  },
+  {
+    "chunk_id": "2-Math-1-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/৬৬\nডানদিক থেকে সাত জনকে...",
+    "note": "Garbled character/number combination at start."
+  },
+  {
+    "chunk_id": "2-Math-1-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/৭৬ ... '₹",
+    "note": "Garbled symbols at the beginning of sentences."
+  }
+]

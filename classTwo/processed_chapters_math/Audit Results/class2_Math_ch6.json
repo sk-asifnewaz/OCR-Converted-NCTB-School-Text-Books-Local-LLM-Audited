@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "2-Math-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা তে, - বালা রর -\n++ সন 4৬ সন\nসহ ০ স্্হা ০৭\n\"-ঢাক্ষ:-ুাক \"তাক:\nস্্হা ০৭ জল জল\nসাক” চাক",
+    "note": "Contains significant OCR noise and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "2-Math-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রব ৬২৬৬",
+    "note": "Random digits appearing mid-text likely from page numbering or noise."
+  },
+  {
+    "chunk_id": "2-Math-6-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সে কত\nঞ ০\n্চ 0 ১ ৭ ৯ টক ঞ ৮. প্\n/ ৮২ তল / ২০৭? স্‌ ২১১\n৬৬ ৮৬৬ /\n১ $* পা ৯ \"৯৯. প্র ৬",
+    "note": "Fragmented sentence followed by significant OCR corruption."
+  }
+]

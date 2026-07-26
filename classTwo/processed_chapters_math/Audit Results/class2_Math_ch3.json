@@ -1,0 +1,227 @@
+[
+  {
+    "chunk_id": "2-Math-3-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৬৮ ৮৬6 ৬৮৪৮ ৮৪6 ৬৬৮",
+    "note": "A sequence of numbers that does not belong to the mathematical context."
+  },
+  {
+    "chunk_id": "2-Math-3-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮৬৮ ৬৪6 ০৮৬ ৮৬৪6 ৬০৬ ০৮\n£ $ ৪ &$£ £ ৫",
+    "note": "Garbled numbers and foreign symbols mixed into the text."
+  },
+  {
+    "chunk_id": "2-Math-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/2৩৩১/০৩৩:/০৩৩//০৩৩১/০৩৩",
+    "note": "Garbled Unicode and repeated forward slashes."
+  },
+  {
+    "chunk_id": "2-Math-3-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ও টা ৫১২-১০\n৫৫৫৫৫৬৫৫৫৬৬ ৬",
+    "note": "Garbled numbers and repetitive character sequences."
+  },
+  {
+    "chunk_id": "2-Math-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4 41 &. ৩৬",
+    "note": "Garbled symbols and non-standard character combinations."
+  },
+  {
+    "chunk_id": "2-Math-3-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[২১৯]",
+    "note": "Unnecessary bracketed number sequence likely from OCR artifacts."
+  },
+  {
+    "chunk_id": "2-Math-3-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভততততততত\nচবোবেরে\nঢা",
+    "note": "Nonsensical repeated characters and garbled words."
+  },
+  {
+    "chunk_id": "2-Math-3-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৩ও\nাা\nরি ০ রি\nрь ৮",
+    "note": "Fragmented words, garbled numbers, and non-standard characters."
+  },
+  {
+    "chunk_id": "2-Math-3-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ ববেবেবেবোবোবেশোধে\nক্রীেদেননদনদদ্",
+    "note": "Nonsensical repeated sequences and garbled words."
+  },
+  {
+    "chunk_id": "2-Math-3-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বেবেবেবেবেবেবেবেবেরে",
+    "note": "Repetitive nonsense character string."
+  },
+  {
+    "chunk_id": "2-Math-3-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬১€২-৬+৬-১২",
+    "note": "Use of currency symbol as a substitute for math notation."
+  },
+  {
+    "chunk_id": "2-Math-3-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১€৩₹-১২",
+    "note": "Contains currency symbols and corrupted math notation."
+  },
+  {
+    "chunk_id": "2-Math-3-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-3-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ৫৫৩৫৫৫৬৬...\n$৫$৫৩৩৫৬৩৬৩৬$",
+    "note": "Repetitive nonsense and symbols from OCR errors."
+  },
+  {
+    "chunk_id": "2-Math-3-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪৮-৮)€৬",
+    "note": "Use of currency symbol in a math expression."
+  },
+  {
+    "chunk_id": "2-Math-3-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯১ং৫ৎ-১৮",
+    "note": "Garbled script components (ng, t) in a math context."
+  },
+  {
+    "chunk_id": "2-Math-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯১ং৫ৎ-১৮ ৯১৫২৩-২৭ ৯১৫৪-৩৬",
+    "note": "Repetitive garbled scripts in math results."
+  },
+  {
+    "chunk_id": "2-Math-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮িক\n০৭৫ -টিখাত",
+    "note": "Fragmented words and nonsensical text artifacts."
+  },
+  {
+    "chunk_id": "2-Math-3-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৫৫৫৬...",
+    "note": "Repetitive nonsense string."
+  },
+  {
+    "chunk_id": "2-Math-3-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গচল্লব্দ\nটড ভোতাণ্",
+    "note": "Nonsense words and garbled scripts."
+  },
+  {
+    "chunk_id": "2-Math-3-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২২০৮৬৮৮১৮১২ ১৮ ১৮ ৮৬",
+    "note": "Long string of digits likely from a table being misread as text."
+  },
+  {
+    "chunk_id": "2-Math-3-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "!॥॥।\n০! ॥॥০",
+    "note": "Nonsense symbols in the text."
+  },
+  {
+    "chunk_id": "2-Math-3-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা কা\nচার ২\nটে\nচে",
+    "note": "Fragmented, nonsensical words."
+  },
+  {
+    "chunk_id": "2-Math-3-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মা াযাযারাযাযাযালারার",
+    "note": "Nonsensical string of characters."
+  },
+  {
+    "chunk_id": "2-Math-3-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

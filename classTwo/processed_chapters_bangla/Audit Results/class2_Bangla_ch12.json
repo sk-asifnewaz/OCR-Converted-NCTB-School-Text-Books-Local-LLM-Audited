@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বলা [«\nস্ব প্র তত",
+    "note": "Garbled text and non-Bengali symbols mixed in."
+  },
+  {
+    "chunk_id": "2-Bangla-12-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্য নয ত্য\n2 &পপঠরওত৷\nশ্র মর দ্র",
+    "note": "Multiple instances of incoherent character sequences and symbol noise."
+  }
+]

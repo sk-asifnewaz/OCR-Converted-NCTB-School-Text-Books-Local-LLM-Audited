@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-15-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রণ /7।",
+    "note": "The '/7' is an OCR artifact, likely a page or line number."
+  },
+  {
+    "chunk_id": "2-Bangla-15-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪8. ... স-*-০৮৮+৭+ প্র",
+    "note": "Contains mangled list numbering and a string of nonsensical symbols."
+  }
+]

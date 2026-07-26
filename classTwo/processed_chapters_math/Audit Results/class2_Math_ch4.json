@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "2-Math-4-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মুম্স্ পেস্তা",
+    "note": "Nonsensical word sequence not related to geometry."
+  },
+  {
+    "chunk_id": "2-Math-4-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পু ৭\n॥ জজ\nও রাও রা রর",
+    "note": "Contains random digits and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "2-Math-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/ব 1] | 1 |॥| || |]\n)))) ৯৯০০৯৯৯",
+    "note": "Significant noise from symbols and repetitive digits."
+  },
+  {
+    "chunk_id": "2-Math-4-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "আমা নাজ",
+    "note": "Fragmented/garbled text appearing mid-section."
+  },
+  {
+    "chunk_id": "2-Math-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আআ. কত খু পে চদছ টছ কহশহআ দু ৮ -আ., আও\n| || গা ॥0॥॥| | ॥ | || ॥া দা | ॥॥ যা",
+    "note": "Entire chunk is garbled Unicode and nonsensical characters."
+  }
+]

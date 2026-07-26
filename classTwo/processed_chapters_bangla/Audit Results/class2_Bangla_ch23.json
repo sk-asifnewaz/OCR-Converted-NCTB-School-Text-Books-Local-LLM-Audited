@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-23-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর রস্যঞ\nটা ক\nসাদা রা\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Contains nonsensical script, truncated words, and a repeated line."
+  },
+  {
+    "chunk_id": "2-Bangla-23-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

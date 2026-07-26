@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "2-English-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "fay Days of the Week &@\\nee",
+    "note": "Contains garbled characters, symbols, and digit noise."
+  },
+  {
+    "chunk_id": "2-English-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "paz | a3 {14 | a5 | a6 | a7 | 18",
+    "note": "Top of chunk contains significant OCR noise/corruption."
+  },
+  {
+    "chunk_id": "2-English-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$1: What are they?\\nS22 occ c cece\\n$1: What day is today?",
+    "note": "Dialogue section contains repeated gibberish and corrupted characters."
+  },
+  {
+    "chunk_id": "2-English-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Engisn tor\\nSo\\nSAL cece cee eees",
+    "note": "Contains non-sensical words and garbled text fragments."
+  },
+  {
+    "chunk_id": "2-English-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ef\\nRima and the seed\\noh... English for 1°",
+    "note": "Fragmented text and symbols indicate OCR noise."
+  },
+  {
+    "chunk_id": "2-English-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Ct\\noO\\nEnglish for 1%... 30}\n",
+    "note": "Contains noise symbols and corrupted percentage sign."
+  },
+  {
+    "chunk_id": "2-English-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1) Sunday DQ) ccccececccecececs\\n3) Tuesday = 4) sw... eee eee eee eee",
+    "note": "Highly corrupted sequence and repeated characters."
+  },
+  {
+    "chunk_id": "2-English-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\\n(2\\nEnglish tor 10°",
+    "note": "Includes noise like '970%' and broken words like 'tor'."
+  },
+  {
+    "chunk_id": "2-English-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "970%\\non\\nEnglish for 10°",
+    "note": "Contains persistent OCR noise/garbled symbols."
+  },
+  {
+    "chunk_id": "2-English-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

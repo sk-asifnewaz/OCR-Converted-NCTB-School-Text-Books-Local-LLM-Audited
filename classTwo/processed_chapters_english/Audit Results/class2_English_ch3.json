@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "2-English-3-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "S\nGrr\n970%",
+    "note": "Garbled characters and non-sequitur numbers at the end of section."
+  },
+  {
+    "chunk_id": "2-English-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "English for 10°\ney",
+    "note": "Degree symbol is a likely OCR artifact from page headers."
+  },
+  {
+    "chunk_id": "2-English-3-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "(r\nos",
+    "note": "Text ends mid-word or with incomplete parenthetical note."
+  },
+  {
+    "chunk_id": "2-English-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "——_ i»\n...\nEnglish for 10°",
+    "note": "Non-standard symbols and artifacts from page layout elements."
+  },
+  {
+    "chunk_id": "2-English-3-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "“2.Prepareforcis. =\n“A.Raisehandtospeak AN\n(S.Bekind = gf",
+    "note": "Garbled text and symbols, likely resulting from merged content."
+  },
+  {
+    "chunk_id": "2-English-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "@\n|\nEN",
+    "note": "Symbolic characters likely representing a logo or graphic."
+  }
+]

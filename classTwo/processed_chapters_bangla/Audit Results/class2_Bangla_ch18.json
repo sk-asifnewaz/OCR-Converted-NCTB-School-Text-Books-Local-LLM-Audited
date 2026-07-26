@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "2-Bangla-18-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বোনতিথি ।আমিনআর তিথিকেনিয়ে",
+    "note": "Words fused together with punctuation and likely OCR artifacts."
+  },
+  {
+    "chunk_id": "2-Bangla-18-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "£",
+    "note": "Currency symbol used instead of text/space."
+  },
+  {
+    "chunk_id": "2-Bangla-18-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু\nআমিনের ফুপাতো\nরা রক ঙ্ঁ\nর্শ্ব\nরশ",
+    "note": "Multiple lines of garbled characters/fragments."
+  },
+  {
+    "chunk_id": "2-Bangla-18-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated header/footer line and garbled fragments like '0চ1, নী, ডে."
+  },
+  {
+    "chunk_id": "2-Bangla-18-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

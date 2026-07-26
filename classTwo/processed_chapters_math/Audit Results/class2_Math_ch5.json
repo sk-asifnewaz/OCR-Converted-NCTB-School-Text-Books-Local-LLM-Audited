@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "2-Math-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[. পু ২ দু ছ্ [] ষ্্ শ্‌ ছ় গর\nদাদা 01!\n৪ 10111213141516 1718 19 20\n1000100101001001171",
+    "note": "Contains garbled Unicode/symbols and long strings of random numbers."
+  },
+  {
+    "chunk_id": "2-Math-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/ ৯.\" ব্",
+    "note": "Garbled characters and symbols at the end of a line."
+  },
+  {
+    "chunk_id": "2-Math-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\" ও ঢা \"দি\" চা",
+    "note": "Garbled Unicode/nonsense phrase amidst the text."
+  },
+  {
+    "chunk_id": "2-Math-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২.৬ র",
+    "note": "Isolated, likely non-functional numeric/character string."
+  },
+  {
+    "chunk_id": "2-Math-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

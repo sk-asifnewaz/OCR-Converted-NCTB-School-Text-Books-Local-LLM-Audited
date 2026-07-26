@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "2-Math-7-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "&,",
+    "note": "Non-sensical symbol sequence likely from OCR noise."
+  },
+  {
+    "chunk_id": "2-Math-7-2",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ট্যালি\nট্যালি",
+    "note": "The word 'ট্যালি' is repeated across a line break."
+  },
+  {
+    "chunk_id": "2-Math-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "% ... টে,\n[লালায় »",
+    "note": "Contains garbled symbols and nonsensical characters."
+  },
+  {
+    "chunk_id": "2-Math-7-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Math-7-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "2-English-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$1, |am, S4:0 veces",
+    "note": "Symbols like $ and | are likely OCR errors for I or S; 'veces' is out of context."
+  },
+  {
+    "chunk_id": "2-English-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| am, 970%, English tot 10°",
+    "note": "Contains OCR noise from headers/footers (percentages and degrees)."
+  },
+  {
+    "chunk_id": "2-English-8-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "6), English tot 10°",
+    "note": "Random numbers and symbols likely from page footer/header."
+  },
+  {
+    "chunk_id": "2-English-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| love, 970%, English for 10°",
+    "note": "S-character mangled to | and footer noise included."
+  },
+  {
+    "chunk_id": "2-English-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "CQ",
+    "note": "Likely an OCR corruption of a common word like 'a' or 'the'."
+  },
+  {
+    "chunk_id": "2-English-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$3, S4, Ds",
+    "note": "Symbolic corruption of student markers or page layout indicators."
+  },
+  {
+    "chunk_id": "2-English-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "970%, & 3 2",
+    "note": "Non-sequential digits and symbols from page layout."
+  },
+  {
+    "chunk_id": "2-English-8-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Oi |, Oo, Engisn tor",
+    "note": "Garbled text likely from a header (e.g., 'English for...')."
+  },
+  {
+    "chunk_id": "2-English-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-8-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4., ClASS",
+    "note": "Random digit '4.' and capitalized/distorted word 'ClASS'."
+  },
+  {
+    "chunk_id": "2-English-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-8-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "et, Oo, Engisn tor",
+    "note": "Garbled text and non-sequitur words from header/footer noise."
+  },
+  {
+    "chunk_id": "2-English-8-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| love",
+    "note": "S-character mangled to |."
+  }
+]

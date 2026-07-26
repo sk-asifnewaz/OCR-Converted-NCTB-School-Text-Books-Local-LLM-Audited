@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-24-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মল জী\nরা.\n৷\nখে\nরণ\nৰ\n)\n৭)\n১১ ২৬\nশী\n/\n/1\nলে",
+    "note": "Garbled characters and symbols between sentences; repeated 'শিক্ষাবর্ষ ২০২৬'."
+  },
+  {
+    "chunk_id": "2-Bangla-24-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

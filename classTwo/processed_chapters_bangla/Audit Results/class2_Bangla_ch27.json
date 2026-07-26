@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "2-Bangla-27-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র্চ পাঠ",
+    "note": "The character 'র্চ' is a fragment/corruption; 'ট' is likely a noise artifact."
+  },
+  {
+    "chunk_id": "2-Bangla-27-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর স্যম্\nটস ক",
+    "note": "Non-sensical character sequences likely caused by OCR errors."
+  },
+  {
+    "chunk_id": "2-Bangla-27-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা\nবলি",
+    "note": "Word is cut off; content shifts abruptly to a different biography."
+  },
+  {
+    "chunk_id": "2-Bangla-27-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

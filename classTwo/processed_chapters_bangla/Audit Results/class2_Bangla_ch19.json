@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "2-Bangla-19-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-19-2",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বসাই উট",
+    "note": "The word 'উট' (camel) is out of context in a chapter about butterflies."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "2-Bangla-21-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রীস",
+    "note": "Likely a corrupted or truncated form of 'গ্রীষ্ম' (Summer)."
+  },
+  {
+    "chunk_id": "2-Bangla-21-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-21-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-21-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খ্তু",
+    "note": "Incomplete or malformed word, likely intended as 'ঋতু' or 'খতু'."
+  },
+  {
+    "chunk_id": "2-Bangla-21-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রক রস্যঞ, বলি ও লিখি ৭, স্ঠনম",
+    "note": "Nonsensical character sequences likely from OCR of header/footer elements."
+  }
+]

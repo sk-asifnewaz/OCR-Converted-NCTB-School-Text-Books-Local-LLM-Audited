@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "2-English-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970% Ger",
+    "note": "Random digits and garbled text likely from page footer or header."
+  },
+  {
+    "chunk_id": "2-English-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Engin tor, Crh - CF 3",
+    "note": "Garbled text (likely 'English for') and nonsensical characters."
+  },
+  {
+    "chunk_id": "2-English-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "633 5B, English for 10°",
+    "note": "Garbled digits and symbols appearing where text should be."
+  },
+  {
+    "chunk_id": "2-English-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970% Ge}, 2 on",
+    "note": "Garbled characters and extraneous digit strings."
+  },
+  {
+    "chunk_id": "2-English-4-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Oo Engisn tor",
+    "note": "Garbled text likely from a header/footer 'English for'."
+  },
+  {
+    "chunk_id": "2-English-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(r I)oO i)on oh, English for 1°",
+    "note": "Nonsensical symbols and corrupted phrase 'English for'."
+  },
+  {
+    "chunk_id": "2-English-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ar <0 Living place ey, Oo Engisn tor",
+    "note": "Garbled text fragments and corrupted headers."
+  },
+  {
+    "chunk_id": "2-English-4-8",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "Cr",
+    "note": "Trailing character suggesting a cut-off word or title fragment."
+  }
+]

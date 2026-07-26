@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "2-Bangla-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹\n৮ এ\nশিক্ষাবর্ষ ২০২৬\nটস র্ব_",
+    "note": "Currency symbol and garbled characters at the end of the chunk."
+  }
+]

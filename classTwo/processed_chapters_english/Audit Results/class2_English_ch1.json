@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "2-English-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-1-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\\non\\nEnglish for 10°",
+    "note": "Non-legitimate numerals likely from a page layout or graphic."
+  },
+  {
+    "chunk_id": "2-English-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ".. 2..\\nOo\\nEngisn tor",
+    "note": "Contains non-legitimate number strings and garbled word fragments."
+  },
+  {
+    "chunk_id": "2-English-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-1-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\\non\\nEnglish for 10°",
+    "note": "Non-legitimate numerals likely from a page layout or graphic."
+  },
+  {
+    "chunk_id": "2-English-1-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "eeeee eee. \\nS€€ YOU AGGIN",
+    "note": "Repeated nonsense characters and non-standard currency symbols in text."
+  },
+  {
+    "chunk_id": "2-English-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

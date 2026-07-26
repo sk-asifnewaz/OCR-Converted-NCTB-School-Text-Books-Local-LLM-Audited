@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "2-Bangla-20-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮০. ৬\nক ৩৬",
+    "note": "These appear to be page numbers or header artifacts, not part of the story."
+  },
+  {
+    "chunk_id": "2-Bangla-20-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-20-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২\nরর/ পস্ফক্꼐\nঙ্",
+    "note": "Garbled Unicode and symbols typical of failed OCR on headers."
+  },
+  {
+    "chunk_id": "2-Bangla-20-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-Bangla-20-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২০২৬",
+    "note": "Likely a mangled representation of the academic year (e.g., 2023 or 2024)."
+  }
+]
