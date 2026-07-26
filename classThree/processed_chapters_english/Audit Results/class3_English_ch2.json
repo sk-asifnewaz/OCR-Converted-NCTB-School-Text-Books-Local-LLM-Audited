@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "3-English-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-2-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "@HOCS20n8®@",
+    "note": "Non-standard symbols and garbled characters from OCR."
+  },
+  {
+    "chunk_id": "3-English-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "31, 32, ; , 39, ’\nAl, ,44,_ 46,\n——_—_——4J_S",
+    "note": "Extensive corruption of numeric list with unrelated symbols."
+  },
+  {
+    "chunk_id": "3-English-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ey t=] t=} de} fe)\net fel te} fel fel",
+    "note": "Garbled non-English character strings likely from layout or other scripts."
+  },
+  {
+    "chunk_id": "3-English-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-2-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-2-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "lb.",
+    "note": "Likely OCR error for 'b.' in a list."
+  },
+  {
+    "chunk_id": "3-English-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "@, @ oO, . Be FS .",
+    "note": "Garbled symbols and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-English-2-9",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "My friend am",
+    "note": "Sentence cut off or truncated at the end of section."
+  },
+  {
+    "chunk_id": "3-English-2-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "a\nMy friend (5)",
+    "note": "Incomplete sentence or stray fragments at chunk end."
+  },
+  {
+    "chunk_id": "3-English-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-2-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "lb.",
+    "note": "Likely OCR error for 'b.' in a list."
+  },
+  {
+    "chunk_id": "3-English-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "©HO2@en8o@, 64 Lees 60 oo. D2 Leeeeeeeeee eee",
+    "note": "Garbled text and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-English-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

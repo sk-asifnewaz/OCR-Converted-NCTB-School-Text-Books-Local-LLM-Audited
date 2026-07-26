@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "3-Bangla-24-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-24-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-24-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-24-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১,১,১১১১১১১১১১১১১১১১১১১১১১১২১২১১১১১১১১১১১১২১",
+    "note": "Random digit strings replace expected punctuation/spaces for student input."
+  },
+  {
+    "chunk_id": "3-Bangla-24-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৩৩০৬৩০৫ ০৫০৫০৬৫৬০৫৫০৫০৫...",
+    "note": "A large block of nonsensical numbers at the beginning of the chunk."
+  },
+  {
+    "chunk_id": "3-Bangla-24-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

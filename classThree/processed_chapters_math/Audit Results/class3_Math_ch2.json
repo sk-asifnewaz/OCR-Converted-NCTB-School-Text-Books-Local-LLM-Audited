@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "3-Math-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "য্ধ ও এক কেস ডিম... (৮) ৫৩ 7 8৪১২ ₹",
+    "note": "Contains garbled word 'য্ধ' and mixed Western digits/symbols."
+  },
+  {
+    "chunk_id": "3-Math-2-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১+৭+৫+২- ৮ ৩+২+৪- ৯ ২+৪+৩- ৯",
+    "note": "Garbled mathematical notation and Western digits used instead of Bengali."
+  },
+  {
+    "chunk_id": "3-Math-2-3",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্কের... ০৭৯ //7/4\nভি ভতে র্চ র্চ",
+    "note": "'অস্কের' is incorrect; block contains nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-Math-2-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭৮৩১০ +১০৪ ৪ +২১৩ ৫১",
+    "note": "Sequence of numbers and symbols is incoherent."
+  },
+  {
+    "chunk_id": "3-Math-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তญ দিন... (৩) 8৪৬৭ + ২৪৫ ₹",
+    "note": "Garbled word 'তญ' and mixed currency/western digits."
+  },
+  {
+    "chunk_id": "3-Math-2-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লিলেলেশলালসেদলেলেশেশেললেশনলেলশনেলশেল",
+    "note": "Large block of repeated/nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-Math-2-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮৪ ঙ্‌্৮ ৪ ১, ৩! ৮৪ ... +৭/৫।৪।২।৩",
+    "note": "Garbled symbols and nonsensical punctuation in math expressions."
+  },
+  {
+    "chunk_id": "3-Math-2-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তরুু... ডাই জেরা ২২১ ২২১।",
+    "note": "Non-existent words and garbled phrases."
+  },
+  {
+    "chunk_id": "3-Math-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮",
+    "note": "Western digit used instead of Bengali numeral."
+  },
+  {
+    "chunk_id": "3-Math-2-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ূ তত-তন্য ততন তেন...",
+    "note": "Garbled text repeating similar sounds/patterns."
+  },
+  {
+    "chunk_id": "3-Math-2-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক জাজ ক জাজাতা ক জতভত... পাপা বাকা",
+    "note": "Nonsensical repetitive character sequences."
+  },
+  {
+    "chunk_id": "3-Math-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&ং",
+    "note": "Garbled character at the start of a sentence."
+  },
+  {
+    "chunk_id": "3-Math-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রয় রয। ... কাততএতটশশকতশ...",
+    "note": "Garbled words and non-sensical repeating characters."
+  },
+  {
+    "chunk_id": "3-Math-2-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অ늉ুটি",
+    "note": "Garbled word 'অ늉' instead of 'অঙ্ক' (number)."
+  },
+  {
+    "chunk_id": "3-Math-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-2-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "লার্য লু",
+    "note": "Trailing 'লু' is likely a repetitive OCR artifact."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "3-Science-5-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ট্টযাবদতে হন",
+    "note": "Nonsensical character sequence that does not form a word."
+  },
+  {
+    "chunk_id": "3-Science-5-2",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মি কী বলছ? আমি তোমার\nচা চা।",
+    "note": "Dialogue about tea is unrelated to the science topic."
+  },
+  {
+    "chunk_id": "3-Science-5-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বদ্কুকে, বষ্ধু",
+    "note": "Garbled words (likely 'বস্তুকে' and 'বস্তু') resulting from OCR."
+  },
+  {
+    "chunk_id": "3-Science-5-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ছু",
+    "note": "Isolated character that does not form a meaningful word."
+  },
+  {
+    "chunk_id": "3-Science-5-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কফ্টকর, এবং কাজ",
+    "note": "Garbled word 'কফ্টকর' and truncated sentence at the end."
+  },
+  {
+    "chunk_id": "3-Science-5-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সভ্বলছে।",
+    "note": "Garbled character sequence that is not a valid word."
+  }
+]

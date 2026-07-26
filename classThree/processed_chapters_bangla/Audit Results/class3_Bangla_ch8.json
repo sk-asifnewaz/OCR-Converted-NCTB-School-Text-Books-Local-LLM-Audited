@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "3-Bangla-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুয্যি মামা",
+    "note": "The word 'সুয্যি' is an OCR corruption of 'সূর্য'."
+  },
+  {
+    "chunk_id": "3-Bangla-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হয়িন",
+    "note": "The word 'হয়িন' is a common OCR corruption of 'হয়নি'."
+  },
+  {
+    "chunk_id": "3-Bangla-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

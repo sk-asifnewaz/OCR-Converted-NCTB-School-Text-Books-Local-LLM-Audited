@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "3-Science-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাববেরল",
+    "note": "Corrupted word for 'marble' (মার্বেল)."
+  },
+  {
+    "chunk_id": "3-Science-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€_ফলফল 4\n...\nী",
+    "note": "Special character corruption and trailing fragment."
+  },
+  {
+    "chunk_id": "3-Science-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'্টুুযা",
+    "note": "Garbled text, likely 'কী করতে'."
+  },
+  {
+    "chunk_id": "3-Science-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বষ্ধুর",
+    "note": "Garbled word for 'বস্তুর' (object)."
+  },
+  {
+    "chunk_id": "3-Science-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্কেলকে... টুকরো",
+    "note": "Garbled word 'স্কেল' and incomplete final sentence."
+  },
+  {
+    "chunk_id": "3-Science-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কর\n...\n'্টুলরুয়া",
+    "note": "Truncated start and garbled text 'কীভাবে'."
+  },
+  {
+    "chunk_id": "3-Science-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অবস্বায় সিরিষ্জের... চাপমুত্ত",
+    "note": "Multiple words corrupted (অবস্থায়, সিরিঞ্জের, চাপমুক্ত)."
+  },
+  {
+    "chunk_id": "3-Science-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শত্তভাবে... অন্যদিতে",
+    "note": "Typographical errors (শক্তভাবে, অন্যদিকে)."
+  },
+  {
+    "chunk_id": "3-Science-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বদ্ধুর... '্টুুযা",
+    "note": "Garbled words for 'বস্তুর' and 'কী করতে'."
+  },
+  {
+    "chunk_id": "3-Science-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শনাত্ত... 8৪... দ্কেলকে",
+    "note": "Corrupted words and mixed-digit numbering artifact."
+  },
+  {
+    "chunk_id": "3-Science-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বদ্ধুর",
+    "note": "Garbled word for 'বস্তুর'."
+  },
+  {
+    "chunk_id": "3-Science-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্জিকিট... বদ্ধুর",
+    "note": "Garbled word for 'ক্রিকেট' and 'বস্তুর'."
+  },
+  {
+    "chunk_id": "3-Science-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বদ্ুর... চৌষম্বকীয়",
+    "note": "Garbled words for 'বস্তু' and 'চৌম্বকীয়'."
+  },
+  {
+    "chunk_id": "3-Science-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শত্তভাবে",
+    "note": "Garbled word for 'শক্তভাবে'."
+  },
+  {
+    "chunk_id": "3-Science-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-০০০০-০০--",
+    "note": "Nonsensical number string likely from OCR error."
+  },
+  {
+    "chunk_id": "3-Science-6-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভু-পৃষ্ঠে",
+    "note": "Garbled word for 'ভূপৃষ্ঠে'."
+  },
+  {
+    "chunk_id": "3-Science-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-6-20",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এবং",
+    "note": "Sentence cuts off at the conjunction 'and'."
+  }
+]

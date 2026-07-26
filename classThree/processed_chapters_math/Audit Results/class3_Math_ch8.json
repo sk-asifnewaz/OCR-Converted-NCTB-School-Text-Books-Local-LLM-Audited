@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "3-Math-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০ সস ৫",
+    "note": "The word 'সস' is a corruption of the multiplication symbol or sign."
+  },
+  {
+    "chunk_id": "3-Math-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "- দা]\n[| সমাধানের আরো উপায় চিন্তা করি।",
+    "note": "Contains multiple symbols and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-Math-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "না]\n-]",
+    "note": "Non-sensical character sequence at the end of a segment."
+  },
+  {
+    "chunk_id": "3-Math-8-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী দস",
+    "note": "Nonsensical word fragment appearing mid-section."
+  },
+  {
+    "chunk_id": "3-Math-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মোট টাকা হবে | ]+| | টাকা -| | টাকা",
+    "note": "Extensive use of unrelated symbols in a math equation."
+  },
+  {
+    "chunk_id": "3-Math-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "! মস -1]\n5-0]1-[10]",
+    "note": "Garbled text and symbols replacing mathematical operations."
+  },
+  {
+    "chunk_id": "3-Math-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কী পাতা\nরা",
+    "note": "Garbled text appearing in the middle of a problem."
+  },
+  {
+    "chunk_id": "3-Math-8-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৫ স ৩০-৫০-। |\nএ] ঁঁঁ",
+    "note": "Garbled characters and nonsensical symbols in the solution."
+  },
+  {
+    "chunk_id": "3-Math-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-8-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-8-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ)৬-৪স*চ৮\nঘ)৬ \" ৮চ-৪",
+    "note": "Multiple garbled characters and symbols in the options."
+  },
+  {
+    "chunk_id": "3-Math-8-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৩",
+    "note": "Malformed punctuation/brackets in list items."
+  },
+  {
+    "chunk_id": "3-Math-8-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৫",
+    "note": "Malformed punctuation/bracket at start of sentence."
+  },
+  {
+    "chunk_id": "3-Math-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ট্রী বন্যায়",
+    "note": "Garbled characters appearing at the start of a sentence."
+  },
+  {
+    "chunk_id": "3-Math-8-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(কে)",
+    "note": "Likely an OCR error for a list label or marker."
+  }
+]

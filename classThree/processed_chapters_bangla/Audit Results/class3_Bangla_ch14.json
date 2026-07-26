@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "3-Bangla-14-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-14-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-14-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৫.",
+    "note": "Random number sequence appearing in the middle of a paragraph."
+  },
+  {
+    "chunk_id": "3-Bangla-14-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-14-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক) লড়িয়াঘ খ) লমাহিয়",
+    "note": "Nonsensical character sequences that do not form real words."
+  },
+  {
+    "chunk_id": "3-Bangla-14-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৭.",
+    "note": "Hybrid digit/script noise likely from a page number or header."
+  },
+  {
+    "chunk_id": "3-Bangla-14-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

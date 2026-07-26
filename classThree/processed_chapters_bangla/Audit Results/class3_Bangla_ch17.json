@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "3-Bangla-17-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-17-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-17-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Consecutive identical lines suggesting an OCR looping artifact."
+  },
+  {
+    "chunk_id": "3-Bangla-17-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-17-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫৯.",
+    "note": "Isolated number likely a page reference or stray digit."
+  },
+  {
+    "chunk_id": "3-Bangla-17-6",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মুসলমানদের প্রধান উৎসব বুদ্ধ পূর্ণিমা",
+    "note": "The pair is semantically incorrect as Buddha Purnima is not a Muslim festival."
+  },
+  {
+    "chunk_id": "3-Bangla-17-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ দ্র,\n৬১.",
+    "note": "Abrupt cut-off of a word and extraneous page number."
+  }
+]

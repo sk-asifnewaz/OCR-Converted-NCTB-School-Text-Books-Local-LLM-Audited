@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "3-Buddhist_religion-3-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এ ১৯০৮",
+    "note": "Random digit sequence likely from page numbering or internal codes."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ভূপের",
+    "note": "Character corruption; likely intended to be 'স্তূপের' (Stupa)."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "9.\nর্চন",
+    "note": "Lone digit and fragment suggest a page header or noise."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বুদ্ধরূর্তি",
+    "note": "Likely a corruption of 'বুদ্ধমুর্তির' (Buddha image)."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€.২২ ৯\nরি",
+    "note": "Non-linguistic symbols and random numbers are typical OCR artifacts."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৬)",
+    "note": "Digit '6' likely misread from a list marker like '(1)'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-9",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ)\nঘ)\nঘ)\nঘ)\nঘ)\nঘ)",
+    "note": "Repeated 'ঘ' characters indicate a loop or layout error during OCR."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪।",
+    "note": "The digit '8' is an extraneous character before the item number."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-3-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪।, ২০ ও",
+    "note": "Extraneous digit '8' and trailing text suggest artifacts/cutoff."
+  }
+]

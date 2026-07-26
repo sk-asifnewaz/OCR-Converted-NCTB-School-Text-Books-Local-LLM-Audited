@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "3-Math-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্কেল, ট্্যু",
+    "note": "Corrupted script for 'স্কেল' and other terms."
+  },
+  {
+    "chunk_id": "3-Math-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বঞ্ুতল",
+    "note": "Incorrectly rendered character for 'বক্রুতল'."
+  },
+  {
+    "chunk_id": "3-Math-12-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-3-.ট8৷ - উড",
+    "note": "Nonsensical sequence likely from misread graphics."
+  },
+  {
+    "chunk_id": "3-Math-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কথূলকোণ, সা \nআলোেন",
+    "note": "Corrupted words for 'স্থূলকোণ' and other terms."
+  },
+  {
+    "chunk_id": "3-Math-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চт_${ুরু}$ঝ",
+    "note": "Severe corruption of the word 'চতুর্ভুজ'."
+  },
+  {
+    "chunk_id": "3-Math-12-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দিভীয চড্ূজটিকে, বাছধুলোর দৈর্ঘ্য",
+    "note": "Multiple corrupted words for 'এই', 'চতুর্ভুজ', and 'বাহুগুলোর'."
+  },
+  {
+    "chunk_id": "3-Math-12-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন রা\nযে",
+    "note": "Nonsensical fragments likely from layout or artifacts."
+  },
+  {
+    "chunk_id": "3-Math-12-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"(01/৬0/7৬0ր",
+    "note": "Non-sensical digit and symbol string."
+  },
+  {
+    "chunk_id": "3-Math-12-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লট ডল চলল",
+    "note": "Nonsensical sequence of words."
+  },
+  {
+    "chunk_id": "3-Math-12-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "88৭, ঢা\nতে কো কতা, ২-২৭৭৭/৬|",
+    "note": "Combination of noise digits and garbled text."
+  },
+  {
+    "chunk_id": "3-Math-12-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুস্ম্রকোণ, স্কূলকোণ",
+    "note": "Corrupted spelling for 'সুক্ষ্মকোণ' and 'স্থূলকোণ'."
+  },
+  {
+    "chunk_id": "3-Math-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুস্ম্রকোণ, স্কূলকোণ",
+    "note": "Corrupted spelling for 'সুক্ষ্মকোণ' and 'স্থূলকোণ'."
+  },
+  {
+    "chunk_id": "3-Math-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বত্রিতূজ",
+    "note": "Corrupted term for 'সমবাহু ত্রিভুজ' or similar."
+  },
+  {
+    "chunk_id": "3-Math-12-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুস্ম্রকোণ",
+    "note": "Corrupted spelling of 'সুক্ষ্মকোণ'."
+  },
+  {
+    "chunk_id": "3-Math-12-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বনրুতল",
+    "note": "Corrupted spelling for 'বক্রুতল'."
+  },
+  {
+    "chunk_id": "3-Math-12-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খালিস্থানে, রমুমওনীমীাগকিহা /ন",
+    "note": "Garbled word and non-sensical trailing string."
+  }
+]

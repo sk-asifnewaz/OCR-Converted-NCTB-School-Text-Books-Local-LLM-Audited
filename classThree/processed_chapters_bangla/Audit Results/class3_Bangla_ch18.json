@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "3-Bangla-18-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-18-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-18-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-18-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাম্ট্রভাষা; শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "রাম্ট্র is a corruption of রাষ্ট্র; two identical lines are repeated."
+  },
+  {
+    "chunk_id": "3-Bangla-18-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্ত; স্টহ; ম্স- ল+প",
+    "note": "Non-sensical character sequences likely caused by OCR errors."
+  },
+  {
+    "chunk_id": "3-Bangla-18-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-18-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

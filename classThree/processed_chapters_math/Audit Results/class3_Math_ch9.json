@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "3-Math-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "্্‌ ভগ্নাংশ ))",
+    "note": "Garbled Unicode and extraneous punctuation."
+  },
+  {
+    "chunk_id": "3-Math-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝঠঁ . বা ... কেটে ৯৩",
+    "note": "Non-standard characters and isolated numbers likely from OCR errors."
+  },
+  {
+    "chunk_id": "3-Math-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তরহলো ... ১৭ ... /্ঢ উট",
+    "note": "Garbled words and nonsensical symbols/numbers."
+  },
+  {
+    "chunk_id": "3-Math-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝ্যযযা ... আদ্জ",
+    "note": "Nonsense characters likely replacing fractions."
+  },
+  {
+    "chunk_id": "3-Math-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র্চ্তьа",
+    "note": "Garbled text segment."
+  },
+  {
+    "chunk_id": "3-Math-9-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমভুল",
+    "note": "Garbled word for 'সমতুল' (equivalent)."
+  },
+  {
+    "chunk_id": "3-Math-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১২৩_ ... পম্প্পোংডক্ ... ভুলভ",
+    "note": "Garbled words and strange numeric sequences."
+  },
+  {
+    "chunk_id": "3-Math-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চযরেছেরো ... ত্থোউথ $ ডে",
+    "note": "Garbled phrases and symbols."
+  },
+  {
+    "chunk_id": "3-Math-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩।_--",
+    "note": "Garbled math notation/fractions."
+  },
+  {
+    "chunk_id": "3-Math-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯্ ... ৮ু ... ৫৩ দাই",
+    "note": "Garbled fraction characters."
+  },
+  {
+    "chunk_id": "3-Math-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র্‌! ৭ ৭ ৭ ঢা] []",
+    "note": "Garbled line of symbols and characters."
+  },
+  {
+    "chunk_id": "3-Math-9-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪ ... $ মিটার",
+    "note": "Question numbering errors and garbled symbols."
+  },
+  {
+    "chunk_id": "3-Math-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্ম্ম্ল চঢচা- | রা",
+    "note": "Garbled sequence of characters."
+  },
+  {
+    "chunk_id": "3-Math-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্‌ ... $",
+    "note": "Garbled characters and symbols."
+  },
+  {
+    "chunk_id": "3-Math-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৭ ... ৪৮",
+    "note": "Garbled numbers/fractions."
+  },
+  {
+    "chunk_id": "3-Math-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী ... খ।",
+    "note": "Garbled fraction representations."
+  },
+  {
+    "chunk_id": "3-Math-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৬ ও",
+    "note": "Garbled text segment."
+  },
+  {
+    "chunk_id": "3-Math-9-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮হ ... ৯হ",
+    "note": "Garbled fractions."
+  },
+  {
+    "chunk_id": "3-Math-9-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

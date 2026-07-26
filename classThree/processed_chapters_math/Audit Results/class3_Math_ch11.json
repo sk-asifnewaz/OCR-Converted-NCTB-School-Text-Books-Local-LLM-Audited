@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "3-Math-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হা\nতি\nা\nহিন",
+    "note": "Fragments and single characters are likely artifacts from page layout or broken words."
+  },
+  {
+    "chunk_id": "3-Math-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্কেল",
+    "note": "Garbled character; should be 'স্কেল' (scale)."
+  },
+  {
+    "chunk_id": "3-Math-11-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চস . ২/ ৯",
+    "note": "Nonsensical character sequence likely from a misread diagram or table label."
+  },
+  {
+    "chunk_id": "3-Math-11-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "র\n...\nট",
+    "note": "Single letters indicate fragmented words or layout artifacts."
+  },
+  {
+    "chunk_id": "3-Math-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেন্টিমটার",
+    "note": "Incorrect character 'র' in word; should be 'সেন্টিমিটার'."
+  },
+  {
+    "chunk_id": "3-Math-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কিলোথ্রাম, বাস্তর",
+    "note": "Recurring OCR errors; 'কিলোথ্রাম' should be 'কিলোগ্রাম', 'বাস্তর' should be 'বস্তুর'."
+  },
+  {
+    "chunk_id": "3-Math-11-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "5, 4",
+    "note": "Standalone digits in the middle of sentences are likely OCR noise."
+  },
+  {
+    "chunk_id": "3-Math-11-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হযো দি, নি",
+    "note": "Garbled/nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-Math-11-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫, কিলোথ্রাম",
+    "note": "Stray digit and recurring 'কিলোথ্রাম' error."
+  },
+  {
+    "chunk_id": "3-Math-11-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কিলোথ্রাম",
+    "note": "Unit 'কিলোগ্রাম' is consistently corrupted to 'কিলোথ্রাম'."
+  },
+  {
+    "chunk_id": "3-Math-11-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাস্তর",
+    "note": "Word 'বাস্তর' is a corruption of 'বস্তুর'."
+  },
+  {
+    "chunk_id": "3-Math-11-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রেোেডে লগ লে মে, ₹",
+    "note": "Nonsensical string and inappropriate currency symbol (Rupee) detected."
+  },
+  {
+    "chunk_id": "3-Math-11-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১77",
+    "note": "The number 177 appears where a punctuation or bracket is expected."
+  },
+  {
+    "chunk_id": "3-Math-11-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "মা)\n্",
+    "note": "Garbled punctuation/symbols at the end of a line."
+  },
+  {
+    "chunk_id": "3-Math-11-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পা আন",
+    "note": "Garbled text at the end of a section."
+  },
+  {
+    "chunk_id": "3-Math-11-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "The '8.' appears as an artifact or noise in a list."
+  },
+  {
+    "chunk_id": "3-Math-11-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-23",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪৫ মিনিট",
+    "note": "845 minutes is likely an OCR error for a much smaller number."
+  },
+  {
+    "chunk_id": "3-Math-11-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-11-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

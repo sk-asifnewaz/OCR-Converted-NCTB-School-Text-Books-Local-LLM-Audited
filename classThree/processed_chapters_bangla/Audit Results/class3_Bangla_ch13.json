@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "3-Bangla-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-13-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৪৩.",
+    "note": "Isolated number not part of the 1-4 instruction sequence."
+  },
+  {
+    "chunk_id": "3-Bangla-13-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্লেহ",
+    "note": "Non-existent word in Bengali; likely a corrupted OCR of 'সাহায্য' or similar."
+  },
+  {
+    "chunk_id": "3-Bangla-13-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

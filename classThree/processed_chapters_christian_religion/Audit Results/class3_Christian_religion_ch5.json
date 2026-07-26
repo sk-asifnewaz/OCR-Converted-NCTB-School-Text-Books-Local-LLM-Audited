@@ -1,0 +1,398 @@
+[
+  {
+    "chunk_id": "3-Christian_religion-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টাদ ও তারা ... হ্য়।",
+    "note": "'টাদ' is likely 'চাঁদ' and 'হ্য়' is a mangled word tail."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ মাং\n)",
+    "note": "Likely a page number or header artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭৯০৫ £/ ৮ ... ৌী\nরন\n৭৯০১৫ / ৮",
+    "note": "Multiple instances of header/footer artifacts and corrupted text."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-8",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জানার প্রয়োজন নেই।",
+    "note": "Contradicts the context established in previous chunks."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আদিপুত্তক",
+    "note": "'আদিপুত্তক' should be 'আদিপুস্তক'."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জীব-তজ্ত",
+    "note": "'তজ্ত' is likely a misread of 'জন্তু'."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬২০",
+    "note": "Appears to be a footer/page number artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪%8২.",
+    "note": "Random symbols/numbers typical of OCR artifacts."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ গং\n)",
+    "note": "Likely a footer or page number artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৮.",
+    "note": "Likely a mangled list index (e.g., 4. becoming 48)."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্-্পাং-\n)",
+    "note": "Garbled characters likely from a page header/footer."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "|)",
+    "note": "Likely an OCR error for a list number like 2)."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ মাং\n)",
+    "note": "Footer/header artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Numbers appearing where list bullets or marks are expected."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2০০ ৫০৮",
+    "note": "Page numbers or dates appearing as noise."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(€)",
+    "note": "Euro symbol used instead of a tick or checkbox."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1)\n|) ... যন)",
+    "note": "Poorly rendered list markers and symbols."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ গং\n)",
+    "note": "Footer/header artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4 ... 4 ... * ... » ... 4",
+    "note": "Inconsistent symbols for list markers."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4 ... 7 ... \" ... * ... 4",
+    "note": "Inconsistent symbols for list markers."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-40",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "না না না না না না",
+    "note": "Repeated nonsensical words at the end of chunk."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-41",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "না না\nকী,\nতে\nকী,\nনা তে\nএ ৩\n)",
+    "note": "Nonsensical fragments and broken lines."
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-5-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

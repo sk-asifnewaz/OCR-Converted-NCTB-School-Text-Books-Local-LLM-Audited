@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "3-Bangla-26-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-26-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-26-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed western/eastern digits suggest a misread page or exercise marker."
+  },
+  {
+    "chunk_id": "3-Bangla-26-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৯১.",
+    "note": "Likely a page number or footer artifact at the end of the text."
+  }
+]

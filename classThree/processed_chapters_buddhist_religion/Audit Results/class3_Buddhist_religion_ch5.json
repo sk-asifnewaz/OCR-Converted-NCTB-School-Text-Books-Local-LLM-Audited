@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "3-Buddhist_religion-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অফ্পরিষ্কার",
+    "note": "Corrupted word, likely intended to be 'অপরিষ্কার'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উর্জর্গ, গঁষধ",
+    "note": "Corrupted words; 'উর্জর্গ' should be 'উৎসর্গ', 'গঁষধ' is nonsensical."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উর্সর্গ",
+    "note": "Corrupted word; likely intended to be 'উৎসর্গ'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "সা",
+    "note": "Isolated syllable suggests a word cut off by the chunk boundary."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মনোকষ্ণ",
+    "note": "Corrupted word; likely intended to be 'মনোকষ্ট'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বদ্ু, মলম",
+    "note": "Nonsensical/corrupted words in the exercise section."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পৃুন্যরাশি",
+    "note": "Corrupted word; intended to be 'পুণ্যরাশি'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "3-Bangla-21-1",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেন তাকে শান্তি দেওয়া হচ্ছে?",
+    "note": "Context suggests 'শাস্তি' (punishment) instead of 'শান্তি' (peace)."
+  },
+  {
+    "chunk_id": "3-Bangla-21-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুলিত কণ্ঠে অনেক নির্যাতন করত",
+    "note": "Sentence is semantically incoherent and nonsensical in context."
+  },
+  {
+    "chunk_id": "3-Bangla-21-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩\nরণ...চু",
+    "note": "Contains non-contextual digits and a truncated word fragment."
+  },
+  {
+    "chunk_id": "3-Bangla-21-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-21-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্ীতদাস",
+    "note": "Missing character 'র' making it an incorrect form of 'ক্রীতদাস'."
+  },
+  {
+    "chunk_id": "3-Bangla-21-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যুত্তবর্ণ...মুত্ত কত্ত ক +ত রন্ত...১১ ৮১১-০১১০০--১১১৩০",
+    "note": "Multiple OCR errors including garbled scripts and random digit strings."
+  },
+  {
+    "chunk_id": "3-Bangla-21-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্‌লো",
+    "note": "Non-standard script combination/corruption of the word 'দয়া'."
+  },
+  {
+    "chunk_id": "3-Bangla-21-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্বীতদাস",
+    "note": "Incorrect character used in 'ক্রীতদাস'."
+  },
+  {
+    "chunk_id": "3-Bangla-21-9",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেন তাকে শান্তি দেওয়া হচ্ছে?",
+    "note": "Context implies 'শাস্তি' (punishment) was intended over 'শান্তি'."
+  }
+]

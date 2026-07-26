@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "3-Buddhist_religion-2-1",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্রিপিটক, তঅভিধর্মপিটক, ধ॥এ৪প88, ৫48, ৮৮",
+    "note": "Multiple OCR errors and non-contextual digit strings."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-2",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃূত্রপিটক",
+    "note": "Corrupted character sequence for 'সূত্র'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-3",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বত্রিপিটকে, €, ঠির",
+    "note": "Garbled characters and non-contextual symbols."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-4",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অজ্জুত্তর",
+    "note": "Misreading of 'আঙ্গুত্তর' due to OCR artifacts."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-6",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুত্ত বিভঙ্জ, ৭পঙ",
+    "note": "Garbled word structure and page artifacts."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-7",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিশিষ্ণ, সূক্ষাতিসূক্ষ্ন",
+    "note": "Corrupted words for 'বিশিষ্ট' and 'সুক্ষ্মাতিসূক্ষ্ম'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-8",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধম্মসঙ্গণি, পঙল্পন্নত্তি, ১৫০",
+    "note": "Corrupted words and non-contextual digits."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Number '84' is likely an OCR error for '4'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এএসশসশসশ, ০--০--",
+    "note": "Nonsensical character repetitions."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-12",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পপ, ৮৪৫",
+    "note": "Garbled text and incorrect digit run."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

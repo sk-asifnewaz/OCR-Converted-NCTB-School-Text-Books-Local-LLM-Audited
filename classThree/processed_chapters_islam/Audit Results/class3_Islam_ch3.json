@@ -1,0 +1,245 @@
+[
+  {
+    "chunk_id": "3-Islam-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এই\nএটা\n[৬]\nচন\n|:",
+    "note": "Garbled characters and symbols likely from page layout."
+  },
+  {
+    "chunk_id": "3-Islam-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঠ দরদি",
+    "note": "The character 'ঠ' is an isolated artifact."
+  },
+  {
+    "chunk_id": "3-Islam-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু\nটে রা",
+    "note": "Garbled fragments likely from layout or other pages."
+  },
+  {
+    "chunk_id": "3-Islam-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুহম্মদ সে.) তীর",
+    "note": "Garbled Arabic honorific and stray word."
+  },
+  {
+    "chunk_id": "3-Islam-3-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এসে এঁ",
+    "note": "Garbled phrase likely meant to be 'এই' or a pronoun."
+  },
+  {
+    "chunk_id": "3-Islam-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা\n[\n৷\nগত নে ছেন",
+    "note": "Multiple garbled segments and artifacts."
+  },
+  {
+    "chunk_id": "3-Islam-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীন\nনা\nটি",
+    "note": "Garbled fragments and potentially incorrect script symbols."
+  },
+  {
+    "chunk_id": "3-Islam-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রব ৮\nন ক -___স্।\nটে রা",
+    "note": "Nonsensical fragments from page layout or footer."
+  },
+  {
+    "chunk_id": "3-Islam-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "medium",
+    "evidence": "তীর চোখ থেকে অশ্ব",
+    "note": "Nonsensical phrasing likely from a corrupted sentence."
+  },
+  {
+    "chunk_id": "3-Islam-3-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিষয়বসধু",
+    "note": "Garbled word for 'বিষয়বস্তু'."
+  },
+  {
+    "chunk_id": "3-Islam-3-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Islam-3-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩. \n8.",
+    "note": "Non-sequential numbering in a list."
+  },
+  {
+    "chunk_id": "3-Islam-3-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Incorrect number in a list."
+  },
+  {
+    "chunk_id": "3-Islam-3-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬\nলে",
+    "note": "Incorrect numbering and truncated final word."
+  },
+  {
+    "chunk_id": "3-Islam-3-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শেদ্ধ",
+    "note": "Garbled word for 'সঠিক'."
+  },
+  {
+    "chunk_id": "3-Islam-3-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গে তা টে গে\nটে রা",
+    "note": "Garbled fragments from page layout."
+  }
+]

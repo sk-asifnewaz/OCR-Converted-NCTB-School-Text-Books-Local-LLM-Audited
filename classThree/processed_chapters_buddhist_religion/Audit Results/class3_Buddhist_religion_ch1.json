@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "3-Buddhist_religion-1-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "থি ০ ও গে, পৃহত্যাগ",
+    "note": "Garbled characters and recurring OCR error for 'পরিত্যাগ'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সতী, পৃহত্যাগ",
+    "note": "Garbled characters and repeated OCR error."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খষি, পৃহত্যাগ",
+    "note": "'খষি' is a corruption of 'ঋষি'; 'পৃহত্যাগ' is an OCR error."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সঙ",
+    "note": "Abrupt fragment at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-6",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repetitive line typical of OCR header/footer issues."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইষসিত বদ্ধু, সঙ",
+    "note": "'ইষসিত বদ্ধু' is mangled; 'সঙ' is a truncated fragment."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্থী, পৃহত্যাগ",
+    "note": "'স্থী' is a corruption of 'স্ত্রী'; 'পৃহত্যাগ' is an OCR error."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্থী, সতী",
+    "note": "'স্থী' and 'সতী' are corrupted forms of 'স্ত্রী' or 'স্ত্রীর'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কহ্থক, অনোমা, কৈথককে, সতী",
+    "note": "'কহ্থক' and 'কৈথককে' are misread; 'সতী' is a corruption."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩, \n৮৪।\n€ ৩ শী",
+    "note": "Non-sensical digits and currency symbols in list items."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খষি, বড়্প",
+    "note": "'খষি' is a corruption of 'ঋষি'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শত্তি সঞ্য়",
+    "note": "Garbled Unicode/corrupted characters."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টিক (€)",
+    "note": "The Euro symbol is a corruption of a mark or bullet point."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ শী",
+    "note": "'১ শী' is a corruption of 'এক' or 'একটি'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-1-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_id": "3-Science-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. ... শুধু শুধু \nফুটবলের কমলালেবুর\nবৈশিষ্ট্য বৈশিষ্ট্য",
+    "note": "Non-sequential number '8' and repetitive words likely from OCR loop."
+  },
+  {
+    "chunk_id": "3-Science-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বি নব বে জাগা",
+    "note": "Garbled phrase likely intended to be 'বেশি জায়গা' (more space)."
+  },
+  {
+    "chunk_id": "3-Science-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীচের গ্লাস, ... কমু যা করতে হবে",
+    "note": "Corrupted words 'কীচের' (কাঁচের) and 'কমু' (নিচে/কি)."
+  },
+  {
+    "chunk_id": "3-Science-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙ্জে ... \* (আলোচনা",
+    "note": "Garbled text 'সঙ্জে' (সঙ্গে) and symbols in title area."
+  },
+  {
+    "chunk_id": "3-Science-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সী কাজ:",
+    "note": "Garbled word 'সী' likely intended to be 'এই'."
+  },
+  {
+    "chunk_id": "3-Science-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\* ২ (আলোচনা",
+    "note": "Garbled text/symbols at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Science-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্লু ... বষ্ধুর",
+    "note": "Garbled 'ক্লু' (নিচে) and recurring corruption of 'বস্তু'."
+  },
+  {
+    "chunk_id": "3-Science-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ ফা 4 ... |* হি ... ডু",
+    "note": "Multiple instances of garbled text/symbols."
+  },
+  {
+    "chunk_id": "3-Science-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সিম্মান্তে ... নির্দিফ",
+    "note": "Garbled words 'সিম্মান্তে' (সিদ্ধান্ত) and 'নির্দিফ' (নির্দিষ্ট)."
+  },
+  {
+    "chunk_id": "3-Science-4-15",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কিছুদের ... ন্ট",
+    "note": "Sentence ends abruptly with a fragment."
+  },
+  {
+    "chunk_id": "3-Science-4-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডু য়া করতে হবে",
+    "note": "Garbled 'ডু' (নিচে)."
+  },
+  {
+    "chunk_id": "3-Science-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| পী ... / টা",
+    "note": "Garbled symbols/fragments."
+  },
+  {
+    "chunk_id": "3-Science-4-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একখষ্ড",
+    "note": "Garbled word 'একখষ্ড' (একখণ্ড)."
+  },
+  {
+    "chunk_id": "3-Science-4-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নির্দিষ্",
+    "note": "Garbled word 'নির্দিষ্' (নির্দিষ্ট)."
+  },
+  {
+    "chunk_id": "3-Science-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নির্দিফ",
+    "note": "Garbled word 'নির্দিফ' (নির্দিষ্ট)."
+  },
+  {
+    "chunk_id": "3-Science-4-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডু করতে হবে",
+    "note": "Garbled word 'ডু' (নিচে)."
+  },
+  {
+    "chunk_id": "3-Science-4-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্ী তি আলোচনা",
+    "note": "Garbled 'দ্ী' (নিচে)."
+  },
+  {
+    "chunk_id": "3-Science-4-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-25",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শুধু গরম-ঠাণ্ডার",
+    "note": "Sentence ends abruptly mid-clause."
+  },
+  {
+    "chunk_id": "3-Science-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্ৰ্দ, ডট ঢা",
+    "note": "Garbled string of characters."
+  },
+  {
+    "chunk_id": "3-Science-4-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তিন মা 4 ... বষ্ধু",
+    "note": "Garbled 'তিন মা' and recurring 'বষ্ধু'."
+  },
+  {
+    "chunk_id": "3-Science-4-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুদক মে প্দধুলোকে",
+    "note": "Garbled/nonsensical string of characters."
+  },
+  {
+    "chunk_id": "3-Science-4-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ ফা 4",
+    "note": "Garbled text/symbols."
+  },
+  {
+    "chunk_id": "3-Science-4-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/ম/্০০",
+    "note": "Garbled symbols at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Science-4-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী কাজ",
+    "note": "Garbled word 'রী' (নিচে)."
+  },
+  {
+    "chunk_id": "3-Science-4-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বষ্দু ... বধ্যু",
+    "note": "Corrupted 'বষ্দু' and 'বধ্যু' for 'বস্তু'."
+  },
+  {
+    "chunk_id": "3-Science-4-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বষ্ছুগুলো",
+    "note": "Corrupted 'বষ্ছু' for 'বস্তু'."
+  },
+  {
+    "chunk_id": "3-Science-4-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৈশিড্ট্য ... নির্দিষ",
+    "note": "Garbled words 'বৈশিড্ট্য' (বৈশিষ্ট্যে) and 'নির্দিষ' (নির্দিষ্ট)."
+  },
+  {
+    "chunk_id": "3-Science-4-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-4-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Unusual digit run '8৪' instead of a simple list number."
+  }
+]

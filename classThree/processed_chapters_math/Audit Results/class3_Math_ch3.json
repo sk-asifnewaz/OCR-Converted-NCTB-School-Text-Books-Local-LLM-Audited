@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "3-Math-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মং দিসে শত চি\n১) ৪:৮:৭ ২১) ৬:২:৪ (৩) ৪:৩:৫\n-১:৬:৩ -৩!:৮!০ -_- ।'৯:৮",
+    "note": "Contains non-sensical phrases and corrupted punctuation sequences."
+  },
+  {
+    "chunk_id": "3-Math-3-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লেললেলেশলেশেশেশেশেশেশশেলশেশণ\nন্লল্লালেলোশেশলবোেলেশদেললোে",
+    "note": "Repeated nonsensical syllables forming gibberish runs."
+  },
+  {
+    "chunk_id": "3-Math-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "| 1 ৫)তি ৪ চি] | [৫৪১৮ | (আজও ৮]! [হও] ৮\n'_১৩:৬: ৮: ৫ (৷!!! ৩! ৬! ৮ ৫!",
+    "note": "Significant OCR noise and garbled symbols in the first few lines."
+  },
+  {
+    "chunk_id": "3-Math-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সখ]: যা\nনো বো ইক\nতোতা... ড্র ৪ ৭৪",
+    "note": "Fragmented, nonsensical words and odd formatting."
+  },
+  {
+    "chunk_id": "3-Math-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-১ ৪৮৬৫! ৪;\n৪ ১১০ রা ।",
+    "note": "Garbled fragments of words/symbols mid-paragraph."
+  },
+  {
+    "chunk_id": "3-Math-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-3-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

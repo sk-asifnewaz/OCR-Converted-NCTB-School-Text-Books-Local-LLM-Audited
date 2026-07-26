@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "3-English-1-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "eS,",
+    "note": "Likely a corruption of an ampersand or similar symbol."
+  },
+  {
+    "chunk_id": "3-English-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$2: (Name) is my name.\n___ismy game.\nCOontinue............ eee",
+    "note": "Contains non-standard currency symbols, missing spaces, and trailing nonsense."
+  },
+  {
+    "chunk_id": "3-English-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| like English, too.",
+    "note": "Pipe character likely a corruption of the letter 'I'."
+  },
+  {
+    "chunk_id": "3-English-1-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "lb) reading book\nGreetings am",
+    "note": "Incorrect letter 'l' for 'b' and trailing noise characters."
+  },
+  {
+    "chunk_id": "3-English-1-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Goodbye 1 QO\n...en It’s time to go.\n— ei\nrat Goodbye, teacher.\na V\nGoodbye 1 jc",
+    "note": "Multiple instances of nonsensical character clusters likely from layout artifacts."
+  },
+  {
+    "chunk_id": "3-English-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-1-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "home, oe\nas i\nul \\ « 4",
+    "note": "Nonsensical characters and symbols likely from page/layout markers."
+  },
+  {
+    "chunk_id": "3-English-1-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Nice to YOU.\nRina : I'm , . And you?\nAsif: I'm ; are you going?",
+    "note": "Punctuation marks used in place of words suggest OCR corruption."
+  },
+  {
+    "chunk_id": "3-English-1-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Numbers 1-30 ae\nfo)\nix\nfi\n...Introducing myself am",
+    "note": "Fragments of words like 'four' or 'six' are broken into nonsensical pieces."
+  },
+  {
+    "chunk_id": "3-English-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-1-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "é\nZz\n<<\nry\nee\nFs\naz\nsf",
+    "note": "Random character strings at the end of the chunk indicate significant corruption."
+  },
+  {
+    "chunk_id": "3-English-1-13",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Wea.\n...O°",
+    "note": "Truncated word 'Wea' and non-standard symbols."
+  },
+  {
+    "chunk_id": "3-English-1-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "to YOU.\nNumber 11-20 in words am",
+    "note": "Capitalization of 'YOU' and trailing 'am' are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "3-English-1-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "gd number card",
+    "note": "Possible OCR error for 'good' or similar word."
+  },
+  {
+    "chunk_id": "3-English-1-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

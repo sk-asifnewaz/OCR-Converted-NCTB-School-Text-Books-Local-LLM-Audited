@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "3-Buddhist_religion-4-1",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ঢা -ং",
+    "note": "Garbled text at the start of the chunk."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-2",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পণঞ্শীল, অফ্টশীল",
+    "note": "Recurring OCR errors where 'ញ្' is misread as 'ণ্'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-3",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পঞ্শীল",
+    "note": "OCR error for 'পঞ্জশীল'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-4",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্িশীল, পঞ্্থশীল",
+    "note": "OCR errors where 'ញ្' is misread as 'ণ্'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সং\nরি",
+    "note": "Fragmented/nonsense text at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-6",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধন্মং, পণঞ্সীলং",
+    "note": "Significant OCR errors in sacred Buddhist terms."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-8",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুগ্হহ",
+    "note": "Redundant characters/garbled script in 'অনুগ্রহ'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2:27 ও\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Non-meaningful digits and repeated footer information."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এ\" ২৮০\nরি\n“6 ”“৫৷ “6",
+    "note": "Garbled characters and numbers likely from page footer."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-14",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পণঞ্জশীল, পঞ্শীল",
+    "note": "OCR errors in the title and exercise section."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭) ববেক।",
+    "note": "Non-sequential numbering and nonsensical word."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪।",
+    "note": "Garbled digit representing the number 4."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-4-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

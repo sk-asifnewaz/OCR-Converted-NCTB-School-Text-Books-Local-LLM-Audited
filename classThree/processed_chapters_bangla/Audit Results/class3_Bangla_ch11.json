@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "3-Bangla-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-11-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত২\nটি",
+    "note": "Isolated digits and characters likely from a page header/footer."
+  },
+  {
+    "chunk_id": "3-Bangla-11-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চা এ জালা\nপা ০০৮৬ রা\n1] 4 / . ঢা\nএ:\nপ্রাচীন আমলের পোশাক \"১০ না স ন্‌ ।",
+    "note": "Large block of garbled text and nonsensical symbols."
+  },
+  {
+    "chunk_id": "3-Bangla-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-11-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যুত্তরবৰর্ণ\nকেল্লা লুসল+ল\nঘণ্টা ন্টহণ+ট",
+    "note": "Garbled characters and repeated symbols indicate failed OCR."
+  },
+  {
+    "chunk_id": "3-Bangla-11-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৫.",
+    "note": "Isolated digits inserted between list items."
+  },
+  {
+    "chunk_id": "3-Bangla-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মমমমন়চলাকাকার\nকবেযাব?ঃ ১১১১১১১১১১১",
+    "note": "Garbled words and long strings of repeated digits."
+  }
+]

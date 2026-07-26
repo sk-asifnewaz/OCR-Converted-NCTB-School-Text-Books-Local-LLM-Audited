@@ -1,0 +1,371 @@
+[
+  {
+    "chunk_id": "3-Christian_religion-1-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "যাত্রাপু্কক",
+    "note": "Likely a corruption of the word 'যাত্রাপুস্তক'."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated phrase likely due to OCR looping."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সে চে ।ি2সে ও শো",
+    "note": "Garbled characters and numbers at the end of chunk."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চপ",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-6",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিবেনা মিথ্যা\nসাক্ষ্য দেবেনা সম্মান করবো।",
+    "note": "Phrases are semantically disconnected/incoherent as written."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬ঙ\nসে তং ।",
+    "note": "Garbled characters/symbols."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সস্তু\n)",
+    "note": "Garbled character/symbols."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "||)\n১ঘ)\nডা)\nঘা1)",
+    "note": "Non-standard symbols and digit clusters from a table."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৪২৪১,",
+    "note": "Random digit string inserted."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "র্ খ্রী্টধর্ম",
+    "note": "Dangling 'র্' is a common OCR artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এজজজজজজতশশ\nএজসতসসজজজসশশ\n-এএএজজজজএ জজ",
+    "note": "Garbled character strings."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪।\n৮ গং",
+    "note": "Garbled characters/symbols."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-23",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated phrase."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬২০",
+    "note": "Garbled characters/artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দ্-্গাং\n)",
+    "note": "Garbled characters/symbols."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬২০",
+    "note": "Garbled characters/artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪।",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪।\n11)\n111)\n1ঘ)\nঘ্)",
+    "note": "Garbled digit and symbol strings."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮ গা\n)",
+    "note": "Garbled characters/symbols."
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-1-41",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮ ম্পাংং ধ\n৭২০২ )১৯/৭৬/২)",
+    "note": "Extremely garbled text and numbers."
+  }
+]

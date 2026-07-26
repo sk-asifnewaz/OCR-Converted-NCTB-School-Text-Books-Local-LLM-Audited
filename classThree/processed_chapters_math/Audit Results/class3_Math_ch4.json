@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "3-Math-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(আনব | 7\nঙী",
+    "note": "Contains garbled characters and non-standard symbols/symbols mixed with digits."
+  },
+  {
+    "chunk_id": "3-Math-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র্ট্যৌ\n-_-৬স্৮ সা\n...বিয়োল্য",
+    "note": "Contains nonsensical strings and garbled words from OCR errors."
+  },
+  {
+    "chunk_id": "3-Math-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩০৯ (৮)[ _]-৩০ল২৫\n৬) ৮৬ -৫৪ল- []",
+    "note": "Heavy presence of garbled characters and noise in mathematical expressions."
+  },
+  {
+    "chunk_id": "3-Math-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা রো রা লো রায়\nভা া আআ",
+    "note": "Contains repetitive nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-Math-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লন্ন\nনব (খ)\n...খেৌচ গে",
+    "note": "Garbled text segments and non-sensical phrasing."
+  },
+  {
+    "chunk_id": "3-Math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১১১১ ... ৯১ +১৮৮৮৯+২৩৫",
+    "note": "Large block of numbers with inconsistent spacing and layout noise."
+  },
+  {
+    "chunk_id": "3-Math-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ ২১১২০৮৯৫০১\n৬ সিয়াম",
+    "note": "Extremely long nonsensical digit run and garbled text."
+  },
+  {
+    "chunk_id": "3-Math-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-4-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1১১ গীতা",
+    "note": "Leading digit '1' appears to be a noise artifact before the numeral."
+  },
+  {
+    "chunk_id": "3-Math-4-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

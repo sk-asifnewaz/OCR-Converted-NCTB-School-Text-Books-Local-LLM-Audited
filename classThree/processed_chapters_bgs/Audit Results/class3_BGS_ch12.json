@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "3-BGS-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€$ বাজি পোড়ানো\\n€ মশার কয়েল, মোমবাতি , কুপিবাতি ও খোলা কেরোসিনবাতি ব্যবহারে সতর্ক না থাকা\\n€ নিয়ম না মেনে বৈদ্যুতিক যন্ত্রপাতি ব্যবহার করা\\n৫ ক্রুটিপূর্ণ গ্যাস সিলিন্ডার ব্যবহার করা",
+    "note": "Bullet points are corrupted as special characters and numbers."
+  },
+  {
+    "chunk_id": "3-BGS-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€ বাড়িতে অগ্নি নির্বাপণ সামগ্রী প্রস্তুত রাখা",
+    "note": "Bullet point is replaced with a non-Bengali symbol."
+  },
+  {
+    "chunk_id": "3-BGS-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€ বাড়িতে আগুন লেগে গেলে",
+    "note": "Bullet point is replaced with a non-Bengali symbol."
+  },
+  {
+    "chunk_id": "3-BGS-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভব্রমিক নং বা ব্রিমিক নং",
+    "note": "Words are mangled; likely intended to be 'ক্রমিক' (serial)."
+  },
+  {
+    "chunk_id": "3-BGS-12-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বেড়িববাধ",
+    "note": "Sentence/word cut off at chunk boundary."
+  },
+  {
+    "chunk_id": "3-BGS-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8৪)",
+    "note": "Mixed Arabic and Bengali digits for the same count."
+  },
+  {
+    "chunk_id": "3-BGS-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রমিক নং \\nত্রমিক যেসব কাজ করব ত্রমিক যেসব কাজ করব না",
+    "note": "Mangled words 'ব্রমিক' and 'ত্রমিক' are likely corrupted versions of 'ক্রমিক'."
+  },
+  {
+    "chunk_id": "3-BGS-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8)\\nঠ\\nচন",
+    "note": "Arabic digit used instead of Bengali, followed by noise characters."
+  },
+  {
+    "chunk_id": "3-BGS-12-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পিঁখি",
+    "note": "Word is likely corrupted from 'পূরণ' (fill out)."
+  },
+  {
+    "chunk_id": "3-BGS-12-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-12-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-12-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

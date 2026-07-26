@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "3-Science-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নম নু নেন নদনদিনদিন নন",
+    "note": "Garbled characters and non-sensical repeated patterns."
+  },
+  {
+    "chunk_id": "3-Science-12-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খনন শহর শব বত সখ",
+    "note": "Non-sensical string of characters likely caused by OCR errors."
+  },
+  {
+    "chunk_id": "3-Science-12-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অদ্দমমদ দুম ক দা লন",
+    "note": "Gibberish sequence and corrupted word forms like 'কডু' and 'বদ্ধু'."
+  },
+  {
+    "chunk_id": "3-Science-12-4",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সূর্যকে সূর্যকে",
+    "note": "Identical words repeated and nonsensical character strings present."
+  },
+  {
+    "chunk_id": "3-Science-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লাঙ্গদেশং",
+    "note": "Garbled script representing a known word (Bangladesh)."
+  }
+]

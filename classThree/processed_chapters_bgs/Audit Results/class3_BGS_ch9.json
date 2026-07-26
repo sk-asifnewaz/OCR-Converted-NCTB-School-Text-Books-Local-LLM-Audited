@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "3-BGS-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মম\n৷\n৷\n%,\nনন",
+    "note": "Fragmented, nonsensical characters likely from a poorly rendered table."
+  },
+  {
+    "chunk_id": "3-BGS-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জ১২১১১১১১১১৬৬ ১১৬১৬৬৬৬১১৬ ৬ ৬৬৬৬১ ১৬...",
+    "note": "Large block of digits is an OCR artifact from a table or diagram."
+  },
+  {
+    "chunk_id": "3-BGS-9-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এললাবীজন্দপ্য",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "3-BGS-9-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮, ১১১১১১১১১১৬৬৬৬৬৬৬৬১১১১১১১১১১১১১৬৬...",
+    "note": "Large block of digits is an OCR artifact."
+  },
+  {
+    "chunk_id": "3-BGS-9-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫৬৬৬৬৬ ৬৬০৬৫০৬৫০৬০৬৩৩৬৬৬৬০৬৬৬৬০৬৫০৫০...",
+    "note": "Extensive digit string is likely an OCR artifact from a chart or table."
+  },
+  {
+    "chunk_id": "3-BGS-9-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-9-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র করি- ... ক্ব »",
+    "note": "Nonsensical fragments at the end of the chunk."
+  }
+]

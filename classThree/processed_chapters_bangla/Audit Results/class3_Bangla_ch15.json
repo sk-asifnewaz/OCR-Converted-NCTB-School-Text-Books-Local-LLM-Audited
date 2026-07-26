@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "3-Bangla-15-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্র্যাচে",
+    "note": "Likely OCR error for 'কাঁধে' or 'কাধের'."
+  },
+  {
+    "chunk_id": "3-Bangla-15-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "টু",
+    "note": "Nonsensical character/syllable in this context."
+  },
+  {
+    "chunk_id": "3-Bangla-15-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-15-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রভতুতি",
+    "note": "Corrupted spelling of 'প্রস্তুতি'."
+  },
+  {
+    "chunk_id": "3-Bangla-15-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1",
+    "note": "Standalone digit likely from an unfinished list marker."
+  },
+  {
+    "chunk_id": "3-Bangla-15-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কীধ, বঝিমিত",
+    "note": "Garbled words; 'কীধ' likely 'কাধের', 'বঝিমিত' is merged."
+  },
+  {
+    "chunk_id": "3-Bangla-15-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীধ",
+    "note": "Garbled word likely representing 'কাধ' or similar."
+  },
+  {
+    "chunk_id": "3-Bangla-15-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত",
+    "note": "Corrupted spelling of 'শক্ত'."
+  },
+  {
+    "chunk_id": "3-Bangla-15-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-15-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-15-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেষ্ট",
+    "note": "Corrupted word in a selection list."
+  },
+  {
+    "chunk_id": "3-Bangla-15-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্ম",
+    "note": "Corrupted spelling of 'পঞ্চম'."
+  },
+  {
+    "chunk_id": "3-Bangla-15-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

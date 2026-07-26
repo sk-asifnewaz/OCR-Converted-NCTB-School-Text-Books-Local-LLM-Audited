@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "3-Bangla-28-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-28-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৩ কিছু",
+    "note": "The digit '৩' appears to be a stray number from layout/paging."
+  },
+  {
+    "chunk_id": "3-Bangla-28-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

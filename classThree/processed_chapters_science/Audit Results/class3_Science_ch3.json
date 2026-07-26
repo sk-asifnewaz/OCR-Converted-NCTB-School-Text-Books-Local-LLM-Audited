@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "3-Science-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'্টুলুয",
+    "note": "Garbled instruction header; likely a corruption of 'কী করতে হবে'."
+  },
+  {
+    "chunk_id": "3-Science-3-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪. ... সারসংক্ষেপ ॥)",
+    "note": "Mixed digit types and non-standard punctuation/symbols."
+  },
+  {
+    "chunk_id": "3-Science-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কমু যা করতে হবে",
+    "note": "Garbled instruction header; likely 'কি/করণ' or similar."
+  },
+  {
+    "chunk_id": "3-Science-3-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"পোষ্ট,",
+    "note": "Abrupt cut-off or artifact at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Science-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'্টুুয়া করতে হবে",
+    "note": "Garbled instruction header; likely a corrupted title/instruction."
+  },
+  {
+    "chunk_id": "3-Science-3-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সারসংক্ষেপ ॥)",
+    "note": "Nonsensical punctuation/symbol combination."
+  },
+  {
+    "chunk_id": "3-Science-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শক্রা, শত্তি",
+    "note": "Mangled words for 'শর্করা' (carbohydrate) and 'শক্তি' (energy)."
+  },
+  {
+    "chunk_id": "3-Science-3-13",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বালি,  ্্যা",
+    "note": " 'বালি' is semantically incoherent; '্্যা' is a garbled character."
+  },
+  {
+    "chunk_id": "3-Science-3-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুষ্ণি, 8.",
+    "note": " 'পুষ্ণি' is a corrupted term; '8.' is an inconsistent list number."
+  },
+  {
+    "chunk_id": "3-Science-3-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুষ্ণি",
+    "note": "Garbled spelling of 'পুষ্টি'."
+  },
+  {
+    "chunk_id": "3-Science-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উদ্ী আলোচনা, মামা",
+    "note": "'উদ্ী' is nonsensical; 'মামা' is out of context."
+  },
+  {
+    "chunk_id": "3-Science-3-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙ্জে",
+    "note": "Corrupted form of 'সঙ্গে' (with)."
+  },
+  {
+    "chunk_id": "3-Science-3-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সরু যা করতে হবে",
+    "note": "Garbled instruction header."
+  },
+  {
+    "chunk_id": "3-Science-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মু যা করতে হবে",
+    "note": "Garbled instruction header."
+  },
+  {
+    "chunk_id": "3-Science-3-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খুর্ত",
+    "note": "Corrupted word for 'ঋতুর' (of the season)."
+  },
+  {
+    "chunk_id": "3-Science-3-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-3-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪|",
+    "note": "Corrupted numeral representation for list index."
+  },
+  {
+    "chunk_id": "3-Science-3-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

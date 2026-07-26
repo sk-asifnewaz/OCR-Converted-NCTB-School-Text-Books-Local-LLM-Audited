@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "3-Science-1-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী কাজ",
+    "note": "likely truncated/mangled text for 'কী করা' or similar."
+  },
+  {
+    "chunk_id": "3-Science-1-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডিল প্যবেক্ষণ",
+    "note": "Likely OCR error for 'চিত্র পর্যবেক্ষণ'."
+  },
+  {
+    "chunk_id": "3-Science-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-1-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কানষ্ড",
+    "note": "Likely error for 'কাণ্ড' (stem)."
+  },
+  {
+    "chunk_id": "3-Science-1-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পেপেরোমিয়া",
+    "note": "Nonsensical word in context of botanical study."
+  },
+  {
+    "chunk_id": "3-Science-1-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাঙ",
+    "note": "Likely truncated word 'কাণ্ড'."
+  },
+  {
+    "chunk_id": "3-Science-1-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টুল",
+    "note": "Likely a corrupted phrase or word."
+  },
+  {
+    "chunk_id": "3-Science-1-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুল্য",
+    "note": "Likely a misspelling/OCR error of 'গুল্ম'."
+  },
+  {
+    "chunk_id": "3-Science-1-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত",
+    "note": "Likely a misspelling of 'শক্ত'."
+  },
+  {
+    "chunk_id": "3-Science-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "The digit '8' is likely noise before the list number."
+  },
+  {
+    "chunk_id": "3-Science-1-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-1-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্যাযুত্ত বা স্যাঁতসেটে শীতল স্বান",
+    "note": "Errors for 'ছায়াযুক্ত' and 'স্থান'."
+  },
+  {
+    "chunk_id": "3-Science-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-1-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্তিদের",
+    "note": "Likely a typo/OCR for 'উদ্ভিদের'."
+  }
+]

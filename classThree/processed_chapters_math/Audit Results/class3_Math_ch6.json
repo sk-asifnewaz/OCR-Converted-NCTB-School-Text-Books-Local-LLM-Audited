@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "3-Math-6-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নত ১২টি বিস্কুট, | ]টিচ্কল্ট",
+    "note": "Truncated word at start and gibberish string in middle."
+  },
+  {
+    "chunk_id": "3-Math-6-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ |[*৮ ]*৮ ]*৮ ]* ] ১২৫ল৫, [৪৪৩ ][ও০ ][০ও০",
+    "note": "Multiple sequences of non-sensical symbols and numbers."
+  },
+  {
+    "chunk_id": "3-Math-6-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-6-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছুট ফুট, রা মি ০্ঞ'-, ডট্ ডট্, চট চট না",
+    "note": "Large block of nonsensical text and garbled punctuation."
+  },
+  {
+    "chunk_id": "3-Math-6-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বকা, রা + ৩ - ৪ | আগেরভাগের, নত",
+    "note": "Garbled words and fragments appearing as noise."
+  },
+  {
+    "chunk_id": "3-Math-6-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৩৩৩৬ |? | 1 __ ৫১১-৫",
+    "note": "Non-sensical character sequence in math calculation section."
+  },
+  {
+    "chunk_id": "3-Math-6-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩৩৩৩৩৩৩৬৩৩ ৩৩৬৩৩৬৩, ০৫৩৫০০৩][৩৩০০০৩০০০০",
+    "note": "Repetitive numbers and bracket noise."
+  },
+  {
+    "chunk_id": "3-Math-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২১[ ]-১৬, ২১[চ]-১৬, ১৬-২স-৮",
+    "note": "Symbols like '[' and 'স' appear as OCR noise in math."
+  },
+  {
+    "chunk_id": "3-Math-6-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৬-২ - ঞে ২২৩১ ]-১৬, ভর্ ঢা জ্জ্প",
+    "note": "Garbled text and nonsensical symbols in the list."
+  },
+  {
+    "chunk_id": "3-Math-6-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৫৫$&&, ১১ ১১্ ক প্",
+    "note": "Garbled symbols and incoherent text segments."
+  },
+  {
+    "chunk_id": "3-Math-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫&।",
+    "note": "Ampersand is likely an OCR error for a period or bracket."
+  },
+  {
+    "chunk_id": "3-Math-6-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০-+-২, ১৪-১০-১১৭১ -১৪-১",
+    "note": "Garbled math notation and non-sensical number sequences."
+  },
+  {
+    "chunk_id": "3-Math-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪ * ২ - ৮, ১৪ + ৪ - ৩",
+    "note": "Use of symbols like * and + as noise for division signs."
+  },
+  {
+    "chunk_id": "3-Math-6-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ল্জজৎ সা শঞ্ৎ। | বেতের!, ৯. :০ জঙ্জটিও",
+    "note": "Nonsensical phrases and garbled character sequences."
+  },
+  {
+    "chunk_id": "3-Math-6-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৫৫৬ ৯১৬৯৬৯৯৪৯৫৯, ই তই ই",
+    "note": "Extensive garbled character strings and repetitions."
+  },
+  {
+    "chunk_id": "3-Math-6-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রা রা রা, ৯৫৫৬৯৫৬৬৫৬৬, ৬₹$$৬৬$৬",
+    "note": "Multiple instances of nonsense sequences."
+  },
+  {
+    "chunk_id": "3-Math-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

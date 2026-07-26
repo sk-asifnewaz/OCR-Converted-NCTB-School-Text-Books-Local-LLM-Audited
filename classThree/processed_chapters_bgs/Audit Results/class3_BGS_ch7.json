@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "3-BGS-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€$ নাম, €০ জন্য, ৫০ মেনেহ",
+    "note": "Bullet points are replaced by symbols and non-sequential digits."
+  },
+  {
+    "chunk_id": "3-BGS-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€, ঝ, !",
+    "note": "Bullet points and stray characters/punctuation fragments likely from OCR errors."
+  },
+  {
+    "chunk_id": "3-BGS-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-7-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-7-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬, ৫",
+    "note": "Non-sequential numbers used as bullet points indicate OCR noise."
+  },
+  {
+    "chunk_id": "3-BGS-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্ত্",
+    "note": "Fragmented character/conjunct likely from a broken word."
+  },
+  {
+    "chunk_id": "3-BGS-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-7-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "জা",
+    "note": "Isolated character fragment likely from a split word or symbol."
+  },
+  {
+    "chunk_id": "3-BGS-7-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-7-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-7-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed digit script used for a list number."
+  }
+]

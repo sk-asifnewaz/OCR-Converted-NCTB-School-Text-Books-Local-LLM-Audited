@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "3-BGS-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্র্গী মহাসাগর",
+    "note": "The word 'স্র্গী' is garbled and doesn't correspond to any known ocean name."
+  },
+  {
+    "chunk_id": "3-BGS-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€$ এশিয়া",
+    "note": "Non-Bengali characters (€, $) are present in the text."
+  },
+  {
+    "chunk_id": "3-BGS-5-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টার্কট ১, ৫০ পেঙ্গুইন",
+    "note": "'টার্কট' is nonsense; '৫০' and '১' appear as artifacts in the text."
+  },
+  {
+    "chunk_id": "3-BGS-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Currency symbol used as a bullet point or artifact."
+  },
+  {
+    "chunk_id": "3-BGS-5-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্্মী।",
+    "note": "Nonsensical fragment at the start of a paragraph."
+  },
+  {
+    "chunk_id": "3-BGS-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-5-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক)ঃ৪",
+    "note": "The digit '৪' likely misidentified a checkmark symbol (✓)."
+  },
+  {
+    "chunk_id": "3-BGS-5-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic digit 8 used out of sequence in a list that should be 4."
+  },
+  {
+    "chunk_id": "3-BGS-5-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নৌী",
+    "note": "Garbled text string at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-BGS-5-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8)",
+    "note": "The digit '৮' or '8' is likely a mis-OCR of '৪' (4)."
+  },
+  {
+    "chunk_id": "3-BGS-5-12",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পরিবার গঠন... মমতা ও যত্ন নেন।",
+    "note": "Content discusses family life, which is unrelated to the current chapter on geography."
+  },
+  {
+    "chunk_id": "3-BGS-5-13",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চে",
+    "note": "Text ends abruptly mid-word."
+  }
+]

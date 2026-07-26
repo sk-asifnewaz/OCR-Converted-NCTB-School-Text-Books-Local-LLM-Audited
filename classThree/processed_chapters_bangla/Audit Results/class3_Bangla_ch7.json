@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "3-Bangla-7-1",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\n্ঁ।\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated metadata/footer content with garbled character."
+  },
+  {
+    "chunk_id": "3-Bangla-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্য়\", \"সঞুয়\", \"সঞঞ্য়",
+    "note": "Corrupted forms of the word 'সংগ্রহ' due to OCR errors."
+  },
+  {
+    "chunk_id": "3-Bangla-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্য়",
+    "note": "Corrupted word 'সংগ্রহ' from previous chunk persists."
+  },
+  {
+    "chunk_id": "3-Bangla-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

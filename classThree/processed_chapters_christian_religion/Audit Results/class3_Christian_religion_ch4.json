@@ -1,0 +1,461 @@
+[
+  {
+    "chunk_id": "3-Christian_religion-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "+৬২১",
+    "note": "Random digit/symbol run likely from a page header or footer."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Non-Bengali currency symbol in the text."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ গং",
+    "note": "Nonsensical character sequence likely from OCR artifact."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "Arabic digits/mixed symbols instead of proper list numbering."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used incorrectly as a list index."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬্",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মক\nরী্টধর্ম",
+    "note": "Broken words suggesting a failed OCR of 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-14",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "রা",
+    "note": "Isolated syllable likely part of a truncated word."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্-্গাং-",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used instead of proper list index."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "Muddled digits used in list items."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ -্পাং।",
+    "note": "Nonsensical sequence likely from layout noise."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্রমিক\nযা)\n৬২০",
+    "note": "Garbled text and non-sense numbers."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$ ... ৯০২ ৫০ / ৮ ... ৬২০",
+    "note": "Presence of currency symbols, random digits, and garbled text."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Mixed digit system in a list."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used in list."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৬)",
+    "note": "Incorrect count/digit for selection options."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used in list."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১২১১৪",
+    "note": "Likely missing punctuation (:) between numbers."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1), 11), 111), ৬২০",
+    "note": "Incorrect numbering and extra noise digits."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-41",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯০৯০৪! ৮, নৌী, রেন, ও০০ চে হা",
+    "note": "Total garble from OCR processing of graphics or lines."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-44",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮рь-ぁংং।",
+    "note": "Garbled characters."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used instead of Bengali 4."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used instead of Bengali 4."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬.২",
+    "note": "Unusual decimal numbering for the section."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(4)",
+    "note": "Arabic numeral instead of Bengali 4."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic numeral used instead of Bengali 4."
+  },
+  {
+    "chunk_id": "3-Christian_religion-4-51",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্-াং-, ৭৯০০৫ //, ৭২০২ )১৯/৭৬/২)",
+    "note": "Nonsensical data likely from footer or sidebars."
+  }
+]

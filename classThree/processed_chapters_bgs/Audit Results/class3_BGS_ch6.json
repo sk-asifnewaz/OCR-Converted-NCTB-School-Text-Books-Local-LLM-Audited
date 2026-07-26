@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "3-BGS-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পে, ০১ ১১১৬, নল ০, দাখিত্ব",
+    "note": "Contains nonsensical characters and digit noise."
+  },
+  {
+    "chunk_id": "3-BGS-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(8)",
+    "note": "Number 8 likely a mistranscription of Bengali 4 (৪)."
+  },
+  {
+    "chunk_id": "3-BGS-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্লেহ",
+    "note": "Likely a corrupted version of 'সাহায্য' (help)."
+  },
+  {
+    "chunk_id": "3-BGS-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লৌ, ত্রমিক নং",
+    "note": "Non-sensical words appearing as OCR artifacts."
+  },
+  {
+    "chunk_id": "3-BGS-6-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীগড, লী",
+    "note": "Corrupted words and trailing noise characters."
+  },
+  {
+    "chunk_id": "3-BGS-6-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "00000000000, ব্রমিক, ল্লৌ",
+    "note": "Extensive noise and corrupted words."
+  },
+  {
+    "chunk_id": "3-BGS-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লী",
+    "note": "Trailing garbage character at end of paragraph."
+  },
+  {
+    "chunk_id": "3-BGS-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ رى",
+    "note": "Non-Bengali script fragment appearing after the number."
+  },
+  {
+    "chunk_id": "3-BGS-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৯৮",
+    "note": "Number appears as a junk string/OCR error."
+  },
+  {
+    "chunk_id": "3-BGS-6-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-6-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8, প্লেহ",
+    "note": "Number 8 and corrupted word for 'সাহায্য'."
+  },
+  {
+    "chunk_id": "3-BGS-6-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬, পরিকল্পনা' ",
+    "note": "Number 6 used instead of 4; truncated word ending."
+  }
+]

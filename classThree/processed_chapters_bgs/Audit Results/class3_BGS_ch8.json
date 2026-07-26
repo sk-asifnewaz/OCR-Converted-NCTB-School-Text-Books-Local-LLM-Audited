@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "3-BGS-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "|/",
+    "note": "Non-linguistic character sequence."
+  },
+  {
+    "chunk_id": "3-BGS-8-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "টু",
+    "note": "Nonsensical fragment in context."
+  },
+  {
+    "chunk_id": "3-BGS-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "*) \"\"\"€০\nলী",
+    "note": "Multiple instances of garbled Unicode/symbols."
+  },
+  {
+    "chunk_id": "3-BGS-8-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চলা উচিত",
+    "note": "Sentence appears cut off at the end."
+  },
+  {
+    "chunk_id": "3-BGS-8-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রমিক",
+    "note": "Likely a truncated word like 'সামাজিক'."
+  },
+  {
+    "chunk_id": "3-BGS-8-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ ৬৬৬০৬৬৬৬৬৬০৬৬৬৬৬৩৬৬৬০৬৬৩৬৩৬৬০৬৬০৬৬৬৬৬৬৬৬০৬৬৬৬৬৬০৬৬৬০৬৬৩৬০৬৬০৬৬০৬৬৬৬০৫৬০৬৬০৬৬৬৬৩৬৬৬০৬৬৬৬৩৬০৬৬০৬৬৩৬০৬০৬৬০৬৬৬৬৬৬০০৬৬৬৬৩০৬০৬০৬৬০৬৬০৬৬০৩৬০৬৬০৬৬০৩৬০৬০৬০৬০৬০৬৬০৬০৬৬০৬০৬০৬০৬৬০৬৬০৬০০০০৬",
+    "note": "Long sequence of numbers unrelated to content."
+  },
+  {
+    "chunk_id": "3-BGS-8-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪, পান",
+    "note": "Extra digit in numbering and truncated word 'প্রশংসা' before 'পান'."
+  },
+  {
+    "chunk_id": "3-BGS-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লী, হে",
+    "note": "Isolated characters at start/end of segments."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "3-Bangla-20-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-20-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুূন্ম",
+    "note": "Garbled script, likely a corrupted OCR of the word 'সূক্ষ্ম'."
+  },
+  {
+    "chunk_id": "3-Bangla-20-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অল ক-5-সএঞ+চ চ্ঞ্ল",
+    "note": "Garbled characters and a non-functional digit string from layout artifacts."
+  },
+  {
+    "chunk_id": "3-Bangla-20-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

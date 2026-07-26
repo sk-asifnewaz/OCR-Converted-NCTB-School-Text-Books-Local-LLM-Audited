@@ -1,0 +1,227 @@
+[
+  {
+    "chunk_id": "3-Buddhist_religion-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আমরা যেসব",
+    "note": "Sentence ends abruptly mid-clause at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠ\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Includes isolated characters and repeated header information."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এ. ৬১",
+    "note": "Isolated numbers likely from a page footer or header."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-8",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২৩ বছর",
+    "note": "The sentence ends abruptly without a closing punctuation or period."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ধ্বংসন্তূপ",
+    "note": "Typo/OCR error where 'ন' replaced 'স'."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাজগৃহের চিকিৎসক জীবক\nবুদ্ধ ও ভিক্ষুসংঘের চিকিৎসা\nআম্ববনে ভিক্ষুসংঘের জন্য",
+    "note": "Fragmented lines suggest overlapping text from different columns/boxes."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৭ ৪৫-",
+    "note": "Non-sequential noise or page/section markers."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১ ১.\n২ ২\n৩ ৩",
+    "note": "Redundant digit patterns likely from a table or layout artifact."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পা ৬৬\nঠী",
+    "note": "Garbled page numbers and random characters."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বীষ্টানদের",
+    "note": "Should be 'খ্রীষ্টানদের' (Christians)."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০\n০--",
+    "note": "Arbitrary zeros/dashes likely from blank lines in source text."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Number sequence error (likely should be '৪।')."
+  },
+  {
+    "chunk_id": "3-Buddhist_religion-8-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডু\nর্‌\n€.৭০ ও",
+    "note": "Garbled symbols and broken characters at the end of chunk."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "3-Math-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০ -৫-স৮",
+    "note": "The character 'স' is non-mathematical and likely a misread symbol."
+  },
+  {
+    "chunk_id": "3-Math-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টি এল সদা দসসবদনদ। \nনা]\n৯ূ\nঠৈঠ",
+    "note": "Multiple instances of nonsensical characters and gibberish strings."
+  },
+  {
+    "chunk_id": "3-Math-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "||। ||-|",
+    "note": "Unusual punctuation/symbols likely resulting from poor OCR of division signs."
+  },
+  {
+    "chunk_id": "3-Math-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৬ ড়\nটু",
+    "note": "Non-sensical characters 'ড়' and 'টু' appear in math calculations."
+  },
+  {
+    "chunk_id": "3-Math-7-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[0017]",
+    "note": "Repetitive digit string likely a scan/OCR artifact."
+  },
+  {
+    "chunk_id": "3-Math-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খৌচ্স*৭ (গ)৭চ ঘ) ৭১ ৭",
+    "note": "Garbled word 'খৌচ্স' and broken mathematical expressions."
+  },
+  {
+    "chunk_id": "3-Math-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬১৭ল ... ৮ল ... ৩তল",
+    "note": "Non-mathematical character 'ল' appended to numbers."
+  },
+  {
+    "chunk_id": "3-Math-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৫ -১৩ *“ 8৪ 5",
+    "note": "Malformed mathematical expression with corrupted symbols."
+  }
+]

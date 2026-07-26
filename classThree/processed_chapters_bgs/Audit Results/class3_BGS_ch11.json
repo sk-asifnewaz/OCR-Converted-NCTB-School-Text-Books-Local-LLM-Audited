@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "3-BGS-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১2 000000\n« )“ঝ/ূ্\n&। __)“-",
+    "note": "Garbled characters and random number strings from table corruption."
+  },
+  {
+    "chunk_id": "3-BGS-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-11-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "মাটির ব্যাংকে জমানো টাকা\nশী",
+    "note": "Sentence ends abruptly with a single character, likely a cut-off word."
+  },
+  {
+    "chunk_id": "3-BGS-11-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০৪০ ৮৮\n৪.৯\nসি 4",
+    "note": "Non-sensical digits and symbols likely from a misread table structure."
+  },
+  {
+    "chunk_id": "3-BGS-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়",
+    "note": "Garbled character likely intended to be 'হয়'."
+  },
+  {
+    "chunk_id": "3-BGS-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "3-Bangla-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পণ্ম, হাস-, চু, চর",
+    "note": "পণ্ম is likely a corrupted word; 'হাস-' and 'চু' are truncated segments."
+  },
+  {
+    "chunk_id": "3-Bangla-2-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মিতুরা দুই, ৭ ঢা",
+    "note": "মিতুরা দুই suggests merged lines; '৭ ঢা' is likely page noise."
+  },
+  {
+    "chunk_id": "3-Bangla-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্ম, থা য চু",
+    "note": "পণ্ম is corrupted; 'থা', 'য', 'চু' are isolated garbled characters."
+  },
+  {
+    "chunk_id": "3-Bangla-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

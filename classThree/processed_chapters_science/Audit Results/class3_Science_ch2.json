@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "3-Science-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাই। ... সুরু যা করতে হবে",
+    "note": "Garbled introductory text and corrupted instructions."
+  },
+  {
+    "chunk_id": "3-Science-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দু যা করতে হবে",
+    "note": "Garbled instruction segment."
+  },
+  {
+    "chunk_id": "3-Science-2-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মেরুদক্ডী",
+    "note": "OCR error where 'ন' is replaced by 'ক'."
+  },
+  {
+    "chunk_id": "3-Science-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী, দা ... দু যা করতে হবে",
+    "note": "Garbled text fragments and corrupted instructions."
+  },
+  {
+    "chunk_id": "3-Science-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শুঙ্ক আশযুত্ত",
+    "note": "Garbled words likely intended as 'শুক ও শক্ত'."
+  },
+  {
+    "chunk_id": "3-Science-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্ন্যপায়ী ... ড্রাল",
+    "note": "Corrupted word for 'স্তন্যপায়ী' and garbled/truncated 'ড্রাল'."
+  },
+  {
+    "chunk_id": "3-Science-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অমেরুদ্ডী ... '্টুযা করতে হবে",
+    "note": "Corrupted words and garbled instruction segment."
+  },
+  {
+    "chunk_id": "3-Science-2-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অমেরুদস্ডী",
+    "note": "OCR error where 'ন' is replaced by 'স'."
+  },
+  {
+    "chunk_id": "3-Science-2-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত খোলস ... নির্দিফ ... সুঙ্া",
+    "note": "Multiple instances of garbled words for 'শক্ত', 'নির্দিষ্ট', and 'শৃঙ্গ'."
+  },
+  {
+    "chunk_id": "3-Science-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-2-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চটি ... ০০০০০০০০০০২",
+    "note": "Garbled 'তিনটি' and a long string of zeros in the fill-in blank."
+  },
+  {
+    "chunk_id": "3-Science-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8।",
+    "note": "Non-sequential jump in list numbering (likely a corrupted '৪')."
+  }
+]

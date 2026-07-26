@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "3-BGS-10-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শৌ\nবভিন্ন পেশা",
+    "note": "শৌ is likely a fragment; বভিন্ন is a typo for বিভিন্ন."
+  },
+  {
+    "chunk_id": "3-BGS-10-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১৮ ০১৭৮১১৯২/১০১১",
+    "note": "Random string of digits likely from a phone number or page artifact."
+  },
+  {
+    "chunk_id": "3-BGS-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা জা\n...\nরন\n(৫)",
+    "note": "Short, non-sensical fragments likely from overlapping text or incomplete words."
+  },
+  {
+    "chunk_id": "3-BGS-10-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লী\nবভিন্ন পেশা",
+    "note": "লী is a fragment; বভিন্ন is likely corrupted text forer বিভিন্ন."
+  },
+  {
+    "chunk_id": "3-BGS-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৩০০০৫৬৬৬৬৬ ৬৬০৬০৬০৬০০৬০৬০৬০৬০০৬০৬০৬৬৬৬০৬০০০",
+    "note": "Long string of numbers that do not correspond to any text content."
+  },
+  {
+    "chunk_id": "3-BGS-10-9",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লী",
+    "note": "Single character suffix likely from a cut-off word."
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "3-Math-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "5",
+    "note": "Western digit '5' used instead of Bengali script in a Bengali text."
+  },
+  {
+    "chunk_id": "3-Math-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹-",
+    "note": "Non-relevant currency symbol '₹' detected in a Bengali text."
+  },
+  {
+    "chunk_id": "3-Math-10-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "অষ্কে",
+    "note": "Non-existent word, likely a mangled version of 'অংকে'."
+  },
+  {
+    "chunk_id": "3-Math-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬)",
+    "note": "Numeral '৬' used where Bengali letter 'গ' is expected in a list."
+  },
+  {
+    "chunk_id": "3-Math-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[|",
+    "note": "Garbled punctuation/symbols from OCR failure on list markers."
+  },
+  {
+    "chunk_id": "3-Math-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Foreign currency symbol present in text."
+  },
+  {
+    "chunk_id": "3-Math-10-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "34033 33",
+    "note": "Random digit run unrelated to context."
+  },
+  {
+    "chunk_id": "3-Math-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর ১০ +-৫-+-৫+",
+    "note": "Nonsensical character sequence and symbols."
+  },
+  {
+    "chunk_id": "3-Math-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-| __ |",
+    "note": "Garbled symbols likely representing blank spaces in a workbook."
+  },
+  {
+    "chunk_id": "3-Math-10-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "17 | __",
+    "note": "Garbled characters and non-standard number strings."
+  },
+  {
+    "chunk_id": "3-Math-10-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৭৪০",
+    "note": "Mixed Western and Bengali digits (8 instead of ৮)."
+  },
+  {
+    "chunk_id": "3-Math-10-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধী লেলাা",
+    "note": "Nonsense words likely caused by OCR error of 'ধরে নিচ্ছি' or similar."
+  },
+  {
+    "chunk_id": "3-Math-10-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৯৫",
+    "note": "Mixed Western and Bengali digits (8 instead of ৮)."
+  },
+  {
+    "chunk_id": "3-Math-10-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[ও [সড় ন্দলসৎন ৮ সপ",
+    "note": "Significant corruption in the middle of the chunk."
+  },
+  {
+    "chunk_id": "3-Math-10-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪২",
+    "note": "Mixed Western and Bengali digits (8 instead of ৮)."
+  },
+  {
+    "chunk_id": "3-Math-10-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8০",
+    "note": "Mixed Western and Bengali digits (8 instead of ৮)."
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "3-Hindu_religion-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ল্লেহ-ভালোবাসা",
+    "note": "Mangled word, likely a misread of 'স্নেহ' (love)."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "॥।'-",
+    "note": "Nonsensical punctuation/garbled Unicode."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কুষ্ঠী, পাณฑ์বদের, পাগুবদের",
+    "note": "Mangled terms for 'কুন্তী' and 'পাণ্ডব' due to OCR errors."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কুণ্ঠী, পৃহস্বামী",
+    "note": "Mangled words for 'কুন্তী' and 'ব্রাহ্ম্য স্বামী/ব্রাহ্মণ'."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কুষ্ঠী",
+    "note": "Mangled word for 'কুন্তী'."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাณฑ์ব",
+    "note": "Mangled word for 'পাণ্ডব'."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Mixed Arabic and Bengali digits in sequence."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Mixed Arabic and Bengali digits in sequence."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "॥! প্‌\n1 ্মрь্খ ঁ ৯৯১\n тща খন ছু",
+    "note": "Entire block is garbled Unicode/nonsense."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পা্ণু, পাগডুর",
+    "note": "Mangled words for 'পাণ্ডু' and 'পাণ্ডব'."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাগুবদের",
+    "note": "Mangled word for 'পাণ্ডবদের'."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic '8' used in a sequence that likely should be Bengali."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Mixed Arabic and Bengali digits."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8.",
+    "note": "Arabic '8' used in a sequence that likely should be Bengali."
+  },
+  {
+    "chunk_id": "3-Hindu_religion-3-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

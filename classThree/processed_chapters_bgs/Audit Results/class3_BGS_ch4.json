@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "3-BGS-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ ৬ ৫ ১ ই রর 2 ১১\n০০০০০ ০০০০জএএ৩৩ ০৩৩৩৩৩৩৩৩৩",
+    "note": "Contains non-sequential digits and repeated character strings."
+  },
+  {
+    "chunk_id": "3-BGS-4-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্্ষ্গী আমাদের সংগীত, নৃত্য ও উৎসব অনুষ্ঠান",
+    "note": "Contains garbled characters and an abrupt sentence break."
+  },
+  {
+    "chunk_id": "3-BGS-4-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "প্লে",
+    "note": "Single word at end suggests a truncated phrase or title."
+  },
+  {
+    "chunk_id": "3-BGS-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-4-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উৎসব",
+    "note": "Standalone word at end suggests truncated header or page break."
+  },
+  {
+    "chunk_id": "3-BGS-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-4-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০০০০০০০০০০০০০০০০০০০০০০০০",
+    "note": "Repetitive characters used as filler/noise."
+  },
+  {
+    "chunk_id": "3-BGS-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লস সে োে ।\nমো ।",
+    "note": "Incoherent character fragments likely from a misparsed table."
+  },
+  {
+    "chunk_id": "3-BGS-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-BGS-4-12",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লৌ\nঅধ্যায় : ৫\nমহাদেশ ও মহাসাগর\nমী মহাদেশ",
+    "note": "Fragmented words at the end indicate cut-off content."
+  },
+  {
+    "chunk_id": "3-BGS-4-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "꼐",
+    "note": "Isolated garbled character at the end of chunk."
+  }
+]

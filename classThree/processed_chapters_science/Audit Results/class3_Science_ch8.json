@@ -1,0 +1,263 @@
+[
+  {
+    "chunk_id": "3-Science-8-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আমাদের যা প্রয়োজ",
+    "note": "Text cuts off abruptly at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Science-8-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "॥! ] চু\nবা ... 8৪",
+    "note": "Garbled characters and non-standard digit formatting for numbering."
+  },
+  {
+    "chunk_id": "3-Science-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'যাচ্ছে। /\nলা\nবাড়ির কাজ।শ্রণির কাজ",
+    "note": "Garbled symbols and nonsensical line breaks suggest poor OCR."
+  },
+  {
+    "chunk_id": "3-Science-8-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ ফা 4",
+    "note": "Garbled phrase at the beginning of the chunk."
+  },
+  {
+    "chunk_id": "3-Science-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দু যা করতে হবে",
+    "note": "Garbled phrase, likely a mangled instruction."
+  },
+  {
+    "chunk_id": "3-Science-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8. ... মাফ 4\nমাটির রং, গঠন, কণা... বৈশিড্ট্যের",
+    "note": "Non-standard digits and garbled words like 'বৈশিড্ট্যের' (should be বৈশিষ্ট্য)."
+  },
+  {
+    "chunk_id": "3-Science-8-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পু পপ লস লস\nবদন আব এল | বড | বিজ্নমক্পন | থে",
+    "note": "Extremely garbled lines that do not form coherent words."
+  },
+  {
+    "chunk_id": "3-Science-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সরু যা করতেহুবে",
+    "note": "Garbled phrase likely resulting from bad OCR of 'কী কাজ করা হবে'."
+  },
+  {
+    "chunk_id": "3-Science-8-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪... দ্রী তি আলোচনা",
+    "note": "Garbled digit and nonsensical phrase."
+  },
+  {
+    "chunk_id": "3-Science-8-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ মা 4",
+    "note": "Garbled phrase at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Science-8-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বেলেমটি | দেআঁশমটি | এটেলমটি",
+    "note": "Garbled word combinations for 'বেলে মাটি', 'দোআঁশ মাটি', and 'এঁটেল মাটি'."
+  },
+  {
+    "chunk_id": "3-Science-8-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্লু যা করতে হবে",
+    "note": "Garbled instruction phrase."
+  },
+  {
+    "chunk_id": "3-Science-8-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ট্য সেজন্য যা করতে হবে দ",
+    "note": "Garbled instructional text."
+  },
+  {
+    "chunk_id": "3-Science-8-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মারি",
+    "note": "Garbled word; likely 'মাটি' (soil) but rendered as 'মারি'."
+  },
+  {
+    "chunk_id": "3-Science-8-22",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হয়।",
+    "note": "Garbled character 'হ্য়' at the end of a line."
+  },
+  {
+    "chunk_id": "3-Science-8-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুর্গম্ধ",
+    "note": "Garbled spelling of 'দুর্গন্ধ'."
+  },
+  {
+    "chunk_id": "3-Science-8-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-8-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বক্ঝে ... দুষণমুত্ত",
+    "note": "Garbled words for 'বক্সে' and 'দূষণমুক্ত'."
+  },
+  {
+    "chunk_id": "3-Science-8-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "Garbled spelling of 'দ্রুত'."
+  },
+  {
+    "chunk_id": "3-Science-8-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত",
+    "note": "Garbled spelling of 'শক্ত'."
+  },
+  {
+    "chunk_id": "3-Science-8-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুষণমুত্ত",
+    "note": "Garbled spelling of 'দূষণমুক্ত'."
+  }
+]

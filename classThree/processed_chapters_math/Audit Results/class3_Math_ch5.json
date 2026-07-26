@@ -1,0 +1,191 @@
+[
+  {
+    "chunk_id": "3-Math-5-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রামালাালামামামারা",
+    "note": "First few lines are non-sensical gibberish and garbled script."
+  },
+  {
+    "chunk_id": "3-Math-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬সর৫স-৬স৪-+7 ৬উসর্৫স৬তসস৬ত-]",
+    "note": "Contains garbled characters and symbols in place of math notation."
+  },
+  {
+    "chunk_id": "3-Math-5-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত)৫স৪ল৫সত+ [_]",
+    "note": "Sequence of characters does not form valid words or symbols."
+  },
+  {
+    "chunk_id": "3-Math-5-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আবাবাবাক",
+    "note": "Repeated nonsense characters forming a gibberish run."
+  },
+  {
+    "chunk_id": "3-Math-5-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বে বোেবেবেশেবেবেশেশেশে",
+    "note": "Garbled repetitions and nonsensical script strings."
+  },
+  {
+    "chunk_id": "3-Math-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ণ৭ চ ৯৯",
+    "note": "Bengali letters used as placeholders for numerals in a sequence."
+  },
+  {
+    "chunk_id": "3-Math-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ণ৭ চা",
+    "note": "Non-numeric characters appearing in a numerical sequence."
+  },
+  {
+    "chunk_id": "3-Math-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিনিক্বকালিষি",
+    "note": "Nonsensical character sequence at the end of the chunk."
+  },
+  {
+    "chunk_id": "3-Math-5-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সি এলিসতসদ,",
+    "note": "Nonsensical words and garbled symbols."
+  },
+  {
+    "chunk_id": "3-Math-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রশ ৩",
+    "note": "Garbled characters used in math calculation context."
+  },
+  {
+    "chunk_id": "3-Math-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২৮৬ »* 8",
+    "note": "Garbled symbols within a mathematical expression."
+  },
+  {
+    "chunk_id": "3-Math-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Use of non-standard symbols for multiplication/multipliers."
+  },
+  {
+    "chunk_id": "3-Math-5-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা তক বাক্য ৪ স ৩০-",
+    "note": "Fragmented, nonsensical phrasing."
+  },
+  {
+    "chunk_id": "3-Math-5-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এ ক ৬ ব্খ৷খড ২১৩",
+    "note": "Garbled text and non-sensical character strings."
+  },
+  {
+    "chunk_id": "3-Math-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২১১১৩ এ€",
+    "note": "Garbled characters and symbols mixed into text."
+  },
+  {
+    "chunk_id": "3-Math-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মসড৮চ",
+    "note": "Garbled script sequences."
+  },
+  {
+    "chunk_id": "3-Math-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Non-standard punctuation/symbols used in numerical sequences."
+  },
+  {
+    "chunk_id": "3-Math-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩)৫৩৮-স।",
+    "note": "Garbled punctuation and symbols in math context."
+  },
+  {
+    "chunk_id": "3-Math-5-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম*্",
+    "note": "Garbled characters and symbols in calculation section."
+  },
+  {
+    "chunk_id": "3-Math-5-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তাসকিয়া",
+    "note": "Likely a corrupted word resulting from poor OCR."
+  },
+  {
+    "chunk_id": "3-Math-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

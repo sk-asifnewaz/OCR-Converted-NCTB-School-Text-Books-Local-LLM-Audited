@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "3-English-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "5 IN —, eye 3, ae",
+    "note": "Contains garbled text and non-standard digit sequences."
+  },
+  {
+    "chunk_id": "3-English-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-6-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Good habits am",
+    "note": "The 'am' appears to be a non-sensical artifact."
+  },
+  {
+    "chunk_id": "3-English-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "lb), ~ _ a, shoe P| shoes AS",
+    "note": "Contains OCR errors for list items and garbled text."
+  },
+  {
+    "chunk_id": "3-English-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ee, COOL 2... eee cece eee, DOOK, fiSA",
+    "note": "Extremely corrupted text with nonsensical character sequences."
+  },
+  {
+    "chunk_id": "3-English-6-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Good habits am",
+    "note": "The 'am' appears to be a non-sensical artifact."
+  },
+  {
+    "chunk_id": "3-English-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ee, eEy, otClh",
+    "note": "Garbled character sequences likely from poor OCR."
+  },
+  {
+    "chunk_id": "3-English-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "towel.a",
+    "note": "The trailing 'a' is a common OCR artifact."
+  },
+  {
+    "chunk_id": "3-English-6-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "o) eee your hands, o) eres soap",
+    "note": "Words 'eee' and 'eres' are nonsensical in this context."
+  },
+  {
+    "chunk_id": "3-English-6-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "o) eee, ) re the tap off., f) eee eee",
+    "note": "Highly garbled sentences from OCR processing."
+  },
+  {
+    "chunk_id": "3-English-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ew, lb.",
+    "note": "Contains garbled text and a common OCR digit error."
+  },
+  {
+    "chunk_id": "3-English-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "lb.",
+    "note": "The 'lb' is a common OCR artifact for 'b)'."
+  },
+  {
+    "chunk_id": "3-English-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "a, ee, f",
+    "note": "Random character fragments likely from symbols or icons."
+  },
+  {
+    "chunk_id": "3-English-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "a, ee",
+    "note": "Garbled characters remaining from layout artifacts."
+  },
+  {
+    "chunk_id": "3-English-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ae, ee",
+    "note": "Garbled character sequences likely from layout artifacts."
+  }
+]

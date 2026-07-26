@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "3-Bangla-23-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Bangla-23-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিশুদের নিয়ে .",
+    "note": "Sentence ends abruptly with a period after 'নিয়ে'."
+  },
+  {
+    "chunk_id": "3-Bangla-23-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮০%/ ... নূুল ন+ম, ল্প5হ ম+প, ন্ধল ন+ধ",
+    "note": "Contains random symbols/digits and non-sensical character strings."
+  },
+  {
+    "chunk_id": "3-Bangla-23-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Random digit '8' precedes the number four."
+  },
+  {
+    "chunk_id": "3-Bangla-23-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ছেলে মেয়ে চু",
+    "note": "Word 'চু' appears to be cut off mid-word."
+  },
+  {
+    "chunk_id": "3-Bangla-23-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

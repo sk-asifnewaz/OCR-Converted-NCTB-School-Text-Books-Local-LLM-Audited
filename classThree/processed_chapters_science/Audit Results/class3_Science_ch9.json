@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "3-Science-9-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/া্টী, কু, '্টুশুয়া",
+    "note": "Fragmented or garbled words like '/া্টী' and 'কু' don't form valid sentences."
+  },
+  {
+    "chunk_id": "3-Science-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-9-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দে, 'ষ্, প৷রবতন",
+    "note": "Garbled fragments and corrupted word for 'পরিবর্তন' identified."
+  },
+  {
+    "chunk_id": "3-Science-9-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠাষ্ডা",
+    "note": "Word 'ঠাষ্ডা' is a corruption of 'ঠান্ডা'."
+  },
+  {
+    "chunk_id": "3-Science-9-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "লু",
+    "note": "Fragment 'লু' is likely a corrupted word for 'কী'."
+  },
+  {
+    "chunk_id": "3-Science-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উপযুত্ত",
+    "note": "Word 'উপযুত্ত' is a corruption of 'উপযুক্ত'."
+  },
+  {
+    "chunk_id": "3-Science-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বদ্ধুর, কমু, 1] 1",
+    "note": "'বদ্ধুর' is 'বস্তুর', 'কমু' is 'কী', and '1] 1' is noise."
+  },
+  {
+    "chunk_id": "3-Science-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বদ্ুর, | তি",
+    "note": "'বদ্ুর' is 'বস্তুর'; '| তি' contains artifact character."
+  },
+  {
+    "chunk_id": "3-Science-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বসু, অণ্টল, বষ্ধু",
+    "note": "Corrupted words for 'বস্তু' and 'অংশ'."
+  },
+  {
+    "chunk_id": "3-Science-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/সটী, দু",
+    "note": "'/সটী' and 'দু' are common OCR errors for 'কী'."
+  },
+  {
+    "chunk_id": "3-Science-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "The digit '8' is a noise artifact before the list number '৪'."
+  },
+  {
+    "chunk_id": "3-Science-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙ্জে",
+    "note": "Word 'সঙ্জে' is a corruption of 'সঙ্গে'."
+  },
+  {
+    "chunk_id": "3-Science-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সূর্যযড়িতে",
+    "note": "Word 'সূর্যযড়িতে' is a corruption of 'সূর্যঘড়িতে'."
+  },
+  {
+    "chunk_id": "3-Science-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বির",
+    "note": "Word 'স্বির' is a corruption of 'স্থির'."
+  },
+  {
+    "chunk_id": "3-Science-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বদ্ধু",
+    "note": "Word 'বদ্ধু' is a corruption of 'বস্তু'."
+  },
+  {
+    "chunk_id": "3-Science-9-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "The digit '8' is a noise artifact before the list number '৪'."
+  },
+  {
+    "chunk_id": "3-Science-9-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8 বর্ণনামূলক",
+    "note": "The digit '8' is a noise artifact before the title."
+  }
+]

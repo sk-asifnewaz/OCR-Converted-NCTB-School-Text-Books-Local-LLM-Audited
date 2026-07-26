@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "3-Science-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'্টুভুয়া করতে হবে",
+    "note": "Corrupted script; likely 'তোমরা' or similar instruction."
+  },
+  {
+    "chunk_id": "3-Science-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভ্র্দ",
+    "note": "Corrupted word; should be 'হ্রদ' (pond)."
+  },
+  {
+    "chunk_id": "3-Science-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রդ, বৃষ্ি",
+    "note": "Corrupted words; 'হ্রদ' and 'বৃষ্টি'."
+  },
+  {
+    "chunk_id": "3-Science-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বুকুতিরা্ষ থেকেপ্রাপ",
+    "note": "Nonsensical character sequence due to OCR error."
+  },
+  {
+    "chunk_id": "3-Science-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্তলে, অপ্থলে, রী (আলোচনা",
+    "note": "Corrupted words or truncated phrases."
+  },
+  {
+    "chunk_id": "3-Science-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'্টুলু যা করতে হবে",
+    "note": "Corrupted script; likely a directive for students."
+  },
+  {
+    "chunk_id": "3-Science-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নন্দন, লবণাত্ত",
+    "note": "Corrupted words; 'নন্দন' and 'লবণাত্ত'."
+  },
+  {
+    "chunk_id": "3-Science-7-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্ী তি আলোচনা, শাল পান পানের",
+    "note": "Gibberish strings and truncated final sentence."
+  },
+  {
+    "chunk_id": "3-Science-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-10",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বের করি। বের করি।",
+    "note": "Repeated phrase likely from OCR looping."
+  },
+  {
+    "chunk_id": "3-Science-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "'্টুষ্ু যাকরতেহবে",
+    "note": "Garbled script/corrupted instruction."
+  },
+  {
+    "chunk_id": "3-Science-7-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গ্রীব্মকালে",
+    "note": "Corrupted word; should be 'গ্রীষ্মকালে'."
+  },
+  {
+    "chunk_id": "3-Science-7-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১৯১, পানির অপচয় পানির অপচয়, কু যা করতে হবে",
+    "note": "Non-contextual digit, repeated phrase, and corrupted words."
+  },
+  {
+    "chunk_id": "3-Science-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "|*\*ী ২ (আলোচনা, দ্র",
+    "note": "Corrupted header and truncated ending."
+  },
+  {
+    "chunk_id": "3-Science-7-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Science-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "প্রক্কিয়াজাত",
+    "note": "Corrupted word; should be 'প্রক্রিয়াজাত'."
+  },
+  {
+    "chunk_id": "3-Science-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীত ব্রাশ",
+    "note": "Corrupted word; should be 'দাঁত ব্রাশ'."
+  },
+  {
+    "chunk_id": "3-Science-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বেরনা",
+    "note": "Corrupted word; likely part of a list item."
+  }
+]

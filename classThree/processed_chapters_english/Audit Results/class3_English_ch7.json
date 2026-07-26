@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "3-English-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "kj\nvw...ee",
+    "note": "Garbled characters/symbols that do not belong in the text."
+  },
+  {
+    "chunk_id": "3-English-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "Water pollution am",
+    "note": "The 'am' appears to be a trailing garbled character or noise."
+  },
+  {
+    "chunk_id": "3-English-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "lb)",
+    "note": "Likely an OCR artifact for 'b)'."
+  },
+  {
+    "chunk_id": "3-English-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "lb)",
+    "note": "Likely an OCR artifact for 'b)'."
+  },
+  {
+    "chunk_id": "3-English-7-7",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "bathing in the . They find a man\nthrowing into the river",
+    "note": "Missing words ('river' and 'rubbish') make the sentence incoherent."
+  },
+  {
+    "chunk_id": "3-English-7-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Wa\nPaddy Beeley Core Wheet\nbathing soll farmer crops",
+    "note": "Garbled strings and nonsensical words resulting from poor OCR of a table."
+  },
+  {
+    "chunk_id": "3-English-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Pe\nUse of water\n“O°\"",
+    "note": "Fragmented words and symbols at the end are likely noise."
+  },
+  {
+    "chunk_id": "3-English-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "lb)",
+    "note": "Likely an OCR artifact for 'b)'."
+  },
+  {
+    "chunk_id": "3-English-7-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Pal tn\ninRa\nSiol\nCopr\nrmFaer",
+    "note": "Garbled/distorted words in a list, likely due to poor OCR of scrambled text."
+  },
+  {
+    "chunk_id": "3-English-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "soll\n©\nO.\ndrink\nthere are...ae",
+    "note": "Symbols and non-sense words from poor OCR."
+  },
+  {
+    "chunk_id": "3-English-7-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-7-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "cc)",
+    "note": "Likely an OCR artifact for 'c)'."
+  },
+  {
+    "chunk_id": "3-English-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "C%)\nae",
+    "note": "Garbled characters and symbols at the end of chunk."
+  },
+  {
+    "chunk_id": "3-English-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "Rhyme ae",
+    "note": "Garbled trailing characters."
+  },
+  {
+    "chunk_id": "3-English-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "&\nSing a rainbow , & 4\n¥,\n|",
+    "note": "Multiple symbols (¥, |, &) that are likely artifacts of page layout."
+  },
+  {
+    "chunk_id": "3-English-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "a\nRhyme am",
+    "note": "Stray characters likely from layout or previous page."
+  },
+  {
+    "chunk_id": "3-English-7-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-English-7-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]
