@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Math-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪৪৯, ঁँँ, ভপততর, চি এড সস] নদ",
+    "note": "Contains repeated nonsense characters and mixed script fragments."
+  },
+  {
+    "chunk_id": "1-Math-12-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রা, ঢু, না",
+    "note": "Words appear to be cut off at the end of lines or chunks."
+  }
+]

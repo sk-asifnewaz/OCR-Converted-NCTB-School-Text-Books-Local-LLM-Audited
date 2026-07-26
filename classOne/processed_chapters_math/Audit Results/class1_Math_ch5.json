@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "1-Math-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র\nচি\nর্\nচ\nি\n্\n়\nচ\nচু\nরি\n|!",
+    "note": "Vertical script fragments and noise sequences are present."
+  },
+  {
+    "chunk_id": "1-Math-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€$€$৬৬৬৮ - €৫€",
+    "note": "Foreign symbols and corrupted currency signs are present."
+  },
+  {
+    "chunk_id": "1-Math-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০০০০০",
+    "note": "Long string of repeated zeros is a gibberish run."
+  },
+  {
+    "chunk_id": "1-Math-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮- [ ])-৫\n৬-২- (7",
+    "note": "Broken brackets and non-standard mathematical formatting."
+  },
+  {
+    "chunk_id": "1-Math-5-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রত 9",
+    "note": "Word seems cut off or mangled from previous line."
+  }
+]

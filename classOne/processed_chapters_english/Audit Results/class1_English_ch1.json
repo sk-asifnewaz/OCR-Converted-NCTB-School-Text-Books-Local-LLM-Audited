@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "1-English-1-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Et\nnm, {I @",
+    "note": "Garbled characters and symbols indicate OCR corruption."
+  },
+  {
+    "chunk_id": "1-English-1-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ood morning, | | s | n Yt, %3}",
+    "note": "Contains truncated words and corrupted symbols/numbers."
+  },
+  {
+    "chunk_id": "1-English-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "cS, Lesson}, Ya}",
+    "note": "Non-standard characters and punctuation suggest OCR errors."
+  },
+  {
+    "chunk_id": "1-English-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "f 1 O!M..., evcen, YB}",
+    "note": "Contains nonsensical sequences and garbled text fragments."
+  },
+  {
+    "chunk_id": "1-English-1-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "'\ny",
+    "note": "Garbled Unicode or leftover formatting characters."
+  },
+  {
+    "chunk_id": "1-English-1-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$2:, FING..., SS MAN: ....eeeeeeeee",
+    "note": "Repeated characters and garbled symbols are present."
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "1-Math-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রাযাযাস্মস্ের\n7 াা]|\n৩+১স-",
+    "note": "Contains garbled characters and non-sensical script segments."
+  },
+  {
+    "chunk_id": "1-Math-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ এটিকে বলে \"সমান\"।\n27 + 07 -0071003 অনল",
+    "note": "Contains currency symbols and a string of incoherent numbers."
+  },
+  {
+    "chunk_id": "1-Math-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "()+(03-(0) (_) টিডাল\nাাাস্লমণাা]\nরায়াযাযাযাযায",
+    "note": "Contains several instances of garbled text and repetitive nonsense."
+  },
+  {
+    "chunk_id": "1-Math-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৪৪ :৪৬৬৪\nপালন € ০০৮ ওল\n$৫$৫$৫$৫$",
+    "note": "Contains repeated number strings and symbols that don't belong."
+  },
+  {
+    "chunk_id": "1-Math-4-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "07+07-0707\n৬৬৬৬১ ৬৩৬৬৬০৬\nাাাালাাাা[",
+    "note": "Contains sequences of repeated digits and corrupted characters."
+  },
+  {
+    "chunk_id": "1-Math-4-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ নট টে টে মে\nভভভভ) টে এ",
+    "note": "Contains nonsensical word fragments and corrupted script."
+  },
+  {
+    "chunk_id": "1-Math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹০১ ৩১ ডে১ ড১ ৬১ 22 ১ 2০ ৫০\nতর শু",
+    "note": "Contains a string of symbols/numbers and disjointed fragments."
+  },
+  {
+    "chunk_id": "1-Math-4-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ডেল",
+    "note": "Isolated non-sensical word likely caused by OCR noise."
+  },
+  {
+    "chunk_id": "1-Math-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা] ঢা 007 007 0077",
+    "note": "Contains trailing garbled text and repeated number strings."
+  }
+]

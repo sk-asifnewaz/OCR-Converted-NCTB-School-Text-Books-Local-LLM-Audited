@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Math-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দা খা গড গড | |] || টা ৮+-+-৯-+৭",
+    "note": "Contains garbled symbols and non-sensical character strings."
+  },
+  {
+    "chunk_id": "1-Math-10-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপ লন\nসস সদন সস সেল",
+    "note": "Nonsensical repetitive word fragments, likely from a corrupted table layout."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Bangla-45-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-Bangla-45-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাম",
+    "note": "Nonsensical word in context; likely an OCR corruption of a common phrase."
+  }
+]

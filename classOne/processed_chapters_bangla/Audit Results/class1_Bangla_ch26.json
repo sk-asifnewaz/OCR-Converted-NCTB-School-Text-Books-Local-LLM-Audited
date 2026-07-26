@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "1-Bangla-26-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফল ফূ\nবক ... মগ ম\nঠ",
+    "note": "Words are broken across lines and the digit string is clearly OCR noise."
+  }
+]

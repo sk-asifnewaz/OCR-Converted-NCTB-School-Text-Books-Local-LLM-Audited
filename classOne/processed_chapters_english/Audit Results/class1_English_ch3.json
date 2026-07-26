@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "1-English-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$ ¢, ood morning, |O7",
+    "note": "Contains garbled symbols and a truncated word (ood)."
+  },
+  {
+    "chunk_id": "1-English-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-English-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-English-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-English-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-English-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-English-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "----____-, arm |",
+    "note": "Contains nonsensical symbols likely resulting from table layout artifacts."
+  }
+]

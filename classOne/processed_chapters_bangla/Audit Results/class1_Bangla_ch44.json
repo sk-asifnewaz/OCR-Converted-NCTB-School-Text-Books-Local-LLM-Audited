@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "1-Bangla-44-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কা\nছা [1",
+    "note": "The end of the chunk contains a split word and a likely page/index artifact."
+  }
+]

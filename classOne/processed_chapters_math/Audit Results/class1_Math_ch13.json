@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "1-Math-13-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রক চর তু\nচর রী",
+    "note": "These are nonsensical character strings common in OCR errors."
+  },
+  {
+    "chunk_id": "1-Math-13-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ষগঘগঘগঘণর\nও 'ীদ-০",
+    "note": "Contains nonsensical character strings and garbled symbol fragments."
+  },
+  {
+    "chunk_id": "1-Math-13-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৈ পা",
+    "note": "Contains a nonsensical character sequence."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "1-Bangla-52-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "জিপ, পণ",
+    "note": "Garbled characters at the start of the chunk."
+  },
+  {
+    "chunk_id": "1-Bangla-52-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-Bangla-52-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€* ... /(। (৮৫০০-%$/ ... 7 পো নু [1 চে রা মা 7 চা 2",
+    "note": "Significant noise and symbols at the bottom of the chunk."
+  }
+]

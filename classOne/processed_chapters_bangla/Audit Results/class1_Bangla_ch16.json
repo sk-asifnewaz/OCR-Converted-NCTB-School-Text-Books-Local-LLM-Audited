@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "1-Bangla-16-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬; আখউইডএঈও",
+    "note": "6 is a digit noise in an alphabet list; joined characters form a gibberish run."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Math-17-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "1-Math-17-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাফি অভির চেয়ে",
+    "note": "Sentence ends abruptly mid-clause, likely missing the final question."
+  }
+]

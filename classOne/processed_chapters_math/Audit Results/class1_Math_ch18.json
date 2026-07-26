@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "1-Math-18-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8২",
+    "note": "Western digit '8' mixed with Bengali digit '২'."
+  },
+  {
+    "chunk_id": "1-Math-18-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪৮, |৯৮, 1৮৬, ৮৪৫",
+    "note": "Multiple instances of mixed scripts and noise symbols."
+  },
+  {
+    "chunk_id": "1-Math-18-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮৪)",
+    "note": "Likely a corruption of bracketed number or addition sign."
+  },
+  {
+    "chunk_id": "1-Math-18-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৫, 8৪০, কে)",
+    "note": "Mixed numerals and corrupted label markers."
+  },
+  {
+    "chunk_id": "1-Math-18-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তিনি গত সপ্তাহে ৫০টি চারা",
+    "note": "Sentence ends abruptly without a concluding verb or clause."
+  },
+  {
+    "chunk_id": "1-Math-18-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কে৩ত৩ত৫৩ত৫৩ত, স্ম্স্ম্কْن্্যা",
+    "note": "Nonsensical character strings and broken Unicode characters."
+  }
+]

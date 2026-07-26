@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "1-Bangla-34-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "£খ, ক্ষু ৪, 9., [২]",
+    "note": "Currency symbol and extraneous numbers are likely OCR artifacts."
+  }
+]

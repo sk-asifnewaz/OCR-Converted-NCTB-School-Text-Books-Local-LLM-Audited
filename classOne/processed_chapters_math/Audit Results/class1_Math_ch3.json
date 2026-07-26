@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "1-Math-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "27 ১৬৩ ০\nচু\nসি\nর্‌\nঢু",
+    "note": "Contains garbled characters and numbers outside the 1-10 range."
+  },
+  {
+    "chunk_id": "1-Math-3-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভঙ৩৩৩৩৬৩৬৩৬৩৬৩\n0০০১০০১০০১০\n৩৪৬৬০৬৬৩৬৩০",
+    "note": "Repetitive digit strings and nonsensical character runs are artifacts."
+  },
+  {
+    "chunk_id": "1-Math-3-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0৭\n৮৪",
+    "note": "Mixed digits and corrupted characters in a 1-10 count context."
+  },
+  {
+    "chunk_id": "1-Math-3-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মিজ৭কছ ছা\n০১২৭",
+    "note": "Garbled text and multi-digit numbers unrelated to the topic."
+  }
+]

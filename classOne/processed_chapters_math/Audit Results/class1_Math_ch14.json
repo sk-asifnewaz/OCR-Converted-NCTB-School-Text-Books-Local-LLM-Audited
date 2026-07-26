@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "1-Math-14-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পো বব /দ₹ব ৯. সংখ্যা (8৪১ থেকে ১০০) ... ১৬৮ চে ২ ৩ দ্র টা",
+    "note": "Chunk contains heavy OCR artifacts, garbled words, and out-of-range digits."
+  }
+]

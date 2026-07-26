@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Math-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১)১৭-৩- [ | (২১১০-২-( |",
+    "note": "Garbled symbols and punctuation mixed into math problems."
+  },
+  {
+    "chunk_id": "1-Math-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টু\nডি\nরণ\nসংখ্যা\n৩০০৩,৩৩৬৩।\n৩১০৩৩৩৩,৬৩।\n2255 5555\nরগ",
+    "note": "Large section of nonsensical characters and garbled text."
+  }
+]

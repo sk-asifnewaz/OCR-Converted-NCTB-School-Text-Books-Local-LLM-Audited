@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "1-Math-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-২ঁ̊",
+    "note": "Contains non-standard symbols and garbled characters at the start of a line."
+  },
+  {
+    "chunk_id": "1-Math-7-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সলামাক্ষ | 1 |\nচু 1\nস্\n৫৫৫৫৫ ৫৫৫৫-০০-৫৫ ৫৫",
+    "note": "Contains significant noise, garbled characters, and repeated digit strings."
+  },
+  {
+    "chunk_id": "1-Math-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রায়াযাযাযাযাযাযাযাযারেরায",
+    "note": "A string of repeated nonsensical characters (gibberish run)."
+  },
+  {
+    "chunk_id": "1-Math-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫কেডেডে ২৭৩\n%৭২ %০ ০০\n৯৮৭",
+    "note": "Contains garbled words and digit strings unrelated to the math topic."
+  },
+  {
+    "chunk_id": "1-Math-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$$$৫৬৫৬৫$$ ৬$$$$৫৬৫$$৫$$৬$$৫$$\nাাা] রায়াযাযাযাযাযাযায",
+    "note": "Contains non-standard symbols and repeated nonsense characters."
+  },
+  {
+    "chunk_id": "1-Math-7-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৮৭\n৪৮৪",
+    "note": "Large digit strings inconsistent with the 'Addition (11 to 20)' topic."
+  },
+  {
+    "chunk_id": "1-Math-7-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দেওয়া হয়,",
+    "note": "The sentence ends abruptly with a comma, indicating a cut-off."
+  },
+  {
+    "chunk_id": "1-Math-7-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

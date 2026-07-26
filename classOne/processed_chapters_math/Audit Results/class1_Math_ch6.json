@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Math-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩০০. .€০, ৩৩৩,৩৩৩, ০৩০০. 59585",
+    "note": "Contains garbled symbols and large numbers outside the scope of '11 to 20'."
+  },
+  {
+    "chunk_id": "1-Math-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধ*, 77707, ঢ00 707, $",
+    "note": "Garbled characters and large digits unrelated to the math curriculum."
+  }
+]

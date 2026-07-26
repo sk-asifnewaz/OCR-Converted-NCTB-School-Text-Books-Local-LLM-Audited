@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "1-Math-16-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NO_ISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "+7",
+    "note": "The '+7' and '৫ ৫+' indicate OCR noise or garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "1-Math-16-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রারাযা যাযরারাযারারাারারাম",
+    "note": "Repetitive nonsensical character sequences typical of OCR noise."
+  },
+  {
+    "chunk_id": "1-Math-16-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তার আর",
+    "note": "Sentence ends abruptly before the next numbered item starts."
+  },
+  {
+    "chunk_id": "1-Math-16-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$8888 ওজ&৩৪৪&",
+    "note": "Heavy script corruption and garbled symbols throughout the chunk."
+  }
+]

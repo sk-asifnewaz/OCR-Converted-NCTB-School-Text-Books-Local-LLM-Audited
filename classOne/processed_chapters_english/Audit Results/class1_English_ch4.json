@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "1-English-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "®\nWf\n| | | n ‘O7",
+    "note": "Garbled symbols and non-standard character sequences in title area."
+  },
+  {
+    "chunk_id": "1-English-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "mee @ Inthe Village",
+    "note": "Garbled word 'mee' likely resulting from OCR error of 'Lesson'."
+  },
+  {
+    "chunk_id": "1-English-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Cc d e",
+    "note": "Garbled character sequence likely from OCR of layout symbols."
+  },
+  {
+    "chunk_id": "1-English-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

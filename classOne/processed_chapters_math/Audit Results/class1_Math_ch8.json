@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "1-Math-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ও\nচ্‌\n্\nনি\nডি\nতব\nটড",
+    "note": "Garbled characters at the start and mixed numerals (8৪) indicate OCR artifacts."
+  },
+  {
+    "chunk_id": "1-Math-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দ্ণ\nডু\nযু",
+    "note": "Nonsensical characters at the end of the chunk are likely footer/page-break artifacts."
+  }
+]

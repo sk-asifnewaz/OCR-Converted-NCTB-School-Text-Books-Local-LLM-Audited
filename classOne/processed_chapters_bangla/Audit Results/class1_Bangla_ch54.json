@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "1-Bangla-54-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা রা\n(৫৩",
+    "note": "\"মা রা\" is likely a corrupted \"আমার\" and \"(৫৩\" is an OCR artifact."
+  }
+]
