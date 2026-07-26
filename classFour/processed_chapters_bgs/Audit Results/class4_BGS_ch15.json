@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "4-BGS-15-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সৌরশত্তি",
+    "note": "Likely OCR error for 'সৌরশক্তি'; the word 'শত্তি' is not a standard term."
+  },
+  {
+    "chunk_id": "4-BGS-15-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গণ-অভ্যুতথান, ভোগোলিক, বৃষ্ণিপাতের",
+    "note": "OCR errors for 'গণ-অভ্যুত্থান', 'ভৌগোলিক', and 'বৃষ্টিপাতের'."
+  },
+  {
+    "chunk_id": "4-BGS-15-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অঞ্লকে",
+    "note": "Garbled character/ligature resulting in a non-word."
+  },
+  {
+    "chunk_id": "4-BGS-15-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-15-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

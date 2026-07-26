@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "4-Islam-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পন ওে্ো বরং মানলে সস মবে৷্ 7৭: ৫,১৮৮। ৩০৮০০ 28 ৩০১% ৩১১০ ০1১০ গন ০২৫৯ ৩ ০%৬১০৭। ৩ ৬৭৫২৪",
+    "note": "Garbled Bengali/Arabic script and long strings of non-sequential digits."
+  },
+  {
+    "chunk_id": "4-Islam-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-5",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated school year line at the end of the chunk."
+  },
+  {
+    "chunk_id": "4-Islam-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ণ্হüe\nরা\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Garbled characters/symbols and duplicated date line."
+  },
+  {
+    "chunk_id": "4-Islam-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সা তেদেকিসেওএ&/ ৮\n১। ॥ ৮",
+    "note": "Garbled symbols and nonsensical script segments."
+  },
+  {
+    "chunk_id": "4-Islam-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বি ০০ তত\nটে\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Garbled fragments and repeated year text."
+  },
+  {
+    "chunk_id": "4-Islam-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "(9 দাও",
+    "note": "Number '9' appears to be an OCR error for a word."
+  },
+  {
+    "chunk_id": "4-Islam-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩৩\nএততততত এতততএএএ\n০০০",
+    "note": "Garbled repetitive characters and random numbers in fill-in blanks."
+  },
+  {
+    "chunk_id": "4-Islam-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

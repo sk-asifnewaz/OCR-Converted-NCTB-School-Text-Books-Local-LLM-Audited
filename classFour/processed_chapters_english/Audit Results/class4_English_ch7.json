@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "4-English-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "i1)",
+    "note": "Likely a misread of the Roman numeral ii)."
+  },
+  {
+    "chunk_id": "4-English-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "111)",
+    "note": "Likely a misread of the Roman numeral iii)."
+  },
+  {
+    "chunk_id": "4-English-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN",
+    "note": "Garbled characters likely from graphic elements or symbols."
+  },
+  {
+    "chunk_id": "4-English-7-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "cece eccccccce",
+    "note": "Nonsensical repeated character string, likely from a blank space."
+  },
+  {
+    "chunk_id": "4-English-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN\nay",
+    "note": "Garbled character fragments likely from decorative page elements."
+  },
+  {
+    "chunk_id": "4-English-7-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "heey\nteewston Sd\nTein\nee\n[reaenioneemsdoot |",
+    "note": "Large block of garbled text and nonsense strings."
+  }
+]

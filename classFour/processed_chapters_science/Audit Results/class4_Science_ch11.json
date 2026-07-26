@@ -1,0 +1,227 @@
+[
+  {
+    "chunk_id": "4-Science-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চুঁ",
+    "note": "Standalone character likely a fragment or OCR artifact."
+  },
+  {
+    "chunk_id": "4-Science-11-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ই যাকরতে হবে",
+    "note": "Garbled word, likely intended to be 'কী করতে হবে'."
+  },
+  {
+    "chunk_id": "4-Science-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এস্ষী... কট যা করতে হবে-... আজ তথ্য সংগ্রহ আজ” সমা ই",
+    "note": "Multiple instances of garbled text and incoherent sentence fragments."
+  },
+  {
+    "chunk_id": "4-Science-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"্পস্**",
+    "note": "Non-sensical character sequence likely from a corrupted image caption."
+  },
+  {
+    "chunk_id": "4-Science-11-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪।",
+    "note": "Incorrect numeral prefix for a list item."
+  },
+  {
+    "chunk_id": "4-Science-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রড",
+    "note": "Isolated characters likely a fragment of another word."
+  },
+  {
+    "chunk_id": "4-Science-11-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-12",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "medium",
+    "evidence": "একটি বন্ধু বা বিষয়ের",
+    "note": "Word 'বন্ধু' (friend) is likely an OCR error for 'চিত্র' (picture)."
+  },
+  {
+    "chunk_id": "4-Science-11-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "[__]",
+    "note": "Placeholder or bracket noise from OCR."
+  },
+  {
+    "chunk_id": "4-Science-11-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "901:8001.1110.০0৮... ট্\nনেডদ16 ভুয়ো 65, গল প0155",
+    "note": "Massive corruption of text into nonsensical strings and numbers."
+  },
+  {
+    "chunk_id": "4-Science-11-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভ্দুচ্ে চুভরাজান এ ছদ্ম বিণ জজ 73৮ এলটইজ।",
+    "note": "Entire chunk is garbled text."
+  },
+  {
+    "chunk_id": "4-Science-11-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আুতত্রছনা 8. 2 দাত ড ছ গাদন জ্ঞান চে দেনদেনেন।",
+    "note": "Body text is almost entirely garbled."
+  },
+  {
+    "chunk_id": "4-Science-11-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চিনা গেটের ) ওন্সানের দ্ব্রণ্াগালো নন্দ 0]",
+    "note": "Garbled text from a failed OCR of an image/graphic."
+  },
+  {
+    "chunk_id": "4-Science-11-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টু\n|॥\nও... হ ভন্ন ভ হার য়",
+    "note": "Various symbols and fragments suggest layout noise."
+  },
+  {
+    "chunk_id": "4-Science-11-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(50৮0৫) ... (8%95)",
+    "note": "Nonsensical numeric strings likely from a side panel."
+  },
+  {
+    "chunk_id": "4-Science-11-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0]9130013) ... (৬3113808165)",
+    "note": "Nonsensical numeric strings likely from a side panel."
+  },
+  {
+    "chunk_id": "4-Science-11-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮। ... -.. :_..:.. ... ধা াাارك",
+    "note": "Mixed numeric noise and garbled text."
+  },
+  {
+    "chunk_id": "4-Science-11-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-11-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্ক্লাচ",
+    "note": "Typo/OCR error of 'স্ক্যাচ'."
+  }
+]

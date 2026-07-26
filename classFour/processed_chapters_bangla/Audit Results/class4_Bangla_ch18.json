@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "4-Bangla-18-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বছর।",
+    "note": "Chunk begins with the end of a phrase, likely 'দশ বছর' or similar."
+  },
+  {
+    "chunk_id": "4-Bangla-18-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৷ ১০১2-",
+    "note": "Non-contextual digit/punctuation string likely from a page header or footer."
+  },
+  {
+    "chunk_id": "4-Bangla-18-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৯৩২ সালের একই",
+    "note": "Chunk ends abruptly mid-sentence."
+  },
+  {
+    "chunk_id": "4-Bangla-18-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-18-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ *৬৩৬০৩৬৩৬৬৬৬৩৬৩৬৩৬৬৬৬৩৩৬৬০৬৩৬৩৩৬৩৬৬৬০৩৩৬৬৬০৬৩৩৬৬৬৩৩৬৬৬০৬৩৩৬৩৬৬৬৬৩৩৩৬৩৬৬৩৬৩৩৬৩৬৬০৬৬৩৩৬০৬৬০৩৬৬৬০৬৩৩৩৬৬৬৬৬৫৫৩৬০৬৬০৬৬৬৬৬৬৬০৬৩৬৬৬৬০৬৩০৬৬",
+    "note": "Large sequence of nonsensical digits and symbols, likely OCR artifacts."
+  }
+]

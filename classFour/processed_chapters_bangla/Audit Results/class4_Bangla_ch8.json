@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "4-Bangla-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "|",
+    "note": "The vertical bar is a non-standard character/artifact in the text."
+  },
+  {
+    "chunk_id": "4-Bangla-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ\n|\nশিক্ষাবর্ষ",
+    "note": "Repetition of 'শিক্ষাবর্ষ' and presence of pipe character."
+  },
+  {
+    "chunk_id": "4-Bangla-8-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীদছে",
+    "note": "Nonsensical word, likely an OCR error for 'কাঁদছে'."
+  },
+  {
+    "chunk_id": "4-Bangla-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-12",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repetition of the 'শিক্ষা বর্ষ' line."
+  },
+  {
+    "chunk_id": "4-Bangla-8-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-8-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পদপমপগ |\n৬৩০০৬৬৬৬৬৩৬ ৬৬৬৩৬০৬৬০৩৩৬৬৬০৬৩৩৬৬০৬৬০৬৩৬৩৬৬৬০৬৬৩৩৬৬৬০৬৬০৬৩৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬৬০",
+    "note": "Contains gibberish words, non-standard characters, and long strings of digits."
+  },
+  {
+    "chunk_id": "4-Bangla-8-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬৬৬৬৬৩৬ ৬৬৬৩৬০৬৬০৩৩৬৬৬০৬৩৩৬৬৬৬৩৬৬৬৬০৬৩৬৬৬৬৬৬৩৬৬৬৬০৬৬০৬৬০৬৬০৬৬০৬৬",
+    "note": "Long, non-sensical sequence of digits at the start of the chunk."
+  }
+]

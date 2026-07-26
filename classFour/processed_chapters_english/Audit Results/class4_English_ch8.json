@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-English-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "c=], = |, er",
+    "note": "Contains non-linguistic symbols and a truncated word at the end."
+  },
+  {
+    "chunk_id": "4-English-8-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN\nMy Family i tpt\n‘N",
+    "note": "Non-sensical character sequences likely from a sidebar or footer."
+  },
+  {
+    "chunk_id": "4-English-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-8-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "c. grandchildren ili.",
+    "note": "Garbled list markers (likely iii. and iv.) identified as digit noise."
+  },
+  {
+    "chunk_id": "4-English-8-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ay",
+    "note": "Word at the end of the chunk is truncated."
+  },
+  {
+    "chunk_id": "4-English-8-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-8-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "I ect a ect\nyeu a",
+    "note": "Nonsensical fragments likely from a poorly recognized table."
+  },
+  {
+    "chunk_id": "4-English-8-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN",
+    "note": "Repeated non-sensical character sequences."
+  },
+  {
+    "chunk_id": "4-English-8-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Peer ee rr cece scene cence e seen sees seeesees seer seseseeeseeeseeesereseesseeeseeeseesss",
+    "note": "Large block of repetitive, nonsensical character sequences."
+  },
+  {
+    "chunk_id": "4-English-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-8-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "eo «WW",
+    "note": "Non-linguistic symbols and garbled characters at the end."
+  }
+]

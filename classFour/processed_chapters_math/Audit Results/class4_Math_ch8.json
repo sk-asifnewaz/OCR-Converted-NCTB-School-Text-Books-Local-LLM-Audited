@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "4-Math-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩্য",
+    "note": "The character '৩্য' is likely a mangled OCR of '৩য়' (3rd)."
+  },
+  {
+    "chunk_id": "4-Math-8-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধারণক্ষমতাবিশিষ্ণ",
+    "note": "This word is a garbled sequence and does not exist in the language."
+  },
+  {
+    "chunk_id": "4-Math-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তু",
+    "note": "The character 'ত' is likely an OCR error for the numeral '৩'."
+  },
+  {
+    "chunk_id": "4-Math-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "জ্",
+    "note": "Garbled Unicode/character not belonging in the text."
+  },
+  {
+    "chunk_id": "4-Math-8-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মা! ... ০ লা ১ লা ... ড5 ₹ ... স্ট тща",
+    "note": "Multiple segments of nonsensical text and garbled Unicode."
+  },
+  {
+    "chunk_id": "4-Math-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আয়তনগুঁলোকে ... ১১১১১ (8) ১১১১১১১১০০০ ... [| ...",
+    "note": "Contains garbled words and excessive, non-contextual digit strings."
+  },
+  {
+    "chunk_id": "4-Math-8-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪ ... ₹০.১ ... -(৭ খ্ব)সেগির-",
+    "note": "Contains multiple instances of garbled characters and symbols."
+  },
+  {
+    "chunk_id": "4-Math-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খগ্রা",
+    "note": "Garbled word likely resulting from OCR of a different term."
+  },
+  {
+    "chunk_id": "4-Math-8-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রাবার রা ... ভি ... লো পার গল",
+    "note": "Nonsensical phrases likely from layout artifacts or broken text."
+  },
+  {
+    "chunk_id": "4-Math-8-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৩এ। ... ]টি",
+    "note": "Garbled characters/punctuation in context of calculation."
+  },
+  {
+    "chunk_id": "4-Math-8-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩টি ৩ ... €",
+    "note": "Decimal values misread as characters and inclusion of foreign symbol."
+  },
+  {
+    "chunk_id": "4-Math-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ ... ১:২৮ 01০৯ ২০৫] ] ১ ৩০২ ১৮ ল১৮[",
+    "note": "Garbled symbols and a string of incoherent, noisy digits."
+  },
+  {
+    "chunk_id": "4-Math-8-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১-_",
+    "note": "Garbled character sequence in mathematical expression."
+  },
+  {
+    "chunk_id": "4-Math-8-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "।1৪১.১২, 1১১৭৬, ী।",
+    "note": "Nonsensical string of symbols and numbers."
+  },
+  {
+    "chunk_id": "4-Math-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পু চ",
+    "note": "Garbled word/fragment."
+  },
+  {
+    "chunk_id": "4-Math-8-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "! ] ... _ [ ]",
+    "note": "Garbled punctuation and bracket remnants."
+  },
+  {
+    "chunk_id": "4-Math-8-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অক্ঞে ... && ... ৮৪",
+    "note": "Garbled characters and nonsensical symbols."
+  },
+  {
+    "chunk_id": "4-Math-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩.৪( ] ... ৭)৬৩[",
+    "note": "Broken bracket structures and garbled symbols."
+  },
+  {
+    "chunk_id": "4-Math-8-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩১ কিসি ১৯৯",
+    "note": "Garbled digits and characters in a distance calculation context."
+  }
+]

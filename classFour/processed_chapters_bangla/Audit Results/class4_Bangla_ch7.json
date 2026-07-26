@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "4-Bangla-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ষুদিরামকে",
+    "note": "The character 'ষ' is a corruption of 'ক্ষ্য' in the name 'সাক্ষ্যদিরাম'."
+  },
+  {
+    "chunk_id": "4-Bangla-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বি\nআমায় নেবে সঙ্গ, «১৭\nবাংলা আমার বচন, আমি : /, ৮",
+    "note": "Contains fragments like 'বি' and symbols/numbers that are OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Bangla-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হীটতে, রত্তু",
+    "note": "Words 'হীটতে' and 'রত্তু' are clearly OCR errors for 'হাঁটে/হেটে' and 'রক্ত'."
+  },
+  {
+    "chunk_id": "4-Bangla-7-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬০৬৩৬৩ ৩৬৩৬০৬৩৬৩৬৬০৬৩৬০৩৩৩৬৩৬৩৬",
+    "note": "Long strings of random digits and nonsensical words like 'ছিলমি' are present."
+  },
+  {
+    "chunk_id": "4-Bangla-7-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আমার বাংলা বই\nশিক্ষাবর্ষ ২০২৬\nআমার বাংলা বই\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Large blocks of noise digits and repeated footer information."
+  },
+  {
+    "chunk_id": "4-Bangla-7-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মস্্স্স্ম্নোআলোনোাোলেসোমোোোেেন",
+    "note": "A long sequence of nonsensical characters and garbled text."
+  }
+]

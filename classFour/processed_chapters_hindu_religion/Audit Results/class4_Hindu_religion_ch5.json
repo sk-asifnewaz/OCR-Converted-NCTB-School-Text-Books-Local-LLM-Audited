@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "4-Hindu_religion-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ফোঁদ",
+    "note": "Likely a misreading of 'মুগ্ধ' or similar."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বষ্ধু, সৃষ্চি",
+    "note": "OCR errors for 'বস্তু' and 'সৃষ্টি'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীড়াবো, বষ্ধু",
+    "note": "Corrupted words for 'দাঁড়াবো' and 'বস্তু'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8., ৬), জজ, চু",
+    "note": "Mixed number/punctuation and trailing garbage."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জীবে সেবা \"জীবে দয়া নামে রুচি বৈষ্ণব সেবন",
+    "note": "Multiple lines merged/garbled during OCR."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তৃূলল, এর্প",
+    "note": "OCR artifacts for 'সুস্থ' and 'এর'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&, ঙ%",
+    "note": "Garbled symbols and characters."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মঞ্ালের, 8.",
+    "note": "Typos and incorrect list numbering."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দেশপ্লরেী, দীঁড়ান",
+    "note": "Garbled words for 'দেশপ্রেমী' and 'দাঁড়ান'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্তবীর্যার্ভুন, আর্রমণকারী",
+    "note": "OCR errors for 'কার্তবীর্য' and 'আক্রমণকারী'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$52%8",
+    "note": "Nonsense digit/symbol run."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/&ি, ---০-০০---",
+    "note": "Garbled symbols and placeholder noise."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-29",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮. দেশপ্রেম একটি ছিলেন রাবণ।",
+    "note": "Incoherent sentence created by merging two different lines."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জীবপ্লরেম",
+    "note": "OCR error for 'জীবপ্রেম'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

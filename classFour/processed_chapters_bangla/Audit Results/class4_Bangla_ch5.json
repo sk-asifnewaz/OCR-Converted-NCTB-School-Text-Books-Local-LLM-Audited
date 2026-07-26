@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "4-Bangla-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মুত্ত আকাশ",
+    "note": "The word 'মুক্ত' (free) was likely corrupted to 'মুত্ত'."
+  },
+  {
+    "chunk_id": "4-Bangla-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬৬০৬৬০৬ ৬০৬৬০৬৬৬৬০৬৬০৬৬০৬৬০৬৬ ... ক, আমর বড়ে দের লমрь়্ম়মম় মলা বৃ রর |",
+    "note": "Contains a long string of nonsensical digits and a garbled final sentence."
+  },
+  {
+    "chunk_id": "4-Bangla-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬৬৬০৬৩৬৬৬ ৬৬৩৩৬৩৬৬৬৬৩৩৬৬৬৬... নেল্লোবেকেরেোে জেরে কা রা কয",
+    "note": "Contains a long string of digits and a nonsensical garbled sentence at the end."
+  },
+  {
+    "chunk_id": "4-Bangla-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬০৬৬৩৬৬ ৬৬৬৩৩৬৬৬৬৬৩৬৬০৩৬৩৬৩৩৬৬৬০৩৩৩৬৩৬৬৬৬৩৬৩৬৬৬৩৬৩৬৩৬৬৩৬৩৬৩৬৩৩৬৬৬০৬৩৩৬৩৬০৬০৬৩৩৬৬০৬৬০৩৬৬০৬৬০৬৬০৬৩৬৬৬০৬০৬৩০৬৬",
+    "note": "A long string of digits is inserted before the content."
+  },
+  {
+    "chunk_id": "4-Bangla-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

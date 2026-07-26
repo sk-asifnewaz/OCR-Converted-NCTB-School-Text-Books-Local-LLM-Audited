@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "4-Math-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹$৩৬৩৩৩৩৩৩৩৬ ৩৬৩৬৩৬৬",
+    "note": "Contains currency symbols, multiple digit noise runs and gibberish words like 'পুস্পপ'."
+  },
+  {
+    "chunk_id": "4-Math-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্র স্স্",
+    "note": "Garbled Bengali text likely resulting from poor OCR of 'এবার'."
+  },
+  {
+    "chunk_id": "4-Math-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮)/৯চ",
+    "note": "Corrupted mathematical notation/fractions."
+  },
+  {
+    "chunk_id": "4-Math-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ₹-",
+    "note": "Currency symbol used unexpectedly in text."
+  },
+  {
+    "chunk_id": "4-Math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯/।১৷,৫।৪",
+    "note": "Garbled punctuation and characters in a numeric sequence."
+  },
+  {
+    "chunk_id": "4-Math-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চাযডনলাকাহ",
+    "note": "Nonsensical garbled word."
+  },
+  {
+    "chunk_id": "4-Math-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৪১৫৬১৬৯)(৬১৫১৫৯) ৫৯৫৯",
+    "note": "Long string of digits and symbols with no mathematical context."
+  },
+  {
+    "chunk_id": "4-Math-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০-৩০ল",
+    "note": "Garbled character 'ল' likely replacing a division symbol or punctuation."
+  },
+  {
+    "chunk_id": "4-Math-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা লন",
+    "note": "Garbled phrase likely from a standard sentence."
+  },
+  {
+    "chunk_id": "4-Math-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আঞ্জুল",
+    "note": "Garbled word, likely 'অঙ্ক' or similar."
+  },
+  {
+    "chunk_id": "4-Math-4-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯০৮৩০৬৯৭৯২৯ পপ ]",
+    "note": "Nonsensical string of digits and punctuation."
+  },
+  {
+    "chunk_id": "4-Math-4-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্যাম)",
+    "note": "Garbled text or leftover markup symbols."
+  },
+  {
+    "chunk_id": "4-Math-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হড়ডা",
+    "note": "Garbled word."
+  },
+  {
+    "chunk_id": "4-Math-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভাজ্য সভাজকর",
+    "note": "Garbled term for 'bhajak' (divisor)."
+  },
+  {
+    "chunk_id": "4-Math-4-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গৃণ",
+    "note": "Garbled word likely meaning 'গুণ' (multiplication)."
+  },
+  {
+    "chunk_id": "4-Math-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-4-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লা মার",
+    "note": "Garbled word, likely 'ডজন' (dozen)."
+  },
+  {
+    "chunk_id": "4-Math-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভাজ্যল, ₹ |",
+    "note": "Garbled word and currency symbol used as noise."
+  },
+  {
+    "chunk_id": "4-Math-4-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নার মারা",
+    "note": "Garbled phrase."
+  },
+  {
+    "chunk_id": "4-Math-4-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্ক্কের",
+    "note": "Garbled word, likely 'অঙ্কের'."
+  },
+  {
+    "chunk_id": "4-Math-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্ী",
+    "note": "Garbled word, likely 'যদি'."
+  },
+  {
+    "chunk_id": "4-Math-4-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(&&",
+    "note": "Garbled symbol or text."
+  },
+  {
+    "chunk_id": "4-Math-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪৮ ৯+-১৩- |], স৯- |",
+    "note": "Garbled symbols and characters likely from a math layout."
+  },
+  {
+    "chunk_id": "4-Math-4-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ&ী, €)",
+    "note": "Garbled text and symbol errors."
+  },
+  {
+    "chunk_id": "4-Math-4-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৭স৮রচ-৪ল",
+    "note": "Garbled text containing random digits and symbols."
+  }
+]

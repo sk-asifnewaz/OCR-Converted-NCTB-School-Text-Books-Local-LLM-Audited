@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "4-BGS-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গুরুত্",
+    "note": "Truncated or improperly rendered word for 'গুরুত্ব' (importance)."
+  },
+  {
+    "chunk_id": "4-BGS-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১৬১১৬১১৬১১৬|||১৬৬১৬১১৬১১৬",
+    "note": "Large blocks of repetitive/nonsensical numbers and symbols."
+  },
+  {
+    "chunk_id": "4-BGS-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€«",
+    "note": "Non-Bengali characters (Euro symbol and guillemets) appear in text."
+  },
+  {
+    "chunk_id": "4-BGS-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪)",
+    "note": "Likely a misread of the Bengali character 'ঘ' as digits '৮৪'."
+  },
+  {
+    "chunk_id": "4-BGS-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১: 1 নন ৰ ' ধ্ তা",
+    "note": "Fragmented, incoherent text mixed with random digits."
+  },
+  {
+    "chunk_id": "4-BGS-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উঁটু",
+    "note": "Likely a corrupted rendering of 'উঁচু' (high)."
+  },
+  {
+    "chunk_id": "4-BGS-9-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "рма চন ২৬০",
+    "note": "Broken words and random digits in place of 'সমতল' (plain)."
+  }
+]

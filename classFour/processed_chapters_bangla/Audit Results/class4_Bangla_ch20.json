@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "4-Bangla-20-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-20-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তৃমি",
+    "note": "Likely a misread of 'তুমি' due to vowel combination errors."
+  },
+  {
+    "chunk_id": "4-Bangla-20-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "দার্ণ",
+    "note": "Likely an OCR corruption of 'দারুণ'."
+  },
+  {
+    "chunk_id": "4-Bangla-20-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইউটার্ন ধ; ৩০ থাকে",
+    "note": "Phrase cut off at 'ধ' and random digit noise in '৩০ থাকে'."
+  },
+  {
+    "chunk_id": "4-Bangla-20-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেত বুঝে খেলি; যাগামতো",
+    "note": "Mangled words likely for 'সংকেত' and a prepositional phrase."
+  },
+  {
+    "chunk_id": "4-Bangla-20-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুর্ষদের",
+    "note": "OCR error for 'পুরুষদের' where vowels were misread."
+  },
+  {
+    "chunk_id": "4-Bangla-20-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

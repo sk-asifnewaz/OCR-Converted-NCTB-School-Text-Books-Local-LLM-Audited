@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "4-BGS-12-1",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাম কী? ট",
+    "note": "The character 'ট' is a stray symbol not belonging to the sentence."
+  },
+  {
+    "chunk_id": "4-BGS-12-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ছবি-২ ২",
+    "note": "Repeated digit '২' is a common OCR artifact."
+  },
+  {
+    "chunk_id": "4-BGS-12-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আমাদের ৩.",
+    "note": "Trailing digit '৩.' is an out-of-place sequence."
+  },
+  {
+    "chunk_id": "4-BGS-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-12-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পেশার নাম কেন গুরুত্পূর্ণ পেশার নাম কেন গুরুত্বপূর্ণ",
+    "note": "The phrase is repeated twice in one line with minor spelling variations."
+  },
+  {
+    "chunk_id": "4-BGS-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-12-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-12-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8)",
+    "note": "The digit '8' appears where a sequence number like '৪' is expected."
+  },
+  {
+    "chunk_id": "4-BGS-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সপণ্টযের",
+    "note": "Garbled word 'সপণ্টযের' instead of 'সম্পদের'."
+  }
+]

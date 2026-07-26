@@ -1,0 +1,407 @@
+[
+  {
+    "chunk_id": "4-Science-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্টলুয়াকর",
+    "note": "Corrupted text likely meant to be 'কী করতে হবে' (what to do)."
+  },
+  {
+    "chunk_id": "4-Science-9-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/স্ী",
+    "note": "Garbled symbol or character likely from a broken icon/graphic."
+  },
+  {
+    "chunk_id": "4-Science-9-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রড",
+    "note": "Stray character/artifact likely from an OCR scan boundary."
+  },
+  {
+    "chunk_id": "4-Science-9-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০)",
+    "note": "Likely a misread degree symbol for Celsius temperature."
+  },
+  {
+    "chunk_id": "4-Science-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাচষ্পে",
+    "note": "Repeated corruption of the character 'ষ' in the word for 'vapor'."
+  },
+  {
+    "chunk_id": "4-Science-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(101)",
+    "note": "Likely a misread of measurement units (e.g., mm)."
+  },
+  {
+    "chunk_id": "4-Science-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রড",
+    "note": "Stray character/artifact from OCR scan."
+  },
+  {
+    "chunk_id": "4-Science-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লা যাকরতে হবে:",
+    "note": "Corrupted text likely intended as 'কী করতে হবে' (what to do)."
+  },
+  {
+    "chunk_id": "4-Science-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "\"স্মরন",
+    "note": "Stray quote and corrupted text segment."
+  },
+  {
+    "chunk_id": "4-Science-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญল, ধু তবেগে",
+    "note": "Corruption of Bengali characters in 'অঞ্চল' and 'দ্রুতবেগে'."
+  },
+  {
+    "chunk_id": "4-Science-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রর",
+    "note": "Stray characters or artifact from a scan boundary."
+  },
+  {
+    "chunk_id": "4-Science-9-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্টল যা করতে হবে:, স্য্ম্ম্হী, স্বাদ তপমাত্রা(ভিগ্রিসেলসিয়াস)",
+    "note": "Multiple instances of garbled text for instruction headers."
+  },
+  {
+    "chunk_id": "4-Science-9-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪ ৭ ৮ঘ৮ছয ০ মম তর ওত ২৭৭৮৪ শপথ ৭৫৭\"",
+    "note": "Complete failure to process a table or data header."
+  },
+  {
+    "chunk_id": "4-Science-9-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(103), (0110103)",
+    "note": "Numerical noise where cloud type names or identifiers should be."
+  },
+  {
+    "chunk_id": "4-Science-9-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(30303), (২110085)",
+    "note": "Numerical noise where cloud type names or identifiers should be."
+  },
+  {
+    "chunk_id": "4-Science-9-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টুল যাকরতে হবে:, সনদ.",
+    "note": "Garbled instruction labels and artifacts."
+  },
+  {
+    "chunk_id": "4-Science-9-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দুট",
+    "note": "Likely a corruption of the word 'দুই' (two)."
+  },
+  {
+    "chunk_id": "4-Science-9-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুট, বৃ্ষি",
+    "note": "Corruptions of 'দুই' and 'বৃষ্টি'."
+  },
+  {
+    "chunk_id": "4-Science-9-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্লীসের, রড, \"স্মরন",
+    "note": "Garbled words and artifacts from scan."
+  },
+  {
+    "chunk_id": "4-Science-9-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৃ্ষি",
+    "note": "Corruption of the word 'বৃষ্টি'."
+  },
+  {
+    "chunk_id": "4-Science-9-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ডি",
+    "note": "Trailing artifact/truncated word at end of chunk."
+  },
+  {
+    "chunk_id": "4-Science-9-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-38",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ সন পিস স়্ র্‌ এনা _ । লো, কুরে ষ্ঠ নু স্ম্মрь",
+    "note": "Entire block is nonsense/corrupted text from a failed table read."
+  },
+  {
+    "chunk_id": "4-Science-9-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চক্যর, চক্কের",
+    "note": "Repeated corruption of the word 'চক্র' (cycle)."
+  },
+  {
+    "chunk_id": "4-Science-9-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চক্যর, চক্কের",
+    "note": "Repeated corruption of the word 'চক্র' (cycle)."
+  },
+  {
+    "chunk_id": "4-Science-9-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-9-42",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তৃষারে",
+    "note": "Context implies 'তুশারা' (snow/frost), but text says 'তৃষা' (thirst)."
+  },
+  {
+    "chunk_id": "4-Science-9-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাচষ্পে, বাচষ্পীভরষণ",
+    "note": "Corruption of the word 'বাষ্প' (vapor) and its related terms."
+  },
+  {
+    "chunk_id": "4-Science-9-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাচষ্পীভরষণ",
+    "note": "Corruption of the word 'বাষ্পীভরষণ'."
+  },
+  {
+    "chunk_id": "4-Science-9-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

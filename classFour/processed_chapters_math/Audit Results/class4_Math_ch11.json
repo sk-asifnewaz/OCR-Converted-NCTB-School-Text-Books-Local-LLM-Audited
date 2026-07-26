@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "4-Math-11-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্কিন জা ও সে\nঅজ ছা চো জাতে জান জা জা জা ॥",
+    "note": "Nonsensical character sequences that do not form real words."
+  },
+  {
+    "chunk_id": "4-Math-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-11-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তম্ভলেখ, স্ুম্ভলেখ, ভলিবল চ",
+    "note": "Corrupted words for 'স্তম্ভলেখ' and a truncated word at the end."
+  },
+  {
+    "chunk_id": "4-Math-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[\\n৯\" ০১\\n॥\\n\\\"চু\\\"... কখ রেখা... কগ রেখা",
+    "note": "Garbled Unicode and nonsensical character segments."
+  },
+  {
+    "chunk_id": "4-Math-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ত্ভলেখ",
+    "note": "Corrupted spelling of 'স্তম্ভলেখ'."
+  },
+  {
+    "chunk_id": "4-Math-11-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্তভ্ভলেখ",
+    "note": "Corrupted spelling of 'স্তম্ভলেখ'."
+  },
+  {
+    "chunk_id": "4-Math-11-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্রী]... &্রী ৪8র্ণ",
+    "note": "Garbled Unicode and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "4-Math-11-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গোয়েন্দা কাহিনি চ",
+    "note": "Sentence/word ends abruptly with a single character."
+  },
+  {
+    "chunk_id": "4-Math-11-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-11-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

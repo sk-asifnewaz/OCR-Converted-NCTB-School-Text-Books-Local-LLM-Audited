@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "4-Bangla-19-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-19-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-19-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-19-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-19-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০০।\nশিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Contains a likely page/section marker and repeated header."
+  },
+  {
+    "chunk_id": "4-Bangla-19-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বন্ধ ন্ধ\nরক্ষা ন্ম\nপ্রচণ্ড তা]\n১০১:",
+    "note": "Incomplete words, non-standard characters, and noise numbers."
+  },
+  {
+    "chunk_id": "4-Bangla-19-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৩০৬৬০৬৬৬০৬৬০৬৬৩৩৬৬৬৬০৬৬",
+    "note": "Long string of numbers likely from page borders or graphics."
+  },
+  {
+    "chunk_id": "4-Bangla-19-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬০৬... \nপ্রদ্তুত",
+    "note": "Contains a digit string and a malformed word."
+  },
+  {
+    "chunk_id": "4-Bangla-19-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬৩৬০৬...",
+    "note": "Long string of numbers at the end of the chunk."
+  }
+]

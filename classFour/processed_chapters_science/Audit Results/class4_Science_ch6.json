@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-Science-6-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "'' গতির",
+    "note": "The apostrophes/quotes before 'গতির' are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Science-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্বির, স্টল, রি\nঠা\n২]\nঠা\nহু",
+    "note": "Multiple OCR artifacts and non-sensical words like 'স্বির' and 'স্টল'."
+  },
+  {
+    "chunk_id": "4-Science-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়।\n\"2 বল",
+    "note": "'হ্য়' is a corrupted character and \"2 is an OCR artifact."
+  },
+  {
+    "chunk_id": "4-Science-6-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী কাজ:",
+    "note": "The text appears cut off at the start of 'রীতি' or 'নীর্ধারিত'."
+  },
+  {
+    "chunk_id": "4-Science-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বির, বস্তর",
+    "note": "Corrupted words 'স্বির' and 'বস্তর' instead of context-appropriate terms."
+  },
+  {
+    "chunk_id": "4-Science-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/॥, আনতে অথবা",
+    "note": "Garbled symbols and a sentence cut off at the end."
+  },
+  {
+    "chunk_id": "4-Science-6-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত, টি",
+    "note": "'দুত' is a corruption of 'দ্রুত'; 'টি' is a trailing fragment."
+  },
+  {
+    "chunk_id": "4-Science-6-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\"”্স্ম্ুপী",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "4-Science-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8",
+    "note": "Digit '8' used where a bracket or Bengali numeral is expected."
+  },
+  {
+    "chunk_id": "4-Science-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8।",
+    "note": "Western digit '8' used instead of Bengali numeral '৮'."
+  }
+]

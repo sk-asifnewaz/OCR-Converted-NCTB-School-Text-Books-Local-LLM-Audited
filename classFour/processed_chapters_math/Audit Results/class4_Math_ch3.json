@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "4-Math-3-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গূ্য ]\nগৃণক |\nগুল]",
+    "note": "Multiple instances of garbled text for 'গুণ্য', 'গুণক' and 'গুণফল'."
+  },
+  {
+    "chunk_id": "4-Math-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উট্া",
+    "note": "Nonsensical character sequence likely from OCR error."
+  },
+  {
+    "chunk_id": "4-Math-3-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৮৮৮০০০) ৮ ৩৮৮৮ _৩৮৮৮০০০",
+    "note": "Underscores and extra brackets in numbers suggest OCR noise."
+  },
+  {
+    "chunk_id": "4-Math-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গুণ্য চুরি\nএবং গুণকের শেষে... ॥? ॥",
+    "note": "Word 'চুরি' is likely a misread of 'করণ', and symbols are garbled."
+  },
+  {
+    "chunk_id": "4-Math-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বরা রা\n১৫৬৪ [] ঢ00২৮",
+    "note": "Incoherent words and non-numeric symbols in math expressions."
+  },
+  {
+    "chunk_id": "4-Math-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুণফল [ ] দন |]",
+    "note": "Garbled text and bracket noise in mathematical descriptions."
+  },
+  {
+    "chunk_id": "4-Math-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯ঢা... লতা ]5ঢ",
+    "note": "Non-sensical words likely resulting from failed OCR of Bengali text."
+  },
+  {
+    "chunk_id": "4-Math-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৭৫৭০ ১াাচদাা]",
+    "note": "Garbled word '১াাচদাা' is clearly corrupted."
+  },
+  {
+    "chunk_id": "4-Math-3-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ&็ী... ফীঁকা ঘরে",
+    "note": "Garbled character 'গ&็ী' and misread word 'দী' for 'ফাঁকা'."
+  },
+  {
+    "chunk_id": "4-Math-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১! ৩০০ সলকত?\n&& গুণ করি।",
+    "note": "Garbled symbols and misspelled word 'সলকত'."
+  },
+  {
+    "chunk_id": "4-Math-3-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫৩২ *£*৪১৭... ১ মাসল-৩০দিন",
+    "note": "Special characters in numbers and 'মাসল' instead of 'মাস'. "
+  },
+  {
+    "chunk_id": "4-Math-3-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডভী সাবিহা... ধলঞী একটি",
+    "note": "Highly garbled words 'ডভী', 'সাভিহা', and 'ধলঞী'."
+  },
+  {
+    "chunk_id": "4-Math-3-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী তোমার কাছে",
+    "note": "The character 'রী' is likely a fragment of a corrupted word."
+  }
+]

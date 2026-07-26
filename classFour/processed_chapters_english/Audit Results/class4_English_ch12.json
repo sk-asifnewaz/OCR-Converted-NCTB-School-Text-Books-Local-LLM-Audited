@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "4-English-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN",
+    "note": "Non-sensical characters likely from table borders or layout artifacts."
+  },
+  {
+    "chunk_id": "4-English-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-12-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "o,",
+    "note": "Standalone character/punctuation fragment is likely OCR noise."
+  },
+  {
+    "chunk_id": "4-English-12-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-12-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0.. , Maki ;\naKTINS",
+    "note": "Incoherent characters and stray numbers from layout elements."
+  },
+  {
+    "chunk_id": "4-English-12-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "~\nrT",
+    "note": "Artifacts from graphics or page borders."
+  },
+  {
+    "chunk_id": "4-English-12-9",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "We will you.",
+    "note": "Grammatically incomplete/nonsensical sentence missing a verb or object."
+  },
+  {
+    "chunk_id": "4-English-12-10",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "are are, Nipa tomorrow.",
+    "note": "Repeated word 'are' and truncated phrase at end."
+  },
+  {
+    "chunk_id": "4-English-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN",
+    "note": "Non-sensical characters likely from table borders or layout artifacts."
+  }
+]

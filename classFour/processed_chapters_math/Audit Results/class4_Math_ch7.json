@@ -1,0 +1,218 @@
+[
+  {
+    "chunk_id": "4-Math-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রং, \n\nঠ্ \n\n॥ব \n\n্ব \n\n্ব \n\nস্-সশ।",
+    "note": "Contains many non-sense characters and symbols likely from a table/graphic."
+  },
+  {
+    "chunk_id": "4-Math-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ\n০ ১ া\n]\n\n০ ১ \n\nজর!",
+    "note": "Fragmented text and broken characters from a table or graphic."
+  },
+  {
+    "chunk_id": "4-Math-7-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩: » দত, -৫ \"[ সমান ] ৭ বড\nকাচ রা বুজাচ নর\n৩ ৩ ১২৬ ৫.৪.২.৩. ৭ ৭ ৫৩ ৪৮৪। ৯",
+    "note": "Contains garbled text and a long string of nonsensical digit sequences."
+  },
+  {
+    "chunk_id": "4-Math-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এখানে সাতটি ট্ আছে।\n৪ ৩ ৭\n৪ত+ষ্তত ৪",
+    "note": "Contains garbled characters like 'ট্' and mangled numbers/text."
+  },
+  {
+    "chunk_id": "4-Math-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সা বদ\n00 শা |",
+    "note": "Fragments of garbled text likely from a table."
+  },
+  {
+    "chunk_id": "4-Math-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রত তল দ৮ও ০৮৮\n১২৩ ৪ ০৫",
+    "note": "Contains non-sensical character sequences and garbled digits."
+  },
+  {
+    "chunk_id": "4-Math-7-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্রা ট্ ১\n\n১ ২ ত_\n\n৭ ?7 ?7 ১ ?৯ ১৯",
+    "note": "Heavy corruption and nonsensical number strings throughout the chunk."
+  },
+  {
+    "chunk_id": "4-Math-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৯ত্ভ-শচ ২৪)\n৫১:৫৪\nস্ক] ১ ২১",
+    "note": "Contains several instances of garbled text and symbols."
+  },
+  {
+    "chunk_id": "4-Math-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মম ঘ়়ম়চেঘচছেোেো",
+    "note": "A long string of nonsensical characters and garbled script."
+  },
+  {
+    "chunk_id": "4-Math-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লধঘিষ্ঠ\n৭)২৫ ৮)৩১ ৯)১৬১৪ ০০২৮ ০১৪ ০২১৪৪",
+    "note": "Misspelled word 'লঘিষ্ঠ' and a series of joined, nonsensical numbers."
+  },
+  {
+    "chunk_id": "4-Math-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দডূৃু\nত ফুঁ",
+    "note": "Garbled character sequences instead of coherent words."
+  },
+  {
+    "chunk_id": "4-Math-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯১৯৭৬ ১কচা$\n২২২ ২ ৩ ৩.৩। ৩ ৫.৫।",
+    "note": "Contains garbled text and nonsensical digit clusters."
+  },
+  {
+    "chunk_id": "4-Math-7-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুঁ লিটার, মিনার বোতলে টুঁ\nকু _-₹-[ |",
+    "note": "Garbled words (চু/টু) and symbols from a math problem."
+  },
+  {
+    "chunk_id": "4-Math-7-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রাররাররালরানমা",
+    "note": "Garbled/repeated non-sense text."
+  },
+  {
+    "chunk_id": "4-Math-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0. 0 ০শ০৭_-চ\n৭০৭০-০৭-০৭",
+    "note": "Garbled characters and nonsensical number strings."
+  },
+  {
+    "chunk_id": "4-Math-7-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আহা বাবেও দননিন\nত৩ ১ \n৩ চ৮-চ+",
+    "note": "Garbled words and garbled math expressions."
+  },
+  {
+    "chunk_id": "4-Math-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ\nাঞ্চী",
+    "note": "Garbled fragments of text."
+  },
+  {
+    "chunk_id": "4-Math-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উর্বুত্তা ডাকার্",
+    "note": "Garbled text in a table or instruction section."
+  },
+  {
+    "chunk_id": "4-Math-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক) খ)্ত\nখ) ৬\nগ)্ব",
+    "note": "Garbled symbols for multiple choice options."
+  },
+  {
+    "chunk_id": "4-Math-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নী\nলুল\nচুলা",
+    "note": "Garbled words in the question options."
+  },
+  {
+    "chunk_id": "4-Math-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$ লিটার\nক_ মিটার",
+    "note": "Special characters and garbled text where numbers should be."
+  },
+  {
+    "chunk_id": "4-Math-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা ঘণ্টা\nহভ অংশ",
+    "note": "Garbled words in a table."
+  },
+  {
+    "chunk_id": "4-Math-7-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

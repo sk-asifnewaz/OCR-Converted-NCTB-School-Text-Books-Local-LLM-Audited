@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "4-English-16-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nNA\n)\nN",
+    "note": "Garbled symbols and characters likely from page layout or header/footer artifacts."
+  },
+  {
+    "chunk_id": "4-English-16-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Poem cece err cece scene eer cece seca ceereeeee sees seen",
+    "note": "Nonsensical repetition of sounds/letters, likely from a corrupted image or filler."
+  },
+  {
+    "chunk_id": "4-English-16-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Poem ere eee r cece secs ccc r cece sec ee sence",
+    "note": "Nonsensical string of characters that do not form words in the target language."
+  },
+  {
+    "chunk_id": "4-English-16-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-16-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "rT.",
+    "note": "Short string of nonsensical characters likely from a layout artifact."
+  },
+  {
+    "chunk_id": "4-English-16-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(9 RR © 1006116 (0) 6 Sa ?",
+    "note": "Garbled sequence of symbols and numbers likely from a corrupted scan."
+  },
+  {
+    "chunk_id": "4-English-16-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN",
+    "note": "Garbled characters and symbols likely from page numbering or layout elements."
+  }
+]

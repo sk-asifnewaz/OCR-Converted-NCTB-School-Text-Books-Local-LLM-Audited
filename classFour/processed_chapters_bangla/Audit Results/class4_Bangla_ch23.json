@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "4-Bangla-23-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু",
+    "note": "Word is cut off abruptly at the end of the chunk."
+  },
+  {
+    "chunk_id": "4-Bangla-23-2",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬; সদপস্য",
+    "note": "Repeated title lines and nonsensical word for 'application' (আবেদন)."
+  },
+  {
+    "chunk_id": "4-Bangla-23-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আট চা এজ ০\nপচ",
+    "note": "Nonsensical character sequence likely from a page footer or layout."
+  },
+  {
+    "chunk_id": "4-Bangla-23-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রী; গণ",
+    "note": "'ত্রী' is a garbled fragment; 'গণ' appears to be truncated."
+  }
+]

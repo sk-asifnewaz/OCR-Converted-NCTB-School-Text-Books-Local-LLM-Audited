@@ -1,0 +1,353 @@
+[
+  {
+    "chunk_id": "4-Science-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সটমলর্যা\nডা নচভনননচ মদদ ৮।\nজে সত",
+    "note": "Contains garbled text and nonsensical segments likely from OCR of diagrams."
+  },
+  {
+    "chunk_id": "4-Science-4-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭.\nচ.",
+    "note": "Abrupt cutoff at the end of a list item."
+  },
+  {
+    "chunk_id": "4-Science-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লী\n\"স্মরন\nটুল যাকরতে হবে",
+    "note": "Garbled fragments of common words like 'পরীক্ষা' and 'কী করতে হবে'."
+  },
+  {
+    "chunk_id": "4-Science-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নী / ьী যা পরাগে বাথ দে জব",
+    "note": "Nonsensical garbled sequence."
+  },
+  {
+    "chunk_id": "4-Science-4-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠ",
+    "note": "Isolated character likely from a misread word or graphic."
+  },
+  {
+    "chunk_id": "4-Science-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্তুপ\n| ম্ম্া\n॥»১&৪",
+    "note": "Garbled characters and non-standard symbols."
+  },
+  {
+    "chunk_id": "4-Science-4-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী\nস্তল\n__ট _",
+    "note": "Incomplete words and garbled symbols."
+  },
+  {
+    "chunk_id": "4-Science-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"্স্ম্ম্হী",
+    "note": "Garbled character sequence."
+  },
+  {
+    "chunk_id": "4-Science-4-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠ",
+    "note": "Isolated garbled character."
+  },
+  {
+    "chunk_id": "4-Science-4-22",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাষ্প দিয়ে পিঠা",
+    "note": "Sentence ends abruptly without punctuation."
+  },
+  {
+    "chunk_id": "4-Science-4-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টি\n\"পম",
+    "note": "Garbled text fragments."
+  },
+  {
+    "chunk_id": "4-Science-4-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "6 ডে\nরো করে\n\|",
+    "note": "Nonsensical text fragments."
+  },
+  {
+    "chunk_id": "4-Science-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রায়নিক",
+    "note": "Garbled word (likely রাসায়নিক)."
+  },
+  {
+    "chunk_id": "4-Science-4-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্তল\nকবজা)\n\"স্মরন",
+    "note": "Garbled text fragments."
+  },
+  {
+    "chunk_id": "4-Science-4-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কিসরানে সভ্য\nএগাকীধ্ললের পলিব্ভন",
+    "note": "Nonsensical garbled strings."
+  },
+  {
+    "chunk_id": "4-Science-4-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টু ও রট",
+    "note": "Garbled text fragment."
+  },
+  {
+    "chunk_id": "4-Science-4-30",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রথম দিনের পর",
+    "note": "Ends abruptly; likely missing the rest of a list or sentence."
+  },
+  {
+    "chunk_id": "4-Science-4-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লটোতেতে\nটি",
+    "note": "Nonsensical word and fragment."
+  },
+  {
+    "chunk_id": "4-Science-4-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী",
+    "note": "Fragment of a word."
+  },
+  {
+    "chunk_id": "4-Science-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টি",
+    "note": "Garbled fragment."
+  },
+  {
+    "chunk_id": "4-Science-4-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "18 প্র\n/ ৯",
+    "note": "Garbled numbers and units."
+  },
+  {
+    "chunk_id": "4-Science-4-37",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০...০\nঠান্ডা করা ঠান্ডা করা",
+    "note": "Garbled sequence and repetitive text."
+  },
+  {
+    "chunk_id": "4-Science-4-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-4-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

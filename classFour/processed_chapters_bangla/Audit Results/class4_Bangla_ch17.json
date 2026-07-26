@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "4-Bangla-17-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রঃ ন্‌ , যা শ পর টপ চল ৯",
+    "note": "Garbled characters and symbols likely resulting from failed OCR of a date line."
+  },
+  {
+    "chunk_id": "4-Bangla-17-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-17-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-17-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৬০৩০৩ ০৬০৬০৬০৬৬০৬০৬০৬০৬০৬০০০৬০০০৬ ৬",
+    "note": "Large blocks of nonsensical digits and garbled words like 'নো মোবা কয'."
+  },
+  {
+    "chunk_id": "4-Bangla-17-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-17-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কোলে রা\n৩০৬০৬০৬৬৬৬৩ ৬৬৬৩৬৩৬৩৬৩৬ ৩৬০৬০৬৩৬৩৬৬",
+    "note": "Sentence ends abruptly ('কোলে রা') followed by a large block of digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-17-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নেনে বেোদেদেষেকেদেেরে রে তকে",
+    "note": "Nonsensical string of characters that does not form valid words."
+  },
+  {
+    "chunk_id": "4-Bangla-17-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

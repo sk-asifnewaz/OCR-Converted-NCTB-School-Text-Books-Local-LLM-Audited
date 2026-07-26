@@ -1,0 +1,335 @@
+[
+  {
+    "chunk_id": "4-Math-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ কিলোমিটার ₹- ১০০০ মিটার",
+    "note": "Symbol '₹' is likely a misread of '=' or '-'."
+  },
+  {
+    "chunk_id": "4-Math-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ কিমি ২৫০মি 2 [মি",
+    "note": "Unnecessary brackets and symbols indicate OCR noise."
+  },
+  {
+    "chunk_id": "4-Math-9-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তাীোোৈিডিনি তিনি টে",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "4-Math-9-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রি ৭",
+    "note": "Fragmentary/nonsensical text."
+  },
+  {
+    "chunk_id": "4-Math-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮৪৩ সেমি",
+    "note": "The digit '8' is likely a misread of an opening bracket '('."
+  },
+  {
+    "chunk_id": "4-Math-9-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| |সেমি+[ |সেমি+ |সেমি+] |সেমিল[ |সেমি",
+    "note": "Excessive pipe symbols and punctuation are OCR errors."
+  },
+  {
+    "chunk_id": "4-Math-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ কেজি ₹- (৬ *% ১০০০)গ্রাম",
+    "note": "Currency symbol and percentage sign are out of place."
+  },
+  {
+    "chunk_id": "4-Math-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০০প্রম5।",
+    "note": "Word 'গ্রাম' (grams) is corrupted to 'প্রম'."
+  },
+  {
+    "chunk_id": "4-Math-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪০০প্রাম",
+    "note": "Word 'গ্রাম' is corrupted to 'প্রাম'."
+  },
+  {
+    "chunk_id": "4-Math-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬উঁণ-",
+    "note": "Garbled characters/symbols instead of words."
+  },
+  {
+    "chunk_id": "4-Math-9-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ \"ডেল ২.৫ \"ডেল",
+    "note": "Garbled symbols instead of measurement units."
+  },
+  {
+    "chunk_id": "4-Math-9-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্ফ্্রেফল",
+    "note": "Nonsensical character string."
+  },
+  {
+    "chunk_id": "4-Math-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বান",
+    "note": "Misspelled/corrupted word 'স্থান'."
+  },
+  {
+    "chunk_id": "4-Math-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নিণয়",
+    "note": "Common OCR error for 'নির্ণয়'."
+  },
+  {
+    "chunk_id": "4-Math-9-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা ঢা",
+    "note": "Garbled characters in a diagram description."
+  },
+  {
+    "chunk_id": "4-Math-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বগক্ষেত্রটির",
+    "note": "Corrupted word for 'বর্গক্ষেত্রের'."
+  },
+  {
+    "chunk_id": "4-Math-9-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "মেঝের",
+    "note": "Likely a typo for 'মেঝে' (floor)."
+  },
+  {
+    "chunk_id": "4-Math-9-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১বরু€+ণ_*",
+    "note": "Heavy script corruption/junk characters."
+  },
+  {
+    "chunk_id": "4-Math-9-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রঢা]",
+    "note": "Garbled text at end of sentence."
+  },
+  {
+    "chunk_id": "4-Math-9-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০০প্রাম",
+    "note": "Word 'গ্রাম' corrupted to 'প্রাম'."
+  },
+  {
+    "chunk_id": "4-Math-9-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ন112 1",
+    "note": "Garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "4-Math-9-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০০প্রাম",
+    "note": "Word 'গ্রাম' corrupted to 'প্রাম'."
+  },
+  {
+    "chunk_id": "4-Math-9-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রাল",
+    "note": "Word 'গ্রাম' corrupted to 'গ্রাল'."
+  },
+  {
+    "chunk_id": "4-Math-9-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-9-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রস্ব",
+    "note": "Word 'প্রস্থ' (width) corrupted to 'প্রস্ব'."
+  },
+  {
+    "chunk_id": "4-Math-9-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ট্র ক্ষেত্রফল",
+    "note": "Likely 'নিচে' (below) corrupted to 'ট্র'."
+  },
+  {
+    "chunk_id": "4-Math-9-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী",
+    "note": "Garbled character at the beginning of sentence."
+  },
+  {
+    "chunk_id": "4-Math-9-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

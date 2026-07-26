@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "4-Bangla-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-5",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Duplicate header/footer text appearing consecutively."
+  },
+  {
+    "chunk_id": "4-Bangla-6-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১১২২১১১১১২১১১২২",
+    "note": "Long string of repetitive digits likely from OCR artifact."
+  },
+  {
+    "chunk_id": "4-Bangla-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫০৬০৩৩৬৬ ৬০৬৩৬৬ ৬০৬৩৬৬৬০৬৬০৫...",
+    "note": "Massive block of random digits replacing or overlapping text."
+  },
+  {
+    "chunk_id": "4-Bangla-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬০৩৩৬৬ ৬০৬৬৬৩৩৬৩৬৬৬৬৬৩৬৬৬৬৩০৩৬৩৬০৬৬০...",
+    "note": "Large block of non-meaningful digit sequences."
+  },
+  {
+    "chunk_id": "4-Bangla-6-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৫৬০৬...",
+    "note": "Contains both digit noise and duplicate header text."
+  },
+  {
+    "chunk_id": "4-Bangla-6-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-6-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০০৬০৩৬৬৬ ৬৩৬৩৬৬৩৬৬৩৩৬৩৬৩৬০৬৩৩৬০৬৩৬৩৬৩৬৩৬০...",
+    "note": "Extensive digit noise throughout the chunk."
+  }
+]

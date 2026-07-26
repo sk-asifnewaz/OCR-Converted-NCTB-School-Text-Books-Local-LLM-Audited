@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "4-BGS-2-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০০ ১১১১",
+    "note": "Random digits inserted mid-text; 'ছি' and 'লা' appear as corrupted fragments."
+  },
+  {
+    "chunk_id": "4-BGS-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-6",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এই রাস্তা দিয়ে রথযাত্রা\nহবে; চলো রাস্তা ফীকা\nকরি",
+    "note": "Content about roads is out of place and unrelated to the chapter topic."
+  },
+  {
+    "chunk_id": "4-BGS-2-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন্য্‌ প্রতিবেশী",
+    "note": "Word 'বন্য' (wild) is nonsensical in the context of a neighbor."
+  },
+  {
+    "chunk_id": "4-BGS-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যর্ম-বর্ণ",
+    "note": "Garbled text; should be 'ধর্ম-বর্ণ'."
+  },
+  {
+    "chunk_id": "4-BGS-2-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধমীয় সম্প্রীতি",
+    "note": "Missing character in 'ধর্মীয়'."
+  },
+  {
+    "chunk_id": "4-BGS-2-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫ পু",
+    "note": "Random digits/characters likely from page layout or noise."
+  },
+  {
+    "chunk_id": "4-BGS-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-2-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছা শা দে",
+    "note": "Nonsensical character sequence at the end of the chunk."
+  }
+]

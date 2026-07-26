@@ -1,0 +1,425 @@
+[
+  {
+    "chunk_id": "4-Hindu_religion-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খযষি",
+    "note": "The character 'য' is likely a corruption of 'ষ' in the word 'ক্ষির'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রস্মবিদ্যার চচচা",
+    "note": "'চচচা' is a corruption of 'চর্চা'; 'ব্র্ম' is likely 'ব্রহ্ম'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যাজ্ঞবন্ধ্য",
+    "note": "The character 'ধ' is a corruption of 'ক্য' in the name 'যাজ্ঞবন্ক্য'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যাজ্ঞবদ্ক্য",
+    "note": "'দ' is a corruption of 'ন' or 'ক' in the name 'যাজ্ঞবন্ক্য'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডsburg%, যাজ্ঞবস্ক্য",
+    "note": "'ডsburg%' is garbled noise; 'যাজ্ঞবস্ক্য' contains a character corruption."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ড৮১",
+    "note": "The string 'ড৮১' is a non-standard digit/symbol noise."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রন্ধ্মাস্ত্র, নষ্",
+    "note": "'ব্রন্ধ্মাস্ত্র' and 'নষ্' are corruptions of 'ব্রহ্মাস্ত্র' and 'নষ্ট'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মঙ্জাল",
+    "note": "'মঙ্জাল' is a common OCR corruption of the word 'মঙ্গল'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০-০--, শত্তি",
+    "note": "'০-০--' is gibberish; 'শত্তি' is a corruption of 'শক্তি'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খযষিদের",
+    "note": "The character 'য' is likely a corruption of 'ষ'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "The number '৮৪' is likely a misread of '৪' or similar."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তঅল্পকালের",
+    "note": "'ত' is likely a lingering character or typo."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষুদ্ধ",
+    "note": "'ষুদ্ধ' is likely a corruption of 'সুধী' or 'মুগ্ধ'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খিরফাব্দের",
+    "note": "This is a common OCR misreading of 'খ্রিষ্টাব্দের'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কষ্ণ",
+    "note": "'কষ্ণ' is a corruption of 'কঠিন'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খিরফাব্দের",
+    "note": "This is a common OCR misreading of 'খ্রিষ্টাব্দের'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এএততএএএ, শা",
+    "note": "'এএততএএএ' is gibberish; 'শা' appears to be a truncated word."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪.",
+    "note": "The number '৮৪' is likely a misread of '৪'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শ্লীচৈতন্য",
+    "note": "The character 'ল' is a corruption of 'র'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-2-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

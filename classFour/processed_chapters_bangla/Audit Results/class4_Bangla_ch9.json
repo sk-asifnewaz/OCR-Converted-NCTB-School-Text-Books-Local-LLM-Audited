@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "4-Bangla-9-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-9-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১১১১১১২২২২১১১১১১১১১১১১১২২২২২২২২০ ০৬০",
+    "note": "Long strings of repeated digits are typical OCR noise."
+  },
+  {
+    "chunk_id": "4-Bangla-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৩৬৫৬০৬৩ ৬০৩৫৬০৬৩০৬০৬৫৩৬০৬৬০৬০৬৬০৬৬০৬৬০৬০০৫০৬০৬০৬০০৩০৬০০৬০০০০৬০০০৩",
+    "note": "Large block of nonsensical numbers at the end of a sentence."
+  },
+  {
+    "chunk_id": "4-Bangla-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN", "DUPLICATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Contains repeated lines and large blocks of digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-9-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

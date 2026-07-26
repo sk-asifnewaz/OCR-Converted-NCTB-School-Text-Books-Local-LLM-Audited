@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "4-English-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN",
+    "note": "Garbled characters at the end of the chunk."
+  },
+  {
+    "chunk_id": "4-English-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-6-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN\nSounds and Numbers i tat\nN'\nPorn",
+    "note": "Garbled symbols and nonsensical words between two sections."
+  },
+  {
+    "chunk_id": "4-English-6-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Ht 112 113) «114 «©115)6116)6«6«117) «118119: 120",
+    "note": "Number sequence contains many non-numeric symbols and artifacts."
+  },
+  {
+    "chunk_id": "4-English-6-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "32 oe two 38 ae eight\n34 hit four\nAl",
+    "note": "Nonsensical words like 'oe', 'ae', and 'hit' appear in a list of numbers."
+  },
+  {
+    "chunk_id": "4-English-6-7",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "Cardinal Ordinal numbers Cardinal Ordinal numbers",
+    "note": "Heading text is repeated twice in the same line."
+  }
+]

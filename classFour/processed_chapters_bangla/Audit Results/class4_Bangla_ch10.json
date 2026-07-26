@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "4-Bangla-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[111 11111",
+    "note": "Non-contextual digit sequence likely from OCR noise."
+  },
+  {
+    "chunk_id": "4-Bangla-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫০৬০৫০৩৬ ৬৬৬০৮৫৬৩৬০৬... ",
+    "note": "Large block of non-meaningful digits."
+  },
+  {
+    "chunk_id": "4-Bangla-10-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০৩০৬৬৬৬৩৬৬ ৬৩৬৬৩৬৬৩৬৩৬৩৬৩৬ ৩৬০৩৩৩৩৬০৬...",
+    "note": "Extensive digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-10-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬৫০৬৩৬ ৬৬৬৬৩৬৩৬৬৬৬৬০৫৫৬৬৬০৫৩৬...",
+    "note": "Extensive digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-10-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০৬০৬০৬৩৬৩৬ ৬৩৬০৬৬৩৬৬৩০৬৩৩৩৬৩৬৩৬...",
+    "note": "Extensive digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-10-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬০৬৩৬০৬৩ ৬৩৬৬৩৬৩৬৩৩৬৩৬...",
+    "note": "Large block of non-meaningful digits."
+  },
+  {
+    "chunk_id": "4-Bangla-10-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৩৬৬০৬৬৩৬ ৬০৬৩৬৩৬৬০৬৩৬০৩৩৩৬...",
+    "note": "Extensive digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-10-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬৬০৬৬৩৬ ৬০৬৬০৩৩৬৩৬০৬৬০৫৩৬...",
+    "note": "Extensive digit noise."
+  }
+]

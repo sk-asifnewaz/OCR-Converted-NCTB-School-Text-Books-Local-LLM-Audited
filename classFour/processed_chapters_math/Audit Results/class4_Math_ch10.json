@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "4-Math-10-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0--075-7",
+    "note": "Non-standard number string likely from a table or diagram label."
+  },
+  {
+    "chunk_id": "4-Math-10-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চর ক গ ক গ ত্মি\nদ্র\nছ\"",
+    "note": "Fragments and symbols suggest corrupted OCR from a diagram or labels."
+  },
+  {
+    "chunk_id": "4-Math-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চীঁদার... ₹",
+    "note": "Corrupted word 'চাঁদা' and currency symbols used for degree markers."
+  },
+  {
+    "chunk_id": "4-Math-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ষা",
+    "note": "Isolated character that does not form a word."
+  },
+  {
+    "chunk_id": "4-Math-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০% ... ৯০-এর ছোটে",
+    "note": "Percent signs and 'ছোটে' likely corrupted degrees or word fragments."
+  },
+  {
+    "chunk_id": "4-Math-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক, €“খ, €গ, /ঘ এবং /৬ঙ",
+    "note": "Extensive special character noise in a list of variables."
+  },
+  {
+    "chunk_id": "4-Math-10-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা\nল্য ৩৪",
+    "note": "Nonsensical character combinations and disconnected numbers."
+  },
+  {
+    "chunk_id": "4-Math-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ ১৫",
+    "note": "Isolated digits likely from a diagram label or table."
+  },
+  {
+    "chunk_id": "4-Math-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-10-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভা ৷;৷:::-২-ভী ৫ ০১০১০১০১১১১:",
+    "note": "Sequence of non-sense characters and repetitive numbers."
+  },
+  {
+    "chunk_id": "4-Math-10-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ওেেছেছে,",
+    "note": "Repetitive meaningless character sequence."
+  },
+  {
+    "chunk_id": "4-Math-10-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী\n৩৯\"\n৩০?",
+    "note": "Fragments and incorrect symbols for degrees."
+  },
+  {
+    "chunk_id": "4-Math-10-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-10-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুস্ম্মকোণী",
+    "note": "Typo/corruption of 'সূক্ষ্মকোণী'."
+  },
+  {
+    "chunk_id": "4-Math-10-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০%",
+    "note": "Percent sign used instead of degree symbol."
+  },
+  {
+    "chunk_id": "4-Math-10-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ।\nট হে\nওং *",
+    "note": "Non-sensical fragments and symbols."
+  },
+  {
+    "chunk_id": "4-Math-10-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-10-19",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দত",
+    "note": "Word cut off at the end of a line (likely 'দিতে')."
+  },
+  {
+    "chunk_id": "4-Math-10-20",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তত: ... রন",
+    "note": "Words appear truncated or poorly segmented."
+  },
+  {
+    "chunk_id": "4-Math-10-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাযারারারারারারামা",
+    "note": "Repetitive nonsense string."
+  },
+  {
+    "chunk_id": "4-Math-10-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-10-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রর্ট্\nদা রড",
+    "note": "Nonsense fragments likely from diagrams."
+  },
+  {
+    "chunk_id": "4-Math-10-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্তাা লী\n[| ক্রুজ | | ত্রিুজ",
+    "note": "Garbled text and broken bracket/word structures."
+  },
+  {
+    "chunk_id": "4-Math-10-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১সঞ্ী ড*\*",
+    "note": "Corrupted characters and symbols."
+  },
+  {
+    "chunk_id": "4-Math-10-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কস্ক্কে",
+    "note": "Non-sensical word/fragment."
+  },
+  {
+    "chunk_id": "4-Math-10-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ;া্‌\n৯০০",
+    "note": "Corrupted characters and incorrect degree symbol."
+  },
+  {
+    "chunk_id": "4-Math-10-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&&ি",
+    "note": "Ambiguous characters resulting from script corruption."
+  }
+]

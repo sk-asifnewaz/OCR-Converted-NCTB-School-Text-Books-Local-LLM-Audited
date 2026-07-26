@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "4-Science-5-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পু\nলী",
+    "note": "Word 'পূনী' or similar is broken by a newline."
+  },
+  {
+    "chunk_id": "4-Science-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "টে\nনু\n১.",
+    "note": "Fragmented characters/lines likely from layout noise."
+  },
+  {
+    "chunk_id": "4-Science-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রে\nগাড়ির",
+    "note": "Sentence fragment 'রে' likely from a word cut by newline."
+  },
+  {
+    "chunk_id": "4-Science-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সু\nকরে",
+    "note": "Word 'সুরক্ষা' or similar broken by newline."
+  },
+  {
+    "chunk_id": "4-Science-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-9",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সু\nশত্তি",
+    "note": "Word 'সুপ্ত' or similar broken by newline."
+  },
+  {
+    "chunk_id": "4-Science-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তুশলুযাকরতে হবে",
+    "note": "Nonsensical character sequence likely from a failed OCR of 'নিচে যা করতে হবে'."
+  },
+  {
+    "chunk_id": "4-Science-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র\nрь\nটু",
+    "note": "Garbled symbols/diacritics and truncated sentence 'ঘূর্ণি ঘো'."
+  },
+  {
+    "chunk_id": "4-Science-5-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-18",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সে |",
+    "note": "Fragment left at the end of chunk."
+  },
+  {
+    "chunk_id": "4-Science-5-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7১117১১১222 ১22ল20 1",
+    "note": "Random digit run likely from layout/page metadata."
+  },
+  {
+    "chunk_id": "4-Science-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-23",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "টি",
+    "note": "Single syllable left, likely end of 'এই' or similar."
+  },
+  {
+    "chunk_id": "4-Science-5-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রি\nরণ\n:",
+    "note": "Garbled layout characters/non-sense line."
+  },
+  {
+    "chunk_id": "4-Science-5-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "থা)",
+    "note": "Question list item 'খ' corrupted to 'থ' or similar."
+  },
+  {
+    "chunk_id": "4-Science-5-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-5-28",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ডি",
+    "note": "Fragment left at the end of chunk."
+  }
+]

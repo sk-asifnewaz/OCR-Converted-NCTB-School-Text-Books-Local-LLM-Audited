@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-Bangla-13-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টি\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Truncated word 'টি' and year digit noise from page footer."
+  },
+  {
+    "chunk_id": "4-Bangla-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-13-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-13-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-13-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "যান।",
+    "note": "Fragmented sentence starting a chunk abruptly."
+  },
+  {
+    "chunk_id": "4-Bangla-13-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০০০৬০০৬০৬০৬০৬৬০৬০৬",
+    "note": "Large blocks of non-sensical digits and garbled characters."
+  },
+  {
+    "chunk_id": "4-Bangla-13-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬০০৬০৩০৬ ০৬০৬০৬৬০০৬০০০৬০৬৬",
+    "note": "Extensive strings of irrelevant digits."
+  },
+  {
+    "chunk_id": "4-Bangla-13-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "рь্মলমমেব꼐দেোষোেদেরেոդಷաെ রে সস",
+    "note": "Garbled character strings and digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-13-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬৬০৬৬৬৬ ৬০৬৬০৬৬৬৬৬০৬৬",
+    "note": "Massive blocks of irrelevant digits."
+  },
+  {
+    "chunk_id": "4-Bangla-13-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-13-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-13-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

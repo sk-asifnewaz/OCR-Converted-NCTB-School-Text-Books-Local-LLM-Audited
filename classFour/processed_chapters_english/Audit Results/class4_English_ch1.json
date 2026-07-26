@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "4-English-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-1-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Meet my friend Meet my friend; He likes to to play with her make kites.",
+    "note": "Repetition of phrases and mangled sentences indicate merged layout lines."
+  },
+  {
+    "chunk_id": "4-English-1-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "eee ;",
+    "note": "Nonsensical character sequence likely due to OCR error."
+  },
+  {
+    "chunk_id": "4-English-1-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\eacute",
+    "note": "Garbled Unicode or corrupted character sequence."
+  },
+  {
+    "chunk_id": "4-English-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "4-Bangla-21-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-21-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠ্যাং দুটা? 4",
+    "note": "The digit '4' is out of place, and '-_' are OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Bangla-21-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৬০৩৬৫৬৬ ৬০৫৩৬৬৩৬৬৬৬৩৬৫৬৬৬৬৬৫৩৬৬৬০৬৬০৬৩৩৬৩৬৬০৬০৫৩৪৬",
+    "note": "Large blocks of meaningless digits and garbled phrases."
+  },
+  {
+    "chunk_id": "4-Bangla-21-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-21-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

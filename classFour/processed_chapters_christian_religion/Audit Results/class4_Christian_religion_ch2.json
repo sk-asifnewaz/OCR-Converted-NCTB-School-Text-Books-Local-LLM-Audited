@@ -1,0 +1,434 @@
+[
+  {
+    "chunk_id": "4-Christian_religion-2-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম",
+    "note": "Corrupted word for 'খ্রীষ্টধর্ম' (Christianity)."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "যীশুযীষ্ট",
+    "note": "Merged/garbled words for 'যীশু খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রিব্যক্তিতে... ৬১",
+    "note": "Corrupted 'ত্রিব্যক্তিতে' and extraneous digit 61."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বীশু",
+    "note": "Typo for 'যীশু'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্বীষ্টের... চু... বিশ্বাস হা\n্ চে ো ৷ মস ৷ বব",
+    "note": "Corrupted words and garbled character sequences."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ട്ട്চর... €/ € পে",
+    "note": "Garbled OCR symbols and nonsensical characters."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গশগুণ... উত্তাস",
+    "note": "Corrupted words for 'এই/অংশের গুণ' and 'উত্তর'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "যীশুস্রীষ্ট",
+    "note": "Merged word for 'যীশু খ্রীষ্ট'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁশ... স্ষুধার্তদের",
+    "note": "Corrupted words for 'এই' and 'ক্ষুধার্তদের'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বরীষ্টধর্ম... এশ",
+    "note": "Corrupted words for 'খ্রীষ্টধর্ম' and 'এই'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্কুশ... গিতা-মাতার",
+    "note": "Nonsensical/corrupted terms in a list of options."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁশশত্তি... স্বীষ্টধর্ম",
+    "note": "Corrupted terms for 'এই শক্তি' and 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এশ... ভয্",
+    "note": "Corrupted words for 'এই' and 'ভয়'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম",
+    "note": "Corrupted word for 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "না\nমা\n[জা",
+    "note": "Garbled fragments likely from a table structure."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সুঁ্যুনস্থান",
+    "note": "Corrupted word for 'শূন্যস্থান'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গশগুণ",
+    "note": "Corrupted word for 'এই/অংশের গুণ'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁশগুণ",
+    "note": "Corrupted word for 'এই/অংশের গুণ'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম",
+    "note": "Corrupted word for 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সুঁ্যুনস্থান",
+    "note": "Corrupted word for 'শূন্যস্থান'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সুঁ্যুনস্থান",
+    "note": "Corrupted word for 'শূন্যস্থান'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গশগুণ",
+    "note": "Corrupted word for 'এই/অংশের গুণ'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভয্... স্তব্খতা",
+    "note": "Corrupted words for 'ভয়' and 'স্থিরতা'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অশ্নদান... স্বীষ্টধর্ম",
+    "note": "Corrupted words for 'অন্নদান' and 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অশ্নদান",
+    "note": "Corrupted word for 'অন্নদান'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্তব্খতা",
+    "note": "Corrupted word for 'স্থিরতা'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁশগুণ... স্বীষ্টধর্ম",
+    "note": "Corrupted words for 'এই/অংশের গুণ' and 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম",
+    "note": "Corrupted word for 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এশগুণ",
+    "note": "Corrupted word for 'এই/অংশের গুণ'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বীষ্টধর্ম",
+    "note": "Corrupted word for 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "4-Christian_religion-2-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এশগুণ",
+    "note": "Corrupted word for 'এই/অংশের গুণ'."
+  }
+]

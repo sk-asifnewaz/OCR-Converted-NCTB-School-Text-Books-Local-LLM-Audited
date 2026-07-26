@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "4-BGS-13-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্জয়",
+    "note": "Likely a corruption of the word 'সংয' or 'সঞ্চয়' (saving) in context."
+  },
+  {
+    "chunk_id": "4-BGS-13-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-13-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্য়",
+    "note": "Corrupted representation of 'সংয' or 'সঞ্চয়'."
+  },
+  {
+    "chunk_id": "4-BGS-13-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্য়",
+    "note": "Corrupted representation of 'সংয' or 'সঞ্চয়'."
+  },
+  {
+    "chunk_id": "4-BGS-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্যকূম",
+    "note": "Likely a corruption of 'কার্যক্রম' (activities)."
+  },
+  {
+    "chunk_id": "4-BGS-13-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-13-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Likely an OCR artifact where '৮' is a misread symbol/bracket before '৪'."
+  },
+  {
+    "chunk_id": "4-BGS-13-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-13-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্য়",
+    "note": "Corrupted representation of 'সংয' or 'সঞ্চয়'."
+  },
+  {
+    "chunk_id": "4-BGS-13-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-13-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জা কেদে জা\n০ পা ও\nজঞ ৩ জা",
+    "note": "Nonsensical text likely caused by OCR errors in a graphic or chart area."
+  }
+]

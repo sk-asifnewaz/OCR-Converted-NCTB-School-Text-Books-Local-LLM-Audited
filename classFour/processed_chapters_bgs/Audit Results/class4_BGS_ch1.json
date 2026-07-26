@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "4-BGS-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-1-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উপাদান আমরা যেভাবে উপকৃত হই না থাকলে যে সমস্যা হতো",
+    "note": "Sentence is semantically incoherent; likely result of merged table columns."
+  },
+  {
+    "chunk_id": "4-BGS-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-1-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্য়",
+    "note": "Non-standard character sequence; likely OCR error for 'হয়'."
+  },
+  {
+    "chunk_id": "4-BGS-1-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অঞ্লে বীধ",
+    "note": "Garbled words; likely corruption of 'অঞ্চলে' and another word."
+  },
+  {
+    "chunk_id": "4-BGS-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-1-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পথ্বে্ষণ",
+    "note": "Nonsensical character sequence that does not form a real word."
+  },
+  {
+    "chunk_id": "4-BGS-1-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-1-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যেকেনো",
+    "note": "Spelling error or corruption of 'যেকোনো'."
+  },
+  {
+    "chunk_id": "4-BGS-1-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিবৃতি ্জ মতামত",
+    "note": "The character '্জ' is a dangling artifact/corruption."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "4-Bangla-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "|:",
+    "note": "Non-standard characters/symbols likely from OCR noise."
+  },
+  {
+    "chunk_id": "4-Bangla-3-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পারি।\"",
+    "note": "Fragmented sentence end appearing mid-paragraph."
+  },
+  {
+    "chunk_id": "4-Bangla-3-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮«, অন্মবদ্ী ৯০, পয:, ১২:",
+    "note": "Multiple instances of OCR artifacts and garbled text."
+  },
+  {
+    "chunk_id": "4-Bangla-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

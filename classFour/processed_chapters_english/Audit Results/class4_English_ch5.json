@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-English-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "\\ ae",
+    "note": "Non-linguistic character sequence likely from a layout or OCR artifact."
+  },
+  {
+    "chunk_id": "4-English-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\\o\nNA\n)\nN\nThe Little Doctor 1 eat\nN'\nuN",
+    "note": "Contains garbled characters and nonsensical word fragments from OCR noise."
+  },
+  {
+    "chunk_id": "4-English-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Isawacatin garden. cat was sleeping.",
+    "note": "Multiple words merged into one (Isawacatin) and a trailing symbol block."
+  },
+  {
+    "chunk_id": "4-English-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "F molasses... UY After that",
+    "note": "Non-linguistic characters 'F' and 'UY' are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "4-English-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN",
+    "note": "Repeating sequence of non-linguistic characters from a layout artifact."
+  },
+  {
+    "chunk_id": "4-English-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN",
+    "note": "Artifact of a layout element captured by OCR."
+  },
+  {
+    "chunk_id": "4-English-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "q\n? S\nal",
+    "note": "Garbled characters at the end of the chunk likely from footer/page noise."
+  }
+]

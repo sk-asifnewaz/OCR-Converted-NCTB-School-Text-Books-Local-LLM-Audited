@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "4-English-17-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-17-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-17-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\nfo)\nN\nNe)\nQ\n)\nQ\nwe",
+    "note": "Non-sensical character fragments and garbled Unicode."
+  },
+  {
+    "chunk_id": "4-English-17-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-17-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-17-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-17-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1am from sylhet",
+    "note": "Digit 1 is likely an OCR error for capital I."
+  },
+  {
+    "chunk_id": "4-English-17-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN\\nf) where are you coming from\\ne) 1 like",
+    "note": "Contains garbled fragments and digit substitution for I."
+  },
+  {
+    "chunk_id": "4-English-17-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN",
+    "note": "Garbled characters at the end of the chunk."
+  }
+]

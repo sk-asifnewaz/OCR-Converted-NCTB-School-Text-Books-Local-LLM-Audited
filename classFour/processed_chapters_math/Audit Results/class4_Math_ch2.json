@@ -1,0 +1,281 @@
+[
+  {
+    "chunk_id": "4-Math-2-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৭৯৮ ২ ৩) ৬৩ ৯ ২",
+    "note": "Garbled numerical data and symbols likely from mangled math labels."
+  },
+  {
+    "chunk_id": "4-Math-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "++ ২৮ ৫ ৩",
+    "note": "Fragmented characters and symbols resulting from poor OCR of labels."
+  },
+  {
+    "chunk_id": "4-Math-2-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রড\nর্‌\nর্‌\nচট",
+    "note": "Nonsensical character fragments and repeated artifacts."
+  },
+  {
+    "chunk_id": "4-Math-2-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০] ২ ২ ৭৬ + ৪ ২ ৪ ৯ + ১৪ ৯৪ ৩\n৯:,৭ ৭ ৫ ২ ৮৮৬ ')৭ ৫",
+    "note": "Extraneous symbols like ']' and ':' interspersed with digits."
+  },
+  {
+    "chunk_id": "4-Math-2-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩স-",
+    "note": "Sentence or calculation ends abruptly with a trailing character."
+  },
+  {
+    "chunk_id": "4-Math-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[৮৯\n... - ১১৮৯",
+    "note": "Bracket and punctuation symbols appearing as noise in numerical data."
+  },
+  {
+    "chunk_id": "4-Math-2-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যু ১ ৮।৯",
+    "note": "Nonsensical character sequence in a mathematical context."
+  },
+  {
+    "chunk_id": "4-Math-2-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১[]১৪+১১[]১-[ ৩৯৩\n... ++ ৩২১ + 8০০ ... [0৩৩৩",
+    "note": "Frequent use of brackets and symbols as noise in calculations."
+  },
+  {
+    "chunk_id": "4-Math-2-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অড্কের\nচ/, চ/, চ/, চ/, চ",
+    "note": "Nonsensical text and repetitive symbols."
+  },
+  {
+    "chunk_id": "4-Math-2-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ন্ণে্য।ছ॥“ বрь্ম্স্য্য ৯\n... সে ৬ফ৪৮ ...",
+    "note": "Massive corruption of characters and incoherent script segments."
+  },
+  {
+    "chunk_id": "4-Math-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৩শ০\nসং_র্",
+    "note": "Garbled text and non-standard characters in math instructions."
+  },
+  {
+    "chunk_id": "4-Math-2-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "- ৮৯ট\n... ২৩১৫৫ ₹",
+    "note": "Unexpected symbols (currency sign) and garbled unit markers."
+  },
+  {
+    "chunk_id": "4-Math-2-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪ ১ ১০",
+    "note": "Isolated numbers likely from a mangled list or page footer."
+  },
+  {
+    "chunk_id": "4-Math-2-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "| ।।",
+    "note": "Punctuation/symbols appearing as noise."
+  },
+  {
+    "chunk_id": "4-Math-2-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০--০০০০০----৯৮",
+    "note": "Excessive dashes and noise in numerical calculation."
+  },
+  {
+    "chunk_id": "4-Math-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৫০/-",
+    "note": "Non-standard symbols in math expression."
+  },
+  {
+    "chunk_id": "4-Math-2-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫০০- | |",
+    "note": "Extraneous vertical bars in calculation."
+  },
+  {
+    "chunk_id": "4-Math-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫ বিয়োগফল",
+    "note": "The digit 5 is likely a misread of an equals sign (=)."
+  },
+  {
+    "chunk_id": "4-Math-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-2-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫ ৫৬৩১৮",
+    "note": "Extra digit or noise before the number."
+  },
+  {
+    "chunk_id": "4-Math-2-28",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "&&্রী, (&্রী, && ১, &&ী",
+    "note": "Repeated patterns of non-sensical symbols."
+  },
+  {
+    "chunk_id": "4-Math-2-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Currency symbol used as a placeholder or noise."
+  },
+  {
+    "chunk_id": "4-Math-2-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€&, রী, €্",
+    "note": "Non-sensical symbol sequences."
+  },
+  {
+    "chunk_id": "4-Math-2-31",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী",
+    "note": "Isolated, likely truncated fragment."
+  }
+]

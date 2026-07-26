@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "4-Bangla-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPTS_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টু রণ. ; | টা | ৮ ্ ১",
+    "note": "Garbled punctuation and symbols at the beginning of the chunk."
+  },
+  {
+    "chunk_id": "4-Bangla-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-13",
+    "status": "flagged",
+    "issues": ["SCRIPTS_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হ্‌লো",
+    "note": "Non-standard symbol/character corruption in the word 'হলো'."
+  },
+  {
+    "chunk_id": "4-Bangla-11-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬০৬৬৬৬৬ ৬৬৬৩৩৬৬৬৬৬৩৬৬৬০৬৩৩৬৬৬০৬৩৩৬৬৬০৬৩৩৬৬৬০৬৩৩৬৬৬০",
+    "note": "Large block of nonsensical digits from a likely non-text part of the page."
+  },
+  {
+    "chunk_id": "4-Bangla-11-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৫০৬০৬০৩৬৬৬০৬৫০৬...",
+    "note": "Extensive string of digits that do not form coherent text."
+  },
+  {
+    "chunk_id": "4-Bangla-11-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬৬৬৬৬৬৬ ৬৬৩৬৬৬৬৬৩৬৩৬৬৬০৬৩৬৬৬০৬৩৩৩৬০৬৩৬৩৩৬৬৬০৩৩৬৩৩৬৩৬৩৬৩৩৩৩৬৬৩৬৩৩৬৩৬৩৬ ৩৬",
+    "note": "The first paragraph consists entirely of a nonsensical digit run."
+  },
+  {
+    "chunk_id": "4-Bangla-11-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-11-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০৬০৬৬৬০৬৬৩ ৬৩৬০৩৬৩৩৬৩৬০৬৩৩৬৩০৩৩৬৩৩৬৬০৬৩৩৩৬০৩৬৩৬৩৬৩৩৬৩৬৩৩৬৩৩৬৩৬ ৩৬",
+    "note": "Nonsensical digit string and phonetic gibberish."
+  },
+  {
+    "chunk_id": "4-Bangla-11-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬৬০৬৬৩৬ ৬০৬৩৬৩৩৬৩৬৬৬৩৩৬৩৬৬৬৩৬৩৩৬৬৬৩৩৩৬৬৬৩৬৩৬৩৩৬৩৬৩৬৩৩৬৬০৬০৬৩৩৩৬৬...",
+    "note": "Long string of nonsensical digits and phonetic artifacts."
+  },
+  {
+    "chunk_id": "4-Bangla-11-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

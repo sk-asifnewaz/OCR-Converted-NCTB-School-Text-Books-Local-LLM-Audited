@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "4-Bangla-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-4-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নে লে বা রা কক নন লনলন্ব্ব্ল্ল্ম꼐\n৩০৬০০৬০৬০৩৬ ০৬৩৩০৬৫৩০৬৩৬০৫৬৬৩৬০৬৫৬০৬০৬৬০০৬০৬০০৬০৬৩০৬৫ ৬৬০৬৬৫৬৩৬৫৩",
+    "note": "Contains garbled characters and long sequences of nonsensical digits."
+  },
+  {
+    "chunk_id": "4-Bangla-4-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বুল; (চোখ) কন নাক) জিও তক",
+    "note": "Garbled text likely caused by OCR failing on table headers."
+  },
+  {
+    "chunk_id": "4-Bangla-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-4-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর মমব়্স্বrrh... ওাাা+স্ড্ডrrh; ... ৩০৬৬৬৫০৩০৩৬",
+    "note": "Significant OCR corruption with mixed symbols, noise characters, and random numbers."
+  },
+  {
+    "chunk_id": "4-Bangla-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১২১১১১১১১, ১১১১১১১১১২||১১১১১১১১১১১১১১১১১১১০||১১১১১||০২|",
+    "note": "Long strings of repeated digits (1s) are clearly OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Bangla-4-8",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nআমার বাংলা বই",
+    "note": "Header content is repeated twice in the same chunk."
+  },
+  {
+    "chunk_id": "4-Bangla-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৬০৬৬৩৬৬ ৬৩৬৬৩৬৩৬৩৬৩৬৩৬৬৩৬৩৬০৩৩৩৬৩৩৬৬০৬৩...",
+    "note": "Large blocks of digits inserted into the text are clearly noise."
+  },
+  {
+    "chunk_id": "4-Bangla-4-10",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Header content is repeated twice."
+  },
+  {
+    "chunk_id": "4-Bangla-4-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "8৪.",
+    "note": "Mixed digits and script for what should likely be a single number."
+  }
+]

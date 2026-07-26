@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-BGS-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-11-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাদস্বান",
+    "note": "Likely a corrupted rendering of 'বাসস্থান' (residence)."
+  },
+  {
+    "chunk_id": "4-BGS-11-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাস্তান",
+    "note": "Corrupted rendering of 'বাসস্থান' due to failed ligature detection."
+  },
+  {
+    "chunk_id": "4-BGS-11-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-11-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নাালাললঢচঢচমবমঢাযালৌ",
+    "note": "Nonsensical character sequence likely caused by OCR failure."
+  },
+  {
+    "chunk_id": "4-BGS-11-9",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চয",
+    "note": "Likely a truncated word like 'নিম্ন' or 'নিম্নবর্ণিত'."
+  },
+  {
+    "chunk_id": "4-BGS-11-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীঁরা",
+    "note": "Corrupted form of 'তিনি' or similar due to ligature issues."
+  },
+  {
+    "chunk_id": "4-BGS-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-BGS-11-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর",
+    "note": "Corrupted rendering of 'তিনি' at a line break."
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "4-Bangla-22-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢ)\nহজরত উমর (রা) ৫৮৩ সালে মক্কা নগরে জন্মগ্রহণ করেন। তীর পিতার নাম",
+    "note": "Fragment 'ঢ)' and 'তীর' instead of 'তাঁর' are OCR errors."
+  },
+  {
+    "chunk_id": "4-Bangla-22-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সেটি কীধে",
+    "note": "The word 'কীধে' is likely a corrupted form of a verb like 'কিনে'."
+  },
+  {
+    "chunk_id": "4-Bangla-22-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-22-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সাথে একজন ভূত্য।",
+    "note": "Word 'ভূত্য' is a common OCR error for 'ভৃত্য' (servant)."
+  },
+  {
+    "chunk_id": "4-Bangla-22-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-22-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-22-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আরুস্বর -_ কাতর ধ্বনি।",
+    "note": "The word should be 'আর্তস্বর' based on the context and definition."
+  },
+  {
+    "chunk_id": "4-Bangla-22-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-22-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬০৬৬৬০৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬ ৬৩৬৬৬০৬৩৬৬৩৬৬৬৬৬৩৬৬৬৬৬০৬৬০৬৬৬৩৬০৬৬৬৬৬০৬০৬০৬৬৬০৬০৬৬৬৬০৬০৬৬০৬০৬০৬৬৬০০৬০৬০৬৬০৬০৬০৬০৬৬০৬০৬০৬০০৬০৬০৬০০৬০৬০৬০০৬৬০৬",
+    "note": "Large block of nonsensical repeated digit sequences."
+  },
+  {
+    "chunk_id": "4-Bangla-22-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কো রা রা",
+    "note": "Nonsensical repetition of sounds/characters at the end."
+  },
+  {
+    "chunk_id": "4-Bangla-22-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৫৬০৬৫৬৬ ৬০৫৬৩৬৫৬৬৬০৬৩৫৬৬৬৬৬৬৫০৬৬৫৬০৬৫৬০৫৩৬৩৬৬৬০৫৩৫৬০৬৬৫০৩৫৬০৬৫৬০৫৬৫৬৬৬০৫৩৫৬৫৬৬৬৫০৬৩৫০৬০৬৫৬০৬০৬০৬৬৬০৬০৬০৬০৬০৬৬০৬০০৬০৬০৬০০৬",
+    "note": "Massive block of digit noise."
+  },
+  {
+    "chunk_id": "4-Bangla-22-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭২০২ ৯৮৭৬৬)",
+    "note": "Random digit strings in a non-numeric context."
+  },
+  {
+    "chunk_id": "4-Bangla-22-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বো মেদের রো মো রা সমগ্্স্র্মলবস্ম্বুচে।\n৩০০৬০৬৫০৬৬৩...বে লেকে বেক রো রা রা রর рь্ল্লনবব্্দগতকংস্ং",
+    "note": "Severe corruption including repeated blocks and gibberish script."
+  },
+  {
+    "chunk_id": "4-Bangla-22-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বে মেলে ে বেক রো রা রো র্যা",
+    "note": "Complete lack of coherent words; likely a corrupted footer."
+  }
+]

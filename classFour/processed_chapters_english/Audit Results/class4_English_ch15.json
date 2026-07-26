@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "4-English-15-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-15-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN\nNe)\nQ\n)\nQ",
+    "note": "Non-linguistic characters likely from layout or graphics."
+  },
+  {
+    "chunk_id": "4-English-15-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-15-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1s",
+    "note": "Number '1' used instead of letter 'i'."
+  },
+  {
+    "chunk_id": "4-English-15-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "weer eeeee",
+    "note": "Repetitive nonsense strings likely from graphic artifacts."
+  },
+  {
+    "chunk_id": "4-English-15-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Cece ewe err cere eee n erences seeeseeeeseeeseeseeeesesseeeneseeses",
+    "note": "Entire chunk consists of nonsensical, repetitive character sequences."
+  },
+  {
+    "chunk_id": "4-English-15-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Cece ewe eer cere eee resercerseeeseeeeseeseeeseseesessseseeeeseseseeseeerseseseenesersesreseeseseeses",
+    "note": "Entire chunk consists of nonsensical, repetitive character sequences."
+  },
+  {
+    "chunk_id": "4-English-15-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-15-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-15-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Pee reer r ccc c recs ese r cere see seser sere sees esse sese sees eseesesreseeseeersereseeeseeesesesesseseesere",
+    "note": "Entire chunk consists of nonsensical, repetitive character sequences."
+  },
+  {
+    "chunk_id": "4-English-15-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\nO\nS\nN",
+    "note": "Non-linguistic characters likely from layout or graphics."
+  }
+]

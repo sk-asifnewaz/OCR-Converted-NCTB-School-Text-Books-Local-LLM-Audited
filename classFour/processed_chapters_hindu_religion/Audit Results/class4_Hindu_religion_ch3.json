@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_id": "4-Hindu_religion-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কীপছিল",
+    "note": "Likely a corruption of 'কাঁপছিল' (was shivering)."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-3",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "Repeated header/footer line detected."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/ি, মুনি-খষির",
+    "note": "Leading fragment and likely corruption of 'মুনি-ঋষিদের'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ভব-ভুতি, অসম্বিন",
+    "note": "Likely corrupted words for 'শর্বনতি' and 'অস্ত্রের'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন্ররাস্তর",
+    "note": "Likely a corruption of 'ব্রহ্মাস্ত্ৰ'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দর\nদর |\n...ত্৮চ, 8.",
+    "note": "Garbled symbols and non-sequential list numbering."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দেহত্যাগ",
+    "note": "Fused/corrupted word from 'তিনি ত্যাগ' or similar."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8., ৪৮.",
+    "note": "Incorrect/malformed numbering in the list."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বেস্টে, বেসঞ্জ্টের",
+    "note": "Likely corruption of 'বসে' and 'অন্যের/বেশীর'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/ি",
+    "note": "Fragment/corrupted start of a word."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পঞপান্ডব, ধৃতরাম্ট্রকে, পাঙবরা, সপ্ত্বীক",
+    "note": "Multiple instances of garbled Bengali characters."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ীসহ, টেম্বার্স",
+    "note": "Garbled word and a block of non-sensical symbols/digits."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(টব), বীীীী",
+    "note": "Nonsensical character sequences."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭৭)",
+    "note": "Non-standard punctuation/characters in question."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পাডউব, ৪৮.",
+    "note": "Corrupted word 'পাণ্ডব' and bad numbering."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সিদম্ঘান্ত",
+    "note": "Likely corruption of 'সিদ্ধান্ত'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সা \"আসা ছু দে দে\\n| _.. নে ২২",
+    "note": "Entire chunk consists of non-sensical characters."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সহ্যশত্তি",
+    "note": "Likely corruption of 'সহনশীলতা'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(%), ৮৪",
+    "note": "Strange symbols and non-sequential numbering."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬ঙ, বন্ধুব্য",
+    "note": "Corrupted characters/words."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্যক্কম",
+    "note": "Likely corruption of 'কার্যক্রম'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্র্যাচ",
+    "note": "Likely corruption of 'চেয়ার' or similar."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্জু",
+    "note": "Likely corruption of 'অক্ষম'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্জু, ৮৪",
+    "note": "Corrupted word and non-sequential numbering."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্জু",
+    "note": "Likely corruption of 'অক্ষম'."
+  },
+  {
+    "chunk_id": "4-Hindu_religion-3-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পঞ্জু",
+    "note": "Likely corruption of 'অক্ষম'."
+  }
+]

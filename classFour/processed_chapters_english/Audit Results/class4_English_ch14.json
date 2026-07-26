@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "4-English-14-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "¥; school ca",
+    "note": "¥ is a foreign script symbol; 'ca' is truncated at line end."
+  },
+  {
+    "chunk_id": "4-English-14-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "fade, )\nIn smoky air with heavy dark shade. A\n~~~ The ocean cries loud... - \n=\n“i",
+    "note": "Multiple non-standard symbols and punctuation artifacts from OCR."
+  },
+  {
+    "chunk_id": "4-English-14-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "a te , —-; | . »; fh & /",
+    "note": "Fragmented words and special characters indicate significant script corruption."
+  },
+  {
+    "chunk_id": "4-English-14-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "eeeneceeeneceeaneceeuneeers",
+    "note": "A long string of repeated characters is a classic OCR loop/gibberish."
+  },
+  {
+    "chunk_id": "4-English-14-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "C)icceeceeeseeseeeeeees",
+    "note": "Nonsensical repeating character sequence from OCR."
+  },
+  {
+    "chunk_id": "4-English-14-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

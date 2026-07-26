@@ -1,0 +1,245 @@
+[
+  {
+    "chunk_id": "4-Math-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টু সলনি\nঢা ক ২ লু রব",
+    "note": "Garbled text and non-sensical characters from OCR error."
+  },
+  {
+    "chunk_id": "4-Math-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "( ), 17), [1]",
+    "note": "Garbled punctuation and digits in list of symbols."
+  },
+  {
+    "chunk_id": "4-Math-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8৪২-১২) +- ৬",
+    "note": "The digit '৮' is likely a misread bracket or operator."
+  },
+  {
+    "chunk_id": "4-Math-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮) পচিশকে পীঁচ",
+    "note": "Out of sequence; (৮) should be (৪) in the list."
+  },
+  {
+    "chunk_id": "4-Math-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪২৫] 1২ ২) ৩৬\n(৩)১৪ সত! ]",
+    "note": "Heavy corruption of equations and punctuation."
+  },
+  {
+    "chunk_id": "4-Math-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7) সংখ্যারাশি",
+    "note": "Sequence starts with 7 instead of 1."
+  },
+  {
+    "chunk_id": "4-Math-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬+২লচ... (৭+৭৩)%£%৬",
+    "note": "Garbled words ('লচ') and non-Bengali symbols included."
+  },
+  {
+    "chunk_id": "4-Math-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২১) [বামপক্ষ]",
+    "note": "Sequence starts with ২১ instead of ১."
+  },
+  {
+    "chunk_id": "4-Math-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪লচ",
+    "note": "'লচ' is an OCR corruption of the equals sign."
+  },
+  {
+    "chunk_id": "4-Math-5-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু ভাগশেষ... | || ...",
+    "note": "Nonsensical words and repetitive pipe characters."
+  },
+  {
+    "chunk_id": "4-Math-5-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০২১",
+    "note": "Likely merged numbers/symbols resulting in noise."
+  },
+  {
+    "chunk_id": "4-Math-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১২ + ৮ ল-২১",
+    "note": "'ল' is a common OCR error for '='."
+  },
+  {
+    "chunk_id": "4-Math-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮ল্১চ৮\nও\n৮চল্১৮",
+    "note": "Garbled equations with mixed symbols and broken text."
+  },
+  {
+    "chunk_id": "4-Math-5-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লু সদ\nডা",
+    "note": "Garbled fragments at the end of a section."
+  },
+  {
+    "chunk_id": "4-Math-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং",
+    "note": "'সং' is likely a corrupted division symbol."
+  },
+  {
+    "chunk_id": "4-Math-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ শর 10 সং",
+    "note": "Highly garbled mathematical expression."
+  },
+  {
+    "chunk_id": "4-Math-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Math-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫০০ স্‌. 0 )+0 1ম ১",
+    "note": "Severe OCR corruption of a mathematical expression."
+  },
+  {
+    "chunk_id": "4-Math-5-19",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মর মা মার",
+    "note": "Nonsensical text in the middle of a math problem."
+  },
+  {
+    "chunk_id": "4-Math-5-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পরী দামবেকররা",
+    "note": "Nonsensical string of characters."
+  },
+  {
+    "chunk_id": "4-Math-5-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নৈ\nরে",
+    "note": "Garbled fragments in the text."
+  },
+  {
+    "chunk_id": "4-Math-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা [লা\nরর",
+    "note": "Garbled fragments/broken words."
+  },
+  {
+    "chunk_id": "4-Math-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রা সেমি",
+    "note": "The word 'রা' is a likely misread number."
+  },
+  {
+    "chunk_id": "4-Math-5-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "&&ী",
+    "note": "Garbled character sequence."
+  },
+  {
+    "chunk_id": "4-Math-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Currency symbol likely used as a division sign."
+  },
+  {
+    "chunk_id": "4-Math-5-26",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অবশিষ্ণ",
+    "note": "Typo for 'অবশিষ্ট' (remaining) or similar."
+  },
+  {
+    "chunk_id": "4-Math-5-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(রী গল্প তৈরি করি।",
+    "note": "Garbled start of the sentence/clause."
+  }
+]

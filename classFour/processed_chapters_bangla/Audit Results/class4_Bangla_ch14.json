@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-Bangla-14-1",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা",
+    "note": "Repetition of the chapter title suggests a header/footer OCR artifact."
+  },
+  {
+    "chunk_id": "4-Bangla-14-2",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা",
+    "note": "Repetition of the chapter title."
+  },
+  {
+    "chunk_id": "4-Bangla-14-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-14-4",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা\nদইওয়ালা",
+    "note": "Repetition of the chapter title."
+  },
+  {
+    "chunk_id": "4-Bangla-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-14-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-14-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-14-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-14-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৫০৬০০৫৬৬ ৬০৬৫৩৬৩৬০৬০৫০৬৩৫৬৬৫৬০৬৬০৫০৫৬০৬৫০৬৬০৬৫০৬৬০৬৫০৬৬০৬৫০৬৬০৬৫০৬৬০৬",
+    "note": "Long string of digits unrelated to page numbering or exercise items."
+  },
+  {
+    "chunk_id": "4-Bangla-14-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভে নেক রা\nকে মে ররর মা",
+    "note": "Garbled text and digit noise likely from bottom-of-page OCR errors."
+  },
+  {
+    "chunk_id": "4-Bangla-14-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-14-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

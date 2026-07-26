@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "4-English-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Ne)\nQ\n)\nQ",
+    "note": "Leading characters are likely OCR noise from headers or page numbers."
+  },
+  {
+    "chunk_id": "4-English-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-11-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-11-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "i tat\nN",
+    "note": "Garbled text at the end of the chunk likely from a footer or page number."
+  },
+  {
+    "chunk_id": "4-English-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-11-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "¢",
+    "note": "The cent symbol is likely an OCR error for a bullet point."
+  },
+  {
+    "chunk_id": "4-English-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "gome; [tena eter",
+    "note": "garbled words and nonsensical sequences from poor OCR."
+  },
+  {
+    "chunk_id": "4-English-11-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "anvite; interseting",
+    "note": "These are not real words, likely OCR errors for 'invite' and 'interesting'."
+  },
+  {
+    "chunk_id": "4-English-11-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "Photoghaphy",
+    "note": "Misspelled word, likely a typo in source or OCR error."
+  },
+  {
+    "chunk_id": "4-English-11-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

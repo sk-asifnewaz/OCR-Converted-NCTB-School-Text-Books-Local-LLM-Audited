@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "4-English-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "> AP\nLh UY,",
+    "note": "Contains garbled characters likely from a logo or layout element."
+  },
+  {
+    "chunk_id": "4-English-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN\nGardening | tay\nhn",
+    "note": "Contains garbled text and nonsensical fragments likely from a logo."
+  },
+  {
+    "chunk_id": "4-English-9-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "They enjoyed the fresh vegetables in",
+    "note": "Sentence ends abruptly with a preposition before continuing in the next chunk."
+  },
+  {
+    "chunk_id": "4-English-9-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\noS\nN\n... \n~..",
+    "note": "Contains garbled symbols and noise in the layout."
+  },
+  {
+    "chunk_id": "4-English-9-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nAN\n)\nN\nGardening",
+    "note": "Contains garbled characters likely from a logo."
+  },
+  {
+    "chunk_id": "4-English-9-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ". . iP P",
+    "note": "Garbled characters at the end of the chunk."
+  },
+  {
+    "chunk_id": "4-English-9-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Gardening | a\nN\naN",
+    "note": "Garbled character string likely from an icon/logo."
+  },
+  {
+    "chunk_id": "4-English-9-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "Poh [ow [uo\nre ee",
+    "note": "Nonsensical character strings that do not form real words."
+  }
+]

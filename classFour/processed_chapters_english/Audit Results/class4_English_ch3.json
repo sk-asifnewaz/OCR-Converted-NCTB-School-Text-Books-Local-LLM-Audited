@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "4-English-3-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "oie eeeeeeceeeseeeseeeeeeen",
+    "note": "Long string of repeated characters is a clear OCR artifact."
+  },
+  {
+    "chunk_id": "4-English-3-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "haeeccscceestteeeeeseseceeseteeeeeeneeeestneeeeees",
+    "note": "Garbled character sequence with repeated 'e's."
+  },
+  {
+    "chunk_id": "4-English-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-English-3-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\\o\nN\nlo)\nN\nMy School Assembly | tt\nN\naN",
+    "note": "Non-lexical noise/garbled characters likely from page layout elements."
+  },
+  {
+    "chunk_id": "4-English-3-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "e ‘at’",
+    "note": "The 'e' before the quotation mark is a likely OCR artifact."
+  },
+  {
+    "chunk_id": "4-English-3-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "e ‘in’",
+    "note": "The 'e' before the quotation mark is a likely OCR artifact."
+  },
+  {
+    "chunk_id": "4-English-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "a e) ... 5 P.M. «0...",
+    "note": "Garbled characters 'a e' and symbols '«0...' are OCR artifacts."
+  }
+]

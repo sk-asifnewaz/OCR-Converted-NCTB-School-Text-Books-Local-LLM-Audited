@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "4-Bangla-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-1-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০৬০৬৬৬০৬৬৩ ৬৬০৩৬৩৬৬৩৬০৩৬৩৬৩৩৬৬০৬৩৩৬৩৬৩৩৬৩৩৬০৩৬৩৬৩৬৬৩৩৬৩৩৩৩৬৩৬০",
+    "note": "Large block of non-sensical, repeated digits likely from OCRing graphics."
+  },
+  {
+    "chunk_id": "4-Bangla-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৩৬৬০৬৩৬৩ ৬৬০৬৩৬৩৬৬০৬৩৬০৩৩৬৬৬০৬৩৩৬০৬৩৬৩৬৩৬৬৬০৬৩৬৩৩৬৬",
+    "note": "Significant amount of repetitive digits in the text."
+  },
+  {
+    "chunk_id": "4-Bangla-1-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৩৬৬০৬৬৩৬ ৬০৬৩৬৩৩৬৬০৬৩৬০৩৩৬৩৬৬৬৩৩৬৩৬৩৬৩৬৩৩৬৩৬৩৬৩৩৬৩৩৬৩৬৩৩৬",
+    "note": "Extensive digit noise throughout the chunk."
+  },
+  {
+    "chunk_id": "4-Bangla-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৬৬০৬০০৩৪০৫৬০০৬০০০৬০০৬০০৬০৬০০৬০",
+    "note": "Long string of digits appended to the end of a paragraph."
+  },
+  {
+    "chunk_id": "4-Bangla-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬৬৬০৬৬৩৬ ৬৩৬৩৬৩৩৬৩৬৩৬০৩৬৩৩৬৩৬০৬৩৬৩৬৬৩৬৩৬৩৩৬৩৬৩৬৩৩৩৬৩৬৩৬",
+    "note": "Large blocks of repetitive numeric noise."
+  },
+  {
+    "chunk_id": "4-Bangla-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০৩৬৬৬০৬৬৩৬ ৬০৬৬৩৩৬৩৬০৬৩৬০৩৬৩৩৬৬৬০৬৩৬৬৬৬৩৩৩৬৩৬৩৬০",
+    "note": "Numerous segments of digits likely from OCR errors."
+  }
+]
