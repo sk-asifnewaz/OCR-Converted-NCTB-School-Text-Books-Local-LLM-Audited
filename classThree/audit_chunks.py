@@ -1,10 +1,3 @@
-"""
-Reads each chapter .jsonl file's raw content and sends it as-is to
-Gemma 4 12B via LM Studio's local server. Model parameters (temperature,
-max tokens, system prompt, reasoning on/off) are expected to be set directly
-in LM Studio's model load / server config — not passed from this script.
-"""
-
 import json
 import re
 import time
