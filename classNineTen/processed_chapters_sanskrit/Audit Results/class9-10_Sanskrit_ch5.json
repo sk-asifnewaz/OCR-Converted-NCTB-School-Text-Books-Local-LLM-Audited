@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দাহ্‌ুয়",
+    "note": "Garbled character sequence; likely a corruption of 'দ্যাভ্যঃ' or similar."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "উবাচ২, দৃশ্যা২",
+    "note": "Numbers appear to be artifactual footnote markers from the original source."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ধন্যো২হং",
+    "note": "Digit embedded in word suggests a footnote marker artifact."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অদৃশ্যা২ভবৎ",
+    "note": "Digit embedded in word suggests a footnote marker artifact."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অদৃশ্যা২ভরৎ",
+    "note": "Digit embedded in word suggests a footnote marker artifact."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তদ্বচনমৃ-কর্মে ২য়া",
+    "note": "Garbled characters and digit noise in a grammatical instruction."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গড্তা",
+    "note": "Clearly a corruption of 'গত্বা' from the previous sections."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভৃজচ্ছায়ায়াং, তচ্চুত্বা",
+    "note": "Corrupted forms of 'ভুজ' and 'তচ্চত্বা' respectively."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মল বাহু",
+    "note": "Corrupted transcription of 'দ্ব বাহু' from the source text."
+  }
+]

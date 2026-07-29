@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-15-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দশা । 0",
+    "note": "The digit '0' at the end appears to be a page number or OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গজালে বিজ্ঞরা",
+    "note": "The phrase 'গজালে বিজ্ঞরা' appears to be corrupted OCR for a coherent Bengali phrase."
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ্কে্বেহপরায়ণতা",
+    "note": "The word 'হ্কে্বেহপরায়ণতা' is a nonsensical character sequence."
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-15-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

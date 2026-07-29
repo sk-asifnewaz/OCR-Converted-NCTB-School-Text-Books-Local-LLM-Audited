@@ -1,0 +1,497 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৪101057",
+    "note": "Long digit strings appear where words should be."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4০01%101055",
+    "note": "Numbers and symbols are interspersed in descriptive text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০1%510108%",
+    "note": "Nonsensical number strings in list items."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮০1০5",
+    "note": "Numerical noise replacing list identifiers/terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "21100011101085",
+    "note": "Long numeric strings used instead of text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮15891165",
+    "note": "Numerical noise in item descriptions."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "28151601085",
+    "note": "Garbled number strings instead of text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "041010৮81010587",
+    "note": "Complex noise and symbols like & and $ are present."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ1071101110০14891",
+    "note": "Extensive digit noise in the list."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "3106601101085",
+    "note": "Digits are replacing descriptive terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢাং&-",
+    "note": "Garbled text and numeric noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "21:0131%0063",
+    "note": "Nonsensical number strings in the text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৪০৯০০",
+    "note": "Garbled number sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৮1317০003",
+    "note": "Complex numeric string for a heading."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "14. হা",
+    "note": "Numbers appear where a word like DNA is expected."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮1151)",
+    "note": "Numerical noise for a category label."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01311696)",
+    "note": "Numeric string instead of text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "310150853107015",
+    "note": "Long numeric string instead of text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(&101113113)",
+    "note": "Mixed symbols and digits in the label."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "21:০00208",
+    "note": "Nonsensical digits in a name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(010500107)",
+    "note": "Number string instead of label."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(21171দ11)",
+    "note": "Garbled numbers and characters."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "095060 11161810117",
+    "note": "Longer numeric string instead of term."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ8111%",
+    "note": "Non-linguistic string in list item."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11106114800113]",
+    "note": "Long numeric strings in multiple locations."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "526065 13110311",
+    "note": "Numbers likely replacing a title or year."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "72701910716 01010",
+    "note": "Garbled numbers for names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "18860 70100",
+    "note": "Numbers used instead of scientific names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0172৫ 500৮0",
+    "note": "Garbled digits/symbols for species names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ£",
+    "note": "Special character/corrupted symbol."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70000101105 1610110500005",
+    "note": "Heavy numeric noise in list of names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1611001050৫",
+    "note": "Garbled numbers for common names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ.া,াওয়া",
+    "note": "Broken Bengali word segments."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ.া,া ওযা",
+    "note": "Broken Bengali word segments."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-1-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

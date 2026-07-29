@@ -1,0 +1,965 @@
+[
+  {
+    "chunk_id": "9-10-ICT-3-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৯\" পাইথন",
+    "note": "The quotation mark after 9 is likely an OCR artifact or noise."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রঃ ০৮১... বে আঃ\nটে চি [71 \"যর!\n[বট 31",
+    "note": "First few lines are garbled noise before the actual text begins."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সি+4+",
+    "note": "Likely a misread of 'C++' as 'সি+৪+' or similar."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চাচ110 010110\n\n... \nটাচ\n\nতেন",
+    "note": "Random fragments and garbled words inserted in the text."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0০171]11০1)",
+    "note": "Garbled alphanumeric sequence instead of clear text or standard code."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(11091001611)",
+    "note": "Garbled sequence in parentheses, likely a misread of text or formatting."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কী [0017\nসিনট্যাক্স রয়েছে এবং এটি ওয়েব ডেভেলপমেন্ট , ডেটা ৯ (1",
+    "note": "Garbled brackets and numbers mixed with text."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1100095://ঘদাদদছদ.0ড01011,015/001ছ%1710303/",
+    "note": "The URL is completely corrupted into a mix of Bengali and digits."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\"ছাল ঢালে ও 12. 1 (64-ল81011\nখর: জ দারা যা তি শশার লাল দশ টয়!",
+    "note": "First few lines are completely nonsensical garbled text."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লিংকে যাই-110009://07017117-\n.018/; এই লিংক থেকে 100111% সফটওয়্যারটি",
+    "note": "Links and nearby text are garbled with digits/symbols."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দাট ডচেডলিস\nচল951\" (৮5) [৫1০০৪]\n০১৯/১৫৬/ ৫\n1,603 50! বাটনে ক্লিক করলে নিচের মতো উইন্ডো আসবে-",
+    "note": "Significant amounts of garbled text and numbers in the code section."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাচা স1001 3 * টায় ও চিরচীদ0র। !",
+    "note": "Garbled sentence structure and characters."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢচ11000179110",
+    "note": "Code snippets are corrupted with garbled text."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মাচ\" চেচাচগাচারাগয়ান 41০ দারো।/ ও 1:23 ঞ জর ১\nচগ৫ই চলন চিন দিচল। 208 পণ\n337 ০ ৪\nদাশ ০1০ ৮৮ সতের",
+    "note": "The entire block is nonsensical garbled text."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ110(' আমি বাংলাদেশকে ভালবাসি ')",
+    "note": "The print() function is mangled to চ110()."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(₹31131)16)",
+    "note": "Garbled symbols and numbers where a variable description should be."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11৮17070861",
+    "note": "Variable name is a string of numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্ডিনান্স (০-৯) বা অন্য কোনো প্রতীক চিহ্ন (যেমন * বা - ইত্যাদি)",
+    "note": "The text uses 0-9 or symbols, but OCR shows some odd replacements like 4-5."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "17 ঘ118016",
+    "note": "Garbled text in the case sensitivity section."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "78196, 1106, 0106, 8170, 88, ৮7০81, 01839, ০০1701706",
+    "note": "Keywords are mangled into numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4 ৮৭118016 [৬৭171808165",
+    "note": "Chunk contains significant amounts of garbled symbols and numbers."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৪০। ... ৬317316",
+    "note": "Variable values and names are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ৭[0০ ... বা উদ্ধুল",
+    "note": "Garbled code blocks and mangled words."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1383 19716)",
+    "note": "Garbled text in parentheses."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1110 ... 11106891",
+    "note": "The word 'int' is mangled to numeric sequences."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০1086 ... 01080115 ... ০08",
+    "note": "The word 'float' is mangled into numeric sequences."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪0 ... ৩1161০ ... ৮০০1",
+    "note": "String and boolean types are mangled into numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "6 (0 ... 0630 ছ81130801]6",
+    "note": "The 'type()' function is mangled into numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1০৯ \"8118816 ... ০৮৩",
+    "note": "Variable names and types are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "+26 0 ... 21০৪৮ ... 5৮: ",
+    "note": "The cast functions int(), float(), and str() are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অটু 8118",
+    "note": "Garbled content in the example section."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01100 (0",
+    "note": "The input() function is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৬৯0 11700৮6",
+    "note": "Code snippet is garbled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩1110000০",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11110170000 ... ১০৮0",
+    "note": "Code snippet and variable names are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7210%106",
+    "note": "Code content is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1173610 81",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(41101111০00 000130071)",
+    "note": "Heading info is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "160010011 ... 3৮৮৮৪০ম০1",
+    "note": "Mathematical operators are mangled into numeric strings."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0000দ10)",
+    "note": "The modulo operator is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01001 -1000100000110310 ... 11706591",
+    "note": "Code snippets are significantly mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(60881) ... (4015091)",
+    "note": "Relational operators are mangled into numeric sequences."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1 ... 11",
+    "note": "Keywords like 'if' and 'elif' are mangled to numbers."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11 ০০7৮897৮721 ... 6 বড়",
+    "note": "The entire block is mangled with numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11(০০10010011) ... 1।",
+    "note": "Conditionals are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৮21৮1 ... ৯৮: 0",
+    "note": "Code segment is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "16896 ... 16896",
+    "note": "Output results are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1: ... 2139 ... 1... 9136",
+    "note": "Keywords 'if' and 'elif' are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1...9136 ... 1€",
+    "note": "Keywords are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৩007",
+    "note": "'elif' is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯2৯৮5 ... 225",
+    "note": "Code logic is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা) ল ... 021+116",
+    "note": "Code block is heavily mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[10359108 ...",
+    "note": "Results are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ্62৯ল ... ৩252",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2117176 ... 34+$",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫০]5০ ... 1:, 2:",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1চ...5156 ... থা",
+    "note": "'elif' and 'else' are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা) ল ... ২ বরং",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[1739610 ...",
+    "note": "Result line is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৮10",
+    "note": "'elif' is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৪০০ ... ৯৩00",
+    "note": "Code blocks are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৪৪০",
+    "note": "'elif' is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ1৮117 ... ৩135",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঘ্টোর০] ... ২1৮71",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-80",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা] ল ... 0৮৭76",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ0৮০৮ ... ৩",
+    "note": "Result lines are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-83",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৩",
+    "note": "Loop type description is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-84",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01",
+    "note": "'for' loop is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-85",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮১ ... ০৩",
+    "note": "Loop parameters are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-86",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা। ল",
+    "note": "Code logic is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-87",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চার্ন",
+    "note": "Reported results are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-88",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১11 ... ৩া!",
+    "note": "The entire block is mangled/gibberish."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-89",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঘ্টোর০] ... ২1৮71",
+    "note": "Code logic is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-90",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা) ল ... ০:",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-91",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-92",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঠ1( ... ৩1০001",
+    "note": "Title and loop descriptions are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-93",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ)11০",
+    "note": "'while' loop is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-94",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অব্রু ... ০৮৮৮০৮1৮71",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-96",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮ী",
+    "note": "Nested loop term is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-97",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুরা",
+    "note": "Code logic is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-98",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-99",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৮চ৮ ... ২117176",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-100",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০।701706",
+    "note": "'while' is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-101",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€০1101 ... €০:101106",
+    "note": "'break' and 'continue' are mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-103",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ1110000০৯00690117000)",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-104",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01681 ... ৮1581",
+    "note": "'break' is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-105",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মুলে 1100) ... বরং ...",
+    "note": "Code block is mangled."
+  },
+  {
+    "chunk_id": "9-10-ICT-3-106",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-ICT-3-107",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

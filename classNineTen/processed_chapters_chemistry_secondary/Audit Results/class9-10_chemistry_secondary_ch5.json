@@ -1,0 +1,929 @@
+[
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[এ অধ্যয় পঠ পেষে অমর",
+    "note": "The phrase is mangled, likely intended as a learning objective."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7015) 2 ৪্",
+    "note": "Chemical symbols are corrupted into meaningless numbers and characters."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7, 2, 0]",
+    "note": "Numbers and brackets suggest corrupted chemical symbols or formulas."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10] অণু... ৪৮",
+    "note": "Chemical formulas are mangled by OCR into numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্যালসিয়াম (83)... অক্সিজেন (0)",
+    "note": "Chemical symbols like Ca and O are replaced by numbers."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যথেষ্ট-যোজনী 70",
+    "note": "The numeral '70' is likely a misread chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ০0, ... ঢ৬",
+    "note": "Chemical formulas are mangled into nonsensical characters."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যারা 3 ] ০",
+    "note": "Table data contains heavily mangled chemical symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩, ৪, ৯, ০",
+    "note": "Chemical symbols in the list are mangled by OCR."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4 ... মা",
+    "note": "Chemical symbols (likely NH4) are corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অ্যামোনিয়াম খন 1] ... ১৪৩",
+    "note": "Ionic formulas are heavily mangled by OCR."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হাইড্রোজেন (8)... অক্সিজেন (0)",
+    "note": "Chemical formulas are corrupted into numbers."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$৮৮৫০১১০০",
+    "note": "Subscript numbers are garbled as a single string of digits."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "14:। ... ০:। ... 716",
+    "note": "Chemical symbols (N2, O3, He) are corrupted by OCR."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪] ... ০ ... ৩(০২০১)",
+    "note": "Chemical symbols are mangled into various digits/symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "The symbol should be a chemical formula/symbol like C."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০0; ... ঢ৬$৫০৪ ... ঢট্রযা1- ঢা",
+    "note": "Chemical formulas are mangled into nonsensical symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(401০0080131 ...)",
+    "note": "The entire chunk is mangled OCR of a formula or code."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৮) ... ট্র্ম৪",
+    "note": "Chemical formulas and the word 'সংকেত' are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রক্মিজেন",
+    "note": "The word is a mangled transcription of 'হাইড্রোজেন'."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪টি",
+    "note": "The number 8 should not contain the digit '4'."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪০০]",
+    "note": "Chemical formulas are mangled by OCR."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০]",
+    "note": "Chemical symbol is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মা602) ... +/0018)",
+    "note": "Chemical formulas for noble gases are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০(54) ... 10086)",
+    "note": "Chemical formulas are mangled into random numbers."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্টক",
+    "note": "Incorrect word, should be 'অষ্টক' (Octet)."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0 ... 8-0",
+    "note": "Chemical formulas are mangled into numbers."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-39",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্টক",
+    "note": "Incorrect word, should be 'অষ্টক'."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(017)",
+    "note": "Chemical symbol (Li+) is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4৪ ... 43৭",
+    "note": "Chemical symbols (Na+) are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(48)",
+    "note": "Chemical symbol (Na+) is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0) ... (1) ... ০ı৭",
+    "note": "Chemical symbols (Cl, Ar) are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0৭",
+    "note": "Chemical symbol is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অযু ... ৪৮৭",
+    "note": "Chemical ions are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "3 বে খা ... হু পদ পরা",
+    "note": "Entire section is mangled OCR of chemical formulas/diagrams."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1এ4850",
+    "note": "Chemical formula (MgSO4) is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম& ... ব৭+ ... মা_",
+    "note": "Chemical symbols (Mg, O) are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢল্+কও ... ৯্ ... ০%",
+    "note": "Chemical formulas are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0] ... (০৭)",
+    "note": "Chemical symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭) ... (১)",
+    "note": "Diagram symbols (dots/crosses) were misread as numbers."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01 ... ০: ... 4 ... ৫৮",
+    "note": "Chemical formulas are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০-ম ... য.+শ0া",
+    "note": "Chemical formulas are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রক্মিজেন",
+    "note": "Word is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০-০ ... ০+০০০",
+    "note": "Chemical formulas are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-67",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০-১০",
+    "note": "Chemical symbol (O-H) is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৪০ ... মা,০",
+    "note": "Chemical symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-69",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "143 ... ০ ... ঘ৭",
+    "note": "Chemical symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪ ... ০১ ... ০ ... ১ ... ১১",
+    "note": "Chemical formulas are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্রোচ0া]",
+    "note": "Chemical name is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "143০ ... ৮৫০,, ... যেন",
+    "note": "Chemical formulas are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0৪৩:০০৯ ... ৫০рь",
+    "note": "Chemical names are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-77",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১",
+    "note": "The number 81 is likely a mangled charge/count."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৭ ... ৮",
+    "note": "Chemical symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-80",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "430 ... ০৩০১ ... 01৪",
+    "note": "Chemical symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-83",
+    "status/flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৫০১ ... ০৩।",
+    "note": "Chemical names are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-85",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4৮০ ... 14৮ ... ০",
+    "note": "Chemical ions are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-87",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩ ... মা0] ... ঢা?",
+    "note": "Chemical ions are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-88",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-89",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০২১৭২২০১:",
+    "note": "Chemical formula for sucrose is mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-91",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৬ ... ২ ০ ... && ... ৮",
+    "note": "Table/diagram data mangled into junk text."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-92",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৯১০০৮১১৭৬০ ... চ1০০০১০১",
+    "note": "Technical codes or chemical symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-94",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-95",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪ ... ৮",
+    "note": "Charge/quantity numbers mangled as single digits."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-96",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৮৫৮৫ ... ৯:৫.৯.৩",
+    "note": "Diagram/table data mangled into junk text."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-97",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-98",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-99",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-100",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব৭০] ... ও বড় ... ৪৮০ ... ১৮:০০",
+    "note": "Chemical options mangled into nonsensical characters."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-101",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪৩ ... মা] ... ম৩০ ... ১১২০৬",
+    "note": "Chemical options mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-102",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢু ... ৪ ... ৫ ... ৯ ... ৮",
+    "note": "Chemical options mangled."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-5-103",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭৭ ... ১:",
+    "note": "Chemical options mangled."
+  }
+]

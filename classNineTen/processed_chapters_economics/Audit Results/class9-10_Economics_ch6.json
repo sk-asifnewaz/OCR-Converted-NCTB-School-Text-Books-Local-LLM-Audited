@@ -1,0 +1,452 @@
+[
+  {
+    "chunk_id": "9-10-Economics-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২3001)3] [10010 3100 105 ২1035111011 011(5",
+    "note": "Garbled symbols and numbers at the start of the chapter."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0137), (01272)",
+    "note": "Numeric strings in parentheses appear to be OCR noise for symbols."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0011৫0]5 ০1:খ3001131 111001116)",
+    "note": "Extensive digit noise and script corruption in the definition section."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01053 খ301011831 1110€01116 বা খা)",
+    "note": "Garbled character strings mixed with digits."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4০043001131 111001116 বা খাখা)",
+    "note": "Extreme noise in the formulas and definitions."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ঠোখ1), (00/৬), (17011600137)",
+    "note": "Garbled symbols and numbers in the relationship list."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(21062351111) 01105 01 (ঙ10399 [)",
+    "note": "Complex garbled strings of digits instead of clear labels."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮10010৫0011 ৬1010108011)",
+    "note": "Garbled digits in the section header."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(111001116 /১]10103061)",
+    "note": "Garbled digits in the header and potential currency symbol errors."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ,া0০11010116.1001080], €)",
+    "note": "Significant corruption in the formula and symbols."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(061 08310103 (1-055 1)01116500 10000)",
+    "note": "Garbage digit strings in the heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-14",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কোনো নির্দিষ্ট বছরে মোট দেশজ উৎপাদন (জিডিপি)",
+    "note": "Sentence cuts off mid-thought at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-15",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উচ্চ আয়ের দেশ, মধ্যম",
+    "note": "Sentence ends abruptly at the word 'মধ্যম' (medium)."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0600111111131105 01 (0ঙ1-055 1[7016500 11-0010-01)7)",
+    "note": "Garbled digit string in the header."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01.8110)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1.80001)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1.80001)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(81031)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1০011101055)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1011105)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ03৫0015 00 111010000 1 01)",
+    "note": "Garbled digits in the section header."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(€13171031 (31115 & 1,05565)",
+    "note": "Currency symbol and long string of digits are noise."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(111001-11601315 (৫0005 3110 ১০1 1065)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0)00616 €০৮10115)",
+    "note": "Garbled currency symbol and digit string."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0৫000.5 3110 ও61-ছ1005 [1০06 01001138156)",
+    "note": "Garbled digit string in the sub-heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ0 €01151001-30011 01171610019)",
+    "note": "Garbled currency symbol and digit string."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[11061690 011 10116 1)0060)",
+    "note": "Garbled digit string in the heading."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬1০0100 ০01 [50111300711 01)",
+    "note": "Garbled digit string in the header."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ ও 8৪",
+    "note": "Mixed numbers and garbled options for questions."
+  },
+  {
+    "chunk_id": "9-10-Economics-6-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-6-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

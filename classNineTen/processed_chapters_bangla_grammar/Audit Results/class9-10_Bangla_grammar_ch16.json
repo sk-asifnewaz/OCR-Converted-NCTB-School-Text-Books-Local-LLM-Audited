@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হয",
+    "note": "Likely an OCR corruption of the word 'হয়' at the end of a sentence."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রমবাচক",
+    "note": "Should be 'ক্রমবাচক'; the character is incorrectly rendered."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংখাশন্দ, ত্রমবাচক",
+    "note": "Multiple instances of script corruption for 'সংখ্যাশব্দ' and 'ক্রমবাচক'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রমবাচক",
+    "note": "Script corruption of 'ক্রমবাচক'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রমবাচক, ৪৯",
+    "note": "Script corruption of 'ক্রমবাচক' and a stray page number or digit."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(তয়া)",
+    "note": "Likely a corruption of '(৩য়া)', where 'ত' is incorrectly rendered from '৩'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি , ৯ম-১০ম শ্রেণি\n৫০ বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+    "note": "Non-content text (headers/footers) containing numbers mixed into the paragraph."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-16-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

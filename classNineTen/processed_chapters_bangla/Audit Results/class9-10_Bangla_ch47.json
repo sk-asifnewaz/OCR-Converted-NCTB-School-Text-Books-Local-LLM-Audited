@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-47-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২১৮",
+    "note": "Page number inserted into the text block."
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আগষ্কুক নই ২১৯",
+    "note": "Garbled word 'আগষ্কুক' and page number noise."
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২২০",
+    "note": "Page number inserted into the text block."
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আগসন্তক",
+    "note": "Garbled word likely caused by poor OCR."
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বরষণ-মুখর, বৃষ্ণি",
+    "note": "Incorrect characters for 'বর্ষণ-মুখর' and 'বৃষ্টি'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-47-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

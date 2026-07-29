@@ -1,0 +1,488 @@
+[
+  {
+    "chunk_id": "9-10-Higher_math-13-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "50110 0০০০1160-7",
+    "note": "String of numbers appears to be an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৯",
+    "note": "Repeated digit '9' likely replaces bullet points or list markers."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01191151011)",
+    "note": "Numeric string in parentheses is likely an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/11791, 41307",
+    "note": "Random number strings appearing in the middle of text."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11301317170 1, রা ___ _ _ _ _ _ 7 10",
+    "note": "Garbled text and random numbers likely from page/layout artifacts."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(চ13116 5৮11306), 4701, 41317, 4170",
+    "note": "Numbers in parentheses and list are OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দড্রন্টব্য",
+    "note": "Word 'ধারণা' (concept) is corrupted as 'দড্রন্টব্য'."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0৮০৫ 5৮18306)",
+    "note": "Numeric string in parentheses is an artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(50110 8০০10760%), (56010160-% ০ 50806)",
+    "note": "Complex symbols and numbers are typical OCR artifacts of labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০010181181' 50181517 11165), 17, 01), 74",
+    "note": "Mangled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "117, 1/77'",
+    "note": "Numeric noise in the text."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(2818116] 11095), 17, 01)",
+    "note": "Numbers and brackets are artifacts."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(28181]16] ৮181165), :/4139019, 17770",
+    "note": "Non-sensical number strings."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(2813116] 00 ৪ 01816), /130",
+    "note": "Mangled labels and numbers."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(401103] ০01 09101010018 ০০ ৪ ২১৮৬), 012, 017",
+    "note": "Highly corrupted numeric strings."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৮11086), (ঘ০:0031), 7301), 1০1",
+    "note": "Number sequences and symbols are artifacts."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00117010881), .4173177', 1১0",
+    "note": "Numerical noise from layout or labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(81881), (51), 19177, /9077",
+    "note": "Numbers/symbols appear to be mangled labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(5167 11165)",
+    "note": "Mangled label or reference."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "17, 013, 01, 01), 0+, 00, 1720080, 47, 019, 7310, 15",
+    "note": "Dense sequence of mangled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(316018] ৪1816), 04, 01, 014, 043, 0:",
+    "note": "Mangled labels/numbers."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "47, 01, 10, 17, 01, 014, 043, 0:, 140/%",
+    "note": "Numerous mangled numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2:0]1600010), (চ:0]1০০01010), ৮1019000010",
+    "note": "Very high level of digit/symbol corruption."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€, ৮৭ুন",
+    "note": "Unicode/script corruption of special characters."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "২৯২",
+    "note": "Likely a page number or header artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(50806)",
+    "note": "Mangled number/label."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(50118), (51806), (6086)",
+    "note": "Mangled labels for formulas."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৯১, ২০০৪1150181 29191161011060",
+    "note": "Severe digit noise/mangled labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47301), //79/0113, 0017 413194, 473791.4",
+    "note": "Severe corruption of formulaic labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "17 - ৫, 41 - ৪, /4 - ০, (4৮০38 ০0 006 11016 5010306)",
+    "note": "Mangled values and label strings."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "317 - ৬1327413192, 64727, 4179247191792, ৮৮৪৪৭",
+    "note": "Large chunks of mangled digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8122479247062, 81414814736, ৬০261, ২১২ - ৯ ... :-১৪",
+    "note": "Mangled numeric values."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8122479247062, 81414814736, ৬০261, (21151)",
+    "note": "Mangled values and label."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1০80181' 01151), (11650131' 21151)",
+    "note": "Mangled formula labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "31442 - 52, ৫৪১০৩ - ৬, ২৬৪৭ (৩৪৪৪৫), ৮ ৮ ১২৭৯৬ - ১০৮",
+    "note": "Extremely mangled numeric results."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "3 + 3 - 6",
+    "note": "Potentially mangled calculation or labels."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১€, ?, [৮:৮২ ৪১২]",
+    "note": "Mangled symbols and numeric values."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "? - ঢু, ৬২৪৭২ - ৬১২২৪, [১০ ১০৪ ০৪১০) ১৩], ১০১০৪ ৪০০",
+    "note": "Highly mangled numeric calculations."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(₹1800 0100131' ০০116)",
+    "note": "Mangled formula label."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৩৮৫, ০.৪",
+    "note": "Likely mangled coefficients from an equation."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0.4 -1, 00 -?, 10 - 1, ৪, ২, দু যাঙ্গ] ৪ নাই লı না (১ ৪১)",
+    "note": "High amount of digit noise and mangled expressions."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬২৪৭২ - ১২২৪৭৫২, ৭০১৪৭) ₹ ৭ ৫(০১৩৪৭৫)-২৮২.৭৪৩৩",
+    "note": "Severe mangling of calculation results."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৫১২১৬১৬)",
+    "note": "Mangled label/formula."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮০৯, ০৭২৫ ০১২৪ ১২৭৪, ০৭২৫ ০১৩২ - ০১২২ ৫৭২ -১০২",
+    "note": "Complex mangled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| ], ;",
+    "note": "Mangled punctuation/brackets."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৪০",
+    "note": "Mangled numerical data."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০।, ০/১০ - &",
+    "note": "Mangled symbols and numeric segments."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮ির, ৯^৩",
+    "note": "Mangled Bengali text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "য্- ০২",
+    "note": "Mangled coefficients/values."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "70জন",
+    "note": "Mangled number/word combination."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-68",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Mangled measurement value."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫৬২, ২৬৫",
+    "note": "Missing decimals/symbols making numbers look wrong."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-13-78",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অংশের দৈর্ঘ্য ও",
+    "note": "Sentence cut off at end of chunk."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-16-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€কৃণক্ত - কৃত",
+    "note": "The symbol € and character ণ are OCR artifacts for 'কৃত'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "%স্থা + তব্য",
+    "note": "The % symbol is a common OCR error for the word 'স্থা'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেব্‌ + অনীয় 5 সেবনীয়।",
+    "note": "The digit 5 is noise replacing a symbol or punctuation."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "অকর্মক ধাতুর উত্তর কর্তৃবাচ্যে \"কত প্রত্যয় হয়।",
+    "note": "The word 'কত' is likely a corruption of 'ক্ত'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দহ +ক্ত ল দগ্ধ, খনিন্দ্‌ + কত - নিন্দিত",
+    "note": "Multiple instances of 'কত' instead of 'ক্ত' and corrupt word forms."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লিঙ্গ ও বচন হ্য়।",
+    "note": "The character 'হ্য়' is a corruption of the word 'হয়' (becomes)."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘচেষ্ট 7 শানচ্‌ ... ভৈক্ষণ্যু্‌ + শানচ্‌ 5 ভাষমান",
+    "note": "Digits 7 and 5 are clearly noise inserted into the text."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "তুমুন্‌*",
+    "note": "The asterisk is a stray character from OCR."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "*থ্রহ্‌, €গম্‌, €জ্ঞান, *পচ্‌, €পঠ্‌",
+    "note": "Repetitive symbols (* and €) indicate character recognition errors."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্কাচ্‌, €লিখ্‌",
+    "note": "Misspelling of 'ক্বাচ্' and noise character €."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নএঞ্‌, বি খহা",
+    "note": "Incorrect word construction and unnecessary spaces."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১7 -ঘস-2-০৮দ৮ে ৯ ০১২ ও /৮ «",
+    "note": "Massive string of garbled text and numbers."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দশরথ + ইঞ 5 দাশরথি",
+    "note": "The digit 5 is noise; text includes fragments from previous questions."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অপত্যার্থক",
+    "note": "Likely a misspelling of 'অপত্যার্থিক'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যাণ্য, উ, উ, স্থানে 'গ'",
+    "note": "Garbled characters and repetitive word fragments."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যাণ্য, ণ্যয), অণ অ), পাডু 7",
+    "note": "Multiple garbled Sanskrit terms and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গঙ্গা + ঢক, বরং",
+    "note": "Inconsistent punctuation and character representation."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সমুদ্র 7 ঠক্‌, ভৈক্ষম্‌",
+    "note": "Digit noise in 'সমুদ্র' and corruption of 'ভৈক্ষম্'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কৃতম 5 রামায়ণম",
+    "note": "The digit 5 is clearly noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাবা, ঠকৃত",
+    "note": "Garbled words for 'নৌ' and other Sanskrit terms."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাধুতা (সাধু + তল্‌ + স্ত্রীলিঙ্গে আপ্প)",
+    "note": "Garbled symbols and non-standard script usage."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-16-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অণল, ঠকল, ত্মি, পৈএম্‌",
+    "note": "Significant corruption of Sanskrit terms across multiple lines."
+  }
+]

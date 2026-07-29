@@ -1,0 +1,1064 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০-০101130011)",
+    "note": "Non-sense numerical string embedded in the text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ11%601101170116)",
+    "note": "Mixed numbers and symbols within chemical names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(20500198090 17011101165)",
+    "note": "Random numerical strings in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০1৬000165)",
+    "note": "Nonsensical numerical strings in parenthetical notes."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4&&)",
+    "note": "Garbled characters and numbers in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০০৮০৮০০৮৮০৮)",
+    "note": "Nonsensical long number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮1010510381 01০00)",
+    "note": "Garbled numbers in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(51016 7237 13108)",
+    "note": "Nonsense numbers in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(037 14600প31 13140)",
+    "note": "Garbled string of digits and letters."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ০117311723001)",
+    "note": "Mixed characters and numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(40ঘ601006110)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4০07০116108 ০1000100001)",
+    "note": "Long nonsense number strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ০1৮০%১ 01071701015",
+    "note": "Garbled mix of symbols and digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(21106000110 10106111611 ০1 010060001015111)",
+    "note": "Extensive digit noise in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0111108] 107655611891)",
+    "note": "Nonsense digit strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০-০10180010)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬০৫৮৬)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(610031 1101ր005 59501)",
+    "note": "Garbled number sequence."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০৮০৮৪111 বা 12140991106101131010)",
+    "note": "Long nonsensical number strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০1৮13] 11610151616)",
+    "note": "Garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(6:37 1018001)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(410৮13111 বা 46961106121131011)",
+    "note": "Nonsense number strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11110৮13111 বা 1211011091106101131010)",
+    "note": "Nonsense number strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2০৮০|1প10)",
+    "note": "Mix of digits and non-standard symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(20:05)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(013119] 1161%65)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(5৮131 ০০1৫)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(51131 1161%65)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(911 ৮০৭)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0990101)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(41208)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(47০10)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(5%103056)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-56",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০06০3 3০0011)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(09110116131 1161%05 57506117)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(40011011410 1191-%0৮5 ও950970)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(113115111591011 ০1 [11100156)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-70",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(10310917 18110)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-72",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(711%1010 £13170)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-73",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2310101110146)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-74",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01%110511)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-75",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৪01০1181110)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-76",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(151605 ০018118561113105)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-77",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(6650050616)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-80",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01386065)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-81",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1150110)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-83",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-85",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "77150101116, 77166 ও 17108",
+    "note": "Nonsense long numbers used as a list."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-86",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01501106)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-87",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0196)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-88",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(09105)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-89",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(5001)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-91",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-92",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-94",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(281131%515)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-96",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(80116055)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-97",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-98",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-99",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(23101150115 0156856)",
+    "note": "Nonsense numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-100",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-101",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-103",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-104",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-105",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-106",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-107",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-108",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-109",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-110",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-111",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এড ব্ছনিবচনি পয",
+    "note": "Garbled/nonsensical Bengali text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-112",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক. ও খ.ওয়া গ.]!ওয় ঘ.]া,][ওয1",
+    "note": "Garbled options in a question."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-113",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-114",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-115",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-116",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-117",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-10-118",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

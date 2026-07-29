@@ -1,0 +1,938 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(014/)",
+    "note": "Garbled symbols and numbers appearing to replace 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0144)",
+    "note": "Garbled characters likely intended to be 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(86160107)",
+    "note": "String of digits with no context or purpose."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00616010891",
+    "note": "Severe script corruption in identifying DNA/RNA."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00010110501716)",
+    "note": "String of digits without context."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(21175108] ০9515 ০৮1০০160167)",
+    "note": "Highly corrupted digit strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(096০১511080 14৮০]1910)",
+    "note": "Complex character corruption."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "3.4 ৭ (1 & - 107 মিটার)",
+    "note": "Garbled measurements and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0061103] ৮৪515 ০ 16160167)",
+    "note": "Garbled text in chemical terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1.5 0)",
+    "note": "Digits appearing as noise in measurement context."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1-1.5 010",
+    "note": "Unusual digit string in measurement."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2 গ7",
+    "note": "Garbled characters in text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "3 ০",
+    "note": "Garbled symbols in instruction."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Non-Bengali symbol in text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7.1 1",
+    "note": "Likely a corrupted number."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "14/-",
+    "note": "Garbled symbols instead of 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "া4/-",
+    "note": "Garbled characters instead of 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪ (70603000 1405810 ছা105)",
+    "note": "Severe corruption in chemical/biological terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(.00৮৫)",
+    "note": "Garbled symbol/number for locus."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "144",
+    "note": "Garbled symbols for DNA."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "144",
+    "note": "Garbled symbols for DNA."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫০০০১51ր০)",
+    "note": "Severe corruption of text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮০৮০1)",
+    "note": "Garbled symbol for DNA."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0144 90211090101)",
+    "note": "Garbled symbol for DNA."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0০10116100914081%)",
+    "note": "Extremely garbled data."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00504100101 ০11271176)",
+    "note": "Garbled chemical terminology."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(20191061856 00311 1০30001)",
+    "note": "Garbled sequence for PCR."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ পস্থিত",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(5০১ ১০০১১০৬০০৫)",
+    "note": "Garbled terms for sex chromosomes."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ঢা সে কলেজে র্্)",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ঙ্মে (মেয়ে)",
+    "note": "Garbled character for Y."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(56২-10190 0150191)",
+    "note": "Garbled range of numbers."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০:২১ ৭৩",
+    "note": "Garbled numbers/ratios."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "74",
+    "note": "Solitary digits likely from OCR noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১0)",
+    "note": "Garbled symbols for genotype."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১০১)",
+    "note": "Garbled genotype codes."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০)",
+    "note": "Garbled symbols for alpha/beta."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1 :-৮. দুনদাছণ",
+    "note": "Garbled text/fragmentation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১০১০০১১৩১১৬)",
+    "note": "Garbled name/date."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(41150006)",
+    "note": "Garbled date for Aristotle."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(061061 5090091)",
+    "note": "Garbled name/date."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1০৮11০৩০০১১০)",
+    "note": "Garbled term for self-replication."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮% ৮1০৭৮০৮)",
+    "note": "Garbled mathematical representation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00311635 1২০৮০1৮৮ 31710)",
+    "note": "Severe corruption of dates and names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(41060 ২৮556] 311306)",
+    "note": "Garbled date/name for Wallace."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮০৮০1)",
+    "note": "Garbled term for DNA."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০)",
+    "note": "Garbled term for competition."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(501152816 7100 অ৮৫11010119146)",
+    "note": "Highly garbled numerical/text block."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ঘ৭1160)",
+    "note": "Garbled term for mutation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০0177৮10107)",
+    "note": "Garbled terms for mutation/recombination."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-80",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11301067010101)",
+    "note": "Garbled term for macroevolution."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-83",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮৮০)",
+    "note": "Garbled term for unfavorable."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-85",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0011-7311%111311 ০৮০10101017)",
+    "note": "Garbled text for non-Darwinian."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-86",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0010-031%11131)",
+    "note": "Garbled text for non-Darwinian."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-87",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01151301010)",
+    "note": "Garbled term for migration."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-88",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-89",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-91",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-92",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-94",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-96",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৪0902090010)",
+    "note": "Garbled term for adaptation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-97",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বাষিনুপ্রণা",
+    "note": "Nonsensical word/gibberish."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-98",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মঋ, সু১",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-99",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-100",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৭৭)",
+    "note": "Garbled symbol for dominant."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-101",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১০১)",
+    "note": "Garbled genotype code."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-103",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-12-104",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

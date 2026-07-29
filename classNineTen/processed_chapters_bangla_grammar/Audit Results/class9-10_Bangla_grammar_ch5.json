@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "|আ], (ঢা, ছা",
+    "note": "Garbled symbols and broken brackets in the list of sounds."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্বরবর্:অআইঈউউখএএ ও ও 2 ১১টি",
+    "note": "Nonsensical character sequence and broken word 'স্বরবর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ ১ শে, শৌ। ... ধ্বনি ও বর্ণ ১৩",
+    "note": "Garbled punctuation/numbers and a likely page number artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ন-ফলা (৭), ব-ফলা (4), ম-ফলা (:), য-ফলা (), র-",
+    "note": "Garbled symbols used in place of proper notations for 'fala'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম. * সদ",
+    "note": "Nonsensical symbols appearing instead of clear text."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ডড,৯্ট",
+    "note": "Isolated digit '৯' in a list of symbols where it is not expected."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হ্ণউ, ন্ধ, রু (র্ণউ), র (র্+ণউ)",
+    "note": "Repetitive garbled characters likely due to failed OCR of complex ligatures."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০1",
+    "note": "Extra digit '1' appended to the zero."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আআ খ.আ]!",
+    "note": "Garbled characters and symbols in the multiple-choice options."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-5-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

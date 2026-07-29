@@ -1,0 +1,416 @@
+[
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/৯551503110606 (01 14110101])101101115111]7 17001011101",
+    "note": "Garbled phone/ID string containing random characters and punctuation."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৪",
+    "note": "Isolated digit appearing as a non-sequitur or artifact."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১১৮",
+    "note": "Page number or sequence artifact at the end of a list."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "((0011061])0 01.551503110০ 101 :110-011-01161-51111)",
+    "note": "Garbled phone number string with mixed characters."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাণিজ্যিক ব্যাং",
+    "note": "Word 'ব্যাংক' (Bank) appears truncated or incomplete at the line end."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উনুনয়ন, সঞ্চথা, সা দে দস ও তে",
+    "note": "Garbled words and a nonsensical sequence of words."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্কুদ্র, সঞ্চথা",
+    "note": "Repeated OCR errors for 'ক্ষুদ্র' and 'সংস্থা'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(38116130০511 1)০০10101116110133111 1-11111000)",
+    "note": "Garbled sequence of numbers and punctuation."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১২০",
+    "note": "Isolated number likely from a page or header."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[010001091010110 09119180118 14801011০",
+    "note": "Garbled sequence of numbers and characters."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00111610131 33110)",
+    "note": "Garbled phone-number-like string at the end."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১২১, খণ",
+    "note": "Page number artifact and common OCR error for 'ঋণ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(03116130০51) শ1031] [11011501165 3110 (01101006106 [3811 1.7]া101660-",
+    "note": "Garbled block of digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ফুদ্র, খণ",
+    "note": "Consistent OCR errors for 'ক্ষুদ্র' and 'ঋণ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[৮৩৩১১৬১৩০০৯] ১১১০০৯৫০১৩১ [০০]১১১১০৩১]",
+    "note": "Garbled number blocks."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংকথা",
+    "note": "OCR error for 'সংস্থা'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(38116130691) €০৮1101] 01 301011000 3110",
+    "note": "Garbled numbers and currency symbols."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(011৬৫০0১৩০৬ ০১ ০০১০০১ ১০৭০১০১০১১১ ০১১০)",
+    "note": "Garbled phone/ID string."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রুল্প, প্রারস্তিক",
+    "note": "Incorrectly rendered words ('সুল্প' and 'প্রাথমিক')."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01১-০৫০০১-৩০৬ ০১ ঘগ০১১১০১ ০৩১১৫), খণ",
+    "note": "Garbled ID string and OCR error for 'ঋণ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সংংতা, (খ০১১-৫০%৬১-১১১১১৬১১০ ০১-৬৩১১১৭৮০০১১৫-খ ০০৫)",
+    "note": "OCR error for 'সংস্থা' and garbled digits."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হায়াস-মুরগি",
+    "note": "OCR error for 'হাইস' (hatchery)."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১১০১০ [১১০১০৫০০১৬৫ ১)০ছ০১০])",
+    "note": "Garbled numbers at the bottom."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষুদ্র, খণ",
+    "note": "OCR errors for 'ক্ষুদ্র' and 'ঋণ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তাত, সিদ্ধ",
+    "note": "Likely OCR errors for 'তাঁত' and 'সুঁই'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হায়াস-মুরগি",
+    "note": "OCR error for 'হাইস'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অব্যহনী, অব্যহনী",
+    "note": "Inconsistent/garbled terms for 'অব্যাহতি'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আন্তজাতিক",
+    "note": "OCR error for 'আন্তর্জাতিক'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংংনমূলক",
+    "note": "OCR error for 'সংরক্ষনমূলক'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তিশালীকরণ",
+    "note": "OCR error for 'শক্তিশালীকরণ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্রমহ্বাসমান",
+    "note": "OCR error for 'ক্রমহ্রাসমান'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীশ",
+    "note": "Likely OCR error for 'বাঁশ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাশ",
+    "note": "OCR error for 'বাঁশ'."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.1ও]ম1 খ.1ও1 গ.]1ওযা ঘ.1,11ওম1",
+    "note": "Garbled options in multiple-choice question."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-8-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10010170100 09110180118 148010116",
+    "note": "Garbled number string."
+  }
+]

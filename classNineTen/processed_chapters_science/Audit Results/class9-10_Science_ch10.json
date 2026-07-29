@@ -1,0 +1,623 @@
+[
+  {
+    "chunk_id": "9-10-Science-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[এই অধ্যম সেম অদ্-",
+    "note": "Corrupted words and sentence cut off abruptly."
+  },
+  {
+    "chunk_id": "9-10-Science-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁ বেগে",
+    "note": "Non-standard character 'এঁ' likely an OCR error."
+  },
+  {
+    "chunk_id": "9-10-Science-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বম) দলবল\nকাজ: ... চচত্র: ... কী _ ক রা রা",
+    "note": "Nonsensical strings and garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Science-10-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীক নেয়",
+    "note": "Likely a typo/OCR error for 'বাঁক নেয়'."
+  },
+  {
+    "chunk_id": "9-10-Science-10-13",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুতরাং যে বস্তুর",
+    "note": "Sentence ends abruptly at a word needing completion."
+  },
+  {
+    "chunk_id": "9-10-Science-10-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "771(৮-/)",
+    "note": "Garbled numeric/symbol string likely from a formula."
+  },
+  {
+    "chunk_id": "9-10-Science-10-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1(৮-/)/1... চচ্চল 10",
+    "note": "Garbled characters and broken text segments."
+  },
+  {
+    "chunk_id": "9-10-Science-10-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুন্টিবদ্ধ",
+    "note": "Likely intended to be 'মুষ্টিবদ্ধ'."
+  },
+  {
+    "chunk_id": "9-10-Science-10-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[ব*\*্য)",
+    "note": "Garbled text in a parenthetical note."
+  },
+  {
+    "chunk_id": "9-10-Science-10-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "॥, &",
+    "note": "Non-linguistic symbols replacing words/numbers."
+  },
+  {
+    "chunk_id": "9-10-Science-10-24",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আমরা",
+    "note": "Sentence cuts off at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Science-10-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[ব*\*্য)",
+    "note": "Garbled text in a parenthetical note."
+  },
+  {
+    "chunk_id": "9-10-Science-10-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যেন্ডু, বা)",
+    "note": "Typo/garbled words."
+  },
+  {
+    "chunk_id": "9-10-Science-10-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(48019 ০ 010০)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০148%163001131 0106)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাঠধ্যাকর্ষণ",
+    "note": "Typo; should be 'মাধ্যাকর্ষণ'."
+  },
+  {
+    "chunk_id": "9-10-Science-10-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮160001119871600 0106)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৪114৮০1০81 চ0106)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১০১৮ ০), বেটা (ট)",
+    "note": "Garbled symbols and units."
+  },
+  {
+    "chunk_id": "9-10-Science-10-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(500105 14া০1০8৪1 চ010০)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শাত্তী, শাত্ত늉",
+    "note": "Recurring typo 'শাত্তি' instead of 'শক্তি'."
+  },
+  {
+    "chunk_id": "9-10-Science-10-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(816000-\"7০310)",
+    "note": "Garbled data/symbol string."
+  },
+  {
+    "chunk_id": "9-10-Science-10-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮0110001131 ঢ0106)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢ- ৮",
+    "note": "Garbled mathematical expression or label."
+  },
+  {
+    "chunk_id": "9-10-Science-10-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "($686010 চ1100010)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(10111600 চ1100010)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01115 চ1100010)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮1৮10)",
+    "note": "Garbled symbols/digits in a header."
+  },
+  {
+    "chunk_id": "9-10-Science-10-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বম) দি্কল",
+    "note": "Garbled text for 'প্রশ্ন' or similar."
+  },
+  {
+    "chunk_id": "9-10-Science-10-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী।",
+    "note": "Likely 'হয়' but corrupted by OCR."
+  },
+  {
+    "chunk_id": "9-10-Science-10-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তাপশরক্কি",
+    "note": "Likely 'তাপশক্তি' (thermal energy)."
+  },
+  {
+    "chunk_id": "9-10-Science-10-61",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কে",
+    "note": "Sentence fragment at the end."
+  },
+  {
+    "chunk_id": "9-10-Science-10-62",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কৌ1ও]1, খাউ, গৌযওয়া",
+    "note": "Garbled multiple-choice options."
+  },
+  {
+    "chunk_id": "9-10-Science-10-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪০০",
+    "note": "Mixed numerals/symbols for a single value."
+  },
+  {
+    "chunk_id": "9-10-Science-10-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Likely '৮৪' but corrupted."
+  },
+  {
+    "chunk_id": "9-10-Science-10-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORR"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অতিক্বম",
+    "note": "Likely 'অতিক্রম' or 'অতিকম্পা'."
+  },
+  {
+    "chunk_id": "9-10-Science-10-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Science-10-68",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮.",
+    "note": "Out of sequence numbering (3, 8, 5)."
+  },
+  {
+    "chunk_id": "9-10-Science-10-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ববলে",
+    "note": "Likely a transcription error for 'সহজভাবে'."
+  }
+]

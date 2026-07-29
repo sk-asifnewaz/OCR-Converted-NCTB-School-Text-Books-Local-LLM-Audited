@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-4",
+    "status": "flagged",
+    "issues": ["SCRIP_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পলাইব্রেরি",
+    "note": "Quotations likely merged with the first character of the word."
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-5",
+    "status": "flagged",
+    "issues": ["SCRIP_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পলাইবেরি",
+    "note": "Quotations likely merged with the first character of the word."
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11. বাদ ও প্রতিবাদ",
+    "note": "Incorrect list numbering, likely '2.' misread as '11.' by OCR."
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-7",
+    "status": "flagged",
+    "issues": ["SCRIP_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও]11",
+    "note": "Garbled symbols and brackets indicate severe OCR corruption of list items."
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-5-11",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অপরপর শাস্ত্রের ভিতর যা আছে,",
+    "note": "Chunk ends mid-sentence/clause with a comma."
+  }
+]

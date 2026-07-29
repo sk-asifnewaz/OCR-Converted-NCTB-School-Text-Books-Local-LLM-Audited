@@ -1,0 +1,326 @@
+[
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10011093111 1১015116953 310 ভ০০131 1২05101151101110165 ... [গা ৩ ৯ বক ৬ ৬ ক ৫",
+    "note": "Contains a long string of nonsensical digits and garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0011001] 01 13115111699 ছ310169 3110 1:00105)",
+    "note": "Nonsensical digit sequence in parentheses, likely a header/footer artifact."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(চ0105)",
+    "note": "Digit noise likely from a page or section marker."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(81005)",
+    "note": "Digit noise likely from a page or section marker."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(83015111695 [:01109)",
+    "note": "Complex string of numbers and brackets is clearly a corruption."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(04060৫০9910 0 13115111695 ছ310105 3110 01103)",
+    "note": "Extensive digit noise/corruption in the section header."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00110600 ০£ 300181 1২090119101 3110 105 11111001031106)",
+    "note": "Extensive digit noise from header/footer area."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(09101111111 00 ১0306)",
+    "note": "Digit noise in the header."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(02091])011511)11105 00 (11500111061 8110 (00115011101)",
+    "note": "Highly garbled digit sequence at the end of a section."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(026901051101113] 00 11111050665)",
+    "note": "Garbled digit sequence in header."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(30031 /১০ম1065 ৮ 1)100010110 151110695 010631117300115 )",
+    "note": "Extremely noisy digit sequence at the bottom of the chunk."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যা গাল গা\n১ স্৮",
+    "note": "Nonsensical, garbled text fragment between paragraphs."
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Business_entrepreneurship-9-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

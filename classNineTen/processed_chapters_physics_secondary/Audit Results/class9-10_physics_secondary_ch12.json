@@ -1,0 +1,551 @@
+[
+  {
+    "chunk_id": "9-10-physics_secondary-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00010300ছ16ঝ ৭00 _1600010105)",
+    "note": "Contains garbled characters and non-sensical digit strings in brackets."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২3010300165)",
+    "note": "Long, nonsensical string of numbers likely a garbled reference code."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "43-760011০010",
+    "note": "Garbled numerical range likely intended as a simple range."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ম011 8০০৭৮০৮০]",
+    "note": "Garbled text and numbers inside parentheses."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(41013 1২89)",
+    "note": "Nonsensical number string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4০\"",
+    "note": "Garbled text/numbers where a unit or value should be."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[0238 -_৯ 234 + 6411",
+    "note": "Garbled mathematical/chemical equation."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[3-দ যা) (ও3-দ তা)",
+    "note": "Garbled symbols and text in parentheses."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70 2 ৮4767 47 চ",
+    "note": "Nonsensical string of numbers and characters."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "04 -৯ ব14+ ০ + ঢ",
+    "note": "Garbled characters in a chemical reaction equation."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৭1113 39)",
+    "note": "Nonsensical number string."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(09111)",
+    "note": "Garbled numbers in a header."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0810116)",
+    "note": "Nonsensical number string in brackets."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভী সল",
+    "note": "Garbled words at the end of a paragraph."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৪",
+    "note": "Garbled value for a chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৪",
+    "note": "Garbled value for a chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-30",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্যাঙ্গার চিকিৎসায় ক্যাঙ্গার কোষ",
+    "note": "Likely a typo for 'cancer' (ক্যানসার) which makes sense in context."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৯১১০৬৫৫ ০০১২৩০১০৮০০ ড১৪০৫)",
+    "note": "Nonsensical string of characters."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বুঁকিপূর্ণ",
+    "note": "Garbled word; likely should be 'hazardous' or similar."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৬০১০১১১১৬০ ০ল ড১৬০০১০১০১০৫)",
+    "note": "Garbled string in section header."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "70900",
+    "note": "Unexplained number in context."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "||, না ść, \"' টা ্য",
+    "note": "Garbled symbols and characters."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১৩১১৫১৫০৬০১)",
+    "note": "Garbled number in header."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১১১০৬৬১৫৩৬০ ১০০১০)",
+    "note": "Garbled string in section header."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৪৮১), (১.৫), (ছা.৫)",
+    "note": "Nonsensical numbers in context."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮২০৬৪: ঢ১৬০ ২১০৫১৩১১৭১০৩৮১৬ ০৮৬৬ /১৫)",
+    "note": "Highly garbled string."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৪১৩১০৮ & ৭২১৮৫১০৮৩১ ০১৬০০১১০০৮)",
+    "note": "Garbled string in header."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৯০০০৮)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৪০১৫৬)",
+    "note": "Garbled number in context."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আইসি ০০, | ১১১|",
+    "note": "Garbled text/symbols in technical description."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০, লি ৫",
+    "note": "Garbled numbers in text."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চঢ",
+    "note": "Garbled characters in a technical term."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-57",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বর্ন ওর",
+    "note": "Nonsensical fragment at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪, ১১০]",
+    "note": "Garbled numbers for list numbering."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ঠে, ৯০০, ২৫০ ঠা",
+    "note": "Garbled characters in numerical values."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তেজক্চরিয়",
+    "note": "Spelling/script corruption of a key term."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-12-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

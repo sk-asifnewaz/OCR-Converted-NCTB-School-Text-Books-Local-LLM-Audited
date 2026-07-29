@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০৮৮০০০০০১",
+    "note": "Non-meaningful long digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "مم ممم ممم ممم ممم ممم ممم ممم ممم ممم ممم ম ممম",
+    "note": "Repeated nonsensical character sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১০০০ ১১০০১০১০৭০২",
+    "note": "Long, non-sequential digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৯৯৯৫",
+    "note": "Unexplained large digit string in text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৮৮৭১",
+    "note": "Random digit string inserted in sentence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০৮৯০৪০",
+    "note": "Nonsensical digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৯০৬০৪১০৭২০",
+    "note": "Long non-meaningful number string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৭১০২৭৬৯১৩১",
+    "note": "Random sequence of digits."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৫০০০৯২৫০",
+    "note": "Unrelated digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৭২৪১",
+    "note": "Random digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১৮১১০৮৫০১০",
+    "note": "Nonsensical long number string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৩০৭১",
+    "note": "Random digits in text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফ ফ ফ فق ص ص ص",
+    "note": "Repetitive nonsensical character sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৯৩",
+    "note": "Non-meaningful digit count or sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২২৮",
+    "note": "While 228 is a page number, surrounding digits are noisy."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩-৪$",
+    "note": "Garbled symbols and digits."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৫১",
+    "note": "Garbled digits at end of clause."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪১]",
+    "note": "Garbled bracket and digits."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮",
+    "note": "Isolated digit noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আলনবিতু",
+    "note": "Garbled word or incorrect transcription."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৫৮০১",
+    "note": "Unrelated long digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৮৪১০",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-24",
+    "status": "flaged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯১৭%",
+    "note": "Garbled percentage and number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

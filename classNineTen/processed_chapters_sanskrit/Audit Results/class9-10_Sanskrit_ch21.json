@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-21-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-21-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুর্যতি ₹",
+    "note": "The currency symbol and digit are clearly non-contextual artifacts."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-21-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পরিহারবৎ 1",
+    "note": "Single digits within quotes likely represent artifactual numbering."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-21-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-21-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২১১, (৪), (১১, ২১), (১২১",
+    "note": "Multiple instances of digits are likely artifacts from page layout."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-21-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিশ ২), ত্রিশ (৪), সিব্প।",
+    "note": "Garbled numerals and a truncated/garbled word at the end."
+  }
+]

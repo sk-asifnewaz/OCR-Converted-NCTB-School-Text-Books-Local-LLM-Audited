@@ -1,0 +1,353 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-8-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রড)",
+    "note": "Garbled character or artifact instead of expected introductory text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক្ម, নেষ্রন",
+    "note": "Corrupted rendering of 'বৃক্ক' and 'নেফ্রন'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রেচনতন্দ, পালনাক্লাভা",
+    "note": "Garbled words instead of 'রেচনতন্ত্র' and potentially other terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছাল ম্যাগ প্দ্ধ",
+    "note": "Nonsensical string of characters at the start."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(101011567)",
+    "note": "Random digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম1105",
+    "note": "Garbled digits/characters inside a term."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(চ8111]13), রন্তবাহী",
+    "note": "Garbled digits and 'রন্ত' instead of 'রক্ত'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(046110101), (1০005 ৮৮৮৮1০)",
+    "note": "Strings of random digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২61৮] ০০১%৮৫০]৬), (২০১৭৩] ৮১৮]৬)",
+    "note": "Complex digit/symbol noise in technical terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বোম্যাঈস",
+    "note": "Incorrect spelling of 'বোম্যান্স'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(40919110 310911016), সূক্ষ র্তজালিকার",
+    "note": "Digits noise and 'রন্ত' corruption."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(210301031...)",
+    "note": "Long digit string and truncated end."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্ত, ভ্রিক্বকের",
+    "note": "Incorrect 'রন্ত' for 'রক্ত' and 'ভ্রিক্য' variant."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ফ็), রন্তচাপ",
+    "note": "Garbled bracket and 'রন্ত' for 'রক্ত'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য, রন্তচাপ",
+    "note": "Corrupted rendering of 'বৃক্ক' and 'রক্তচাপ'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্ম",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(013]7515)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিল্ড",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORR"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তু",
+    "note": "Corrupted word for 'রক্ত' (blood)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মৃূত্রনালির",
+    "note": "Incorrect vowel marker in 'মূত্রনালির'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তক্ষরণ",
+    "note": "Incorrect word for 'রক্তক্ষরণ'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-34",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(এড ব্ছনিবচনি পয",
+    "note": "Nonsensical string of characters at the end."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪, (রী) সৃদন্পন",
+    "note": "Garbled digit and corrupted word for 'প্রশ্ন'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভ্রিক্য",
+    "note": "Corrupted rendering of 'বৃক্ক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কঙ্কালতন্দ্র",
+    "note": "Corrupted word for 'কঙ্কালতন্ত্র'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-8-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কঙ্কালতন্দ্র",
+    "note": "Corrupted word for 'কঙ্কালতন্ত্র'."
+  }
+]

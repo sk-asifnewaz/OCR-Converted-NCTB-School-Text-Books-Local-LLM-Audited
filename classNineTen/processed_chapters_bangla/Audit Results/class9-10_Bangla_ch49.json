@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-49-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মুক্তির জন্য সং",
+    "note": "The word at the end of the chunk is cut off."
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1., 11., 111.",
+    "note": "Repetitive digit patterns suggest failed recognition of Bengali numerals."
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও]1",
+    "note": "Garbled punctuation and numbers in multiple-choice options."
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শএ ৯ ৬ &",
+    "note": "Nonsensical character/digit sequence in the header."
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-49-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভাই 1",
+    "note": "Isolated digit at end of line likely a line counter artifact."
+  }
+]

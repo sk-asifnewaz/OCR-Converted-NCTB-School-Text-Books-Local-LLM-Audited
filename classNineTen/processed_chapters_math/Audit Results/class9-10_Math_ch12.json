@@ -1,0 +1,722 @@
+[
+  {
+    "chunk_id": "9-10-Math-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "511116 ৩110701103176005 _0039010105 10 1%ণ0 ছখ311306165",
+    "note": "Long string of numbers and symbols are clearly OCR noise/corruption."
+  },
+  {
+    "chunk_id": "9-10-Math-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "22 472 - 12",
+    "note": "Equations are mangled; '22' and '472' likely represent variables x and y."
+  },
+  {
+    "chunk_id": "9-10-Math-12-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2:47) এর মান ... 04712-12",
+    "note": "Mathematical expressions are heavily corrupted by OCR."
+  },
+  {
+    "chunk_id": "9-10-Math-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫ - &) এর মান ... -2475-3 3",
+    "note": "Symbols and equations are corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৪১৫১৫০৯১৮০ ... রত ,",
+    "note": "Long digit string is noise; 'রৎ' is a corrupted word."
+  },
+  {
+    "chunk_id": "9-10-Math-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(06029110610 ... ফর্মা-২৯",
+    "note": "Corrupted data string and mangled text."
+  },
+  {
+    "chunk_id": "9-10-Math-12-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(06061109110)",
+    "note": "Long digit string is likely OCR noise from metadata/symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2-326/ 1 ... ৪ -2 12৬2",
+    "note": "Equation notation is mangled by OCR."
+  },
+  {
+    "chunk_id": "9-10-Math-12-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "00001515018",
+    "note": "Long digit string is OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Math-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫2৫ 7 022 ... ০১০৮",
+    "note": "Equation symbols are corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩৫ ... ০২ ?",
+    "note": "Heavy corruption in math expressions."
+  },
+  {
+    "chunk_id": "9-10-Math-12-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রে র্্বী թা",
+    "note": "Word 'দিয়ে' or similar is mangled."
+  },
+  {
+    "chunk_id": "9-10-Math-12-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2473&৮৮ল-স1 ... ৩২ -৫২&-স1৭",
+    "note": "Equations are severely corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ ১_ 1 ... ১৮",
+    "note": "Mathematical notations are mangled."
+  },
+  {
+    "chunk_id": "9-10-Math-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7671]",
+    "note": "Malformed symbols in equation result."
+  },
+  {
+    "chunk_id": "9-10-Math-12-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২-ঠল৫৪ ... ০৬০৯১১০",
+    "note": "Corrupted equations and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Math-12-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "22-478৬-১ ... ৩২ -২৮-স৫৪",
+    "note": "Equations are corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "50850680010 1160000",
+    "note": "String of digits is clearly OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Math-12-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "22-472৮-8 ... ৩২ -২৮৮-৪",
+    "note": "Equations are mangled."
+  },
+  {
+    "chunk_id": "9-10-Math-12-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "61111130011 1160100",
+    "note": "String of digits is OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Math-12-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0055 1771001108001৭ ... ৫1৫ -70৮৮৭০১-০",
+    "note": "Noise and mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫1০২২ ... ৮১০২৮",
+    "note": "Equation notation is corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫২০1 যা ০1০২) ... ৪৭০০২ -০২০]",
+    "note": "Equations are corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০১৪৯ ... ০১৫৮",
+    "note": "Corrupted terms in math expressions."
+  },
+  {
+    "chunk_id": "9-10-Math-12-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১২৫-৭০-৭০ ... ৫২৫ 7 ০0২৮",
+    "note": "Equations are corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-12-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫] ১ 6, ০] ৮ 1], টোল 1]",
+    "note": "Mangled text/symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-12-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২ -৩৩%,১০১-২১ ... ০৪_րু_",
+    "note": "Equations and symbols are mangled."
+  },
+  {
+    "chunk_id": "9-10-Math-12-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩ ... রর",
+    "note": "Mangled math/text."
+  },
+  {
+    "chunk_id": "9-10-Math-12-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২-১৮ ... ০৫-১৯",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩ ... ৫২",
+    "note": "Equations are mangled."
+  },
+  {
+    "chunk_id": "9-10-Math-12-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7:-38-31 ... ৩২ -৫২&-স1৭",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "22৭২১-৩",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2)-6- 4:",
+    "note": "Mangled math symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-12-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪১২৭২৮-০৬",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২ -_ ; - 6",
+    "note": "Mangled equation notation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": ";! -০৪০০০।৬",
+    "note": "Mangled mathematical expression."
+  },
+  {
+    "chunk_id": "9-10-Math-12-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "22-472-8",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বীড়্য ... ৯৭ ... ১]",
+    "note": "Poorly OCR'd mathematical results and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-12-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "32 -ঠ-স্ও",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩-৭৮&-২১ ... ১৪০ নিত",
+    "note": "Mangled equation and text."
+  },
+  {
+    "chunk_id": "9-10-Math-12-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৮--১৪-২ ... ১৮ ।|-]।-৩।",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮১০৩| ৭ ... ৩, নল 3]",
+    "note": "Mangled notation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩ -স্থ্ ... ৪০ँ-৪",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ - 3 - 0",
+    "note": "Mangled math expression."
+  },
+  {
+    "chunk_id": "9-10-Math-12-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০২ ৪৭৭১ ... ২৭৭৫ - ৩২",
+    "note": "Mangled equations and noise."
+  },
+  {
+    "chunk_id": "9-10-Math-12-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯১-৯২-৭৪৭৯-০",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "24710 - 28710 ... ৮৮ - 2 - 20৭৫৬",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬% - ৬৬ ... ৭ -১১",
+    "note": "Mangled equation results."
+  },
+  {
+    "chunk_id": "9-10-Math-12-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৮ - ৫৭ ১০ ... ২৪৭) - ১০০",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৪ - ৯০ ... /॥ - ২০",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৪ ১:২৪ ... ৮১৬ - ৬০০",
+    "note": "Mangled calculation steps."
+  },
+  {
+    "chunk_id": "9-10-Math-12-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৫৯৫৫ ... ১০১৭",
+    "note": "Mangled results/notation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪ - ৭১৯",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০.০ ৫ ০ ... ঘ) _স-",
+    "note": "Mangled equations."
+  },
+  {
+    "chunk_id": "9-10-Math-12-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অং্বদ্বয়ের",
+    "note": "Typos from poor OCR (should be 'অঙ্কদ্বয়ের')."
+  },
+  {
+    "chunk_id": "9-10-Math-12-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভরগ্নাংশের",
+    "note": "Mangled word (should be 'ভগ্নাংশের')."
+  },
+  {
+    "chunk_id": "9-10-Math-12-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভরগ্নাংশের",
+    "note": "Mangled word (should be 'ভগ্নাংশের')."
+  },
+  {
+    "chunk_id": "9-10-Math-12-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২২ ₹- 4",
+    "note": "Mangled equation."
+  },
+  {
+    "chunk_id": "9-10-Math-12-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৯৮৭)",
+    "note": "Mangled notation or data."
+  },
+  {
+    "chunk_id": "9-10-Math-12-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-12-80",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

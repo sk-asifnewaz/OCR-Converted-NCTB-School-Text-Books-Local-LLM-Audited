@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-26-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-26-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-26-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৭)",
+    "note": "The digit '৭' is likely a mis-recognized tick mark symbol (✓) by OCR."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-26-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

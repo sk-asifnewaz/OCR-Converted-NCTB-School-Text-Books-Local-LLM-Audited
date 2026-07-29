@@ -1,0 +1,1208 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-6-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(8]111317 3091)",
+    "note": "Garbled digits and punctuation in a parenthetical expression."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০০ ঝ০০০৬২--৬৫",
+    "note": "Nonsensical digit sequence likely from a corrupted citation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১৬২০ (০৯]] ০০ ০৯]] ০১০৫১৫) (ঘ৩৫০১৩১ ৮৮৭১৬৫)",
+    "note": "Multiple instances of garbled numbers/symbols in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(28551%6 3৪৮৫০১%০০:০)",
+    "note": "Garbled numerical/symbol string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11311510030101) 0 ৮৩৬৬১\" ৩১৭০ ১৭১১১৭৩১৯১৫)",
+    "note": "Corrupted digit string in the header area."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৯]] ৫৩৭)",
+    "note": "Garbled numbers in a parenthetical expression."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৪৪৯০০: ০ ৯৮)",
+    "note": "Garbled numbers in a parenthetical expression."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "19০৬]৭৬১৭০৭১১০",
+    "note": "Garbled numerical string in instructions."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০,",
+    "note": "Single digit/comma noise in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ১১১০৬১১০ ৩১৪৫১০০৮০১)",
+    "note": "Garbled string of numbers and letters."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1131151113601011)",
+    "note": "Garbled sequence of digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫৮০০১০৩১০৮১ ০৭৩১৭৫১১১৩৬১০১৭)",
+    "note": "Garbled string of digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০১৩৩ চিত্র ৬.০৩: একটি খোলা এবং চ০৩১৭৫১১১৩৬০১০১১)",
+    "note": "Garbled digits and symbols in caption/header."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭৬১০১০৯৮৬০৫)",
+    "note": "Garbled digit string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২০১৮৬০৭০ ১১০১১০১০১০)",
+    "note": "Garbled sequence of digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১১) আলো (১১৮১৮)",
+    "note": "Garbled digits in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৬১১)",
+    "note": "Garbled digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "-১চ১",
+    "note": "Garbled character/digit combination."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১১৩১১৫১১১৩০১১০১ ১৫ ৩ ১০৬০৬৫৫৮৩১৫ ০১)",
+    "note": "Garbled string of numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১০৬০০৫৫৮১ চার]",
+    "note": "Garbled string of numbers and text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০০০ ০১০০১৩৬০১০১) ১১৭ ০১০৩১) ৮০০০৯)",
+    "note": "Multiple instances of garbled numeric strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০৫৬ ০১১০০১৮০০১৭ ৫৫০৯১০)",
+    "note": "Garbled string of numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০০০ ০১১০০১৯০০১৭ ৫%৫০১৭)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩:০ ০ ০০০৩০ ০১০৬... ০১০... ২ ০২- ২ ... ০৩০% ০০০%০৩০",
+    "note": "Garbled strings of numbers and punctuation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টু]",
+    "note": "Garbled character/punctuation at end of phrase."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২১৩৫১০০৩)",
+    "note": "Garbled number in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০০০ ০০১১৫), (০২০৫ ৪১০০০ ০৯]১৫), (৪১১৬৬ ৪১০০০ ০৮॥৫)",
+    "note": "Multiple instances of garbled number strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮১০১০০১৩)",
+    "note": "Garbled number in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪১০০০ ০৮॥৫",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধাঁ৪",
+    "note": "Garbled character/symbol instead of standard word."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্ত",
+    "note": "Systematic misreading of 'ক' as 'ন' in the word for blood."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০১৮০৬৬১৬৮)",
+    "note": "Garbled number in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-58",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪,\nনিউটোকিণ ইগুসিনোফিল",
+    "note": "Nonsensical text likely from a broken heading."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৭১৭১০১১৬৮০১১৮৫০১০)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৯১১৪০১৮৯১১৫), (৪১০৮০০৭)",
+    "note": "Garbled data sequences in parenthetical expressions."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্রপ ৭... গ্রপ ৮... গ্রপ ৯...",
+    "note": "Misreading of blood group letters 'A', 'B' as digits/symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্রপ ৮৪... বি... আই",
+    "note": "Garbled representation of blood groups and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-70",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ ৯ ৯০৫৫\n০ ৮৯৮৯০ ০ _",
+    "note": "Garbled text at the top of the chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-71",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০), (০৮), (১৭১০১ ৮১০০০ ৮১০)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-73",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০০০ ০:৪১৫০৫১০১)",
+    "note": "Garbled string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রട്ട്",
+    "note": "Garbled word for 'blood'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-79",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৩টু৮১১০১১), (৪৭০০৪১০১০১১)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-80",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১৪০০৮১০১১১), (১৫১১৬ & ১৬ ৪০১১১)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ছ১ছ৬)",
+    "note": "Garbled symbol/character."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-83",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭০৮১৮ ০০৪৮)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-85",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-87",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্সিজেনযুত্ত, অক্সিজেনটু",
+    "note": "Incorrectly rendered words for 'oxygenated'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-88",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০০০ ছ০৫স্য)",
+    "note": "Garbled string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-89",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হৃৎপিন্ড",
+    "note": "Incorrect rendering of the word 'heart'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-90",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১১১০১০৮ ০২৮০১১০৩), (০১১০৮ ১৭৬০১৩)",
+    "note": "Garbled strings of numbers."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-91",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-92",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ঘন]১০)",
+    "note": "Garbled characters in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-93",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হৃৎপিন্ড",
+    "note": "Incorrect rendering of the word 'heart'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-94",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মাত্রা ভিন্ন হয়।",
+    "note": "Sentence starts abruptly without a preceding clause."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-96",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০০০ু ২১৭৬৩৫০১)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-97",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৭৫০০১]১০ ২১০৫স্ক০১), (০১৮৫০০১১০ ১৬০স্ক০১)",
+    "note": "Garbled numeric strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-98",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০০০ [০১৬স্ক০১), (২০১৫৬ [২:০স্ক০১)",
+    "note": "Garbled strings in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-99",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫০১১৯৮১০৭০১০৭৩১১০১৭৯৬০৯১)",
+    "note": "Garbled string of digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-100",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-101",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-102",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-103",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-104",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-105",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ, রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure' (twice)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-106",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-107",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-108",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-109",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১০১৯৫০৯১০)",
+    "note": "Garbled number in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-110",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১৪৮), (১৮১) ৬১০৫১০৫",
+    "note": "Garbled numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-111",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-112",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-113",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-114",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-115",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-116",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-117",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-118",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ, ক্যাঙ্গার",
+    "note": "Incorrect rendering of 'blood pressure' and 'cancer'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-119",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-120",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-121",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-122",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-123",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আ্যান্টাসিড",
+    "note": "Misspelled 'Antacid' due to character substitution."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-124",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-125",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-126",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-127",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-128",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-129",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-130",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-131",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-132",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তচাপ",
+    "note": "Incorrect rendering of 'blood pressure'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-133",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-6-134",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

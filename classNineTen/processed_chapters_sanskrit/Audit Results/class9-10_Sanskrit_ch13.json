@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-13-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "তদিদং ভ্রাতঃ 1 ১",
+    "note": "The '1' is a non-functional digit likely from pagination or numbering."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সর্বত্রৈেযা",
+    "note": "Double vowel markers 'ৈে' indicate a corrupted character."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হীত়বা, তৃগুম্‌",
+    "note": "Incorrect diacritics and mangled Sanskrit word structure."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সর্বরো২য়মতীব ₹",
+    "note": "The currency symbol '₹' is a clear script corruption."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হীত়বা",
+    "note": "Incorrect diacritic (dot) under the Bengali letter 'হ'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০, ও ও ও",
+    "note": "Strings of zeros likely represent filler or underscores in the source."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জজ",
+    "note": "Nonsensical characters preceding the core sentence."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নিধনে২প্যনুযাতি",
+    "note": "The digit '২' is embedded in the middle of a word."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হীত়বা",
+    "note": "Incorrect diacritic (dot) under the Bengali letter 'হ'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০০০০০০-০",
+    "note": "Repeated zeros are artifacts from formatting/lines."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০০০০০",
+    "note": "Repeated zeros are artifacts from formatting/lines."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-13-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

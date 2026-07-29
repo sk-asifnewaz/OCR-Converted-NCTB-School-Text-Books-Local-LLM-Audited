@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-1",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আর যে উক্তিতে বক্তার কথা",
+    "note": "The sentence ends abruptly mid-clause."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "চাদ",
+    "note": "Likely 'চাঁদ' (Moon); missing nasalization is a common OCR error."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রীন্মের",
+    "note": "Likely 'গ্রীষ্মের' (Summer); the character is corrupted."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-37-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪। ... ক্রিয়ারপের",
+    "note": "Extra digit '8' before 4 and mashed word 'ক্রিয়ারপের'."
+  }
+]

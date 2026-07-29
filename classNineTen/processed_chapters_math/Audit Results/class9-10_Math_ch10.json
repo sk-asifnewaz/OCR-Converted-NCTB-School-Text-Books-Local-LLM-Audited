@@ -1,0 +1,281 @@
+[
+  {
+    "chunk_id": "9-10-Math-10-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(01503106 3170 [16%30011)",
+    "note": "Garbled numeric string in parentheses likely a failed OCR of page/info."
+  },
+  {
+    "chunk_id": "9-10-Math-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(10110110881 1116, ঘ ০0081 116 3100 ছণ1003] 13106)",
+    "note": "Garbled string with nonsensical character 'ছণ' and digit runs."
+  },
+  {
+    "chunk_id": "9-10-Math-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(&11516 ০1 []1690017 3110 /0516 ০0091165510)",
+    "note": "Significant OCR corruption in the text and trailing parenthetical."
+  },
+  {
+    "chunk_id": "9-10-Math-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চত্রটি",
+    "note": "Incorrect character 'চ' instead of 'চিত্র'."
+  },
+  {
+    "chunk_id": "9-10-Math-10-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/179, 0017, 300 45 / ১\"",
+    "note": "Slashes and numbers suggest failed OCR of angle symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-10-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্ধনের, অঙস্কনের",
+    "note": "Contextually incorrect words; likely 'অঙ্কনের' (calculation)."
+  },
+  {
+    "chunk_id": "9-10-Math-10-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "//017 - 30, / ১:, ৮৮১১৪.৪০১৭",
+    "note": "Complex garbled numbers likely resulting from failed mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-10-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢত, অেন্ড্য, ০খরা",
+    "note": "Large amount of nonsensical symbols and garbled text."
+  },
+  {
+    "chunk_id": "9-10-Math-10-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪১০৪:৪০৭৯, ৩৪ - 105 বা, ৫ - - বা",
+    "note": "Garbled math expression and illogical value strings."
+  },
+  {
+    "chunk_id": "9-10-Math-10-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ104:407 - 49, গ্0 45 এত 4",
+    "note": "Garbled calculation symbols and numbers."
+  },
+  {
+    "chunk_id": "9-10-Math-10-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/13170 - 30*, //407 - 71970 - 30\"",
+    "note": "Garbled math notation and numbers."
+  },
+  {
+    "chunk_id": "9-10-Math-10-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10/41019, 3070৮, ৪১৭৩, /১১৩",
+    "note": "Garbled values and symbols throughout the section."
+  },
+  {
+    "chunk_id": "9-10-Math-10-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "600, //41013 - 600",
+    "note": "Likely OCR failure for '60°' appearing as '600'."
+  },
+  {
+    "chunk_id": "9-10-Math-10-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "319৫৩০৪৭০১৯, ৮৩-১- ৪২৬৩",
+    "note": "Garbled arithmetic and values."
+  },
+  {
+    "chunk_id": "9-10-Math-10-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "304",
+    "note": "Likely '30°' misread as '304'."
+  },
+  {
+    "chunk_id": "9-10-Math-10-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "19 - 1, 70 - : 4৫, 71701) - 309",
+    "note": "Significant OCR noise in math parameters."
+  },
+  {
+    "chunk_id": "9-10-Math-10-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০১৩ -/০- ৪৭ -৩০, ৪১০%৩",
+    "note": "Garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-10-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "60৬৯২, 60৬৩ ঢ",
+    "note": "Garbled characters for angle units."
+  },
+  {
+    "chunk_id": "9-10-Math-10-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-10-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "6০4, 60*",
+    "note": "Mixed digit scripts and potential misreads."
+  },
+  {
+    "chunk_id": "9-10-Math-10-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "419, 413",
+    "note": "Garbled numbers likely meant to be different values."
+  },
+  {
+    "chunk_id": "9-10-Math-10-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "46, 463",
+    "note": "Unlikely values in a geometry problem context."
+  },
+  {
+    "chunk_id": "9-10-Math-10-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "60৯",
+    "note": "Garbled character for degree symbol."
+  },
+  {
+    "chunk_id": "9-10-Math-10-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7 বিন্দুতে",
+    "note": "Number '7' is likely a misread of '1'."
+  },
+  {
+    "chunk_id": "9-10-Math-10-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

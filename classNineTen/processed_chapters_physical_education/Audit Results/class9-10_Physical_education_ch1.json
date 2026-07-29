@@ -1,0 +1,398 @@
+[
+  {
+    "chunk_id": "9-10-Physical_education-1-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একজন\nউঠবে।",
+    "note": "Sentence ends abruptly with a nonsensical phrase likely from a different section."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলাদেশের ... আত্তঃশ্রেণি",
+    "note": "Corrupted characters in 'Bangladesh' and 'Inter-class'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0... ৮০%)০1)",
+    "note": "Garbled citation/reference characters."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্নায়ু",
+    "note": "Garbled word likely meant to be 'মাংস ও' or similar."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুছ্থ",
+    "note": "Typo/corrupted character for 'সুস্থ'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুষ্ঠুভাবে",
+    "note": "Garbled word, likely 'সঠিকভাবে' or 'স্বাভাবিকভাবে'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তভ্প্ত",
+    "note": "Corrupted spelling of 'অন্তর্ভুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(81010521081 11০০৫)",
+    "note": "Garbled numeric citation."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(055011010210০81 11০০0)",
+    "note": "Garbled numeric citation."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(300183116০0)",
+    "note": "Garbled numeric citation."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রীড়াকর্মসূচি",
+    "note": "Corrupted word for 'ক্রীড়াকর্মসূচি'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00711115015 31ৰ0115 11051311116)",
+    "note": "Garbled numeric/mixed character citation."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রলাস... আক্তস্কুল",
+    "note": "Corrupted words for 'ক্লাস' and 'আন্তঃস্কুল'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইস্ট্রামুরাল",
+    "note": "Missing 'ন' in 'ইনট্রামুরাল'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আক্তঃক্রীড়াসূচি... আন্তঃরলাব",
+    "note": "Corrupted words for 'আন্তঃক্রীড়াসূচি' and 'আন্তঃস্কুল'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পার্থাযগুলো",
+    "note": "Corrupted word for 'পার্থক্যগুলো'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চ্তর পা",
+    "note": "Garbled words, likely 'অধিকতর' or similar."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আত্তস্কুল, আত্তঃকলেজ, আন্তঃবিশ্ববিদ্যালয়",
+    "note": "Corrupted forms of 'আন্তঃ' across multiple terms."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যকঠাপনা",
+    "note": "Corrupted word for 'বর্ণনা' or 'অবকাঠামো'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বস্ধুবান্ধবের",
+    "note": "Corrupted word for 'বন্ধুবান্ধবের'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-39",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ও]১, 1llও]১",
+    "note": "Garbled brackets and characters in multiple choice options."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আত্তঃক্রীড়া",
+    "note": "Corrupted word for 'আন্তঃক্রীড়া'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আত্তঃক্রীডাসূচি",
+    "note": "Corrupted word for 'আন্তঃক্রীড়াসূচি'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-1-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-18-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-18-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩. বন্ত-বিশেষ্য...৮৪. সমষ্টি-বিশেষ্য",
+    "note": "বন্ত is a corruption of বস্তু; 8 in ৮৪ is extraneous digit noise."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-18-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭) ... ক. সৃষ্টিনাম খ. কালনাম গ. স্থাননাম ঘ. ব্যক্তিনাম",
+    "note": "7 is a misread checkmark; question 3's introductory text is missing."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-18-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক. বৈশাখ খ. হিমালয় গ. আকাশ ঘ. পবন",
+    "note": "Option set provided without a preceding question number or text."
+  }
+]

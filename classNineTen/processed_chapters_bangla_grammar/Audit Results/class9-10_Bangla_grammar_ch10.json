@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"সম্‌*\" এবং \"বিনির্মাণ*\"",
+    "note": "Asterisks are likely OCR artifacts from separators or punctuation."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹- এবং হ",
+    "note": "Currency symbol and misplaced character likely from punctuation misinterpretation."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দুব্ণ্মূল্য, দু্স্পրাপ্য, নিমণ+, দুর্ұনদিন",
+    "note": "Multiple instances of 'ণ' instead of 'র' and a Cyrillic character."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-10-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "না\"",
+    "note": "The double angle bracket is a common OCR error for quotes."
+  }
+]

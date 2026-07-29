@@ -1,0 +1,389 @@
+[
+  {
+    "chunk_id": "9-10-Higher_math-4-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(60০০1076010 1)",
+    "note": "Non-standard digit sequence likely representing garbled page or reference numbers."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ধাপ ৩. 4",
+    "note": "Multiple instances of digit noise and non-sensical segments."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01317",
+    "note": "Garbled digit sequences and pipe symbols likely from OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "191377",
+    "note": "Large, nonsensical digit string likely from a corrupted degree or angle symbol."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Foreign symbols and garbled numbers in the geometric description."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭1340",
+    "note": "Complex digit-symbol mixtures and punctuation noise."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "?",
+    "note": "Question marks and long digit strings are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7?",
+    "note": "Garbled symbols and non-sensical digit sequences."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "19:14",
+    "note": "Non-standard digit representation for geometric segments."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[914",
+    "note": "Corrupted brackets and digit strings."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹",
+    "note": "Foreign currency symbol appearing in geometry context."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7:€",
+    "note": "Combination of special characters and garbled digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70 ₹",
+    "note": "Garbled currency symbol and non-standard digit strings."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "!919",
+    "note": "Exclamation point used as a prefix to numbers and other symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/10",
+    "note": "Slash used within a measurement dimension."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "?",
+    "note": "Question marks and non-standard digit strings."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1০0",
+    "note": "Garbled numeric sequence for a point label."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "110",
+    "note": "Non-standard digits for geometry point labeling."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "191)",
+    "note": "Closing parenthesis on a number sequence."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "5:73",
+    "note": "Non-sensical punctuation in a geometric context."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/173",
+    "note": "Forward slash preceding a number sequence."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1720",
+    "note": "Non-standard digits for a geometric line or point."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01",
+    "note": "Number sequence likely representing a point label."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/",
+    "note": "Forward slash used in a context where it is likely an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "9017",
+    "note": "Garbled digit sequence and question mark."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0.4",
+    "note": "Decimal point likely a corruption of a geometric notation."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "01",
+    "note": "Number sequence used as a label."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1720",
+    "note": "Garbled numbers and punctuation in calculation steps."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1731)",
+    "note": "Parenthesis and non-standard digits in the construction steps."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-38",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেন্দ্রবিশিষট্ট",
+    "note": "Nonsensical word likely corrupted from 'কেন্দ্রবিশিষ্ট'."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "+",
+    "note": "Isolated plus sign likely a corruption of a degree symbol."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-41",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কৌ1ওয় খো1ও",
+    "note": "Garbled character strings in the multiple choice section."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-4-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

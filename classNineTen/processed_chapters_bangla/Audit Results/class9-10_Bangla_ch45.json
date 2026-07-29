@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-45-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কবিতায় নিসর্গ",
+    "note": "Sentence cut off at chunk end; continues in next chunk."
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0. ... 111. ... 1ও11 ... 1,111",
+    "note": "Mangled digits and punctuation in multiple choice options."
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ০0111911 ... ছখ০0110 2০806 0০50",
+    "note": "Garbled script and numbers from mangled date or award data."
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-45-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

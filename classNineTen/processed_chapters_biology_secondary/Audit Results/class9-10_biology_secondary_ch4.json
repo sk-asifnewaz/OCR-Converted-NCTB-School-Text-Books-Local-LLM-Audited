@@ -1,0 +1,650 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮1010510381 ০০111 ০1 ০1091897 ০০111",
+    "note": "Complex digit strings are likely corrupted chemical formulas."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(021100605%71160০515)",
+    "note": "Nonsensical number/symbol string likely representing a chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2110605%11006515)",
+    "note": "Nonsensical number/symbol string likely representing a chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮1০00101031)",
+    "note": "Garbled numeric string instead of chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0, গ্রহণ করে, যা মেসোফিল টিস্যুর ক্লোরোপ্লাস্টে পৌঁছে।",
+    "note": "The '0' is likely a corrupted CO2 formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮%-210080০0",
+    "note": "Nonsensical numeric/symbol string instead of chemical formulas."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(8180118)",
+    "note": "Arbitrary string of digits likely resulting from OCR error."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ1 - 101881010 1705017366",
+    "note": "Garbled digits likely representing a chemical compound's formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01100017515)",
+    "note": "Garbled numeric string instead of chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(18116 1110610610০116 [011356 ০1\" ৭311 01156)",
+    "note": "Complex garbled digits instead of chemical notations."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্রনামত্র বর ণাইলাকয়েড",
+    "note": "Garbled text likely from an image overlay or table header."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ছা সটে0]16 ০৮ ০৪। ০09)",
+    "note": "Nonsensical digit/character mix."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(83601 310 51301 ঢে০016 ০৮ 4 ০7016)",
+    "note": "Garbled numeric string instead of chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(41107011015)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "400 110 থেকে 480 1010 এবং 680 017",
+    "note": "Garbled digits for wavelengths (e.g., '110' instead of '700')."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0]01010101)",
+    "note": "Garbled brackets/digits instead of a value or range."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "002১",
+    "note": "Garbled digits for water molecules or similar."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(17)",
+    "note": "Probably a misread Bengali letter (খ) as '17'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "01 ও (০:-",
+    "note": "Garbled numbers/symbols in a ratio context."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "002, 0০, 0।",
+    "note": "Garbled numbers instead of chemical formulas like CO2."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(90 ... (0)",
+    "note": "Numbers likely representing misread list markers or units."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(20691108], (717), (417)",
+    "note": "Numbers in parentheses are likely garbled chemical/energy notations."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(080810 10501130010)",
+    "note": "Garbled numeric string instead of chemical formula or standard term."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(686 1:31 / 1/016)",
+    "note": "Garbled numbers instead of chemical terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4&133610810 60501130010)",
+    "note": "Garbled numeric string instead of chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গোন2069 ... (56131 / 4019)",
+    "note": "Garbled numeric strings in chemical context."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0170019515), (11206), (11403)",
+    "note": "Garbled numeric strings instead of chemical names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(40081 ৩০-&), (0081) 0-7, 4/7াম+7া",
+    "note": "Garbled numbers and special characters in chemical formulas."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(101685 00109), ৪/া+7*, 617",
+    "note": "Garbled numeric strings in chemical context."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(81900011 0811512018 5756611)",
+    "note": "Garbled numeric string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "38টি /77",
+    "note": "The '77' is likely a garbled chemical symbol (ATP)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "38 অণু &77+",
+    "note": "Garbled numeric symbol for chemical unit."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-56",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চার অণু /চ772",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "101",
+    "note": "Garbled number in context of chemical formula."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "20\" ... 45০",
+    "note": "Garbled numbers and symbols in temperature range."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0০,",
+    "note": "Garbled count for carbon dioxide."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-68",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(50911117260)",
+    "note": "Garbled numbers where a term like 'non-viable' should be."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-69",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০।",
+    "note": "Odd punctuation/symbol usage."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-4-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

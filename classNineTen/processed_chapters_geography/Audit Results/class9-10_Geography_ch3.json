@@ -1,0 +1,668 @@
+[
+  {
+    "chunk_id": "9-10-Geography-3-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "131 1২0301112 3110 1065 9063",
+    "note": "String of numbers appears to be OCR noise or artifact."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(10015)",
+    "note": "Number in parentheses is likely an OCR artifact or noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬চপর্াে... স্কেল $ ৪)",
+    "note": "Garbled text and special symbols in table-like structure."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00110010001 11131, 11110103110 3110 056)",
+    "note": "Garbled digit strings in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "না.\nনা",
+    "note": "Repeated non-sensical words at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ত৩",
+    "note": "Non-standard character combination."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(103)...(138)...(11137)...(783)...17718",
+    "note": "Multiple instances of digit noise for words in quotes."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1601005 0 5110 11118 50816)",
+    "note": "Garbled digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(3 08061116110",
+    "note": "Garbled digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(্য' া-3011081 50816)",
+    "note": "Corrupted script and digit noise in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্র ৩.২ খ",
+    "note": "Garbled character 'ত্র' likely meant to be 'চিত্র'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চে রা লা",
+    "note": "Garbled text, likely an image label."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(| ॥'০]01-05011080ছ০ 10:300011)",
+    "note": "Significant script corruption and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১:৬৩৩৬০",
+    "note": "Likely a mis-ocr of a ratio or calculation."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃপূর্ণ",
+    "note": "Incorrect vowel mark used in word for importance."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(013991003001) 0 1113)5)",
+    "note": "Garbled digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Incorrect vowel mark in the word for importance."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিহর্ূপ",
+    "note": "Misspelled word for determination."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(080850:81 01101078 11181)",
+    "note": "Garbled digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভৃসংস্থানিক",
+    "note": "Incorrect vowel mark in 'ভূসংস্থানিক'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "্",
+    "note": "Isolated, dangling mark."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(দন ৭া]| 113)",
+    "note": "Garbled text and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এঁ",
+    "note": "Garbled word for 'এই'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(011551081 11831), (0০০০1081081 ॥113)",
+    "note": "Garbled digit strings and symbols in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ঘ₹০৪০03001 11187)",
+    "note": "Garbled script and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(3011 11181)",
+    "note": "Garbled digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(€দ100131 1181)",
+    "note": "Garbled symbols in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(80110081 11131), (71901101100) 1118)",
+    "note": "Garbled digit strings in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01150011031 113), (500131 1130)",
+    "note": "Garbled digit strings in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(16011110065 0 [31090110112 11100111130 011\n11 3 11031)",
+    "note": "Large chunk of garbled digits."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুষ্ু",
+    "note": "Misspelled word for 'সুষ্ঠ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(111001113001131] €0110110101)31 9121)",
+    "note": "Garbled symbols and digits."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1100/116801115)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(3০৮16)",
+    "note": "Garbled digit string."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(010 11116)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01.680110), (30106 01 1)308), (1.0081 [11116 3110 303110310 11116)",
+    "note": "Garbled digits in multiple brackets."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1.0031 11116)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রাখিমার",
+    "note": "Incorrect vowel mark in word for longitude."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১৩০03110310 111116)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রাধিমারেখা",
+    "note": "Incorrect vowel mark in word for longitude."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11116 010001-01106 011 016 03515 01100830011)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১: ৪",
+    "note": "Non-standard notation for division/calculation."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫০০৩০",
+    "note": "Garbled digit string."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹, (৫০১৫৪), (৩০১৫৪)",
+    "note": "Currency symbol and garbled digit strings."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রাখিমার",
+    "note": "Incorrect vowel mark in word for longitude."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্রাখিমার, ৫০০৩০",
+    "note": "Script corruption and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯০০২৬, ৪৯০১৯",
+    "note": "Garbled digits representing coordinate components."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01088] 20910011115 35501)",
+    "note": "Garbled digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রাধিমাংশ",
+    "note": "Incorrect vowel mark in 'দ্রাঘিমাংশ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভৃ-উপগ্রহ",
+    "note": "Garbled word 'ভূ-উপগ্রহ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টু)",
+    "note": "Garbled character 'টু' for number '২'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রাধিমাংশ",
+    "note": "Incorrect vowel mark in 'দ্রাঘিমাংশ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমভ্ূমি",
+    "note": "Incorrect character sequence in 'সমভূমি'."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-3-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্রাধিমা",
+    "note": "Incorrect vowel mark in word for longitude."
+  },
+  {
+    "chunk_id": "9-10-Geography-3-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

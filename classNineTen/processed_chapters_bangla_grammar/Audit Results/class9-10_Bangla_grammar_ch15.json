@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পুং*",
+    "note": "Asterisk is a non-Bengali character likely from an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বামীঞ্ত্রী, বোবঝালে",
+    "note": "Contains garbled characters and OCR-induced spelling errors."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অক*",
+    "note": "Asterisk is a non-Bengali character likely from an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "'র্ীব লিঙ্গ'",
+    "note": "Garbled characters for 'ক্লীবলিঙ্গ' (neuter gender)."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed/malformed digits for a question number."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-15-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

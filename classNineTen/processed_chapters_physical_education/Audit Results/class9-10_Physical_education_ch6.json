@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Physical_education-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "40000171731 17171531011",
+    "note": "Nonsensical digit strings likely from OCR's failure to read icons or special formatting."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শল ৯ তত &",
+    "note": "Nonsensical character sequence that does not form a real word."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "₹ত্রামক রোগ",
+    "note": "Foreign symbol (currency) used instead of a Bengali character."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-40",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মূন বৈসিদ্ধটুহ",
+    "note": "Nonsense words resulting from poor OCR of 'মূল বৈশিষ্ট্যসমূহ'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-52",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সটজম মাছে",
+    "note": "Gibberish word likely intended to be 'সুষ্ঠ্যমান' or similar."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-76",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩া বরং",
+    "note": "Incorrect character representation of a number/word."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-90",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "306০0, 3131118 ও 3101",
+    "note": "Random strings of numbers that are not measurements or counts."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-102",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(নর যান ফাইন গ্গে *র্)",
+    "note": "Garbled characters and symbols in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-103",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩:০লেগ সর্প; ডগ স্কে়র",
+    "note": "Nonsense words produced by failed OCR."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-128",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দাঁু।",
+    "note": "Fragmented characters resulting in a non-word."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-135",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তিনন দৃষ্",
+    "note": "Garbled text for 'তিন ধরনের'."
+  },
+  {
+    "chunk_id": "9-10-Physical_education-6-183",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩িল ১ রর 71",
+    "note": "Nonsensical digit/character mix in a list."
+  }
+]

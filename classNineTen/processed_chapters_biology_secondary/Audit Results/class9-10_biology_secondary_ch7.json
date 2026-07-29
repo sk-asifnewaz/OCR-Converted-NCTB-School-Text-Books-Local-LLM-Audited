@@ -1,0 +1,587 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2100059711006515)",
+    "note": "Long numeric strings and garbled chemical notations are present."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": ",ণা্্জী (উদ্ভিদ ও প্রাণিকুল) কক",
+    "note": "Fragmented and garbled text at the start of the chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্বসনতদ্ঞর",
+    "note": "Corrupted spelling of 'শ্বসনতন্ত্র'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Incorrect character for 'শক্তি' (energy)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তু",
+    "note": "Word appears truncated or misread at sentence start."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Incorrect character for 'শক্তি'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(8০501119001 9য50910)",
+    "note": "Nonsensical numeric strings and symbols in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4393] ০৪ডাぁ 31700",
+    "note": "Garbled script and random numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্লেষ্মা",
+    "note": "Incorrect character for 'শ্লেষ্মা' (mucus)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2131%1:0",
+    "note": "Nonsensical symbols and numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০ স্রযজ্ব (1.1.",
+    "note": "Garbled script and symbols at the end."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ০০৪] ও০10",
+    "note": "Nonsensical numeric strings and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্লেষ্মার",
+    "note": "Incorrect character for 'শ্লেষ্মা'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮:০:301016)",
+    "note": "Garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(417০০1৮5)",
+    "note": "Garbled digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01311113811)",
+    "note": "Garbled digits in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কার্বন ডাই-অক্সীইড",
+    "note": "Redundant vowel marker in 'অক্সাইড'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "প্যাসীয় বিনিময়",
+    "note": "Corrupted spelling of 'গ্যাসীয়' (Gas)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(মঝ7003)",
+    "note": "Nonsensical content in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একটি 10",
+    "note": "Number '10' likely a misread of the Bengali word for 'one'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিত্র ৭০৬",
+    "note": "Number '৭০৬' likely meant as '7.06'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ণ2\nদল্গপ )পাচল্লপলা]",
+    "note": "Nonsensical garbled text at the bottom of chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৪০01113)",
+    "note": "Nonsensical content in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খতু",
+    "note": "Corrupted spelling of 'ঋতু' (season)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তি",
+    "note": "Incorrect character for 'শক্তি'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(81011010105)",
+    "note": "Nonsensical content in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্ত",
+    "note": "Corrupted spelling of 'সঠিক'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2116110113)",
+    "note": "Nonsensical content in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যম্মা (0৮610010515)",
+    "note": "Corrupted spelling of 'যক্ষ্মা' and junk numbers."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "য্ম্মা, যস্মা",
+    "note": "Corrupted spelling of 'যক্ষ্মা'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(17০০৮৭০0711 8৮6%7001055)",
+    "note": "Nonsensical content in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "য্ম্নয়",
+    "note": "Corrupted spelling of 'যক্ষ্মা'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যস্মা",
+    "note": "Corrupted spelling of 'যক্ষ্মা'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0115 ০৪091)",
+    "note": "Nonsensical content in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(এড ব্ছনবচনি পয)",
+    "note": "Garbled script at end of chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ্. মূলরোম; ক.1ও",
+    "note": "Garbled script and digits in options."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৪., ঢা., ক.1ওযা",
+    "note": "Garbled script and digits in multiple choice options."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যুস্তিসহ",
+    "note": "Corrupted spelling of 'যুক্তিসহ'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রজচ্কাসের",
+    "note": "Corrupted spelling of 'ব্রঙ্কাসের'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গনুঁকোজ, রপ্ত",
+    "note": "Corrupted spellings of 'গ্লুকোজ' and 'রক্ত'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-7-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

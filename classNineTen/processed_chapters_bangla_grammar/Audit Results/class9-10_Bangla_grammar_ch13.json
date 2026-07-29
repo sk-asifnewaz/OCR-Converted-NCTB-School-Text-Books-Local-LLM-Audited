@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অ/আ+অ/আ 5 আ",
+    "note": "The digit '5' is likely an OCR error for an equals sign or arrow."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সূত্র-৫$",
+    "note": "The symbol '$' is likely an OCR artifact for a punctuation mark."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উ/উ47অন্য স্বর",
+    "note": "The digits '47' are noise likely replacing a punctuation or specific character."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ল যৃ+স্বর",
+    "note": "The character sequence 'ল যৃ' is nonsensical and likely a corruption of grammar terms."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গো+আদি 5 গবাদি",
+    "note": "The digit '5' is likely an OCR error for an equals sign."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফর্মা-৬",
+    "note": "The word 'ফর্মা' is likely a corruption of 'সূত্র' (source/rule)."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যঞ্জনণব্যঞ্জন",
+    "note": "Repeated 'ন' character suggests a corruption of the '+' or separator symbol."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চলৎাচিত্র",
+    "note": "Words are merged incorrectly or characters are corrupted (likely 'চলন্ত চিত্র')."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তৎামধ্যে 2 তন্মধ্যে",
+    "note": "The digit '2' is a noise artifact in the middle of the sentence."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গোষ্পদ",
+    "note": "This word is likely a significant OCR corruption of a standard example like 'বৃহস্পতি'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিঃ++আকার",
+    "note": "Double plus symbols are not valid grammar notation and represent OCR corruption."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-13-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অতীন্দ্িয়",
+    "note": "The word is likely a corruption of 'অতীন্দীয়' due to improper conjunct rendering."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "chunk_id": "9-10-Higher_math-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অসমতা (1160৮3]1চ7)",
+    "note": "Garbled characters and numbers in the title brackets."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ € ৫ « 200",
+    "note": "Mathematical symbols replaced by unrelated characters like € and ৫."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ € যদি... ৫€«ট+৮১৯ ০৫",
+    "note": "Multiple instances of corrupted math symbols (€, ৯) and mangled expressions."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€« 0, ৩ ৯ 1",
+    "note": "Mathematical relations are obscured by garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4৪৭ 4 ৯ 16",
+    "note": "Mathematical expressions are mangled with incorrect symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা ১৯ না",
+    "note": "Nonsensical text 'ঢা ১৯ না' is a clear OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২ €« -_৫",
+    "note": "Garbled symbols used in place of math operators."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৭ ৯০, ৯-ন-।",
+    "note": "Garbled symbols and corrupted characters in equations."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪-৩৪€৫, ৩(৫-%২) »৬",
+    "note": "Mathematical inequalities are heavily corrupted by OCR."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "6::",
+    "note": "The characters '::' are likely a corruption of 'x'."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২২ 7 6২ € ৪৫৭ ৮৪",
+    "note": "Heavy corruption of mathematical variables and inequality symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮(২& ৭৪) € ৯৭, ৫€",
+    "note": "Broken characters in math formulas."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফষন্টায়, কি:মি.",
+    "note": "Spelling errors and punctuation issues from OCR."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫ - ৩)",
+    "note": "Use of '৫' instead of variable 'x' in a math expression."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৫৮৭-০১-৪০, ৮%+৭-০",
+    "note": "Garbled strings where mathematical expressions should be."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৭: - ৩ - ০",
+    "note": "Broken notation in the inequality expression."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মম০ (৩০১৩)",
+    "note": "Nonsensical characters in the math notation."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ +/+ -_ ৩",
+    "note": "Incoherent symbols in the inequality."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ +৭/- ৩ ৯ ০, যী।",
+    "note": "Garbled math symbols and a trailing odd character."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রবররতাররারটারার... ২২৬২৬৯...",
+    "note": "Large block of gibberish and repeated digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র্তরর্তার্তরতা, তাতদল",
+    "note": "Repetitive nonsensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২২২২২২২৬১৬ ২২২২ ২২২২",
+    "note": "Long string of repeated digits is an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৫ - ৩৮ ৭ ৬",
+    "note": "Mathematical symbols are replaced by garbled ones."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫+৭০, ২৬+৭৫৯",
+    "note": "Garbled math expressions in the problem statement."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র্তারটারার্তারতার",
+    "note": "Repeated nonsensical text from OCR."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নরতরর্তর্র্লার্তার্",
+    "note": "Repetitive garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪২২ -০-২",
+    "note": "Garbled math expression."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩-(৮৫৮০১/:৫ ৯৪)",
+    "note": "Highly garbled inequality notations."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ ৯১ ০, ৫৭ ০",
+    "note": "Garbled symbols used instead of variables."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1003 - 2202 6(4 - 320",
+    "note": "Garbled numbers/variables in the mathematical expression."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-6-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "& বছর, 2% বছর, 3% বছর",
+    "note": "Special characters used instead of numerals/variables."
+  }
+]

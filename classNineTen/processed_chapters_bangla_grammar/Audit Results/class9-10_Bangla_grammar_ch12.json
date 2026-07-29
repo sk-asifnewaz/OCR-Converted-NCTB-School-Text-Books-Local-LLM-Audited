@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দ্বন্থ সমাস",
+    "note": "The word 'দ্বন্দ্ব' is corrupted as 'দ্বন্থ'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "₹ মা-বাবা, ... হ ঝড়বৃষ্টি",
+    "note": "Non-linguistic characters like ₹ and হ are OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ হাতে-কলমে, ... 5 হাত-পা-চোখ-কান",
+    "note": "Non-sequential digits and characters used as bullet noise."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ কীচা-মিঠা, ... ₹ চিতসাতার, ... 5 খাসজমি",
+    "note": "Multiple occurrences of noise characters from OCR'd formatting."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ ঘিভাত, ... ₹- হাতঘড়ি",
+    "note": "Garbled symbols used as list/dash placeholders."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ মধুমাখা, হ চিনিপাটা...",
+    "note": "Repetitive 'হ' characters are clearly OCR noise from separators."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪. বহুৰীহি",
+    "note": "Number '8' is a noise artifact; word 'বহুরীহি' is corrupted."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "5 গৌফখেজুরে",
+    "note": "The digit 5 is likely an OCR artifact for a dash."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বহুথীহি",
+    "note": "Word 'বহুব্রীহি' is corrupted as 'বহুথীহি'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বহুত্বীহি",
+    "note": "Word 'বহুব্রীহি' is corrupted as 'বহুত্বীহি'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঘ্ব. ত্রিফলা",
+    "note": "The character 'ঘ' is corrupted by an extra subscript."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-12-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অষ্মুন",
+    "note": "Word 'অক্ষুণ্ণ' is corrupted as 'অষ্মুন'."
+  }
+]

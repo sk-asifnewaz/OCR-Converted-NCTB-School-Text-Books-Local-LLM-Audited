@@ -1,0 +1,560 @@
+[
+  {
+    "chunk_id": "9-10-Geography-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বালাদেশের ... 01831 1[)1535061 011१3112130 651)",
+    "note": "Typo in 'Bangladesh' and a long string of garbled digits."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0)1535061 3110 37310)",
+    "note": "Garbled digit sequence likely from a page header or footer."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(চ01000)",
+    "note": "Garbled digit string inside brackets."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0810563 01 11000)",
+    "note": "Garbled digit sequence likely from a heading."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0135910030011 01 11000)",
+    "note": "Long garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মান স্তন্ম",
+    "note": "Non-sensical word likely a corruption of 'সম্ভাব্যতা' or similar."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লাঙ্গ্লোদের",
+    "note": "Likely a corruption of 'বাংলার' or similar."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(01000 €011001 131132911161160)",
+    "note": "Multiple instances of garbled digit sequences."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গুরুত্‌ দেবে",
+    "note": "Incorrect punctuation/script marker on the word 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(1-015116)",
+    "note": "Garbled digit string in header."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(05010116)",
+    "note": "Garbled digit string in header."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(101 33111 1:1-051011)",
+    "note": "Garbled digit sequence in header."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(€811569 01 11561 03111 ০1-051011)",
+    "note": "Garbled digit/symbol sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(1,095 [10111 1161 03111 01-051011)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8১০টি",
+    "note": "Mixing of Arabic '8' and Bengali numerals in a count."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(8৮810101816)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-33",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মারাত্যক",
+    "note": "Gibberish word, likely a corruption of 'মাঝারি'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ছ113015 (0 106 00116 111 ০4101010131)",
+    "note": "Garbled digits and repeated gibberish word 'চেষ্ণা'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এতদাঞ্চলে",
+    "note": "Likely a corruption of 'এই অঞ্চলে'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(চ0:59011031 1০038501105)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(15011183111)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0)1535001 123113201110110",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-43",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্ষতির পরিমাণ ত্রাস করা",
+    "note": "\"ত্রাস\" means terror; logically it should be \"কমানো\" (reduce)."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0)1535061 13113861116110 01016)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুর্যেগ",
+    "note": "Repetitive corruption of the word 'দুর্যোগ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(চ1-6+01100]11)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-48",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হবাস",
+    "note": "Gibberish word, likely a corruption of 'অবস্থান'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(010]3100110655)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুর্যেগপূর্ব",
+    "note": "Repetitive corruption of the word 'দুর্যোগ' in 'দুরোপ্যপূর্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(1২651011956)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উনুয়ন",
+    "note": "Likely a corruption of 'উন্নয়ন'."
+  },
+  {
+    "chunk_id": "9-10-Geography-12-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-12-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

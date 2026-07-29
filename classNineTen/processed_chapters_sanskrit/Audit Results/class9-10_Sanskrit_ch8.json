@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কৃষ্ণসারো২পি",
+    "note": "The digit '২' is embedded within a word, likely an OCR error for a symbol or suffix."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শঙ্পতা",
+    "note": "The character 'ঙ' is incorrect in the context of the word 'শাপ্পিতা'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রই্থ",
+    "note": "The word is likely 'গ্রন্থ'; the character 'ই' is a common OCR error."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মহদরণ্যং 5 মহৎ",
+    "note": "The digit '৫' appears to be a misread of an equals sign or separator symbol."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অধিকরণে ৭মী, অপরণে ৫মী",
+    "note": "Digits '৭' and '৫' are likely misread symbols or incorrect numbers for grammatical cases."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩ত।",
+    "note": "The sequence '৩ত।' is a garbled list marker, likely intended as just '৩।'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-8-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

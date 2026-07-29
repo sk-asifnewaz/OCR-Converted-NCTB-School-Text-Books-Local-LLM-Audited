@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "9-10-Hindu_religion-1-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "_॥ \"৷ _\nগীতিকবিতা ব্যাখ্যা ও এর শিক্ষা শনাক্ত করতে\nঈশ্বরজ্ঞানে জীব সেবার গুরুত্ব বর্ণনা করতে _ \"তু 4",
+    "note": "Multiple garbled symbols and underscores interspersed in the text."
+  },
+  {
+    "chunk_id": "9-10-Hindu_religion-1-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রম্ধরূপে স্রষ্টা রস্বরূপ গ্হ",
+    "note": "The character 'গ্হ' is a clear corruption at the end of the sentence."
+  },
+  {
+    "chunk_id": "9-10-Hindu_religion-1-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ষ্টা জগতে",
+    "note": "Incorrect character 'ষ' used instead of 'স্রষ্টা'."
+  },
+  {
+    "chunk_id": "9-10-Hindu_religion-1-18",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংহারের\nকরছেন ।",
+    "note": "Missing word between 'সংহারের' and 'করছেন' makes the sentence incomplete."
+  },
+  {
+    "chunk_id": "9-10-Hindu_religion-1-22",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মন্দ",
+    "note": "Sentence cuts off abruptly at the word 'মন্দ'."
+  },
+  {
+    "chunk_id": "9-10-Hindu_religion-1-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দিবাকর্স্",
+    "note": "Non-standard/corrupted character '্স' used in the word."
+  },
+  {
+    "chunk_id": "9-10-Hindu_religion-1-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/৬//3105, 31156 3170 5000 1701 || 016 9০৩।\n1519০৩০৭৭৫০।",
+    "note": "Long string of non-sensical numbers and symbols likely from page metadata."
+  }
+]

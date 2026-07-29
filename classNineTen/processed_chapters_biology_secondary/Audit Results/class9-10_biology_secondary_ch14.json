@@ -1,0 +1,479 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-14-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(31006601110105)",
+    "note": "Long numeric string in brackets is likely an artifact of OCR or formatting."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(8101057 এবং 17600110105-এর)",
+    "note": "Nonsensical digit strings replace actual text or standard measurements."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮৬১১৬১০০৮৯০০১)",
+    "note": "Long string of digits is likely a corruption of symbols or text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(15586 ০৮১৮০৭৬)",
+    "note": "Nonsensical digits in parentheses are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4প019110 7601প10[])",
+    "note": "Mixed characters and numbers suggest significant OCR corruption."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০১৮৮১৪০)",
+    "note": "Nonsensical digit string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫৯১১১-৫০১১০ ১০১৬০১১)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৭৮ ০০]৪ঘ০)",
+    "note": "Garbled characters and numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৭৮০৮০১)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(দ্র০৮১০১১০৭)",
+    "note": "Nonsensical symbols and numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১১২৮১১১)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "( ]০]১০৮৮)",
+    "note": "Garbled characters and brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০১১০৮০৩)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢ।৪",
+    "note": "Likely a corrupted rendering of 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01৪০)",
+    "note": "Nonsense digits likely representing 'GMO'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "750৭৯১০]১৫",
+    "note": "Garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০",
+    "note": "Likely an OCR error for a list number like (৩)."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ট্রান৯সফরমেশন",
+    "note": "Digit '৯' used instead of the letter 'ন'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮১০৫৩৬৭ ৮৮১০৬১১০৬৫)",
+    "note": "Nonsensical digits in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-32",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ষী স্মস্তিত বদাণ র্ঝ",
+    "note": "Garbled sequence that does not form coherent words."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৭০ম১০)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "14৪",
+    "note": "Number '14' likely a mis-OCR of the word 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫০১০৫ ০১১৭১১৯১১১৫",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৭০১৮৪)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৯১৮১০১৪৬",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১১৬১০১০৬)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০১৮১০০৬)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০০০০ ১০০০০১০৩০০১০)",
+    "note": "Nonsensical digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০৯১১১ €)",
+    "note": "Symbol usage is incorrect/garbled."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০১০%/০৭",
+    "note": "Nonsensical digits/symbols in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ঘ:০০%০৭)",
+    "note": "Nonsensical symbols/digits in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্টী ল্্ল্ণ",
+    "note": "Gibberish text likely resulting from poor OCR."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-46",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বঙ্গীবঙ্গী",
+    "note": "Gibberish repetition/garbled text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা৪/&",
+    "note": "Corrupted representation of 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7.০",
+    "note": "Likely a corrupted reference to 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫১৪০)",
+    "note": "Nonsensical digits instead of 'GMO'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-14-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

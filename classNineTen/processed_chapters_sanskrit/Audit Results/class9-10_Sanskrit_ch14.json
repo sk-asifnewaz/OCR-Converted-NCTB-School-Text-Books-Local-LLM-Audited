@@ -1,0 +1,614 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-14-1",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংজ্ঞা প্রকরণমৃ\nসংজ্ঞা শব্দের ব্যুৎপত্তি : সমৃ- €জ্ঞা + অঙ্ড্‌ +স্ট্রিয়াম্‌",
+    "note": "The symbol € is a clear script corruption, and 'অর্ড্‌'/'স্ট্রিয়াম্‌' appear garbled."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দৃষ্ট ১ জস্থ)",
+    "note": "The phrase 'দৃষ্ট ১ জস্থ' is semantically nonsensical in this context."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কৃ 5 কল",
+    "note": "The digit '5' is likely an OCR artifact from a punctuation mark or symbol."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্ড্‌... ৯ স্থানে; ... উপর ১ জষ্ঠ), ... বিদ্যা + অণ 2 বৈধঃ, ... মুখ + অক 5 মৌখিকঃ (উ -৬)",
+    "note": "Multiple digits (9, 2, 5, 6) appear where punctuation or Sanskrit marks are expected."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১।\n২।\n৩।\n৪।",
+    "note": "Standalone numbers suggest a page or column break that was poorly processed."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দেহ + অক্‌ 5 দৈহিকঃ",
+    "note": "The number '5' is likely a misread punctuation mark."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-9",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পিঠ্‌ + অনট্‌ ₹- পঠনম্‌ ... অণ্‌ 5 \"পার্থিব\"",
+    "note": "Currency symbol is a corruption; '5' is likely noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২১ বৃদ্ধি",
+    "note": "The string '(২১' is likely a misread of '(২)' or similar."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "(৮) প্রত্যয়",
+    "note": "The '8' is likely a misread of the numeral '4' in a list."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-12",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "মুনি খেষি)",
+    "note": "The trailing parenthesis and the word structure suggest a broken line."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-13",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "মুনীনামৃ",
+    "note": "The final character 'ঋ' is likely a corrupted Sanskrit diacritic."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-14",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "সাথ্োঃ",
+    "note": "The inclusion of a redundant dot/mark in 'সাথ্োঃ' suggests OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-15",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "সাথ্ոঃ",
+    "note": "The 'ո' character is a non-standard glyph for the intended script."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-18",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জৃ-কারানস্ত",
+    "note": "The word should be 'জ-কারান্ত'; the extra characters are likely OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মু, ৫ \"৫, ৪।",
+    "note": "Several items of numerical noise appear between the content."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-20",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অৎ-্রত্যয়ান্ত",
+    "note": "The word is likely 'অৎ-প্রত্যয়ান্ত'; the extra 'র' is a corruption."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-35",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লা",
+    "note": "The trailing 'লা' suggests an incomplete word or line break error."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০ ০০\nবন 3)8384-1\n০০ ০০\n4]17441",
+    "note": "This block contains significant OCR noise and irrelevant digits."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২] 31134 1",
+    "note": "The string '২] 31134 1' is a clear case of digit noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০ ০০\n০০ ০০\n31111 331]",
+    "note": "Garbled digits and symbols suggest an extraction error from the page layout."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তেন ২১২৩\n(৮৪)",
+    "note": "The digit strings '২১২৩' and '(৮৪)' are clearly OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮)",
+    "note": "The '8' is likely a misread of the number 4."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-52",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "্ধ তুর পঃ\nপরস্মৈপদী",
+    "note": "The first two lines are nonsensical fragments, likely from a different column or section."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-60",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভূর্হী, ধুন্থাң\nভূু্যঃ... ভোঁু।",
+    "note": "The text contains several mangled words that don't form real Sanskrit terms."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-61",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ভূু্যঃ... ভোঁু।\nঅভুঁসু...",
+    "note": "The text contains several mangled words that don't form real Sanskrit terms."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-14-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

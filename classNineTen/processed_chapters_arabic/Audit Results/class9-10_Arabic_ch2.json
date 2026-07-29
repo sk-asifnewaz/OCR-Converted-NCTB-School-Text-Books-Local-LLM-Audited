@@ -1,0 +1,470 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-2-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৭৮৮১০৮৭৮ (0)",
+    "note": "Long, nonsensical digit strings are typical of OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০১১০২১০১৭",
+    "note": "Random long digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৬৬৬৬৬৬৩৩৬৬",
+    "note": "Repeated digits and long strings of zeros indicate noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১০০০০০০০০",
+    "note": "Repeated digit sequence is an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পা পা পা পা",
+    "note": "Nonsensical repeated syllable."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯১৫",
+    "note": "Random digit strings inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৯২৪৭১০৭",
+    "note": "Random digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮২ আরবি",
+    "note": "Inconsistent digits and labels."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৬১৫৭৫৫৩০০১",
+    "note": "Long digit string is likely OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮২৯০২/৬১৭১৩",
+    "note": "Garbled numbers and slashes."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৬০০১০১৫",
+    "note": "Non-contextual digit string."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৬",
+    "note": "Arbitrary numbers in the middle of Arabic text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা ল",
+    "note": "Incoherent Bengali fragments mixed in Arabic."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৯১০৪",
+    "note": "Random digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৮]",
+    "note": "Garbled numeric characters."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০৩৮৬",
+    "note": "Arbitrary numbers in the text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৮১",
+    "note": "Non-contextual digits."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভৈলা",
+    "note": "Nonsensical Bengali word in Arabic text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩৮১৮১",
+    "note": "Unexplained digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুড়",
+    "note": "Incoherent script fragment."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১০৯১",
+    "note": "Arbitrary digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৮০১১",
+    "note": "Unrelated numbers."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮",
+    "note": "Contextless number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভর, টি",
+    "note": "Incoherent Bengali words in Arabic text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮১",
+    "note": "Arbitrary number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১০৮২",
+    "note": "Uncontextual numbers."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভর, এ",
+    "note": "Incoherent script fragments."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮",
+    "note": "Random number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪",
+    "note": "Arbitrary number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮২",
+    "note": "Non-contextual number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-44",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم ممم",
+    "note": "Repeated nonsense characters."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১০৮",
+    "note": "Random number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০",
+    "note": "Random number."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮০২০",
+    "note": "Random number sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮",
+    "note": "Unexplained digit."
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-2-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

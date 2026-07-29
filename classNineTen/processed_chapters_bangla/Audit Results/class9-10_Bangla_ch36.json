@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-36-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বন্ম",
+    "note": "Garbled characters; likely a corruption of 'দ্বন্দ্ব'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুভবখ দ্ধ",
+    "note": "Garbled characters in 'অনুভবদ' or similar."
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্ধবধূ",
+    "note": "Corrupted word; should be 'অন্ধবধূ'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সুদীপা মাঝে মাঝে দুঃখ করে বলেন, “সুন্দর",
+    "note": "Sentence cut off abruptly before the next question."
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পডঙ্ক্তিটি",
+    "note": "Garbled character sequence; likely 'কবিতাটির'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙন্ধিক্ষণ, বেণ্‌",
+    "note": "Garbled Unicode/corrupted characters in poem titles."
+  },
+  {
+    "chunk_id": "9-10-Bangla-36-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

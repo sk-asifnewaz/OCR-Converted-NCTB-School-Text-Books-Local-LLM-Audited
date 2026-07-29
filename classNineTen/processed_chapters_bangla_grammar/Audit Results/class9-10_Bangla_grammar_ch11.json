@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দিন+ইক ₹- দৈনিক; ... কৃণতব্য ₹ কর্তব্য",
+    "note": "The currency symbol '₹' is a script corruption artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কৃঙ্প্রত্যয়, কর্দন্ত",
+    "note": "Garbled terms for 'কৃৎ প্রত্যয়' and 'কৃদন্ত শব্দ' due to OCR."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "্‌অ, _অট",
+    "note": "Non-linguistic symbols like '্‌' and '_' are OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাঘণআ, ওুন্নান",
+    "note": "Extra characters 'ন' are common OCR artifacts from punctuation."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভাজ্ণই, হক দিন+ইক",
+    "note": "Garbled word 'ভাজ্ণই' and orphaned text 'হক'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উড, ঝাড়ুণউ, উক",
+    "note": "Highly garbled words indicating severe OCR corruption."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফলক, ত্দ্ধিত",
+    "note": "Incorrect suffix 'ক' and extra hasant symbol '।'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাড্ণনা, গিরিন্পনা",
+    "note": "Garbled words containing extraneous characters from OCR."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তদ্বধধিত",
+    "note": "Repeated character sequence 'ধধ' is a typical OCR loop."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-11-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

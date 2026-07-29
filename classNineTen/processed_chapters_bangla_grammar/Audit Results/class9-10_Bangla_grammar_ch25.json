@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-25-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-25-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-25-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আবে? ৬৯",
+    "note": "The number 69 is a non-contextual digit run, likely an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-25-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আভউনন্দন , যাকগে",
+    "note": "These are nonsensical words, likely OCR errors for 'অভিনন্দন' and 'থাক গে'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-25-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-25-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বচোরার",
+    "note": "The word 'বচোরার' is nonsensical; it is likely a corruption of 'বেচারার'."
+  }
+]

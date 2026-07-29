@@ -1,0 +1,713 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-7-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, চট!",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাজ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চুন্ন, পা পা পা, ০৩ 7 ০৩",
+    "note": "Extensive corruption of Arabic script and table layout."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টাড়ী, মَجْهْؤوْল",
+    "note": "Arabic text elements are corrupted or contain non-standard symbols."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, পা পা পা",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৭০) ও ১৪",
+    "note": "Non-standard symbols/numbers embedded in text segments."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাচ",
+    "note": "Fragmented word/corrupted script."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯_, ০৩",
+    "note": "Garbled punctuation or characters from Arabic script."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ, পা পা পা",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৮০০১, ৭৫৫",
+    "note": "Strings of digits do not correspond to any logical numbering or value."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯৫৭২৩, ৫৯৮",
+    "note": "Garbled numbers likely from failed OCR of Arabic text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জুিনু গড, সে পা",
+    "note": "Garbled text and symbols from failed Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৭১০, ৪৩-ফেল",
+    "note": "Nonsensical characters and garbled text fragments."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৭১০, ৪৩-ফেল, ও_",
+    "note": "Garbled characters and symbols from failed OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা পা, বা পা",
+    "note": "Garbled script resulting from poor OCR of Arabic text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, পা পা পা",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-31",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরী, পুরহ",
+    "note": "Word 'পুরী' is contextually incorrect; likely an OCR error for 'পুরুষ/স্ত্রী'."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-33",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরী",
+    "note": "Word 'পুরী' is contextually incorrect; likely an OCR error for 'পুরুষ/স্ত্রী'."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চুন্ন, পা পা পা",
+    "note": "Garbled text from failed Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-38",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরী, পুথ্জরী",
+    "note": "Terms 'পুরী' and 'পুথ্জরী' are nonsensical in this context; likely errors for 'পুরুষ/স্ত্রী'."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১১১, ১৫০৫, ০৮।",
+    "note": "Nonsensical number/symbol sequences from garbled Arabic content."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-44",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরী",
+    "note": "Word 'পুরী' is contextually incorrect; likely an OCR error for 'পুরুষ/স্ত্রী'."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পুরী, বাচ, পা পা পা",
+    "note": "Extremely high amount of noise and garbled script fragments."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "না পা, বা পা",
+    "note": "Garbled words resulting from failed Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-48",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরী, পুথ্জরী",
+    "note": "Words 'পুরী' and 'পুথ্জরী' are contextually incorrect; likely errors for 'পুরুষ/স্ত্রী'."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৮৬১, ২৫৬",
+    "note": "Nonsensical number/symbol sequences from garbled Arabic content."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "##, **, ০৮",
+    "note": "Garbled symbols and punctuation from Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-54",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুথ/স্ত্রী",
+    "note": "The term 'পুথ' is a likely typo for 'পুরুষ/স্ত্রি'."
+  },
+  {
+    "chunk__id": "9-10-Arabic-7-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অধিকতর symbols ও অর্থহীন শব্দ",
+    "note": "Highly garbled text from failed Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চুন্ন, বাচ",
+    "note": "Repetitive nonsensical words likely resulting from Arabic script OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-58",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরী, পুথ্জরী",
+    "note": "Terms 'পুরী' and 'পুথ্জরী' are contextually incorrect; likely errors for 'পুরুষ/স্ত্রী'."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিমা, ধুন",
+    "note": "Likely garbled words from Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী, মুর্নি",
+    "note": "Likely garbled words from Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী, ম্যা",
+    "note": "Likely garbled words from Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী, সুনি",
+    "note": "Likely garbled words from Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী, ম্যা",
+    "note": "Likely garbled words from Arabic script OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-7-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

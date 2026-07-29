@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-19-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্যঙ্‌ ₹",
+    "note": "Currency symbol used as artifact."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ইচ্ছতি ₹ ধনীয়তি",
+    "note": "Garbled symbol in the middle of a sentence."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ রাজায়তে",
+    "note": "Isolated 'হ' character appears as OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পত্র 7, হুসস্বর",
+    "note": "Number noise and garbled word 'হুসস্বর' instead of 'হ্রস্বস্বর'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক্যচ্‌ 7, ৩ত।",
+    "note": "Number noise and non-sensical fragment '৩ত।'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-19-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুত্রমৃ",
+    "note": "Garbled word 'পুত্রমৃ' likely intended to be 'পুত্রম্'."
+  }
+]

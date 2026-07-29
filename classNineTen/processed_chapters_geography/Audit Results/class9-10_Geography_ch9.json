@@ -1,0 +1,731 @@
+[
+  {
+    "chunk_id": "9-10-Geography-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1২050111065 3110 11101150165 01 133112130051",
+    "note": "Long string of non-sequential digits likely from page/source metadata."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলাদেশ",
+    "note": "Corrupted spelling of 'বাংলাদেশ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব' (common OCR error)."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পর্যটক...গুরুতৃ",
+    "note": "Corrupted words 'পর্যটনকারী' (or similar) and 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(+৬৫১১০০১০০১১-৩১ ১০০১০০৫)",
+    "note": "Garbled number sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলাদেশ...([0000 (10105)...(২১০৬)",
+    "note": "Corrupted names and garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রুষ্ণিনপ্রবণ...ধান জন্য ।...গ্রস্ত(ছ১১৬৮৩১)",
+    "note": "Corrupted words for 'বৃষ্টি' and 'ধানের জন্য', plus digit noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃপূর্ণ...উনুয়নের",
+    "note": "Corrupted words for 'গুরুত্বপূর্ণ' and 'উন্নয়নের'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রুষ্ণিন...গুরুতৃ",
+    "note": "Corrupted spelling of 'বৃষ্টি' and 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ধান",
+    "note": "Ends abruptly with a potentially garbled word or fragment."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0৮৯১১ ০১\" €০১১১১১০১-০১৮৩১ (০১০১৫)",
+    "note": "Garbled symbols and numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলাদেশ",
+    "note": "Corrupted spelling of 'বাংলাদেশ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্রুষ্ণিন...ধান (১০২৫৮১০৩৮১৬)",
+    "note": "Corrupted 'বৃষ্টি' and garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃপূর্ণ...ব্রুষ্ণিনপাটের",
+    "note": "Corrupted words for 'গুরুত্বপূর্ণ' and 'বৃষ্টিপাত'. "
+  },
+  {
+    "chunk_id": "9-10-Geography-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১০১ ১)১ছ০১-৫১০০৩০উ১)",
+    "note": "Garbled digit string in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুষ্ণিকে",
+    "note": "Corrupted word; likely meant 'পুষ্টিতে'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "([৭০১:৬৫০ ০১ ][৩৩১১২৬১৩০০৫১))",
+    "note": "Garbled number sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উনুয়নের...গুরুতৃপূর্ণ",
+    "note": "Corrupted words for 'উন্নয়নের' and 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ...মিঠা",
+    "note": "Corrupted 'গুরুত্ব' and 'মিষ্টি'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতব...((১১০০১৩০১১০৬ ০১ (০১০৫৬)",
+    "note": "Corrupted 'গুরুত্ব' and garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্ধাহ",
+    "note": "Corrupted spelling of 'সংগ্রহ'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দীত",
+    "note": "Garbled word, likely 'বাঁশ' or similar."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০-০১১০১১১)",
+    "note": "Garbled digits in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৩১১৩১ (৩৫)",
+    "note": "Garbled numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "((€০৮১])",
+    "note": "Garbled digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-38",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১৩১০ ১২০০১)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১.০৮১১০৮১১০",
+    "note": "Garbled digit string."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১১৩]০১ ১১১০১১৫০১৬৯৫ ০১১৩৮১৬৩০০৯]১)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ... (10061110905)",
+    "note": "Corrupted 'গুরুত্ব' and garbled digit string."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ... (€০০০০১১ [৬৫০১৬ ১১১০০৫০-৩)",
+    "note": "Corrupted 'গুরুত্ব' and garbled digit string."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ঢ'০১০১১৭৬১- [১১০১৫০-৫)",
+    "note": "Garbled digits/symbols."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ... (1116 €০1107100001)",
+    "note": "Corrupted 'গুরুত্ব' and garbled digits."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORR"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-9-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-80",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Geography-9-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুতৃ",
+    "note": "Corrupted spelling of 'গুরুত্ব'."
+  }
+]

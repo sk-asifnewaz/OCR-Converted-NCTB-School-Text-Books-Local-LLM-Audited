@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-18-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "প্রকরণমৃ্‌",
+    "note": "The character 'মৃ' at the end appears to be a garbled tail or artifact."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-18-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-18-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-18-4",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জ্ঞান- জ্ঞপয়তি (হত্যা করে)",
+    "note": "The word 'জ্ঞান' (knowledge) is incorrectly paired with the definition 'হত্যা করে' (kills)."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-18-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-18-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-18-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিী+ইল, ফ্রী + ইল",
+    "note": "Double vowel marks and 'ফ্রী' are clear OCR artifacts from Sanskrit ligatures."
+  }
+]

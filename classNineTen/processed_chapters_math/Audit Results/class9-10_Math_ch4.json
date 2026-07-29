@@ -1,0 +1,479 @@
+[
+  {
+    "chunk_id": "9-10-Math-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-4-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫ । বরং, বিপরীতক্রমে ৫৭ - ৫ ১: ৫ ১৫",
+    "note": "Garbled math symbols/powers replaced by '৫' and other punctuation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খণাত্মক পূর্ণসংখ্যা বা ধনাত্মক ভগ্নাংশ বা খণাত্মক ভগ্নাংশও হতে পারে।",
+    "note": "'খণাত্মক' is a common OCR error for 'ঋণাত্মক'."
+  },
+  {
+    "chunk_id": "9-10-Math-4-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(১৩০ ০£ 111010০5)",
+    "note": "Garbled symbols and characters in mathematical expressions."
+  },
+  {
+    "chunk_id": "9-10-Math-4-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫২) মস (৫২১৭-০১-৮৮ ০৫০১৮৫১৮০৫, ৫-৪১০২]",
+    "note": "Garbled mathematical notation and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০১১ ঠা (৫ ঠা ঠা ঠা",
+    "note": "Garbled symbols and non-sensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-Math-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সংজ্ঞা ২ (খণাত্মক সূচক)",
+    "note": "'খণাত্মক' is an OCR error for 'ঋণাত্মক'."
+  },
+  {
+    "chunk_id": "9-10-Math-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৭০,৭৭১",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৮)? 7. (০৭৭৮. (০৭)৮-৭",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৩, ৫৩৫, ৫৬",
+    "note": "Garbled notation for powers and roots."
+  },
+  {
+    "chunk_id": "9-10-Math-4-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৬, ৫৭৮, ৫৯০,৫৭।",
+    "note": "Garbled math notations."
+  },
+  {
+    "chunk_id": "9-10-Math-4-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৩. ৬ ৬. ৬৮৫৫ ৬১২",
+    "note": "Garbled numbers and symbols in formulas."
+  },
+  {
+    "chunk_id": "9-10-Math-4-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৭-২.৬২৮৭২১.১০৭.১৫১",
+    "note": "Garbled sequence of digits and decimal points."
+  },
+  {
+    "chunk_id": "9-10-Math-4-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ৭৭)৭৭১",
+    "note": "Garbled math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-4-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৩ ১ 8, ১০৮৫।",
+    "note": "Garbled math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খণাত্মক সংখ্যা",
+    "note": "'খণাত্মক' is an OCR error for 'ঋণাত্মক'."
+  },
+  {
+    "chunk_id": "9-10-Math-4-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৮৫, ১৫্+ন",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।, ১৫্+ন",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫্+ন, ১৪।",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫্+ন, ১৪।",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৮৭১, ১০৮।",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৮৫,০৫",
+    "note": "Garbled math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।, ১৫্+ন",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৮৫, ২১০",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৮।",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।, ১০৮।",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫্+ন, ১৪।",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৫০১৬১০০০ ০l ৫০৯১০০৩১০ চ০১১০০ ০০১৪০১০৭০৬১ ৫)",
+    "note": "Garbled metadata/reference code in brackets."
+  },
+  {
+    "chunk_id": "9-10-Math-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€, ১ € ৫ € ১০",
+    "note": "Garbled symbols like € in text."
+  },
+  {
+    "chunk_id": "9-10-Math-4-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€, ০৮ ২.৭১৮২৮",
+    "note": "Garbled symbol € and mangled math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮১০২",
+    "note": "Garbled math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৮৫।",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৮০, ৫,৭",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬।",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮, ৮",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খণাত্মক",
+    "note": "'খণাত্মক' is an OCR error for 'ঋণাত্মক'."
+  },
+  {
+    "chunk_id": "9-10-Math-4-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫্+ন",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫্+ন, ১৪।",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৫্+ন, ১৪।",
+    "note": "Garbled mathematical symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-4-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।",
+    "note": "Garbled mathematical symbol."
+  },
+  {
+    "chunk_id": "9-10-Math-4-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।",
+    "note": "Garbled mathematical symbol."
+  },
+  {
+    "chunk_id": "9-10-Math-4-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৯২২১",
+    "note": "Garbled mathematical result/notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫, ৮",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৪৫৬",
+    "note": "Garbled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-4-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।",
+    "note": "Garbled mathematical symbol."
+  },
+  {
+    "chunk_id": "9-10-Math-4-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "খণাত্মক",
+    "note": "'খণাত্মক' is an OCR error for 'ঋণাত্মক'."
+  },
+  {
+    "chunk_id": "9-10-Math-4-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৪।",
+    "note": "Garbled mathematical symbol."
+  }
+]

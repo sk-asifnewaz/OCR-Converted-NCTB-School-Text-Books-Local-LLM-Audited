@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-12-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-12-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শাশ্বতম 1",
+    "note": "The digit '1' is an OCR artifact for a verse separator or punctuation."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "মন্ত্ৰদ $-",
+    "note": "The '$' symbol is a non-standard character in this context."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বেদাঙ্গান্যপি ₹-, দেবাশ্চৈতান 5",
+    "note": "₹ is a currency symbol; 5 is an intrusive digit in the middle of text."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শাশ্বতম ₹, পিতা ₹",
+    "note": "The currency symbol ₹ is an OCR corruption."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-12-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০০০০০, আপা পাশ পাশাাশা শশা, অতেো ভবতি আত আত শত পপ আআ",
+    "note": "Contains repeated nonsense characters and mangled phrases from poor OCR."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

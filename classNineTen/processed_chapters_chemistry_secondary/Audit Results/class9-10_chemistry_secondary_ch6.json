@@ -1,0 +1,992 @@
+[
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0০10০৮চ ০0114016 3170 016101031 অ01001175)",
+    "note": "Garbled Unicode and nonsensical digit runs from header/footer."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[এ অয় পাঠ পেমে অমর",
+    "note": "Gibberish/garbled text in the brackets."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(04016)",
+    "note": "Garbled symbol/number string likely intended for a label or power."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "6.023 » 102টি",
+    "note": "Symbol usage for exponent is a clear OCR corruption."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€ এর মধ্যে",
+    "note": "Currency symbol used as a placeholder for a chemical element."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা,.০",
+    "note": "Chemical formula corrupted into non-sense characters."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০]",
+    "note": "Garbled chemical symbol for an atom."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮৫০/.৫ার০",
+    "note": "Highly mangled chemical formula and calculation string."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা,০",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা:৩01",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যট্ম্",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অট্",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মে,",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা।",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা,.০",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অট্য",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যট্ম্",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যট্য",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€",
+    "note": "Garbled symbol used for chemical units."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৩০]",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4৭০",
+    "note": "Garbled chemical formula."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৮:০০৩",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৩০০;",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "43:০০;",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০.৭ 40131",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৮:০০৩",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪০]",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা০]",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা এর",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা:০",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০:৫০,",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০।",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৩০]",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম:০:",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেম: - সে",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা]",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪০৩",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪০",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ - ৯২.৩১%",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেম: - সে",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭:০৬",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-53",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪:০৩",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মম",
+    "note": "Chemical symbol corrupted."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(00611010831",
+    "note": "Garbled code/formula segment."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২১৭১২০",
+    "note": "Garbled numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৫০১১০)",
+    "note": "Garbled chemical symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৫) ৪ ০২৮)",
+    "note": "Garbled chemical formulas."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২১৪৮৫০৪০৩)",
+    "note": "Garbled chemical symbols."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ5হ+ মস পদ 15027 ম2",
+    "note": "Garbled chemical expression."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১4৫০.",
+    "note": "Garbled chemical formula."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪£",
+    "note": "Garbled chemical formula."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2 7 200 - /2502+7 মা",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "32003 7 200 - 2480 + চাা20 + চে",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "/৭]",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(50010016167)",
+    "note": "Garbled chemical term (Stoichiometry)."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2142005)",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৫০ অণু",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-80",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-81",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যয, অণু",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-83",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-84",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2145+",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-85",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0।",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-87",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2১835.5 গ্রাম",
+    "note": "Garbled measurement/chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-88",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মা,",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-89",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-91",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "21485(5)",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-92",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৪৫",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-94",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2382",
+    "note": "Garbled chemical notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-96",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-97",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-98",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "143:00)",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-99",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-100",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(5০,.510:0।",
+    "note": "Garbled chemical formula."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-101",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১৩০৪]",
+    "note": "Garbled chemical symbol."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-103",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-104",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০- ৪)",
+    "note": "Garbled calculation notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-105",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রে \"100",
+    "note": "Garbled calculation notation."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-106",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-107",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬.৩৬১10%3",
+    "note": "Garbled notation for a count."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-108",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬.০২১০%্য",
+    "note": "Garbled notation for count."
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-109",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-chemistry_secondary-6-110",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

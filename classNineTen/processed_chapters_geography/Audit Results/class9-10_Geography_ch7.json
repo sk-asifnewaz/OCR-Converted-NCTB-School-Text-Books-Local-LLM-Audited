@@ -1,0 +1,389 @@
+[
+  {
+    "chunk_id": "9-10-Geography-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ং0301110063 310 11001071110 কচ (10103",
+    "note": "String of numbers and symbols at the end is clearly OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মানুষের পরা ইফ চ ই মেস নে বা",
+    "note": "The start of the paragraph is garbled and nonsensical."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(001100])0 0 1-650111-063)",
+    "note": "Garbled numeric string at the end of the line."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0139910030101) 0 1-০৯০১১১-০৬৫)",
+    "note": "Numeric and punctuation noise in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(€1011561-ছ30071) 01 1-090101-065)",
+    "note": "Foreign currency symbol and digit string are noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(31২ :1২০৮৪৬, ২০৮৪০,\n7২০০৮০]০)",
+    "note": "Garbled numerical data in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0.00110111106 8৫0ছ10০5)",
+    "note": "Garbled numbers and symbols in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ1111131-. ০০০11011106 ৪৫01065)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(3০০০1103817 ০০০10111106 ৪€৫0ছ10605)",
+    "note": "Garbled numeric sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(17010815 ০০০11011116 ৪০0%1065)",
+    "note": "Garbled numbers and symbols in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অনুনুত, ... (60011011016 3৫0%10605 01",
+    "note": "Corrupted word 'অনুনুত' and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুনুত",
+    "note": "Corrupted word 'অনুনুত' (intended as 'অনুন্নত')."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ৮30৫0015 01 111010150131 06010101111 0110)",
+    "note": "Garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(800131 9৫0015)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিন্য।",
+    "note": "The character at the end is a corrupted symbol."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00011011110 13৫0015)",
+    "note": "Garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙ্প্রহের",
+    "note": "Word is a corrupted form of 'সম্প্রহণের'."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুদক্ষ অর্ধ্য",
+    "note": "Corrupted term for 'সুদক্ষ ও সস্তায়'."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরবহণ",
+    "note": "Corrupted word for 'পরিবহন'."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0135910080011 01 11101150165)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-32",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এই ধরনের শিল্পগুলো গ্রাম ও",
+    "note": "Clause ends abruptly at 'ও' (and)."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "([111010 3110 ০৫-০১-০০৩০।)",
+    "note": "Garbled sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11:306 08181106 3110 0।১০১১১১৬১১ ০০১-৯১৮০১০১১০৫)",
+    "note": "Garbled numeric/special character sequence."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুনুত",
+    "note": "Corrupted word 'অনুনুত' (intended as 'অনুন্নত')."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তাত, বন্ত্র",
+    "note": "Likely corrupted words for 'বস্ত্র'."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মূজনশীল",
+    "note": "Corrupted word for 'মূল্যায়নশীল'."
+  },
+  {
+    "chunk_id": "9-10-Geography-7-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-7-43",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এ ও শত &",
+    "note": "Nonsensical character sequence at the end of a line."
+  }
+]

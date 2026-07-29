@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DUPLICATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্‌হাউহ্; ত ত",
+    "note": "Garbled character sequences and repetitive characters suggest OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্, গ্‌হ; (85111103151 111114",
+    "note": "Inconsistent diacritics and random digit strings likely from page metadata."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-6",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ব্যর্থ সার্থক সার্থক ব্যর্থ",
+    "note": "Repetition of the same term pair indicates an OCR looping artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরিপূরর",
+    "note": "Nonsensical word; likely a corruption of 'পরিপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-42-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

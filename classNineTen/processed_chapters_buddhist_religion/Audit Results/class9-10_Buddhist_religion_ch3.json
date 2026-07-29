@@ -1,0 +1,587 @@
+[
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মাঠের মৃত্যুতে",
+    "note": "Sentence ends abruptly mid-clause, clearly cut off."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্রিপিটক ৩৫",
+    "note": "Isolated number likely from a page footer or header."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঙ্ে",
+    "note": "Likely a corruption of 'সঙ্গে'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৩৬ বৌদ্ধধর্ম শিক্ষা",
+    "note": "Number '৩৬' appears to be an extraneous footer/header element."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃূত্র, মস্ববিম",
+    "note": "Corrupted characters for 'সুত্র' and 'মদ্ধিম'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ব্রিপিটক ৩৭",
+    "note": "Page number inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রছ্ছে",
+    "note": "Corrupted character for 'গ্রন্থে'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮. পুগ্গলপঞ্ঞত্তি",
+    "note": "List item '৪' incorrectly rendered as '৮'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[!;1,!:!1\nটার\nটার\nটার",
+    "note": "Garbled characters and nonsensical sequences."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নীকায়েরณฑ์গুলোর",
+    "note": "Corrupted character 'ณฑ์' likely for 'ণ' or similar."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রছ্থে",
+    "note": "Corrupted character for 'গ্রন্থে'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্রিপিটক ৩৯",
+    "note": "Page number inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্ত্ব মার্গ",
+    "note": "Incorrect characters for 'আর্য' (Arya)."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রন্গুলোর",
+    "note": "Missing character in 'গ্রন্থগুলোর'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্রিপিটক ৪০",
+    "note": "Page number inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্রিপিটক ৪১",
+    "note": "Page number inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুত্ত বিভ্গ",
+    "note": "Corrupted characters for 'সুত্র বিভাগ'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রনস্থ",
+    "note": "Corrupted characters for 'গ্রন্থ'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিজ্চুনীদের",
+    "note": "Corrupted spelling for 'ভিক্খুণী' or similar."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্রিপিটক ৪২",
+    "note": "Page number inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত্রিপিটক ৪৩",
+    "note": "Page number inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রন্থটের",
+    "note": "Corrupted spelling for 'গ্রন্থের'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্রহ্থে",
+    "note": "Corrupted spelling for 'গ্রন্থে'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অথচ্চুদার, অর্ত্ব",
+    "note": "Corrupted transcription of 'বিশ্লেষণ' and 'আর্য'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অญ্মাণ্হ",
+    "note": "Garbled sequence of characters."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এঁক্য",
+    "note": "Corrupted character for 'একতা'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুিক্মনভাবে",
+    "note": "Corrupted character for 'সূক্ষ্মভাবে'."
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Buddhist_religion-3-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বত্রিপিটকের",
+    "note": "Corrupted prefix for 'ত্রিপিটকের'."
+  }
+]

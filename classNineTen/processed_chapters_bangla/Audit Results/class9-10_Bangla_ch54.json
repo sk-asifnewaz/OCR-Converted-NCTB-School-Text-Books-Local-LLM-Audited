@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-54-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক. 1ও]1 খ. 1ওম1 গ. 11ও11 ঘ. 1,11ও111",
+    "note": "Multiple choice options contain garbled numeric strings and symbols."
+  },
+  {
+    "chunk_id": "9-10-Bangla-54-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-54-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এ 2 ৬ ১",
+    "note": "Random digit sequence that does not represent a valid number."
+  },
+  {
+    "chunk_id": "9-10-Bangla-54-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-54-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

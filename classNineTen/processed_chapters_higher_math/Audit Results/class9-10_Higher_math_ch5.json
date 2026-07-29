@@ -1,0 +1,704 @@
+[
+  {
+    "chunk_id": "9-10-Higher_math-5-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২০০৫৪ ৪০০৭ - ১৫০০",
+    "note": "Mathematical symbols like x and y are corrupted into digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯",
+    "note": "The digit 9 appears before every list item, likely an OCR artifact of a bullet point."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৫১ + ০৫ + ০ - ০",
+    "note": "Variables in the quadratic equation are replaced by digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৫৫১৭ ০৫৭ ৫ - ০",
+    "note": "Equation terms are garbled with digit substitutions."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৫১ ৭- ০৫ 7০ - ০",
+    "note": "Standard quadratic coefficients are replaced by digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩১৯০১১১৭১১১৮১০",
+    "note": "A long string of digits replaces the discriminant formula term."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ 7\" ও ৫ > ০",
+    "note": "Inequality conditions for coefficients are garbled."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ - ], ০ - -_ 5",
+    "note": "Solution steps for roots are garbled with symbols/numbers."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ - -_?",
+    "note": "Variables are corrupted by noise and symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "_ 2৩ ৬(২)২-৪-১-(২) ২৪৪৭৮",
+    "note": "Heavy corruption of algebraic expressions."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৮১ + ০৫ 7 ০ - ০",
+    "note": "Quadratic equation terms are replaced by digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭২-২-৩২২-৫০",
+    "note": "Equations are mangled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(চ*০৩১১০৬০৫)",
+    "note": "Garbled numeric string in a text paragraph."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৪৮৭ ৯ -_ ৬০২",
+    "note": "Equation coefficients are corrupted by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮০২৭ ৮ _ ২৬২৭৫+২ - ০",
+    "note": "Equation coefficients are corrupted by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০২২৪৭৯-৬৮৫-৪-৬৮৫+৭৭১",
+    "note": "Complex equation is garbled with digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫ - ৪৮",
+    "note": "Root results are mangled with extra digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬/(৫ -১)(৫ - ২) +৭ ৬৮(৫ - ৩)(৫ - ৪)",
+    "note": "Fractional expressions are mangled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬সংা ও ৬২",
+    "note": "Equations are mangled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৩৯৭৫",
+    "note": "Number string used as coefficient is garbled."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬+২-৪৪৭২-+২৪৭১২",
+    "note": "Equations are garbled by OCR."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২% - ৮৪",
+    "note": "Mathematical notation is garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২১৪৭৭ - ৪২৭২",
+    "note": "Equation values are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩: ২৭ - ৯%৭৪",
+    "note": "Equation terms are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২১৪৫। ৫৮১২",
+    "note": "Highly mangled equation coefficients."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৭৫ - ৩৯৭১৪",
+    "note": "Equation terms are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩২০-১- ৫",
+    "note": "Equation terms are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬/(৫ -১)(৫ - ২)",
+    "note": "Fractional expression mangled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৩ চ; ১৪?",
+    "note": "Punctuation and variables replaced by garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫০২,১৯৭",
+    "note": "Equation variables replaced by digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২.২ - ৩২৭১ - ০",
+    "note": "Equation terms are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩।; ৪৪",
+    "note": "Terms are mangled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫২৭১২ - ৬১",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩।; ৩৪",
+    "note": "Equations are mangled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৬৮",
+    "note": "Coefficient terms are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩।২৮৮:।",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১৮ - (৫।- ৫)০০৮-: ৪ ০২",
+    "note": "Highly garbled equation term."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪; ৯৩",
+    "note": "Equations are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭২৭২ - ৬৫০",
+    "note": "Equation variables are replaced by digits."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ -৭&)",
+    "note": "Equations are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৮ - ৬০০",
+    "note": "Equation term garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০২; ৯৪",
+    "note": "Equation values are garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩।; ৪।",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫৮১২; ৫১০",
+    "note": "Equations garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪।; ৫\nবা, ৩৮ -_ ১ - ২২ ৪৭২৭৫",
+    "note": "Equations garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮।; ৯।",
+    "note": "Terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-57",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ - ৩২",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-58",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩—৩২",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮ী; ৫।",
+    "note": "Terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০২৮। ০৩৯৭৫ - ০২০ ২২০০৮",
+    "note": "Garbled values in problem list."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৪৮৭",
+    "note": "Coefficient garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২:১০১১১২; ৮।১৪১০১-২",
+    "note": "Table/list values garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫দের মান নির্ণয় করে",
+    "note": "Garbled result calculation steps."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫।",
+    "note": "Equation term garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০.৫৩।; ১.৭৫",
+    "note": "Decimal values garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২।; ৩।",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ - ৯",
+    "note": "Result values garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫১২+৭ ৪৫ - -৪",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৯১; ৫৩",
+    "note": "Calculation steps garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১৩ চ; ১৪?",
+    "note": "Variables replaced by garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮০-২ (২৭%) - ৯৮১",
+    "note": "Options/calculations garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১। ১৬০ - ৪৮৭:",
+    "note": "Equation terms garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫; ৯৩; ৪১; ৬১",
+    "note": "Equation results garbled by digit substitution."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-5-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৫ ২ ৫৩৭১:",
+    "note": "Equation term garbled by digit substitution."
+  }
+]

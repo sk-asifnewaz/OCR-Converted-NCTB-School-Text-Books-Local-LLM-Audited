@@ -1,0 +1,614 @@
+[
+  {
+    "chunk_id": "9-10-Math-14-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২300, 51001131105 310 ৩1701100609)",
+    "note": "Long string of numbers/symbols in parentheses is likely a corrupted ID or page reference."
+  },
+  {
+    "chunk_id": "9-10-Math-14-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮10091065 ০001২300 3170 21000101010)",
+    "note": "Garbled number sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Math-14-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫:০-৫%:৫৪ এবং ৫০:৫ - 2: ৫",
+    "note": "Mathematical expressions are heavily corrupted by OCR."
+  },
+  {
+    "chunk_id": "9-10-Math-14-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৩ ৫ ৬ ১৭ ৫ চা",
+    "note": "Geometry symbols (like triangles) are corrupted into nonsensical characters."
+  },
+  {
+    "chunk_id": "9-10-Math-14-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫০১৭ :৫ ম ৫১ -৫:৫- ৪০: 57",
+    "note": "Garbled characters in mathematical expressions."
+  },
+  {
+    "chunk_id": "9-10-Math-14-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "না ল্ণস্្ម্ম \|ছছৈ",
+    "note": "Nonsensical character sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-14-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1170 ত্রিভুজের 1770 বাহুর 4 4",
+    "note": "Triangle symbols are incorrectly interpreted as numbers."
+  },
+  {
+    "chunk_id": "9-10-Math-14-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "- ২৭৭৮ _ 77\nসমানুপাতক]",
+    "note": "Garbled symbols and incomplete words."
+  },
+  {
+    "chunk_id": "9-10-Math-14-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢা তো]",
+    "note": "Garbled character at the end of a line."
+  },
+  {
+    "chunk_id": "9-10-Math-14-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বাস্তুদ্য়কে ... প্রমা' ত",
+    "note": "Broken words and mangled mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-14-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নদেরছ স ঢা ... /৬৯1917৬1",
+    "note": "Garbled words and mangled mathematical formulas."
+  },
+  {
+    "chunk_id": "9-10-Math-14-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7৩1৯: 170 4",
+    "note": "Garbled triangle/ratio symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪৭৭০ স 74017",
+    "note": "Garbled characters in mathematical expressions."
+  },
+  {
+    "chunk_id": "9-10-Math-14-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অদন্কন ... 134 বাহুকে 1 বিন্দুতে ্চ 7)",
+    "note": "Incorrect characters in words and math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-14-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "এ ৫দস-স/4 ... প্রাতসমত",
+    "note": "Garbled text and mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-Math-14-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "% ও \"\"",
+    "note": "Garbled symbols in the text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হিমাধ্যযয় ... 61771 ... ওঠ : 20",
+    "note": "Garbled mathematical symbols and text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১1101131709)",
+    "note": "Garbled number string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Math-14-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "19 ্ৈ ডা ৷\n73 গে 0 1 4",
+    "note": "Garbled text at the end of the chunk."
+  },
+  {
+    "chunk_id": "9-10-Math-14-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বহুড়ুজ ... 1 12 0০",
+    "note": "Garbled text and symbol."
+  },
+  {
+    "chunk_id": "9-10-Math-14-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "17301) আয়ত ও 1০015 বর্গ",
+    "note": "Garbled geometry symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা রা\n4 19\nটব /\nর্জ ০ 1% চা\n1 0",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্কন ... 130 ও 19117",
+    "note": "Garbled words and math symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৪৪১৭০ ... চদ- 77",
+    "note": "Garbled symbols in math equations."
+  },
+  {
+    "chunk_id": "9-10-Math-14-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "-* _ +€ ... ৬পপাদ্য",
+    "note": "Garbled symbols and text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বচন: ; ও ব _ _ ... ৮৪ 2৮17",
+    "note": "Garbled text and mangled symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ফর্মা-৩৫ ... দ্র _ 77",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লার লব ... নু নয",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টর্টু ... অন্তর্ভুক্ত",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লারা ... অঙ্গ",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "9-10-Math-14-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দাটকে ... অদ্কন",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "9-10-Math-14-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "চ রথ ... বন রড ... মা না",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তর্বিতক্ত",
+    "note": "Misspelled/corrupted word."
+  },
+  {
+    "chunk_id": "9-10-Math-14-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢল",
+    "note": "Garbled word."
+  },
+  {
+    "chunk_id": "9-10-Math-14-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সস ... ০:",
+    "note": "Garbled symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": ".৪১৫১)",
+    "note": "Garbled symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাস্তু ... ১৩৭১",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উ ... ক)",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সৃক্মমকোণের ... রঁ",
+    "note": "Garbled word and symbol."
+  },
+  {
+    "chunk_id": "9-10-Math-14-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সামান্তরিক ... বড়িভুজ",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "9-10-Math-14-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢা ... 131",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নাট রণ ... ৫সেম.",
+    "note": "Garbled text."
+  },
+  {
+    "chunk_id": "9-10-Math-14-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(11165 0 510111607% ০0৪ 1080131” 0017801)",
+    "note": "Garbled number string in brackets."
+  },
+  {
+    "chunk_id": "9-10-Math-14-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ব্যুড়ুজ ... সরা ভা ... ত্রভুজ ... পঞ্চডুজ",
+    "note": "Garbled words."
+  },
+  {
+    "chunk_id": "9-10-Math-14-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অন্য ফোটা ... \"১৮04 .023\"",
+    "note": "Garbled text and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পঞ্চডুজ ... (২০080101031 55117117607)",
+    "note": "Garbled word and garbled number string."
+  },
+  {
+    "chunk_id": "9-10-Math-14-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "180০1",
+    "note": "Degree symbol likely misread as zero."
+  },
+  {
+    "chunk_id": "9-10-Math-14-54",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দিতে ছা ... এনা ফা হয বানা",
+    "note": "Nonsensical phrase."
+  },
+  {
+    "chunk_id": "9-10-Math-14-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৬) ... (11176 59110117607 ...)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-Math-14-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-14-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বহুডুজ ... 60০ ... ££",
+    "note": "Garbled word, degree symbol error, and garbled character."
+  },
+  {
+    "chunk_id": "9-10-Math-14-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬ ... লা",
+    "note": "Garbled characters."
+  },
+  {
+    "chunk_id": "9-10-Math-14-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উল্ল্ব",
+    "note": "Typo/mangled word."
+  },
+  {
+    "chunk_id": "9-10-Math-14-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বরগগ",
+    "note": "Mangled word."
+  },
+  {
+    "chunk_id": "9-10-Math-14-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০01 ... %%",
+    "note": "Garbled symbols in math."
+  },
+  {
+    "chunk_id": "9-10-Math-14-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রং ... ৯ ... €",
+    "note": "Garbled symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "॥ ... ?",
+    "note": "Garbled symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-14-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বাস্তু ... 1:47 -2:1",
+    "note": "Garbled words and mangled math notation."
+  }
+]

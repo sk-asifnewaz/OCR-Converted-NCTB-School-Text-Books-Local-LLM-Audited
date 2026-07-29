@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4 07-0771707 01169০71501 1,07157/৫56",
+    "note": "Random digits and symbols likely from OCR noise or artifacts."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-3",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্বনিতত্ত",
+    "note": "Word cut off at chunk boundary."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রূপতত, বাক্যতত্তব",
+    "note": "Words cut off or mangled at line/chunk boundaries."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-6",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্থতত্ত, বাগর্থতত্তব",
+    "note": "Terms truncated at boundary of text segments."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্বনিতত্ত্, রূপতন্ত্ব, অর্থতত্্ব, বাক্যতত্ত্",
+    "note": "Consistent mangling of the word 'তত্ত্ব' due to OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধ্বনিতত্ত্, রূপতন্তর, অর্থতন্ত্ব, বাক্যতত্ত্",
+    "note": "Repetitive OCR corruption of standard terminology."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-2-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্থতত্ত্, রূপতন্ব, ধ্বনিতত্, বাক্যতত্ব",
+    "note": "Non-sensical character sequences in repeated terms."
+  }
+]

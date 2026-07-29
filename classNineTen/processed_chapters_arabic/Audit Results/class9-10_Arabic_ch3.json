@@ -1,0 +1,281 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-3-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬০০২০ ৮৮৪",
+    "note": "Random digits likely from OCR artifacts or page numbering."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০১০৮০০০২০৬ ০৭৭২-১৫-২১",
+    "note": "Long strings of numbers are likely OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০১৮৯১",
+    "note": "Standalone numbers in Arabic text are usually artifacts."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০৮০১১২১৭৭০",
+    "note": "Long sequence of digits is likely OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৮০৬ ৬১ ৩১০০",
+    "note": "Non-sequential digits are likely artifactual."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০৪০৬ ৬৯৯০৭",
+    "note": "Numbers appear to be OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২%১%",
+    "note": "Percentage sign and trailing numbers are artifacts."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০২২০০",
+    "note": "Numeric artifacts in text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২০২৬",
+    "note": "Numeric artifacts."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৩০%০৯",
+    "note": "Percentage and digits are likely artifacts."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم ممم ممم ممم ممم ممم ممم ممم ممم ممم ممم",
+    "note": "Repeated character sequence is an OCR loop/error."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৭৩৭২",
+    "note": "Numerical artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৩১৪৭১",
+    "note": "Numerical artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০৮৫",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১৮০৭৭",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০৮১৭৭",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১৫৬৭০০০১৭২০",
+    "note": "Long numeric sequence is an artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৭৯০০",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০১০-৩০",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২০২৬",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "مم ممم ممم ممم ممم ممم ممم ممم ممم ممم ممম",
+    "note": "Repeated character sequence is an OCR loop/error."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬৭৩৭২",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৫৩১০০০৪১০",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৬৬৬৬৬৬৪৬৬০৬০৬০৬০০৬০০০৬০০০০০০০০০০৩",
+    "note": "Long string of repetitive digits is an artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১৮০৭৭",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "২০২৬",
+    "note": "Numeric artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-3-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "১৫০০",
+    "note": "Numeric artifact."
+  }
+]

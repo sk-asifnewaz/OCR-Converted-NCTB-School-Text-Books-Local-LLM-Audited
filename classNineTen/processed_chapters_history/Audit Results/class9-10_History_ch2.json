@@ -1,0 +1,1316 @@
+[
+  {
+    "chunk_id": "9-10-History-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-2",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আর্লল্ড জোসেফ টয়েনবি",
+    "note": "Likely OCR error for 'আরনল্ড' or a similar name."
+  },
+  {
+    "chunk_id": "9-10-History-2-3",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চেনিক সভ্যতার, শরিক সভ্যতা",
+    "note": "Likely OCR errors for 'মেসোপটেমীয়' and 'সিন্ধু'."
+  },
+  {
+    "chunk_id": "9-10-History-2-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1০903) ... (00081003)",
+    "note": "Non-semantic numerical strings likely from page numbering or indexing."
+  },
+  {
+    "chunk_id": "9-10-History-2-5",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বশ্বসভ্যত",
+    "note": "Consistent OCR error for 'বিশ্বসভ্যতা' throughout the chapter."
+  },
+  {
+    "chunk_id": "9-10-History-2-6",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গাস্পিয়াল ডুদ\n২৯ রঃ হব\nবে",
+    "note": "Chunk contains mostly garbled text and nonsensical character strings."
+  },
+  {
+    "chunk_id": "9-10-History-2-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01010), (11601), (0100011091816), (4১11৮)",
+    "note": "Garbled number strings likely from metadata or layout noise."
+  },
+  {
+    "chunk_id": "9-10-History-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8০০০",
+    "note": "Mixed character types (Western '8' with Eastern digits) indicating OCR noise."
+  },
+  {
+    "chunk_id": "9-10-History-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-15",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ব্োঞ্জ",
+    "note": "OCR error for 'ব্রোঞ্জ'."
+  },
+  {
+    "chunk_id": "9-10-History-2-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-19",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "লা",
+    "note": "Single character/incomplete word likely from a previous page."
+  },
+  {
+    "chunk_id": "9-10-History-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(71550130",
+    "note": "Non-contextual digits inside parentheses."
+  },
+  {
+    "chunk_id": "9-10-History-2-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-25",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সিন্মু",
+    "note": "OCR error for 'সিন্ধু'."
+  },
+  {
+    "chunk_id": "9-10-History-2-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-27",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সিন্মু, খিস্টপূর্বাব্দ",
+    "note": "Corrupted 'সিন্ধু' and 'খ্রিষ্টপূর্বাব্দ'."
+  },
+  {
+    "chunk_id": "9-10-History-2-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-29",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠা\nরন\nবশ্বসভ্যত",
+    "note": "Garbled text/broken lines at the start of the chunk."
+  },
+  {
+    "chunk_id": "9-10-History-2-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-31",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সিন্মুসভ্যতার",
+    "note": "OCR error for 'সিন্ধু'."
+  },
+  {
+    "chunk_id": "9-10-History-2-32",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সিন্মুসভ্যতায়, সিন্মুবাসী",
+    "note": "OCR error for 'সিন্ধু'."
+  },
+  {
+    "chunk_id": "9-10-History-2-33",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সিম্ধুসভ্যতার",
+    "note": "OCR error for 'সিন্ধু' (missing 'ন')."
+  },
+  {
+    "chunk_id": "9-10-History-2-34",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সিন্মুসভ্যতার",
+    "note": "OCR error for 'সিন্ধু'."
+  },
+  {
+    "chunk_id": "9-10-History-2-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-37",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সিন্মুসভ্যতা",
+    "note": "OCR error for 'সিন্ধু'."
+  },
+  {
+    "chunk_id": "9-10-History-2-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-39",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র্থ্না\nরন",
+    "note": "Garbled text likely from a line break or layout artifact."
+  },
+  {
+    "chunk_id": "9-10-History-2-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-45",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খিস্টপূর্বাব্দ",
+    "note": "OCR error for 'খ্রিষ্টপূর্বাব্দ'."
+  },
+  {
+    "chunk_id": "9-10-History-2-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-51",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বশ্বসভ্যত",
+    "note": "OCR error for 'বিশ্বসভ্যতা'."
+  },
+  {
+    "chunk_id": "9-10-History-2-52",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "এঁটিহাসিক",
+    "note": "OCR error for 'ঐতিহাসিক'."
+  },
+  {
+    "chunk_id": "9-10-History-2-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-54",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এঁকেছে",
+    "note": "Garbled/incorrectly transcribed word."
+  },
+  {
+    "chunk_id": "9-10-History-2-55",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্্সো",
+    "note": "Garbled characters, likely 'উৎস' or similar."
+  },
+  {
+    "chunk_id": "9-10-History-2-56",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ [1০, হিন, ডেলী",
+    "note": "Multiple instances of garbled text/symbols."
+  },
+  {
+    "chunk_id": "9-10-History-2-57",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অঙ্গ্বশান্ত্র",
+    "note": "OCR error for 'অঙ্কশাস্ত্র'."
+  },
+  {
+    "chunk_id": "9-10-History-2-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-62",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র্যা\nচন",
+    "note": "Split word/garbled text."
+  },
+  {
+    "chunk_id": "9-10-History-2-63",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সামাজ্য",
+    "note": "OCR error for 'সামাজিক'."
+  },
+  {
+    "chunk_id": "9-10-History-2-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-67",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0081786 11/ 1108171601)",
+    "note": "Non-semantic numbers in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-History-2-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-74",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খিস্টপূর্বাব্দ",
+    "note": "OCR error for 'খ্রিষ্টপূর্বাব্দ'."
+  },
+  {
+    "chunk_id": "9-10-History-2-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-77",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠা\nরন",
+    "note": "Garbled text/broken line."
+  },
+  {
+    "chunk_id": "9-10-History-2-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-79",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্থাস",
+    "note": "Likely OCR error for 'হ্রাস' or similar."
+  },
+  {
+    "chunk_id": "9-10-History-2-80",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-81",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-83",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-85",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-87",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রূচনায়",
+    "note": "OCR error for 'রচনায়'."
+  },
+  {
+    "chunk_id": "9-10-History-2-88",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-89",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সতন্ররেটিস",
+    "note": "Likely OCR error for 'সক্রেটিস'."
+  },
+  {
+    "chunk_id": "9-10-History-2-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-91",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-92",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-93",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "%",
+    "note": "Isolated symbol likely from OCR noise."
+  },
+  {
+    "chunk_id": "9-10-History-2-94",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-96",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-97",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বিষ্ভৃত",
+    "note": "OCR error for 'বিস্তৃত'."
+  },
+  {
+    "chunk_id": "9-10-History-2-98",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-99",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-100",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-101",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "প্রিবিয়ান",
+    "note": "OCR error for 'প্লিবিয়ান'."
+  },
+  {
+    "chunk_id": "9-10-History-2-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-103",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-104",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-105",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-106",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-107",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-108",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-109",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-110",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-111",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-112",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-113",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-114",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-115",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-116",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-117",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-118",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-119",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-120",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-121",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-122",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-123",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ইনকা স্দ্বাট",
+    "note": "Likely OCR error for 'ইনকা সম্রাট'."
+  },
+  {
+    "chunk_id": "9-10-History-2-124",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-125",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-126",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্মাড",
+    "note": "OCR error for 'সম্রাট'."
+  },
+  {
+    "chunk_id": "9-10-History-2-127",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-128",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-129",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-130",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-131",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-132",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-133",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-134",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-135",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-136",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-137",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-138",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-139",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-140",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0113113)",
+    "note": "Non-contextual digit string."
+  },
+  {
+    "chunk_id": "9-10-History-2-141",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-142",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-143",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ত২",
+    "note": "Garbled character at the end of a line."
+  },
+  {
+    "chunk_id": "9-10-History-2-144",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-145",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-History-2-146",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "9-10-Christian_religion-6-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বন্ম",
+    "note": "Non-standard word, likely a mis-OCR of 'বন্ধন' or 'বন্ধুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-4",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বন্ধুত্‌",
+    "note": "Word truncated at the end of a section; should likely be 'বন্ধুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ীষ্টধর্ম",
+    "note": "Incorrect character for 'খ্রীষ্টধর্ম' (Christianity)."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্তুরিৎ",
+    "note": "Likely a corrupted representation of the word 'দ্রুত'."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আত্তরিকতা",
+    "note": "Common OCR error for 'আন্তরিকতা' (sincerity)."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed Arabic and Bengali digits; likely a page number '৮৪'."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সখণ্ড্য",
+    "note": "Corrupted representation of 'খ্রীষ্টধর্ম'."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪",
+    "note": "Mixed Arabic and Bengali digits; likely a page number '৮৪'."
+  },
+  {
+    "chunk_id": "9-10-Christian_religion-6-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্রীষ্টধর্ম",
+    "note": "Corrupted representation of 'খ্রীষ্টধর্ম'."
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "777ص ‎০‏ 2 و",
+    "note": "Non-contextual digit strings and symbols interspersed in text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬",
+    "note": "Repeated digit sequence indicates a clear OCR looping artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "180০০০০৮১০৮ 20১ ৬০ ০",
+    "note": "Random digit strings embedded within the sentence structure."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০০০৬০৬৬৩৬৬৬৩৬৬৬৬০৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬",
+    "note": "Repeated character strings characteristic of OCR loops."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৯১) ০১০০ ম।",
+    "note": "Random digit sequences mixed with text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ممممم ممم ممممممممممممممورففه 0-0-0-0",
+    "note": "Repetitive character sequences that don't form words."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০৬৯ ‏الإِبْتِدَائِيَّةٍ‎ ৬১০৮ ১১",
+    "note": "Random digit strings likely from page numbers or indices."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "##",
+    "note": "Special characters and symbols appearing in the middle of text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০৪৭ ০৬ 77০০০",
+    "note": "Numeric noise integrated into the text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ممم ممم ممم مممم মুু।",
+    "note": "Repeated nonsensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০২০১৭%৫১৯",
+    "note": "Garbled digit and symbol noise."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২০২৬",
+    "note": "Random digit sequence at the end of a block."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪৪৭৭২",
+    "note": "Number strings that are not valid numerals/indices."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১০০০০০০০০",
+    "note": "Repetitive digit sequence typical of OCR errors."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০৭০৪৬৩৯০১০০",
+    "note": "String of digits not related to the content."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "امم ممم ممم مممم مممم مممم مممم مممم",
+    "note": "Significant amount of repetitive nonsensical character strings."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬০০৬০৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬৬",
+    "note": "Repetitive digit sequences suggesting OCR looping."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮০০০ ৮০",
+    "note": "Random number strings inserted in text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৭৮৮০",
+    "note": "Number strings not logically linked to the text."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০২৭১০২০১১৪৪",
+    "note": "Large string of digits not relevant to the topic."
+  },
+  {
+    "chunk_id": "9-10-Arabic-5-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০২১৭৭২০৭০৭০",
+    "note": "Random digit string at the end of a block."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Career_education-3-1",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দা তত ও ৪\"",
+    "note": "Nonsensical text string that doesn't fit the context of a list of goals."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4 আন্তরিকতার, 4 দেখা হলে",
+    "note": "Inconsistent and likely corrupted numerals in a list."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "4, 7, 7, 7, 4১, 4",
+    "note": "Repetitive and non-sequential numerals in a list structure."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "21, 48",
+    "note": "Likely corrupted single digits (1, 4) joined with adjacent symbols."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পে এ ১৩",
+    "note": "Garbled Unicode/text that does not form a coherent word."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8৪০, 8৪০",
+    "note": "Malformed number strings representing a range (likely 30-40 or similar)."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70010 060076 ৪ 77817 05800655",
+    "note": "Long string of random digits, likely a failed OCR of symbols or text."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-73",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11, 111, 1ও11",
+    "note": "Mangled numerals in a multiple-choice question structure."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-74",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঙ৬২, 8৪., ৫.",
+    "note": "Garbled numbers likely from a page footer or list markers."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-75",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "111, 1ও11",
+    "note": "Mangled numerals in a multiple-choice question structure."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-112",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ0100010, ছগদদদ.০181706.00007, ছগদদদ,601া0.0010]",
+    "note": "Garbled text and numbers resulting from a failed OCR of URL strings."
+  },
+  {
+    "chunk_id": "9-10-Career_education-3-164",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1ও]া, 1ও]1",
+    "note": "Mangled numerals in multiple-choice options."
+  }
+]

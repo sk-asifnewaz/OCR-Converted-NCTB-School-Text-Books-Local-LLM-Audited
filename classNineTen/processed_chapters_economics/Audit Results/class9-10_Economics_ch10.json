@@ -1,0 +1,614 @@
+[
+  {
+    "chunk_id": "9-10-Economics-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[11061000110 11131100 01131106130051)",
+    "note": "Garbled sequence of numbers and punctuation."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "₹লাদেশ",
+    "note": "Foreign currency symbol instead of Bengali character."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "কলা পা, সদম্পলেক্জ শাশচান",
+    "note": "Nonsensical words and broken phrases."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৮01)110 চ11131106)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(13% 1২০11116) কি দু সরি লি মর",
+    "note": "Garbled text and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "| নল লন, (13565 011 111001116 3110 12100)",
+    "note": "Garbled symbols and digit strings."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(\"311০ ৬00০0 135)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(00500111 17065)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(ঢ10156 1)065)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সিরামিক টাইলসের",
+    "note": "Clause ends abruptly at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(00161 135০5 3110 1)065)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(খ310৫€0005 3110 1.100101-1)5)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(1.3110 1)০০101)111011( 135)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(খ011-13* 1২৬%11116)",
+    "note": "Garbled symbols and digit strings."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(111061650",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(*01111111501306 665)",
+    "note": "Garbled symbols and digits."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(06116 3110 1,০356)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(1011 3110 1.০ছ)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(00531 1)0]0310110110",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "* দে ফা ক",
+    "note": "Garbled text/symbols."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-31",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গরিব-দুস্থদের",
+    "note": "Sentence/list item ends abruptly."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(81056",
+    "note": "Garbled digit sequence at end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(011011013110260)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0811031 13002০0",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(83131160060 131108560",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(071081810০0 1302660",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(310105 086০0",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(006০0016 8008০৬",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হলাদেশ",
+    "note": "Missing 'বা' in বাংলাদেশ."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(খ011-061010]111011070102660)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-56",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0)6010])111011013110201)",
+    "note": "Garbled digit sequence in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "3.৩৭.০৭৮ কোট ঢাকা]",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-62",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্রশ্ন",
+    "note": "Mid-word cut in 'প্রশ্ন'."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দেশ-/৬, দেশ-[ি",
+    "note": "Corrupted table headers."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪. /\", 11., 11., 1ও11",
+    "note": "Garbled numbers and options list."
+  },
+  {
+    "chunk_id": "9-10-Economics-10-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Economics-10-68",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিতরণের জন্য ।",
+    "note": "Sentence/clause cut off."
+  }
+]

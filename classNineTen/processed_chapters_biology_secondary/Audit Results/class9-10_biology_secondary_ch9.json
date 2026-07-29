@@ -1,0 +1,407 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-9-1",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "রড)",
+    "note": "Fragmented word or artifact from previous page."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(91919001)",
+    "note": "Non-standard digit string likely from OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পলুদরোটিকা",
+    "note": "Nonsensical string, likely a mangled page indicator."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮০৫১৬১৬৬০১০)",
+    "note": "Nonsensical digit string in middle of text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0১১০০৫১৬১১৯০), কঙ্কালতল্ত্র",
+    "note": "Digits are noise; 'কঙ্কালতল্ত্র' is a mangled term."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০ নড়াচড়া",
+    "note": "Leading digit likely from a list or page count."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(3010৬, 3101৯৫২০ ৩১১০ ]০১১১১৬)",
+    "note": "Long string of non-functional digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৮০১১৬)",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ভিটামিন 7",
+    "note": "Likely a misread of 'Vitamin D' or similar."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ন১০১৩৫০৯)",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-13",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সম্ধিস্থল, (৯৩০১০৬১০১১১৬ ০১\" ]০১১৪৮)",
+    "note": "Mangled word 'সম্ধিস্থল' and digit noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-15",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তজ্জনিত, ক্ষয় হাস",
+    "note": "Mangled words likely meaning 'ক্ষতিজনিত' and 'ক্ষয় হ্রাস'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৫১১৫১০৬৭ ১৭০১০ছ৩৮১৬ ০১১০৬",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮:৬৬]৭ ১১১০৭৩০৮১৬",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-18",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্থির",
+    "note": "Likely a mangled term for bone-related context."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১১১৫৬ ]০০১১০:",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-20",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রন্তনালির, হട്ട്পেশি",
+    "note": "Mangled words 'রক্তনালী' and 'হৃদপেশি'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-24",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "কার্যকবমের",
+    "note": "Mangled word for 'কার্যপ্রণালী' or similar."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৭৬১১০০১০), (১১৮৫৮১৬১৪০)",
+    "note": "Non-functional digit strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮৯১৫১১০ ১৫০১৬১৭৮০৭)",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-30",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কজ্া, অញ្ঙ্গটি",
+    "note": "Mangled words for 'কষা' and 'অঙ্গটি'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৯০৬০১১০৫১৫)",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-32",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্টেরওয়েডযুত্ত",
+    "note": "Mangled word for 'স্টেরয়েডযুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১১৬০১১৩০০১০ /১১০১১০৫)",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-38",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যলদ্রণাদায়ক",
+    "note": "Mangled word likely meaning 'ব্যথাযুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-42",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(রী) সৃদন্পন",
+    "note": "Mangled phrase, likely 'সংক্ষিপ্ত' or similar."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০০-০৮৭১৮৪০০)",
+    "note": "Non-functional digit string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-9-46",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "য্নায়ুতন্ত্র",
+    "note": "Mangled word for 'স্নায়ুতন্ত্র'."
+  }
+]

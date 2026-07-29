@@ -1,0 +1,425 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(1791)",
+    "note": "Number string appears to be a garbled artifact or OCR noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(2112%116)",
+    "note": "Garbled number string in the middle of a sentence."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(213110141116131 ব৮৮101017)",
+    "note": "Large string of numbers is clearly OCR noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৯৫৯১১০৮] ০]০১১৬১০৭০৬৫)",
+    "note": "Nonsensical number sequence in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০০০৯১১০% ৫%১১০০১৫)",
+    "note": "Nonsensical number sequence in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(113010-1801911 বা 11130110-61617148)",
+    "note": "Long string of digits is an OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(011010-1৮0191046 বা 1101010-6101016116)",
+    "note": "Garbled number string in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "41,103, 1",
+    "note": "Numbers inserted into a list of chemical elements."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢাব44, ঢা 7",
+    "note": "Digits inserted into what should be the word 'DNA'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০০০১১১১০% ৫%১১০০১০১৫)",
+    "note": "Garbled number sequence in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০৮০১০১০৫৯১৫)",
+    "note": "Nonsensical number sequence in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পটাশিয়াম (0)",
+    "note": "Zero/Digit inserted where a label or blank space is expected."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্যাগনেসিয়াম (458)",
+    "note": "Nonsensical numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "লৌহ (৮৬)",
+    "note": "Number in parentheses appears as OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১৬৮৮০৯)",
+    "note": "Garbled numbers in bracket."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(০১৬১৬)",
+    "note": "Garbled number string in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৩৮০১১৮০১১৪৩০৬)",
+    "note": "Nonsensical numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(40100)",
+    "note": "Garbled numerical data in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0015800]",
+    "note": "Garbled numerical data in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(2019580-)",
+    "note": "Garbled numerical data in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন /",
+    "note": "Slash likely replaced a letter in 'Vitamin A' or 'E'."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন /&",
+    "note": "Symbols/numbers replacing characters in 'Vitamin' names."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন 7)",
+    "note": "Digit substituted for letter in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন ৮",
+    "note": "Number substituted for letter in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন ৪",
+    "note": "Number substituted for letter in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন ০",
+    "note": "Number substituted for letter."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন €",
+    "note": "Symbol substituted for letter."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4111613)",
+    "note": "Garbled number string in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0 পানি (43091)",
+    "note": "Garbled numbers in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(716:6)",
+    "note": "Garbled numbers in parenthetical."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(7001)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00106)",
+    "note": "Garbled number string in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-63",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(88)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-63",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(খ15110 81111017635)",
+    "note": "Garbled string of numbers."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন 4",
+    "note": "Number substituted for letter in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন /",
+    "note": "Symbol substituted for letter in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন /&",
+    "note": "Symbols substituted for letter in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-66",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন 7",
+    "note": "Number substituted for letter."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-67",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন 7",
+    "note": "Number substituted for letter."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-69",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন 7",
+    "note": "Number substituted for letter."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভিটামিন া",
+    "note": "Broken character/typo in Vitamin name."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-70",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(&10610013)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-86",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ঢাএ48)",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-86",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮৩৫৩]",
+    "note": "Garbled number string."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-86",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮০০৭",
+    "note": "Isolated numbers appearing as noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-96",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রর আঁ চে\nস্থাত দলা রা",
+    "note": "Garbled sequence of characters at the start of chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-5-104",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আয পা পা",
+    "note": "Garbled/non-sense text at the beginning of chunk."
+  }
+]

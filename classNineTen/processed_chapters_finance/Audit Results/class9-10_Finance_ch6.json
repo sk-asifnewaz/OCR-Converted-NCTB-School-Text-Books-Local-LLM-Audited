@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "9-10-Finance-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(311031 10102001115",
+    "note": "String of digits appears to be a random artifact or header code."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-7",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঠন\n[৬",
+    "note": "Text cuts off abruptly with garbled characters and a bracketed digit."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বা বড় আকারের খণ",
+    "note": "Word 'খণ' is clearly a broken segment of a word split by page break."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "/১খ০1৭5০ [২৩০৬০ ০0১১২০০০০১৭১) (. ১২২)",
+    "note": "Garbled numbers and symbols from a table or formula."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11119111811২806 ০1২০৮011৭২1",
+    "note": "Meaningless string of numbers/symbols likely from a corrupted table."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[১৪০ - ১৬০]",
+    "note": "Broken mathematical notation/symbols from an OCR error."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(312) - 4 -৭৬০ -€",
+    "note": "Garbled symbols and numbers in a mathematical expression."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-43",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0 -/৬ বছরে ... [) -/৬",
+    "note": "Garbled formulaic notation and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২ব০০-(০০",
+    "note": "Garbled characters and symbols in a calculation step."
+  },
+  {
+    "chunk_id": "9-10-Finance-6-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৮১১্\n-১+",
+    "note": "Garbled symbols and numbers, likely from a formula or table."
+  }
+]

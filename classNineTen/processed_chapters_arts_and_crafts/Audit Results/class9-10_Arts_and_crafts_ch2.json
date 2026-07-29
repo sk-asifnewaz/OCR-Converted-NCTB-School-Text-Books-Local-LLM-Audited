@@ -1,0 +1,1172 @@
+[
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "10061\"",
+    "note": "Digit sequence likely corrupted from a title or year."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1231106 8110 076 31091 018010, 330105 3170 /1180176, 3৪10105 8170 ০80 0110]01",
+    "note": "Extensive non-sensical digit strings."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01.6ঙ091)",
+    "note": "Malformed date/year with mixed scripts and digits."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1)219191 1.35011811",
+    "note": "Nonsensical digit string replacing a title or name."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০0016",
+    "note": "Digit string likely a corruption of an age or year."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1116 ৮1100171693",
+    "note": "Extensive digit string in a title/list area."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ351-এ",
+    "note": "Mixed symbols and digits in a label."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11০80 অ 8",
+    "note": "Nonsensical number sequence in a title area."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪",
+    "note": "Likely a misread of the number 8."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7১05011110169910111917",
+    "note": "Long string of digits where a title is expected."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "090 111701০5810111911",
+    "note": "Nonsensical string of numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্য্তিত্‌ব",
+    "note": "Malformed word likely intended to be 'দৃষ্টিতে'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উন্ম্ত",
+    "note": "Likely a misspelling of 'উন্মুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুষজ্গমাখা",
+    "note": "Malformed word likely 'আবেগমাখা' or similar."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ম্যদঁতে",
+    "note": "Likely a transcription error of a city name."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উন্ম্ত",
+    "note": "Likely a misspelling of 'উন্মুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তীর",
+    "note": "Likely a transcription error of 'তার'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রামকিজ্করের, কষ্কর",
+    "note": "Malformed names/words: 'রামকিঙ্করদের' and 'কারুশিল্পী'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিত্রশিক্প, গুরুত্পূর্ণ",
+    "note": "Common OCR errors for 'চিত্রশিল্প' and 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্ব্যাদির",
+    "note": "Likely a transcription error for 'বিভিন্ন'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পূর্ণাঙ্জ",
+    "note": "Transcription error of 'পূর্ণাঙ্গ'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আঁকার",
+    "note": "Likely a transcription error for 'অঙ্গ' or similar."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্তাহশালায়",
+    "note": "Transcription error of 'সংগ্রহশালায়'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-50",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তখ্য",
+    "note": "Transcription error of 'তিনি'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্াহশালায়",
+    "note": "Transcription error of 'সংগ্রহশালায়'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তখ্য",
+    "note": "Transcription error of 'তিনি'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হুদযন্ত্রের",
+    "note": "Malformed word; likely a transcription error."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-60",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংরহ",
+    "note": "Transcription error of 'সংগ্রহ'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-62",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উত্ত",
+    "note": "Sentence or word cut off mid-sequence."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তিশালী",
+    "note": "Transcription error of 'শক্তিশালী'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্চকৃতিবান",
+    "note": "Transcription error of 'সংস্কৃতিবান'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মেধা",
+    "note": "Likely transcription error of 'মেধাবী' or similar."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-70",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষ্পন্ন, অ্হ",
+    "note": "Malformed words/characters at the end of a sentence."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-73",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ফ্লিধ",
+    "note": "Malformed word, likely a transcription error."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-76",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিসেবে।",
+    "note": "Sentence ends abruptly in the middle of a description."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "প্তা রমার",
+    "note": "Malformed word, likely 'পত্রমালা' or similar."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-80",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পকশ্চিমাগোষ্ঠী",
+    "note": "Transcription error for 'পশ্চিমাগোষ্ঠী'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-81",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-82",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নবানন",
+    "note": "Transcription error for 'নবনয়ন'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-83",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-84",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত।",
+    "note": "Malformed character or symbol in a list."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-85",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-86",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০:১২ ৩৬৬২৬৬৯৯",
+    "note": "Nonsensical, likely unrelated characters at the end of a section."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-87",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫ও৬",
+    "note": "Lack of spacing in digit/conjunction string."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-88",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চৃতি",
+    "note": "Transcription error for 'সংস্কৃতি'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-89",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-91",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-92",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীশ",
+    "note": "Transcription error for 'বাঁশ'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-94",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তঞ্চেঙ্গা",
+    "note": "Transcription error for 'তাংচিংগা'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-96",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সমাধা",
+    "note": "Transcription error for 'সমাধান'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-97",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-98",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রেহাই",
+    "note": "Transcription error for 'রক্ষা'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-99",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-100",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্পবোধ",
+    "note": "Transcription error for 'শিল্পবোধ'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-101",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-102",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং্কৃতি",
+    "note": "Transcription error for 'সংস্কৃতি'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-103",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুঞ্জাম",
+    "note": "Transcription error of 'সুসংগঠন' or similar."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-104",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-105",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গাজীরপট",
+    "note": "Transcription error for 'চিত্রের পট' or similar."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-106",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-107",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-108",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খযিজ",
+    "note": "Transcription error for 'খাঁটি'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-109",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-110",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভাকচ্কর্য, মজর্গাল",
+    "note": "Transcription errors for 'ভাস্কর্য' and a following term."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-111",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-112",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রাচ্তায়",
+    "note": "Transcription error for 'রাস্তায়'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-113",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-114",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-115",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-116",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেহ",
+    "note": "Transcription error for 'কেউ'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-117",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-118",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নকশিক্টা",
+    "note": "Transcription error for 'নকশিকাঁথা'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-119",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-120",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চকৃতিবান, মুযুরালশিল্পী",
+    "note": "Transcription errors for 'সংস্কৃতিবান' and 'ম্যুরাল শিল্প'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-121",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নাল্দিকতায়, ত্বাদপত্রের",
+    "note": "Transcription errors for 'নান্দনিকতায়' and 'পোস্টারের'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-122",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-123",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-124",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-125",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১:--২২৩।।\nএম\nশপ্রেস্\n. / ॥ ঙ\n1) ।\n114/114111:181)\n4] 8৪৫ বা] $৮৪৪)/১/॥\nমা\nতু্ শা 4\nঙ১২ চাস",
+    "note": "Massive gibberish and digit noise at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-126",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্চকৃতিবান, সমঝদার",
+    "note": "Transcription errors for 'সংস্কৃতিবান' and 'বুঝদার'."
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-127",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-128",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-129",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arts_and_crafts-2-130",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

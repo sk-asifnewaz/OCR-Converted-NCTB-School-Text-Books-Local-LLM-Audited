@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-46-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গ্িল্দধ শরগ",
+    "note": "Garbled characters likely from an OCR failure of 'উজ্জ্বল শরৎ'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্রিগ্ধ শরৎ, কিশৃতি",
+    "note": "Extra characters/incorrect vowels in 'স্রিগ্ধ' and 'কিশীতি'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11., 111., 1ও]1, 1ওম1, 11ও 1, 1,111 ও গা",
+    "note": "Massive noise from OCR failing to render Bengali numbers and marks."
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ফিরোজিয়া ফিঙে-কুল, এ ৬৯ কও »",
+    "note": "Nonsensical character sequences and garbled marks."
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গিল্খতা",
+    "note": "Non-existent word; likely a mangled OCR of 'রীতি' or similar."
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-46-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শেণি",
+    "note": "Should be 'শ্রেণি' (class)."
+  }
+]

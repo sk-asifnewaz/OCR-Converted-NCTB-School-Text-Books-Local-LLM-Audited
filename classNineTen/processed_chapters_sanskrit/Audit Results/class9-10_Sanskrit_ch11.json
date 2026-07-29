@@ -1,0 +1,155 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-11-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "শ্রীমদৃতগবদ্গীতা\nঅশোচ্যানস্বশোচত্তুং",
+    "note": "Title and first verse contain significant script corruption."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সো২\nতত্র ন মুহ্যতি 1 ৩",
+    "note": "Digits are used instead of script; '১' is noise before verse numbers."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নরো২পরাণি\nয এন",
+    "note": "Digits embedded in words and broken word spacing."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অহস্যাহ্যোহয়মক্লেধ্যোহশস্য",
+    "note": "The phrase is a garbled mess of characters and syllables."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "শুচিতুমর্হ্সি 1 ২০",
+    "note": "Extra digit '1' before the verse number."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুঠ্যস্ব\nঅর্ধিতুং",
+    "note": "Words appear to be corrupted versions of Sanskrit terms."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অশোচ্যানন্বশোচক্তৃং - অশোচ্যান্‌ + অনু + অশোচঃ + তৃং। প্রজ্ঞাবাদাংশচ ₹",
+    "note": "Foreign symbols (₹) appearing in the text."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হস্তারম ₹ হন + তৃচ\n€বিদ্‌ + লোট হি",
+    "note": "Garbled Unicode/symbols (₹, €) used in place of script."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যেনং ০০০০০০০০০৩২ নভূয়ঃ",
+    "note": "Garbled digit string and nonsensical characters."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আড়চোখে/অস্বুশর্বীমুহানন্দ",
+    "note": "Garbled selection of words in the list."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তৃং বৈ\nতৃং স্ততা",
+    "note": "Inconsistent script for Sanskrit 'tri' and 'tatra'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তুষ্টবুঃ\nতৃ্মস্তুং",
+    "note": "Corrupted Sanskrit term transcription."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-16",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তততজতততত",
+    "note": "Repetitive nonsense sequence in the text."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-11-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "নমো২স্ত\nতুষ্টুরুঃ",
+    "note": "Garbled script and digit replacement for Sanskrit characters."
+  }
+]

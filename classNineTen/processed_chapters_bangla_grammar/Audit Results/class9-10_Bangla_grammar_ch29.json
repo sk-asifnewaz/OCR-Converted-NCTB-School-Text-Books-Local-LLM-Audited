@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাল পক্ষ-৯",
+    "note": "Likely mangled OCR of a heading like 'খণ্ড ৯' or similar."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ত্রয়াবভাক্ষ্য ৭৭, কেরবে, কেরবেন",
+    "note": "77 is a page number; 'কের' words are missing the letter 'র'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কালকপক্ষ-১, কবিয়েছেন",
+    "note": "Mangled text from OCR; 'কবিয়েছেন' should likely be 'করিয়েছেন'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৭৮",
+    "note": "Number is a page reference/marker, not part of the grammar text."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-29-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেরর্ব, কেরিয়",
+    "note": "OCR errors where the character 'র' is missing from 'করবে' and 'করিয়ে'."
+  }
+]

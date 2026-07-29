@@ -1,0 +1,920 @@
+[
+  {
+    "chunk_id": "9-10-BGS-12-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংচপর্শে, প্রন্টিয়া",
+    "note": "OCR errors for 'সংস্পর্শে' and likely 'পরিচয়' or 'প্রক্রিয়া'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলাদেশ",
+    "note": "Incorrect characters for 'বাংলাদেশে'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্ণ",
+    "note": "Likely corruption of 'সুষ্ঠু' or similar word."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্ণ",
+    "note": "Likely corruption of 'সুষ্ঠু'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্ষুদ্রতম, ম্নেহ-",
+    "note": "Corrupted characters for 'ক্ষুদ্ৰতম' and 'স্নেহ-'"
+  },
+  {
+    "chunk_id": "9-10-BGS-12-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সামী-স্ত্রীর",
+    "note": "Incorrect character for 'স্বামী' (ষ instead of হ)."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মায়ামমতার",
+    "note": "Corrupted spelling of 'মমতার'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাং্চকৃতিক",
+    "note": "OCR error for 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কর্তৃত্‌",
+    "note": "Missing/incorrect vowel sign for 'কর্তৃত্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সামী-স্րীর, একপত্মী, বহ্পত্মী, বহ্পতি",
+    "note": "Repeated character substitution (ষ for হ/হ). "
+  },
+  {
+    "chunk_id": "9-10-BGS-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কর্তৃত্‌",
+    "note": "Missing/incorrect vowel sign for 'কর্তৃত্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-16",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এই কাজ\nধরনের",
+    "note": "Word broken across lines due to formatting/OCR."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রী",
+    "note": "Garbled fragment."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এানাও, সবক, মৌন",
+    "note": "Multiple character/vowel sign corruption."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "জর্তীর",
+    "note": "Incorrect character for 'স্ত্রীর'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "% \nবা",
+    "note": "Nonsensical symbols/fragments at the start."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শ্নেহ",
+    "note": "Corrupted character for 'স্নেহ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কেন্দ্রইল",
+    "note": "Garbled word 'কেন্দ্র' (center)."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাম্থ্যসেবা, প্রদীন",
+    "note": "Corrupted words for 'স্বাস্থ্যসেবা' and 'প্রদান'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাস্থ্যসংকালন্ত",
+    "note": "Corrupted word for 'স্বাস্থ্যসংক্রান্ত'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ, এক্য",
+    "note": "Common OCR errors for 'গুরুত্বপূর্ণ' and 'একতা'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ভুমিকা",
+    "note": "Corrupted word for 'ভূমিকা'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-36",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "একক : তোমার নিজ এলাকায়...",
+    "note": "Instructional content mixed into descriptive text."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ",
+    "note": "Corrupted word for 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্‌",
+    "note": "Incomplete/corrupted word for 'গুরুত্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মম্পরূণ, ঢ_ ট",
+    "note": "Corrupted words and broken punctuation."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হং ১্",
+    "note": "Garbled representation of 'হয়'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং্পন্নন",
+    "note": "Corrupted word for 'সম্পন্ন'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(10061300011)",
+    "note": "Nonsensical numeric string in context of social interaction."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্যামাচিকরণের",
+    "note": "Corrupted word for 'সামাজিকীকরণের'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাঞ্চকৃতিক",
+    "note": "Common OCR error for 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-53",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞকৃতিক",
+    "note": "Corrupted word for 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-56",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চকৃতিক, সমফ্টিই",
+    "note": "Errors for 'সাংস্কৃতিক' and 'সম্পূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-59",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কুতৃত্ব",
+    "note": "Corrupted word for 'কর্তৃত্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কর্তৃত্‌",
+    "note": "Corrupted word for 'গুরুত্বপূর্ণ' or similar."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চপর্শে",
+    "note": "Corrupted word for 'সংস্পর্শে'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ",
+    "note": "Corrupted word for 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-64",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ, দ্রন্ত",
+    "note": "Corrupted word for 'গুরুত্বপূর্ণ' and 'দ্বন্দ্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঝৌক",
+    "note": "Likely a corrupted word."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-66",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হুকব, দিল পতিবেশী, ব্যন্তিতেৃরই",
+    "note": "Multiple significant corruption points."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যক্তিত্‌ব",
+    "note": "Corrupted word for 'ব্যক্তিত্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংংপর্শে",
+    "note": "Corrupted word for 'সংস্পর্শে'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-69",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বধ সংঘাত",
+    "note": "Corrupted word for 'দ্বন্দ্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-71",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ, সং্পর্শে",
+    "note": "Corrupted words for 'গুরুত্বপূর্ণ' and 'সংস্পর্শে'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ",
+    "note": "Corrupted word for 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দ্বন্দ, (2691 010৮2)",
+    "note": "Corrupted word 'দ্বন্দ্ব' and a garbled numerical string."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-75",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্জাত্যবোধ",
+    "note": "Corrupted word."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চকৃতিক, রলাব",
+    "note": "Corrupted words for 'সাংস্কৃতিক' and 'ক্লাব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-77",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সঞ্চরীর ডা আমরা মল করি",
+    "note": "Nonsensical sequence of characters."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-78",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাঞ্চকৃতিক",
+    "note": "Corrupted word for 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-79",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংচকৃতিক",
+    "note": "Corrupted word for 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-80",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-81",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-82",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এঁতিহ্য",
+    "note": "Corrupted word for 'ঐতিহ্য'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-83",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চকৃতিক",
+    "note": "Corrupted word for 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-84",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-85",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-87",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-88",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-89",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-90",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তরজ্গগোষ্ঠী",
+    "note": "Corrupted word for 'অন্তরঙ্গগোষ্ঠী'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-91",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হটু, সহিষ্ছুতা",
+    "note": "Corrupted word for 'সহিষ্ণুতা' and potential noise."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-92",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-93",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বন্দ",
+    "note": "Corrupted word for 'দ্বন্দ্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-94",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-96",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-97",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক.২ খ. ৩. গ.ঙ৬ ঘ. ৭",
+    "note": "Garbled symbols and digits in multiple choice section."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-98",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.1ও]1 খ.া11ও]11 গ.1ও1 ঘ.1,11ও11",
+    "note": "Highly corrupted digit/symbol mix for options."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-99",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-100",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-12-101",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্ব коп পয",
+    "note": "Corrupted phrase for 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-12-102",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

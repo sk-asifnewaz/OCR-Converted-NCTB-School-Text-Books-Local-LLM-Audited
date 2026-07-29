@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-9-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬20010১৩০0৮",
+    "note": "Non-legitimate digit run likely from corrupted OCR."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7-$% 2 ও ‏مُؤَنْت‎",
+    "note": "Mixed symbols and numbers in a non-standard format."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১..১১১১১১১১১১১১১১২২০",
+    "note": "Long string of digits is a clear OCR loop/corruption."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "না না না",
+    "note": "Repetitive nonsense sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১১১1?",
+    "note": "Garbled number/punctuation combination."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১৫২২ ৯৩",
+    "note": "Unusual numbers likely caused by script corruption."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১০%১৭%%৮",
+    "note": "Nonsensical characters and symbols mixed with numbers."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১০১৬৬৬৬৬৬০৬০১০০১০৬৬৬৬৬৬",
+    "note": "Long digit string is a clear OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০ন৭",
+    "note": "Garbled character combination."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩০০২-%",
+    "note": "Non-standard number sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৪: ১-*&-০",
+    "note": "Garbled sequence of symbols and numbers."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "07421544402",
+    "note": "Random digit string likely from OCR error."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৮",
+    "note": "Garbled numbers/symbols in a sequence."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০১১--২ঠ-",
+    "note": "Garbled characters and numbers."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সুর ء",
+    "note": "Garbled script segment."
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Arabic-9-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

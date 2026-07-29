@@ -1,0 +1,83 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বাগ্যস্ত্রের",
+    "note": "OCR error of 'ন্ত' becoming 'স্ত্র'"
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্বরধন্ত্রের",
+    "note": "OCR error of 'যন্ত্র' becoming 'ধন্ত্র'"
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বাণ্যন্ত্রের",
+    "note": "OCR error of 'গ্য' becoming 'ন্য'"
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "হ্য়।",
+    "note": "Garbled character sequence at end of clause"
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-4-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "8৪.",
+    "note": "Mixed digit system or extra digit in sequence"
+  }
+]

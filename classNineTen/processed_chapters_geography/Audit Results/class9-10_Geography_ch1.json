@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "9-10-Geography-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(+00521311)5ছ 3110 11111 01111)0110",
+    "note": "Random strings of numbers and symbols are injected at the end."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-1-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "((001106]00 (+০০£1 31115)",
+    "note": "Nonsensical string of numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\"0০0818717\" ... \"0০0গা3717\" ... \"0০0 ও 'ঠা301%\"",
+    "note": "Foreign words are corrupted into strings of digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(210169301 1২10]310 13109110116)",
+    "note": "Reference or citation information replaced by a string of numbers."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮1০১311091 011\n18010",
+    "note": "Citation information corrupted into a sequence of numbers."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(3০০1০ ০1 8০০41310115)",
+    "note": "Parenthetical content consists of corrupted digit strings."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1551031 8০০£1-3115)",
+    "note": "Subheading information corrupted into a string of numbers."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(01111300108)",
+    "note": "Parenthetical data is corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00০০811051-31115)",
+    "note": "Reference/data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11131 2০051310115)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(001130011 8০০৪1310115)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1০8101131 8০০৪-3115)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00110081 8০০£131015)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0081100807০ 8০০৪1310115)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11311510168 8০০13100115)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "([7170811 8০০1 -3115)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00110610 01 ্যা1ছ11011111011)",
+    "note": "Parenthetical data corrupted into a numeric string containing non-sense characters."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(&11105)",
+    "note": "Parenthetical name/data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0. €. চঞ10)",
+    "note": "Proper name corrupted into a mix of symbols and digits."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11101110115 01 1:11%11-010110110)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-1-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1351065 0 11ছ110111110110)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11110131106 0 501031118 6০০০1310115 3110 অ11511-0111110110)",
+    "note": "Parenthetical data corrupted into a numeric string."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-1-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও1 (খ) 1ওয়া",
+    "note": "Options are garbled into nonsensical character combinations."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও]11 খে 1উা",
+    "note": "Options are garbled into nonsensical character combinations."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বি ০০৫ চে হা",
+    "note": "Title or heading corrupted into a garbled string of symbols/digits."
+  },
+  {
+    "chunk_id": "9-10-Geography-1-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পার্ক (0.0. 810)",
+    "note": "Name or title corrupted into a numeric string."
+  }
+]

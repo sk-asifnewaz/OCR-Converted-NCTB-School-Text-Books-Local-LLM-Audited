@@ -1,0 +1,470 @@
+[
+  {
+    "chunk_id": "9-10-BGS-8-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ৰস",
+    "note": "Non-Bengali character (Assamese/Odia) in a Bengali text."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-4",
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "করতে পারব; করতে পারব।",
+    "note": "Repeated phrase suggests an OCR looping artifact."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অছি | দলগত",
+    "note": "Likely a corrupted version of 'অচ্ছিক' with artifacts."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাং্চকৃতিক",
+    "note": "Corrupted spelling of 'সাংস্কৃতিক'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আত্মনিয়ল্ত্রণ",
+    "note": "Extra characters in the word 'নির্ণয়ন'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞ্চথার",
+    "note": "Corrupted spelling of 'সংস্থায়'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-13",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "মরণ করিয়ে দেয়",
+    "note": "Phrase is semantically nonsensical in this context."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্জ্য সঞ্থা",
+    "note": "Corrupted spelling of 'সংস্থা'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[71100 ৭001) [া০%০]0117791101010813170176)",
+    "note": "Non-meaningful numbers and symbols in brackets."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[7101060 ৭৮015 01011016115 110",
+    "note": "Non-meaningful numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[71100 1২3010115 1700080101031, 3019110100",
+    "note": "Non-meaningful numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0 - ছ০01]0 1০810) 018681017801017)",
+    "note": "Non-meaningful numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[11601800175 []16]) 00110107155101791",
+    "note": "Non-meaningful numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সৃষ্চিলগ্ন",
+    "note": "Corrupted spelling of 'সৃষ্টিলগ্ন'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(€চ1)",
+    "note": "Garbled character sequence for an acronym."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "[71100 1২3010115 1700080101031]",
+    "note": "Non-meaningful numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাাক্ষর",
+    "note": "Corrupted spelling of 'স্বাক্ষর'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বৈরিতার",
+    "note": "Corrupted word, likely meant 'যুদ্ধের'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলা ভাষা",
+    "note": "Corrupted spelling of 'বাংলা'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অরলান্ত",
+    "note": "Corrupted word, likely meant 'অত্যন্ত'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যুদ্ধংদেহী",
+    "note": "Corrupted word, likely 'যুদ্ধসংদেহী'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বাৎলাদেশ",
+    "note": "Corrupted spelling of 'বাংলাদেশ'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অংশীদারিতু",
+    "note": "Corrupted spelling of 'অংশীদারিত্ব'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দারিদ্য্য",
+    "note": "Corrupted spelling of 'দারিদ্র্য'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ব্যত্তিপর্যায়",
+    "note": "Corrupted word, likely 'ব্যক্তিনির্ভর'."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-47",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.1ও 1 খ.1ও গা\nগ.্যাওা ঘ.া,1ওযমা",
+    "note": "Garbled multiple-choice options."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-48",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.1ও়\nখ.া ওয়\nগ.যাওয়্\nঘ.[], ওয়া",
+    "note": "Garbled multiple-choice options."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-49",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক.1ওট\nখ.] ওযা\nগ.যা ওয়া\nঘ.া,যাওয়া",
+    "note": "Garbled multiple-choice options."
+  },
+  {
+    "chunk_id": "9-10-BGS-8-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-BGS-8-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

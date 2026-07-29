@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "9-10-Pali-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দ্বন্থ",
+    "note": "OCR error: 'ধ' and 'ন' likely merged or misrecognized as 'থ'."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "দ্বন্থ",
+    "note": "OCR error: 'দ্বন্দ্ব' misread as 'দ্বন্থ'."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হখিস্সং।",
+    "note": "Garbled text likely from a complex Pali term like 'হিক্কিপ্পাসং'."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হখ চ পাদা চ",
+    "note": "Garbled OCR for a Pali term."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধญ্ঞাদিনঞ্চ",
+    "note": "OCR corruption of a word like 'ধান্যাদি'."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পূরব্বপদ",
+    "note": "OCR error: 'র' or '্ত' misread as 'ব'/'ব্ব'."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মৃহাবীরো",
+    "note": "OCR error for 'মহাবীর' (হ/র misread)."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হুতবা পচ্চযো",
+    "note": "Garbled OCR for 'হুতুব্ব' or similar."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পূরৰ্ব",
+    "note": "Garbled characters in 'পূর্ব' term."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তযোলোকা",
+    "note": "OCR error: 'ত্রিলোক' misread."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্প্পুরিসো",
+    "note": "Garbled 'তৎপুরুষ' (Tatpurusha)."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্প্পুরিসো",
+    "note": "Garbled 'তৎপুরুষ' (Tatpurusha)."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তল্পուրিসো",
+    "note": "Garbled 'তৎপুরুষ' (Tatpurusha)."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ত্প্পুরিসো",
+    "note": "Garbled 'তৎপুরুষ' (Tatpurusha)."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বনহবীহি",
+    "note": "Garbled 'বহুব্রীহি' (Bahuvrihi)."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হী",
+    "note": "Frequent 'য' or other chars substituted for 'ী'."
+  },
+  {
+    "chunk_id": "9-10-Pali-9-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-9-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-9-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

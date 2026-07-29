@@ -1,0 +1,308 @@
+[
+  {
+    "chunk_id": "9-10-Higher_math-7-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "10017166 5০1165",
+    "note": "Non-standard number string containing a mixture of digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-2",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ট\"",
+    "note": "Starts with a fragment likely from the previous page."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(56৭৮০৮০০)",
+    "note": "Nonsensical digit sequence inside parentheses."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-4",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$ $ $",
+    "note": "Garbled characters and non-standard symbols."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "21221231241 12717",
+    "note": "Garbled digits in place of mathematical expressions."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(01106 5911০5)",
+    "note": "Nonsensical digit string likely from a broken reference."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-9",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "14712747437 -...7&7...",
+    "note": "Garbled characters and symbols in math expression."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "0100000 - 50000530000",
+    "note": "Extremely long, non-sensical digit run."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "+ চো!",
+    "note": "Nonsensical word fragment at end of line."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-14",
+    "status": "flagged",
+    "issues": ["SCR_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(:11110118 ঘ3106)",
+    "note": "Garbled characters and symbols in mathematical expression."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-18",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঢুউ, ল]াল-দ",
+    "note": "Non-sensical garbled words in math exercise."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-19",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রকম - ১",
+    "note": "Garbled text/symbols in the result section."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-20",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "র- মা -0.1",
+    "note": "Garbled text in the final line of segment."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০২৩৯১_।",
+    "note": "Garbled symbol/character sequence."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "60-1717 71 60-17177",
+    "note": "Nonsensical number strings in math problems."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দত্ত বট]",
+    "note": "Garbled words in the math instruction."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-25",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ম্ঞ্।\nভর",
+    "note": "Nonsensical garbled words in a separate line."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "24৮ 283৯",
+    "note": "Garbled numbers in math problem."
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-30",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Higher_math-7-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

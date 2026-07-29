@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "9-10-Bangla-17-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুভস্ত্রের, স্কুটপিপাসা",
+    "note": "Words are likely 'অনুবস্তর' and 'ক্ষুর্পিপাসা'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুবঞ্চের, অনুবস্ত_রের",
+    "note": "Underscore is digit noise; 'অনুবঞ্চের' is script corruption."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অনুন-বস্ত্রের",
+    "note": "Hyphenated word suggests OCR hyphenation error/gibberish."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষুর্পিপাসা",
+    "note": "Should be 'ক্ষুর্পিপাসা'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "আত্প্রকাশের",
+    "note": "Should be 'আত্মপ্রকাশের'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অনুবন্ধের, মনুষ্যতৃ",
+    "note": "Should be 'অনুবস্তরের' and 'মনুষ্যত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অনু-বস্তবের, চন্তার, 1., 11.",
+    "note": "Script errors in 'অনুবস্তর' and 'চিন্তা'; digit noise in list."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1ও11, 1ও]1, 1,া1ওা1",
+    "note": "Garbled digit strings in multiple choice options."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মনুষ্যতৃ",
+    "note": "Should be 'মনুষ্যত্ব'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রস্গ্রাহী",
+    "note": "Non-sensical word/OCR artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কাদি মর্তমান কলা",
+    "note": "Garbled phrase, likely 'কাঠি মাপের কলা'."
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla-17-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

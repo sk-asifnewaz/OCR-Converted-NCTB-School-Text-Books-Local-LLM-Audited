@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-43-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-43-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-43-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-43-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "র্‌ চু ঢু ঢু\nকচ ১৮৮ ৮চটচ৮৮৮৮৮৮চচ ৮৮৮৮৮ চচ ক\n11111111117 10 0111.)\n৮১৪8৮৮৮৮888 ৮৮৮৮৮৮৮৮৮৮৮",
+    "note": "Contains significant OCR artifacts and garbled character sequences."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-43-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-43-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

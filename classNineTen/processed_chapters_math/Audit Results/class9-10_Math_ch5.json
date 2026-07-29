@@ -1,0 +1,551 @@
+[
+  {
+    "chunk_id": "9-10-Math-5-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮00300175 11 0116 ঘখ3118016)",
+    "note": "Contains a string of numbers and characters that appear to be metadata."
+  },
+  {
+    "chunk_id": "9-10-Math-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চলক (\"31180616)",
+    "note": "Trailing digits in parentheses are likely metadata or OCR noise."
+  },
+  {
+    "chunk_id": "9-10-Math-5-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\\| ৩, ১, £ কেন চলক হিসাবে এবং প্রথম দিকের অক্ষর ৫, 0, ০",
+    "note": "Symbols like ':', '১', and '£' are clearly misread variables (e.g., x, y)."
+  },
+  {
+    "chunk_id": "9-10-Math-5-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫473 ৮ 5, ৫2- 53 +7 070, 2ঠ8১4+7 5৮ - 3 ৮ 0",
+    "note": "Mathematical expressions are mangled by substituting variables with numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-5-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4: + 1 -, ৫৪৭৫, ১৪৪৭৭ - ২৮ -৩",
+    "note": "Equations are heavily corrupted with incorrect symbols and numbers in place of variables."
+  },
+  {
+    "chunk_id": "9-10-Math-5-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২ 54+76 ₹ 0",
+    "note": "The symbol '₹' is likely a misread equals sign."
+  },
+  {
+    "chunk_id": "9-10-Math-5-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫ + 1)£ - (৫ - 1)? ৮ 4৫",
+    "note": "Symbols like '£' and '?' are used in place of algebraic notations."
+  },
+  {
+    "chunk_id": "9-10-Math-5-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অভেদে সমান (-₹) চিহ্ন",
+    "note": "The symbol '₹' is an OCR error for a mathematical equality sign."
+  },
+  {
+    "chunk_id": "9-10-Math-5-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "21 ;৮-1]_ ও)",
+    "note": "Contains nonsensical punctuation and symbols in the middle of a list."
+  },
+  {
+    "chunk_id": "9-10-Math-5-12",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0) 2:76-০৫-7৫ (18 ৫ -০৫-৫-০ (48) 2৫- ০৫৫ (৮ -",
+    "note": "The mathematical expressions are severely corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-5-14",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্যে।",
+    "note": "The word appears to be a broken fragment of an instruction."
+  },
+  {
+    "chunk_id": "9-10-Math-5-15",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১ রণ 2 27, ধু বা, নন",
+    "note": "Fragments like 'ধু' and 'নন' suggest broken words from the original text."
+  },
+  {
+    "chunk_id": "9-10-Math-5-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৪ -1)($ 42) ₹- (১৭ 4)(১- 2)",
+    "note": "Equation is severely mangled with symbols like '$' and '₹'."
+  },
+  {
+    "chunk_id": "9-10-Math-5-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, )-2৮--৪-+?৯",
+    "note": "Equation is corrupted with various symbols."
+  },
+  {
+    "chunk_id": "9-10-Math-5-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বা, ৩০৪২ - ৬০ - ২৮২ - ৪",
+    "note": "Numbers are clearly garbled representations of algebraic terms."
+  },
+  {
+    "chunk_id": "9-10-Math-5-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২৯২ -১৭ 2২ -১৭",
+    "note": "Algebraic expressions are corrupted into random digits."
+  },
+  {
+    "chunk_id": "9-10-Math-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫:৭২, ১০(৫ 7 2)",
+    "note": "Consistent use of '৫' for variable x is likely a common OCR error."
+  },
+  {
+    "chunk_id": "9-10-Math-5-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫-%?",
+    "note": "Expression is corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-5-24",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সটিয়ে -।",
+    "note": "Word seems garbled or incomplete."
+  },
+  {
+    "chunk_id": "9-10-Math-5-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫-৬০, ৫^১",
+    "note": "Algebraic terms are corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-5-27",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অংশিত",
+    "note": "Word is likely a corruption of 'অনুশীলন' or similar."
+  },
+  {
+    "chunk_id": "9-10-Math-5-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫:৭৫ ৫-০ ২-৩০-৩৮_",
+    "note": "Math expressions are messy."
+  },
+  {
+    "chunk_id": "9-10-Math-5-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংশান্তি 9৮",
+    "note": "The word 'সংশান্তি' is likely a corruption of 'সম্পন্নিত' or similar."
+  },
+  {
+    "chunk_id": "9-10-Math-5-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অক্কদ্বয়ের",
+    "note": "Word contains a typo/extraneous character."
+  },
+  {
+    "chunk_id": "9-10-Math-5-31",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৫৮৪০১৩০০ _[০০৩০০১০৫ ১১ ০১১৬ \"৭১১৩০৬১৬)",
+    "note": "Malformed string of characters and digits."
+  },
+  {
+    "chunk_id": "9-10-Math-5-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫:%১ 7৭ ০৫ 7 ৫ 5 0",
+    "note": "Algebraic expression is highly corrupted."
+  },
+  {
+    "chunk_id": "9-10-Math-5-36",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২ সো",
+    "note": "The term 'সো' is likely a corruption of 'বা' or similar."
+  },
+  {
+    "chunk_id": "9-10-Math-5-37",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অস্টম, নিম্রূপ",
+    "note": "Words are likely corruptions of 'অষ্টম' and 'নিম্নরূপ'."
+  },
+  {
+    "chunk_id": "9-10-Math-5-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ -৩ -॥০।",
+    "note": "Contains non-standard symbols in a mathematical context."
+  },
+  {
+    "chunk_id": "9-10-Math-5-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫-৪-স০০, ৯ - ৪",
+    "note": "Mathematical expression is garbled."
+  },
+  {
+    "chunk_id": "9-10-Math-5-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫৭৭৯০",
+    "note": "Number string appears to be a garbled result of an equation."
+  },
+  {
+    "chunk_id": "9-10-Math-5-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫:৫১ + ০৫ + ০",
+    "note": "Expression is garbled by digits and colons."
+  },
+  {
+    "chunk_id": "9-10-Math-5-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২.৪৭৪স৩-৪৭৪লস১",
+    "note": "Sentence/equation is mangled into a string of digits and letters."
+  },
+  {
+    "chunk_id": "9-10-Math-5-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-45",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩১ - ৪৫৩৫ ৪৭ ২০০০ - ০",
+    "note": "Algebraic steps are represented by garbled numbers."
+  },
+  {
+    "chunk_id": "9-10-Math-5-46",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৭৭৪০; ",
+    "note": "Semicolon after a number suggests an OCR artifact or broken sentence."
+  },
+  {
+    "chunk_id": "9-10-Math-5-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৫ু",
+    "note": "The character '৫ু' is a result of corrupted script."
+  },
+  {
+    "chunk_id": "9-10-Math-5-48",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রট-১৬) ডল ১৫",
+    "note": "Garbled phrase, likely 'হবে' or similar."
+  },
+  {
+    "chunk_id": "9-10-Math-5-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫^৩, ১৫০২",
+    "note": "Equations are garbled."
+  },
+  {
+    "chunk_id": "9-10-Math-5-52",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৬২:৭৩)(%৩২-২) - ০",
+    "note": "Equation is corrupted by special characters."
+  },
+  {
+    "chunk_id": "9-10-Math-5-53",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চু",
+    "note": "Nonsensical word likely from a broken line."
+  },
+  {
+    "chunk_id": "9-10-Math-5-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-5-61",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২নে১",
+    "note": "Garbled text, likely from an ordinal like '2nd'."
+  }
+]

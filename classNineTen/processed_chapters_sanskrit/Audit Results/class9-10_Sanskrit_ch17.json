@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Sanskrit-17-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "পরসম্মৈিপদঃ",
+    "note": "Extra characters in the term 'পরস্মৈপদী'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্থ্য",
+    "note": "Likely an OCR error for the Sanskrit word 'স্থা'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(কে)",
+    "note": "OCR error where 'খ' was misread as 'কে'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্থ্য",
+    "note": "OCR error for the word 'স্থা'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরসৈম্পদী",
+    "note": "Mangled transcription of 'পরস্মৈপদী'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "স্থ্য",
+    "note": "OCR error for the word 'স্থা'."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-9",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কো২পি; (৬ঙ)",
+    "note": "Contains non-contextual digit and mangled list numbering."
+  },
+  {
+    "chunk_id": "9-10-Sanskrit-17-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(গে)",
+    "note": "OCR error for the Bengali letter 'গ'."
+  }
+]

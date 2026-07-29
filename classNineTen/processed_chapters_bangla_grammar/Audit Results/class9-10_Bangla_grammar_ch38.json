@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যতিচিহ্ৃকে",
+    "note": "The word যতিচিহ্ন contains corrupted characters in the 'h' sound."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দাড়ি (1), ... বিস্ময়চিহ্ন (1), ... কোলন (১), উদ্ধারচিহ্ন (-*,\"\"\-\"\"),(07), (4)",
+    "note": "Numbers are replacing punctuation marks; quotation symbols are garbled."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কমা (১)",
+    "note": "Digit '1' is used instead of the Bengali punctuation mark."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেমিকোলন 0)",
+    "note": "The digit '0' is likely an OCR error for a punctuation mark."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১০৪ বাংলা ভাষার ব্যাকরণ ও নির্মিতি... হাইফেন (4",
+    "note": "Includes a page number; 'হাইফেন (4' is cut off/truncated."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কোলন (0)",
+    "note": "Digit '0' is an OCR error for a punctuation mark."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উদ্ধারচিহ্ন (-\"), (-\"); বন্ধনী (), (]7,[",
+    "note": "Garbled characters and symbols in the punctuation list."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যতিচিহ্ন ১০৫; বিন্দু (); ব্রিবিন্দুর",
+    "note": "Page number noise, corrupted brackets, and misspelling of 'ত্রিবিন্দু'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিকল্পচিহ্ন (৭; টিক চিহ্ন (4)",
+    "note": "Digits '7' and '4' are likely artifacts from OCR/page layout."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যতিচিহ্কের, প্রশ্নচিহক, বিস্ময়চি্ন",
+    "note": "Garbled characters in the words for 'punctuaton', 'question mark', and 'exclamation mark'."
+  }
+]

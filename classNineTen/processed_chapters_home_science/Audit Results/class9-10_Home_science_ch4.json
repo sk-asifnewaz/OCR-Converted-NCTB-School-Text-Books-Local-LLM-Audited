@@ -1,0 +1,371 @@
+[
+  {
+    "chunk_id": "9-10-Home_science-4-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পুরণ, ব্যকথাপনা, সপ্তাহ",
+    "note": "Common OCR errors for 'পূর্ণ', 'ব্যবস্থাপনা' and 'সংগ্রহ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির সাশ্রয়",
+    "note": "OCR error: 'শত্তি' should be 'শক্তি'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিম্োত্তভাবে",
+    "note": "Garbled sequence, likely intended to be 'নিম্নরূপভাবে'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির সাশ্রয়, অনুযায়ী",
+    "note": "OCR errors for 'শক্তি' and likely 'অনুসরণ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অন্তর্তৃত্ত, গারসথ্যবিজ্ঞান",
+    "note": "Garbled words for 'অন্তর্ভুক্ত' and 'গৃহস্থ্যবিজ্ঞান'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তালিকাতভ্ত্ত",
+    "note": "Garbled word, likely 'তালিকার অন্তর্গত'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪০ থেকে ৬০",
+    "note": "Likely a transcription error for '৪০ থেকে ৬০'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮৪০০, চীদা",
+    "note": "Digits '৮৪০০' look like a typo/OCR error. 'চীদা' is corrupted."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "খণের",
+    "note": "Likely 'কাজের' (work) instead of 'খণের'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-20",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "পরিচয়,",
+    "note": "Chunk ends abruptly; next chunk starts with a page number."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গারহস্থ্যবিজ্ঞান, এবং বালা",
+    "note": "Fragmented text containing page markers and garbled words."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীচে",
+    "note": "Garbled word, likely 'বিবেচনা' or similar."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-27",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "খতুভেদে",
+    "note": "Common OCR error for 'ক্ষেত্রভেদে'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-29",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "| , [ , ও",
+    "note": "Extreme OCR corruption with incoherent symbols and fragments."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সলিভিলললেধ, ৯:০০৮",
+    "note": "Heavy corruption of characters and symbols."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-31",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আলিভিনললেন, ডন্টা০্িনি",
+    "note": "Garbled text and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "OCR error; 'শত্তি' should be 'শক্তি'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গারহুঁ্যবিজ্ঞান",
+    "note": "OCR error for 'গৃহস্থ্যবিজ্ঞান'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-35",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শত্তির",
+    "note": "OCR error: 'শত্তি' should be 'শক্তি'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1ও]1, 1ও]ণ1",
+    "note": "Garbled symbols in multiple choice options."
+  },
+  {
+    "chunk_id": "9-10-Home_science-4-41",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গারহনুত্যবিজ্ঞান",
+    "note": "OCR error for 'গৃহস্থ্যবিজ্ঞান'."
+  }
+]

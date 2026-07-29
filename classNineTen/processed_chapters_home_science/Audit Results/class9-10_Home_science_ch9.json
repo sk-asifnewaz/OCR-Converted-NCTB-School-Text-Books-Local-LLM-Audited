@@ -1,0 +1,452 @@
+[
+  {
+    "chunk_id": "9-10-Home_science-9-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "গুরুত্্‌",
+    "note": "Extra punctuation/corrupted character at the end of word."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধমীয়",
+    "note": "Should be 'ধর্মীয়'; corruption of the letter 'র'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সাম্থ্যকর",
+    "note": "Should be 'স্বাস্থ্যকর'; corruption of the first syllable."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গারফথ্যবিজ্ঞান",
+    "note": "Should be 'গারস্থ্যবিজ্ঞান'; severe character corruption."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "Nonsensical fragment; likely a failed OCR of 'দুটো' or 'দ্রুত'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুত",
+    "note": "Nonsensical fragment; likely a failed OCR of 'দুটো' or 'দ্রুত'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উচ্চরক্তুচাপ",
+    "note": "Should be 'উচ্চ রক্তচাপ' (missing space and character error)."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সদ্ধব্যবহার",
+    "note": "Should be 'সুদ্ব্যবহার'; corrupted spelling of the word."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নিয়মানুবর্তিতা",
+    "note": "Likely intended to be 'নিয়ামতান্ত্রিকতা'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্থদরোগ, বীিনন",
+    "note": "Corrupted words for 'হৃদরোগ' and 'বিভিন্ন'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-15",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তুটি, সং্কলামক",
+    "note": "Corrupted words for 'ত্রুটি' and 'সংক্রামক'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্থদরোগ, ব্যস্তাপনা",
+    "note": "Corrupted words for 'হৃদরোগ' and 'ব্যবস্থাপনা'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গার ত্যবিজ্ঞান",
+    "note": "Corrupted title 'গারস্থ্যবিজ্ঞান'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "তরতম্য",
+    "note": "Corrupted word; likely intended to be 'পার্থক্য'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিনচিতৎগা, বীধাকপি",
+    "note": "Corrupted list items."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-21",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুট, মিষ্ি, দত",
+    "note": "Multiple instances of corrupted fragments 'দুটো', 'মিষ্টি', and 'দ্রুত'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দুট, গ্নকোজের",
+    "note": "Corrupted 'দুটো' and 'গুকোজের'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "নিয়মতান্ত্রিকতাবে",
+    "note": "Missing space between 'নিয়ামতান্ত্রিক' and 'তাবে'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গার্নত্যবিজ্ঞান",
+    "note": "Corrupted title 'গারস্থ্যবিজ্ঞান'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গুরুত্পূর্ণ",
+    "note": "Corrupted word for 'গুরুত্বপূর্ণ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্‌বে, সঞ্্রান্ত",
+    "note": "Corrupted fragments."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হ্থদরোগীর, হ্থদরোগের",
+    "note": "Corrupted word for 'হৃদরোগ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সংিান্ত",
+    "note": "Corrupted word for 'সংলগ্ন'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গারহস্থ্যবিজ্ঞান, হ্থদরোগে, অবতুরি",
+    "note": "Multiple corruptions for 'গারস্থ্যবিজ্ঞান', 'হৃদরোগ' and 'জরুরী'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "মিষ্ি",
+    "note": "Corrupted word for 'মিষ্টি'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চব্বিযু্ত",
+    "note": "Corrupted word for 'চর্বিযুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিপ্সৃ্‌",
+    "note": "Corrupted word for 'চিপস' or similar."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সং্ান্ত",
+    "note": "Corrupted word for 'সংলগ্ন'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উচ্চ রন্তচাপ",
+    "note": "Corrupted word for 'উচ্চ রক্তচাপ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-39",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সঞং্কান্ত, র্তচাপ",
+    "note": "Corrupted words for 'সংলগ্ন' and 'রক্তচাপ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চিপ্সৃ্‌",
+    "note": "Corrupted word for 'চিপস'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-43",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "গার্নত্যবিজ্ঞান, ড্রিৎক্স",
+    "note": "Corrupted 'গারস্থ্যবিজ্ঞান' and 'ড্রিঙ্কস'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-44",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নফ্ট, হ্দরোর",
+    "note": "Corrupted words for 'নষ্ট' and 'হৃদরোগের'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-46",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "উচ্চরন্তচাপ",
+    "note": "Corrupted word for 'উচ্চ রক্তচাপ'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-47",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "চব্বিযুক্ত",
+    "note": "Corrupted word for 'চর্বিযুক্ত'."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক) 1ও]1 খ) 1ও]ম1 গ) 11 ওযা ঘ) 1,11 ও]",
+    "note": "Nonsensical sequence of numbers and symbols in options."
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Home_science-9-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

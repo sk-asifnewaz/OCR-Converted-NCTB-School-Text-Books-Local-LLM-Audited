@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "9-10-Arabic-10-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "£ 231, --217-, ৩45৮৫, £1৮_7[-",
+    "note": "Presence of currency symbols and garbled numbers indicates significant OCR corruption."
+  },
+  {
+    "chunk_id": "9-10-Arabic-10-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "£_.2%, ₹১ 22, & &, ৪) ০১২১, £%$_2]",
+    "note": "Contains numerous non-linguistic symbols and garbled numeric sequences."
+  }
+]

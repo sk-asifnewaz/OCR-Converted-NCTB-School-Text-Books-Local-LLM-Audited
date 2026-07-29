@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "9-10-Agriculture-1-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪)",
+    "note": "Mixed English and Bengali digits used for list numbering."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1!",
+    "note": "English digit with exclamation mark likely intended as Bengali ১."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "8৪)",
+    "note": "Mixed English and Bengali digits used for list numbering."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1!",
+    "note": "English digit with exclamation mark likely intended as Bengali ১."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অর্তভুক্ত",
+    "note": "Corrupted word; likely intended to be অন্তর্ভুক্ত."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "11",
+    "note": "English digits used instead of Bengali ১ for pH value."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "1",
+    "note": "English digit used instead of Bengali ১."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1), 11), 111), 1ঘছ)",
+    "note": "Corrupted list markers likely meant to be ১, ২, ৩, ৪."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "11)",
+    "note": "Likely a corruption of the number ২)."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-61",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "medium",
+    "evidence": "ট!!",
+    "note": "Nonsensical character sequence likely meant to be ৩)."
+  },
+  {
+    "chunk_id": "9-10-Agriculture-1-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ছ)",
+    "note": "Corrupted list marker likely intended to be ৪)."
+  }
+]

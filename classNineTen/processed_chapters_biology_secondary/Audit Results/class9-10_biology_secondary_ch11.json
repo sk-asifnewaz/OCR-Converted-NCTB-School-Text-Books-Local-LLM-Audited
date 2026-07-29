@@ -1,0 +1,704 @@
+[
+  {
+    "chunk_id": "9-10-biology_secondary-11-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(52917),\\nঅন্যটিকে স্ত্রী জননকোষ বা ডিম্বাণু (৮85) বলে। এই দুধরনের জননকোষ একই ফুলে বা একই",
+    "note": "Random number strings in parentheses are likely OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(41000 রু] ঢোছাগ00)",
+    "note": "Nonsensical text and digit strings mixed in a sentence."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বিটপ (5000",
+    "note": "Random numbers in parentheses likely replacing labels or symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(পুষ্পাক্ষ (711913115)",
+    "note": "Number string in brackets is likely an OCR error."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0 দলমণ্ডল (০৮০118)",
+    "note": "Inconsistent number/symbol usage in heading."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(পুংস্তবক (41100০01010)",
+    "note": "Multiple instances of noise in parentheses."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "লা\nটু।\nবা\nসজল\nট্",
+    "note": "Garbled fragments at the end of chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬) স্ত্রীদ্তবক (65:10০0111)",
+    "note": "Extensive digit noise in bracketed terms."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(অনীয়ত (0০০০11056)",
+    "note": "Digits and zeros are likely corruption of a word."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-20",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পরাগায়ন (00111130101)",
+    "note": "Long number string instead of expected text/punctuation."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(410105010856116515)",
+    "note": "Long numeric string at end of line."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(188০ ]]), (6০116180দ০ ₹০[])",
+    "note": "Corrupted characters and numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(20161 ৮৮৮৬)",
+    "note": "Non-semantic digit sequence in parens."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(40০০]105 05506)",
+    "note": "Mangled digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টা\n]",
+    "note": "Fragmented, garbled line start."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৮০118), (৩০০০1৭০৩1%)",
+    "note": "Numeric noise in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৮০101128001)",
+    "note": "Numeric noise in heading."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(258০006), (৩1), (৮০005129111)",
+    "note": "High concentration of digit noise."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৬%০10121019146)",
+    "note": "Garbled numeric strings."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(71315০15917), (8359] ০9[)",
+    "note": "Garbled digits in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-38",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বীজে ঢু\nরন",
+    "note": "Word 'ধরণ' is broken across a line/chunk."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4&56১008] ও01০0000001)",
+    "note": "Garbled digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(681606), (00101050106)",
+    "note": "Non-semantic numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চঙ09113], ঢ০101172301010)",
+    "note": "Garbled characters and digits."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-44",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(80), (7%8066)",
+    "note": "Garbled numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-47",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-48",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(অ্যাড্রেনাল গ্রন্থি (৭0:11 13100))",
+    "note": "Garbled numbers in several items."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-51",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(491100856)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮০), (7%8066)",
+    "note": "Garbled numbers in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-56",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0168%886)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(17131708001)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(213061003)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ0903]1 11761110131765)",
+    "note": "Garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-62",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "পুরো অংশটি অসংলগ্ন",
+    "note": "Chunk is completely nonsensical and garbled."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(88০01 ৮81)",
+    "note": "Garbled number in brackets."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(&০0৮1190 11111111196...)",
+    "note": "Highly garbled content with nonsensical characters."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-67",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-68",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ր)",
+    "note": "Non-Bengali script character in text."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-72",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(ব্য)",
+    "note": "Likely a typo/corruption for standard list markers."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অ্যাবা, ঢা",
+    "note": "Garbled words in the question section."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-74",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "41ও05, বা ওয়",
+    "note": "Garbled words/numbers in the question section."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-76",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "8. ... ৩।",
+    "note": "Muddled list numbering and content."
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-biology_secondary-11-78",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(4110০$001)",
+    "note": "Garbled number in brackets."
+  }
+]
