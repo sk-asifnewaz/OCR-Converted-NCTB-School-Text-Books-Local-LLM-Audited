@@ -17,6 +17,11 @@ MODEL_NAME = "google/gemma-4-12b"
 BASE_DIR = Path(r"D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight")
 
 SUBJECT_FOLDERS = [
+    "processed_chapters_agriculture",
+    "processed_chapters_arabic",
+    "processed_chapters_arts_and_crafts",
+    "processed_chapters_bangla",
+    "processed_chapters_bangla_grammar",
     "processed_chapters_bangla_rapidreader",
     "processed_chapters_bgs",
     "processed_chapters_buddhist_religion",
