@@ -28,12 +28,12 @@
   },
   {
     "chunk_id": "4-Bangla-16-4",
-    "status": "clean",
-    "issues": [],
+    "status": "flagged",
+    "issues": ["DUPLICATION"],
     "severity": "low",
     "confidence": "high",
-    "evidence": "",
-    "note": ""
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "The phrase 'শিক্ষাবর্ষ ২০২৬' is repeated twice consecutively."
   },
   {
     "chunk_id": "4-Bangla-16-5",
@@ -56,20 +56,20 @@
   {
     "chunk_id": "4-Bangla-16-7",
     "status": "flagged",
-    "issues": ["GIBBERISH_RUN"],
+    "issues": ["GIBBERISH_RUN", "SCRIPT_CORRUPTION"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "বৃ ৬ রদ | র্‌ বৃ ই | বব ৩০৬০০৬৬০৬৬৬ ৬০৬৬৬৬৬৬৬০৬৩৬৬৬০৬০৩৬৬৬০৬৬৬৬",
-    "note": "Non-sensical character sequences likely from a corrupted table or graphic."
+    "evidence": "বৃ ৬ রদ | র্‌ বৃ ই | বব ৩০৬০০৬৬০৬৬৬ ৬০৬৬৬৬৬৬৯০...",
+    "note": "Contains a long string of non-sensical numbers and symbols."
   },
   {
     "chunk_id": "4-Bangla-16-8",
     "status": "flagged",
-    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "issues": ["GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "৩০৬০০৬০৩৬৬৬ ৬০৬৩৬৬৬৬৬৬৬৩৬৬৬৬০৬৬০৬৬০৬৬৩৬৬",
-    "note": "Long string of repeated digits and symbols not belonging to the text."
+    "evidence": "৬. ৩০৬০০৬০৩৬৬৬ ৬০৬৩৬৬৬৬৬৬৬৩৬৬৬৯০...",
+    "note": "Chunk contains a large amount of nonsensical character sequences."
   },
   {
     "chunk_id": "4-Bangla-16-9",
@@ -77,7 +77,8 @@
     "issues": ["GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "ও ৬৬৩৬৬৫৬৫৫৬৩ ৬৫৬৫৬৫৫৬ও৬৫৬৫৬৫৬ও৬৫৬৫৫৬৫৬৫৬৫০৬৫৫৫৬৫৬৫৬৬৫},{"note": "Extensive strings of digits are clearly OCR noise/corruption."}
+    "evidence": "ও ৬৬৩৬৬৫৬৫৫৬৩ ...",
+    "note": "Continuous string of numerals and symbols with no semantic meaning."
   },
   {
     "chunk_id": "4-Bangla-16-10",
@@ -103,8 +104,8 @@
     "issues": ["GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "৩০৬০৫০৩৬৩৬৩ ০৬৫০৬০৩৬৬৬৩৩৬০৬০৬৩০৫৬৩৬৬০৫৩৬০৬০৫০৬৩৬",
-    "note": "Repetitive blocks of digits indicate corrupted table or layout extraction."
+    "evidence": "৩০৬০৫০৩৬৩৬৩ ...",
+    "note": "Large blocks of repetitive, non-sensical numeric data."
   },
   {
     "chunk_id": "4-Bangla-16-13",
@@ -112,7 +113,7 @@
     "issues": ["GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "৩ ০৬০৬৬৩০৬৩০৬",
-    "note": "Opening characters are nonsensical digit strings."
+    "evidence": "৩ ০৬০৬৬৩০৬৩০...",
+    "note": "Starts with a long string of non-sensical numbers."
   }
 ]

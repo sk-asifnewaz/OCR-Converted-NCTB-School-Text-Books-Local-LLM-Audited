@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "4-Science-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"্স্ম্ম্র্তুী",
+    "note": "Initial characters appear to be garbled Unicode or a corrupted word."
+  },
+  {
+    "chunk_id": "4-Science-12-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Science-12-3",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বলল থর সণ বিরে থকা চি থান\n}}^",
+    "note": "Contains non-sensical character sequences and likely OCR noise."
+  },
+  {
+    "chunk_id": "4-Science-12-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]
