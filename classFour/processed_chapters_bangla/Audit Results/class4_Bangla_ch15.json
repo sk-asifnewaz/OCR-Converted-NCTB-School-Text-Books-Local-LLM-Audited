@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "4-Bangla-15-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "7 হলদে",
+    "note": "The digit '7' appears out of place in the middle of a poetic line."
+  },
+  {
+    "chunk_id": "4-Bangla-15-2",
+    "status": "flagged",
+    "issues": ["DUPLICATION", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "শিক্ষাবর্ষ ২০২৬\nশিক্ষাবর্ষ ২০২৬",
+    "note": "The year string is repeated; 'দস লগ পা' and 'বীক' are nonsensical OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Bangla-15-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬৬৩৬৬০৬ ৩৬৩০৬৬৬৩৬৬৬৬৬৬০৬৬৬৬৬০৬৬৩০৬৬৬৫০৬০৬৬৬৩৬৩৬০৬৬৬৬০৬৬০৬৩০৬৬৬০৬৬৬৩০৬৬০৬৬০৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬",
+    "note": "Large block of digits is an OCR artifact from a non-text element."
+  },
+  {
+    "chunk_id": "4-Bangla-15-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬৬৩৬৬০৬ ৩৬৩০৬৬৬৩৬৬৬৬৬৬০৬৬৬৬৬০৬৬৩০৬৬৬৫০৬০৬৬৬৩৬৩৬০৬৬৬৬০৬৬০৬৩০৬৬৬০৬৬৬৩০৬৬০৬৬০৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬",
+    "note": "Large block of digits is an OCR artifact from a non-text element."
+  },
+  {
+    "chunk_id": "4-Bangla-15-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬৬৩৬৬০৬ ৩৬৩০৬৬৬৩৬৬৬৬৬৬০৬৬৬৬৬০৬৬৩০৬৬৬৫০৬০৬৬৬৩৬৩৬০৬৬৬৬০৬৬০৬৩০৬৬৬০৬৬৬৩০৬৬০৬৬০৬০৬৬০৬৬০৬৬০৬৬০৬৬০৬",
+    "note": "Large block of digits is an OCR artifact from a non-text element."
+  },
+  {
+    "chunk_id": "4-Bangla-15-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১১১১১১১১১১... বেলা, / ২১১১২২১১১১১২১১১১১২২১১১১১২১১১১২১১১ मद्देनजर...",
+    "note": "Repeated sequences of '1' and other digits are clearly corrupted OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Bangla-15-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০৬৩৬৬০৬৬৩৩৬৬৬৬৬৬৬৬৬৬৬৬০৬৬০৬৬৬০৬০০৬৬০৬৬০৬৬৬৬৬৬ ৬",
+    "note": "Large block of digits is an OCR artifact from a non-text element."
+  }
+]

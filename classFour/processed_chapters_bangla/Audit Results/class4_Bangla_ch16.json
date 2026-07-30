@@ -1,0 +1,118 @@
+[
+  {
+    "chunk_id": "4-Bangla-16-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বৃ ৬ রদ | র্‌ বৃ ই | বব ৩০৬০০৬৬০৬৬৬ ৬০৬৬৬৬৬৬৬০৬৩৬৬৬০৬০৩৬৬৬০৬৬৬৬",
+    "note": "Non-sensical character sequences likely from a corrupted table or graphic."
+  },
+  {
+    "chunk_id": "4-Bangla-16-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০০৬০৩৬৬৬ ৬০৬৩৬৬৬৬৬৬৬৩৬৬৬৬০৬৬০৬৬০৬৬৩৬৬",
+    "note": "Long string of repeated digits and symbols not belonging to the text."
+  },
+  {
+    "chunk_id": "4-Bangla-16-9",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ও ৬৬৩৬৬৫৬৫৫৬৩ ৬৫৬৫৬৫৫৬ও৬৫৬৫৬৫৬ও৬৫৬৫৫৬৫৬৫৬৫০৬৫৫৫৬৫৬৫৬৬৫},{"note": "Extensive strings of digits are clearly OCR noise/corruption."}
+  },
+  {
+    "chunk_id": "4-Bangla-16-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Bangla-16-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০৬০৫০৩৬৩৬৩ ০৬৫০৬০৩৬৬৬৩৩৬০৬০৬৩০৫৬৩৬৬০৫৩৬০৬০৫০৬৩৬",
+    "note": "Repetitive blocks of digits indicate corrupted table or layout extraction."
+  },
+  {
+    "chunk_id": "4-Bangla-16-13",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩ ০৬০৬৬৩০৬৩০৬",
+    "note": "Opening characters are nonsensical digit strings."
+  }
+]
