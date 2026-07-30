@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "5-BGS-12-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বান, ক্রান্টীয়",
+    "note": "Common OCR errors for 'স্থান' and 'ক্রান্তীয়'"
+  },
+  {
+    "chunk_id": "5-BGS-12-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অঞ্জেল, স্বান",
+    "note": "Misreadings of 'অঞ্চল' and 'স্থান'"
+  },
+  {
+    "chunk_id": "5-BGS-12-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অঞ্জ্ল, উদ্তিদদের, অভিযোজন",
+    "note": "Several mangled words for 'অঞ্চল', 'উদ্ভিদদের' and likely another term."
+  },
+  {
+    "chunk_id": "5-BGS-12-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বান, ক্রান্টীয়, বিস্ভূত, পাতাব্মরা",
+    "note": "Common OCR errors for 'স্থান', 'ক্রান্তীয়', 'বিস্তৃত' and 'পাতাবাহমরা'"
+  },
+  {
+    "chunk_id": "5-BGS-12-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অঞ্জ্লে, ক্বান্টীয়",
+    "note": "Misreadings of 'অঞ্চল' and 'ক্রান্তীয়'"
+  },
+  {
+    "chunk_id": "5-BGS-12-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-12-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "5-BGS-12-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ň",
+    "note": "Non-Bengali character at the end of the chunk."
+  },
+  {
+    "chunk_id": "5-BGS-12-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বান",
+    "note": "Misreading of 'স্থান'"
+  },
+  {
+    "chunk_id": "5-BGS-12-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অঞ্ূলে, স্বান",
+    "note": "Misreadings of 'অঞ্চলে' and 'স্থান'"
+  },
+  {
+    "chunk_id": "5-BGS-12-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "দক্ষিণ_াণের, ডের্থ্য, সূর্যাত্তের",
+    "note": "Errors for 'দক্ষিণঅঞ্চলের', 'দৈর্ঘ্য', and 'সূর্যাস্তের'"
+  },
+  {
+    "chunk_id": "5-BGS-12-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "অঞ্জ্ল, প্রকৃতিকন্যা, পালন্থুমাই ব্রনা",
+    "note": "Multiple corrupted terms for 'অঞ্চল', 'প্রাকৃতিক সৌন্দর্য', and a local landmark."
+  },
+  {
+    "chunk_id": "5-BGS-12-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "অঞ্জেলে, স্বান",
+    "note": "Misreadings of 'অঞ্চলে' and 'স্থান'"
+  },
+  {
+    "chunk_id": "5-BGS-12-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বান, বব",
+    "note": "Misreadings of 'স্থান' and a table-related header term."
+  },
+  {
+    "chunk_id": "5-BGS-12-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "স্বান",
+    "note": "Misreading of 'স্থান'"
+  },
+  {
+    "chunk_id": "5-BGS-12-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩০০০৬৫৩০৬০৬ ০৬৩৩৬০৬৬৬৩৬০৬৬৬৩৩৬৩৬০৬৬৬৬০৬৬৫৩০৬৬৪৬৫০৬০৬৬৬৩৩৬৩০৬০৬৬০৬০৬৩৬৩৩০৬৬৬৫৩৬০৬৪৬৬০৫৬০৬৬০৬৬৩০৬০৬০৬৬০৬০৬০৬০৬৩৩০৬০৬৪৬০৫৬০৬০৬৬০৬৫০৬০৬০৬৬০৬০৬০৬০৬০৬০৬০৬৬০৬৬০০৬৬",
+    "note": "Nonsensical string of digits unrelated to the subject matter."
+  },
+  {
+    "chunk_id": "5-BGS-12-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বরু",
+    "note": "Likely a misreading of 'ঝরে' (falls off) in the context of leaves."
+  },
+  {
+    "chunk_id": "5-BGS-12-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ক্বাষ্টীয়, সৃষ্ি",
+    "note": "Misreadings of 'ক্রান্তীয়' and 'সৃষ্টি'"
+  },
+  {
+    "chunk_id": "5-BGS-12-19",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ও)",
+    "note": "Possible trailing character from a cut-off sentence or label."
+  }
+]
