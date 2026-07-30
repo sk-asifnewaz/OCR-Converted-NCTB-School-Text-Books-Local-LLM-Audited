@@ -1,4 +1,3 @@
-```json
 [
   {
     "chunk_id": "6-Math-8-1",
@@ -303,7 +302,7 @@
     "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "\|?\" অটু বরং",
+    "evidence": "\\|?\" অটু বরং",
     "note": "A string of garbled symbols and nonsensical characters."
   },
   {
@@ -496,4 +495,3 @@
     "note": ""
   }
 ]
-```

@@ -77,7 +77,7 @@
     "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "৮০ এ 5৫; 1 --৭ ৮।; \| \| ১]",
+    "evidence": "৮০ এ 5৫; 1 --৭ ৮।; \\| \\| ১]",
     "note": "Heavy corruption and noise in the last few lines."
   },
   {
@@ -86,7 +86,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": "মা মাস; (\|; চ্)",
+    "evidence": "মা মাস; (\\|; চ্)",
     "note": "Garbled symbols and broken text fragments."
   },
   {

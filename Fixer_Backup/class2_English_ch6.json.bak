@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "2-English-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "x O@D",
+    "note": "Garbled symbols and characters not belonging to the text."
+  },
+  {
+    "chunk_id": "2-English-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "G5\not",
+    "note": "Non-legitimate numeral/string combination likely from page layout."
+  },
+  {
+    "chunk_id": "2-English-6-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "sy\nx LSe",
+    "note": "Garbled sequence of characters."
+  },
+  {
+    "chunk_id": "2-English-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "$1",
+    "note": "Digit used in a non-standard way (likely OCR of S1)."
+  },
+  {
+    "chunk_id": "2-English-6-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\at",
+    "note": "Garbled characters and symbols likely from a footer."
+  },
+  {
+    "chunk_id": "2-English-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Ds\nexit",
+    "note": "Garbled text or non-contextual noise at the end of a chunk."
+  },
+  {
+    "chunk_id": "2-English-6-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "970%\net",
+    "note": "Garbled symbols and characters."
+  },
+  {
+    "chunk_id": "2-English-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "qT: t Ss: f\n... \non aN",
+    "note": "Presence of 'q' and 'on aN' are clear OCR artifacts."
+  },
+  {
+    "chunk_id": "2-English-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "NO\noO\nife)\non\nos\near.eo MH",
+    "note": "Significant amount of garbled Unicode/symbols."
+  },
+  {
+    "chunk_id": "2-English-6-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2 @ Gm\nLory\n970%\on",
+    "note": "Garbled text and symbols likely from page elements."
+  },
+  {
+    "chunk_id": "2-English-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "[|",
+    "note": "Garbled symbol likely an OCR error for a divider line."
+  }
+]

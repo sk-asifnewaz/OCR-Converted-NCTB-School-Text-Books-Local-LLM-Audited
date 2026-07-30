@@ -1,4 +1,3 @@
-```json
 [
   {
     "chunk_id": "9-10-physics_secondary-6-1",
@@ -96,7 +95,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "(\|17110806)",
+    "evidence": "(\\|17110806)",
     "note": "The parentheses and digits represent a corrupted mathematical expression."
   },
   {
@@ -712,4 +711,3 @@
     "note": ""
   }
 ]
-```

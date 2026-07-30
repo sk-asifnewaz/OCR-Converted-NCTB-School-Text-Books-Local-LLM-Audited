@@ -1,0 +1,104 @@
+=== Summary ===
+status
+already_valid               1446
+repaired                      57
+needs_rerun_truncated         20
+needs_rerun_unrepairable      12
+
+Repaired in-place (57 file(s)) — originals backed up as *.json.bak:
+       class             subject                                                                                                                                                         file
+    classOne              bangla                                  D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classOne\processed_chapters_bangla\Audit Results\class1_Bangla_ch14.json
+    classOne              bangla                                  D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classOne\processed_chapters_bangla\Audit Results\class1_Bangla_ch46.json
+    classTwo             english                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classTwo\processed_chapters_english\Audit Results\class2_English_ch10.json
+    classTwo             english                                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classTwo\processed_chapters_english\Audit Results\class2_English_ch6.json
+  classThree                math                                    D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classThree\processed_chapters_math\Audit Results\class3_Math_ch13.json
+  classThree             science                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classThree\processed_chapters_science\Audit Results\class3_Science_ch4.json
+  classThree             science                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classThree\processed_chapters_science\Audit Results\class3_Science_ch7.json
+   classFour   buddhist_religion            D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_buddhist_religion\Audit Results\class4_Buddhist_religion_ch4.json
+   classFour               islam                                    D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_islam\Audit Results\class4_Islam_ch1.json
+   classFour                math                                     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_math\Audit Results\class4_Math_ch10.json
+   classFour             science                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_science\Audit Results\class4_Science_ch2.json
+   classFour             science                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_science\Audit Results\class4_Science_ch3.json
+   classFour             science                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_science\Audit Results\class4_Science_ch4.json
+   classFour             science                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_science\Audit Results\class4_Science_ch8.json
+   classFive  christian_religion          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_christian_religion\Audit Results\class5_Christian_religion_ch1.json
+   classFive  christian_religion          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_christian_religion\Audit Results\class5_Christian_religion_ch2.json
+   classFive  christian_religion          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_christian_religion\Audit Results\class5_Christian_religion_ch3.json
+   classFive                 eng                                    D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_eng\Audit Results\class5_English_ch2.json
+    classSix               islam                                     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_islam\Audit Results\class6_Islam_ch1.json
+    classSix                math                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_math\Audit Results\class6_Math_ch8.json
+    classSix                pali                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_pali\Audit Results\class6_Pali_ch7.json
+    classSix                pali                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_pali\Audit Results\class6_Pali_ch8.json
+    classSix  physical_education           D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_physical_education\Audit Results\class6_Physical_education_ch5.json
+    classSix            sanskrit                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_sanskrit\Audit Results\class6_Sanskrit_ch2.json
+    classSix             science                                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_science\Audit Results\class6_Science_ch2.json
+    classSix             science                                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSix\processed_chapters_science\Audit Results\class6_Science_ch4.json
+  classSeven         agriculture                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSeven\processed_chapters_agriculture\Audit Results\class7_Agriculture_ch4.json
+  classSeven     english_grammar               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSeven\processed_chapters_english_grammar\Audit Results\class7_English_grammar_ch7.json
+  classSeven                 ict                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSeven\processed_chapters_ict\Audit Results\class7_ICT_ch3.json
+  classEight   buddhist_religion           D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_buddhist_religion\Audit Results\class8_Buddhist_religion_ch5.json
+  classEight     english_grammar              D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_english_grammar\Audit Results\class8_English_grammar_ch11.json
+  classEight     english_grammar               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_english_grammar\Audit Results\class8_English_grammar_ch8.json
+  classEight      hindu_religion                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_hindu_religion\Audit Results\class8_Hindu_religion_ch1.json
+  classEight      hindu_religion                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_hindu_religion\Audit Results\class8_Hindu_religion_ch8.json
+  classEight                 ict                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_ict\Audit Results\class8_ICT_ch3.json
+  classEight               islam                                   D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_islam\Audit Results\class8_Islam_ch3.json
+  classEight                math                                     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_math\Audit Results\class8_Math_ch7.json
+  classEight               music                                   D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_music\Audit Results\class8_Music_ch4.json
+  classEight  physical_education         D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_physical_education\Audit Results\class8_Physical_education_ch4.json
+  classEight             science                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_science\Audit Results\class8_Science_ch3.json
+classNineTen          accounting                    D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_accounting\Audit Results\class9-10_Accounting_ch6.json
+classNineTen         agriculture                  D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_agriculture\Audit Results\class9-10_Agriculture_ch2.json
+classNineTen   buddhist_religion      D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_buddhist_religion\Audit Results\class9-10_Buddhist_religion_ch1.json
+classNineTen chemistry_secondary D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_chemistry_secondary\Audit Results\class9-10_chemistry_secondary_ch11.json
+classNineTen  christian_religion   D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_christian_religion\Audit Results\class9-10_Christian_religion_ch11.json
+classNineTen              civics                            D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_civics\Audit Results\class9-10_Civics_ch1.json
+classNineTen             finance                          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_finance\Audit Results\class9-10_Finance_ch1.json
+classNineTen             finance                          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_finance\Audit Results\class9-10_Finance_ch8.json
+classNineTen         higher_math                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_higher_math\Audit Results\class9-10_Higher_math_ch11.json
+classNineTen      hindu_religion            D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_hindu_religion\Audit Results\class9-10_Hindu_religion_ch6.json
+classNineTen                math                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_math\Audit Results\class9-10_Math_ch11.json
+classNineTen                math                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_math\Audit Results\class9-10_Math_ch14.json
+classNineTen  physical_education    D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_physical_education\Audit Results\class9-10_Physical_education_ch5.json
+classNineTen   physics_secondary      D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_physics_secondary\Audit Results\class9-10_physics_secondary_ch6.json
+classNineTen            sanskrit                        D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_sanskrit\Audit Results\class9-10_Sanskrit_ch9.json
+classNineTen             science                         D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_science\Audit Results\class9-10_Science_ch10.json
+classNineTen             science                          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_science\Audit Results\class9-10_Science_ch2.json
+
+STILL NEED A RE-RUN (32 file(s)) — genuine data loss, not just malformed:
+       class             subject                                                                                                                                                        file                                                                     detail
+   classFour              bangla                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_bangla\Audit Results\class4_Bangla_ch15.json 15 of 20 entries missing expected fields (likely truncated mid-generation)
+   classFour              bangla                                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_bangla\Audit Results\class4_Bangla_ch16.json  1 of 13 entries missing expected fields (likely truncated mid-generation)
+   classFour                 bgs                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_bgs\Audit Results\class4_BGS_ch5.json  1 of 13 entries missing expected fields (likely truncated mid-generation)
+   classFour   buddhist_religion           D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_buddhist_religion\Audit Results\class4_Buddhist_religion_ch5.json  2 of 47 entries missing expected fields (likely truncated mid-generation)
+   classFour             science                              D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFour\processed_chapters_science\Audit Results\class4_Science_ch12.json                                  Expecting value: line 1 column 1 (char 0)
+   classFive                 bgs                                      D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_bgs\Audit Results\class5_BGS_ch12.json                                  Expecting value: line 1 column 1 (char 0)
+   classFive                 bgs                                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_bgs\Audit Results\class5_BGS_ch5.json                                    Repaired output is not a non-empty list
+   classFive             science                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classFive\processed_chapters_science\Audit Results\class5_Science_ch2.json  1 of 32 entries missing expected fields (likely truncated mid-generation)
+  classSeven               islam                                  D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSeven\processed_chapters_islam\Audit Results\class7_Islam_ch4.json  1 of 93 entries missing expected fields (likely truncated mid-generation)
+  classSeven  physical_education        D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSeven\processed_chapters_physical_education\Audit Results\class7_Physical_education_ch4.json 2 of 118 entries missing expected fields (likely truncated mid-generation)
+  classSeven             science                             D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classSeven\processed_chapters_science\Audit Results\class7_Science_ch13.json  2 of 38 entries missing expected fields (likely truncated mid-generation)
+  classEight                 bgs                                     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_bgs\Audit Results\class8_BGS_ch11.json  1 of 67 entries missing expected fields (likely truncated mid-generation)
+  classEight             english                              D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classEight\processed_chapters_english\Audit Results\class8_English_ch1.json  1 of 27 entries missing expected fields (likely truncated mid-generation)
+classNineTen         agriculture                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_agriculture\Audit Results\class9-10_Agriculture_ch4.json 1 of 310 entries missing expected fields (likely truncated mid-generation)
+classNineTen              bangla                          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_bangla\Audit Results\class9-10_Bangla_ch24.json  1 of 23 entries missing expected fields (likely truncated mid-generation)
+classNineTen      bangla_grammar          D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_bangla_grammar\Audit Results\class9-10_Bangla_grammar_ch38.json  1 of 12 entries missing expected fields (likely truncated mid-generation)
+classNineTen   biology_secondary     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_biology_secondary\Audit Results\class9-10_biology_secondary_ch2.json 1 of 150 entries missing expected fields (likely truncated mid-generation)
+classNineTen    career_education       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_career_education\Audit Results\class9-10_Career_education_ch1.json                                    Repaired output is not a non-empty list
+classNineTen chemistry_secondary D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_chemistry_secondary\Audit Results\class9-10_chemistry_secondary_ch5.json 1 of 103 entries missing expected fields (likely truncated mid-generation)
+classNineTen     english_grammar        D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_english_grammar\Audit Results\class9-10_English_grammar_ch21.json                                    Repaired output is not a non-empty list
+classNineTen             finance                         D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_finance\Audit Results\class9-10_Finance_ch4.json  1 of 43 entries missing expected fields (likely truncated mid-generation)
+classNineTen             finance                         D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_finance\Audit Results\class9-10_Finance_ch7.json                                    Repaired output is not a non-empty list
+classNineTen           geography                     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_geography\Audit Results\class9-10_Geography_ch2.json                                    Repaired output is not a non-empty list
+classNineTen           geography                     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_geography\Audit Results\class9-10_Geography_ch5.json                                    Repaired output is not a non-empty list
+classNineTen         higher_math                D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_higher_math\Audit Results\class9-10_Higher_math_ch12.json                                    Repaired output is not a non-empty list
+classNineTen             history                        D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_history\Audit Results\class9-10_History_ch11.json 1 of 195 entries missing expected fields (likely truncated mid-generation)
+classNineTen             history                         D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_history\Audit Results\class9-10_History_ch8.json                                  Expecting value: line 1 column 1 (char 0)
+classNineTen                 ict                                 D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_ict\Audit Results\class9-10_ICT_ch2.json                                    Repaired output is not a non-empty list
+classNineTen                math                               D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_math\Audit Results\class9-10_Math_ch6.json 1 of 104 entries missing expected fields (likely truncated mid-generation)
+classNineTen                pali                              D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_pali\Audit Results\class9-10_Pali_ch10.json  1 of 23 entries missing expected fields (likely truncated mid-generation)
+classNineTen   physics_secondary     D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_physics_secondary\Audit Results\class9-10_physics_secondary_ch3.json 3 of 284 entries missing expected fields (likely truncated mid-generation)
+classNineTen            sanskrit                       D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\classNineTen\processed_chapters_sanskrit\Audit Results\class9-10_Sanskrit_ch1.json                                    Repaired output is not a non-empty list
+
+List saved to: D:\Ongoing Research Works\AI-Tutor\NCTB-SchoolText\files_needing_rerun.csv
+Delete these specific files and re-run your audit script to fill them in.

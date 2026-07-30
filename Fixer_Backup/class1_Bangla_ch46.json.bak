@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "1-Bangla-46-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টা 'এপজীদঞদ",
+    "note": "Garbled Unicode/nonsense characters at the start of the text."
+  },
+  {
+    "chunk_id": "1-Bangla-46-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "- :", "da জা পা", "রী একটি",
+    "note": "Nonsense strings and a word fragment (রী) indicating truncation."
+  },
+  {
+    "chunk_id": "1-Bangla-46-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

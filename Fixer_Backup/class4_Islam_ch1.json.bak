@@ -1,0 +1,596 @@
+[
+  {
+    "chunk_id": "4-Islam-1-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "আকাইদ (৬৩৫৪) ... আকিদা (8০)",
+    "note": "Non-standard digits and mixed numeral types suggest OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Islam-1-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(১% ... (৬-০৭। ৮৭)",
+    "note": "Special characters and punctuation suggest mangled reference numbers."
+  },
+  {
+    "chunk_id": "4-Islam-1-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৬.৭) ... (৬২)",
+    "note": "Numeric values appear to be corrupted reference indicators."
+  },
+  {
+    "chunk_id": "4-Islam-1-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০৮৮৯) ... (১১১%) ... ($1%%!) ... ডন",
+    "note": "Multiple instances of symbols and non-sensical words likely from OCR artifacts."
+  },
+  {
+    "chunk_id": "4-Islam-1-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "($%%) ... (%১০.৫))",
+    "note": "Symbols like $ and % are likely artifacts in the text."
+  },
+  {
+    "chunk_id": "4-Islam-1-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "ডে রা",
+    "note": "Isolated non-sensical characters likely from page layout or scanning."
+  },
+  {
+    "chunk_id": "4-Islam-1-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(*৮৪%) ... (প৮১) ... (2৮০) ... (2১১৭৭)",
+    "note": "Heavy noise in numeric segments and special symbols."
+  },
+  {
+    "chunk_id": "4-Islam-1-10",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-11",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(2১৫) ... (%১১£)",
+    "note": "Mixed characters and symbols in parentheses are likely artifacts."
+  },
+  {
+    "chunk_id": "4-Islam-1-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(.১|)",
+    "note": "Unusual punctuation/symbols in parentheses."
+  },
+  {
+    "chunk_id": "4-Islam-1-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ভলট০% ০৭৭০) ... (১%৫৯-187253 ... £0",
+    "note": "Large amount of garbled characters and non-standard symbols."
+  },
+  {
+    "chunk_id": "4-Islam-1-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-17",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "বী ০উ /ত ৮",
+    "note": "Garbled character sequence likely from layout noise."
+  },
+  {
+    "chunk_id": "4-Islam-1-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "টু 2১4৭৩ ... ৯০%%১ ... ৪০১০২৮%৮%",
+    "note": "Significant corruption in numerical values and special symbols."
+  },
+  {
+    "chunk_id": "4-Islam-1-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৮.",
+    "note": "List numbering jumps from 3 to 8, suggesting missing items or OCR error."
+  },
+  {
+    "chunk_id": "4-Islam-1-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "১৩। ... ১৪। ... ১৫।",
+    "note": "Non-sequential numbering in a list (skips 12)."
+  },
+  {
+    "chunk_id": "4-Islam-1-23",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৬%১৯৭১)০০৯ঢ০৯৭। ৬৬০ ০%",
+    "note": "Extensive character corruption in the citation/verse section."
+  },
+  {
+    "chunk_id": "4-Islam-1-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-26",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "($%£ ১৬)",
+    "note": "Corrupted symbols in parentheses."
+  },
+  {
+    "chunk_id": "4-Islam-1-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩। ... ৮। ... ৯ ... ১০",
+    "note": "Inconsistent list numbering suggests missing items."
+  },
+  {
+    "chunk_id": "4-Islam-1-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩। ... ৫। ... ৬।",
+    "note": "Skipped numbers in the list indicate missing content or OCR errors."
+  },
+  {
+    "chunk_id": "4-Islam-1-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-30",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "তং ... ডে না",
+    "note": "Non-sensical short strings likely from layout/header artifacts."
+  },
+  {
+    "chunk_id": "4-Islam-1-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "\| পল পা. শুন রণ লা রে ল্য",
+    "note": "Arabic transliteration is mangled by OCR."
+  },
+  {
+    "chunk_id": "4-Islam-1-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৯। ১৯ ৬১) ০২২০০ ১১৮]",
+    "note": "Garbled numbers/symbols in the citation section."
+  },
+  {
+    "chunk_id": "4-Islam-1-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২২৮৪ ২৭ ০০৭১",
+    "note": "Mangled sequence of numbers/symbols."
+  },
+  {
+    "chunk_id": "4-Islam-1-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৮১০ ৩৭, ১/ ০০",
+    "note": "Garbled numeric string."
+  },
+  {
+    "chunk_id": "4-Islam-1-35",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "গেট ... ডে না",
+    "note": "Garbage words likely from page layout."
+  },
+  {
+    "chunk_id": "4-Islam-1-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-39",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "গে ... না",
+    "note": "Fragments from layout artifacts."
+  },
+  {
+    "chunk_id": "4-Islam-1-40",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "২১২৭৫",
+    "note": "Mangled numerical sequence."
+  },
+  {
+    "chunk_id": "4-Islam-1-41",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ডে ৯ ০স ও /!তে ... ২ তত ৯বকি০স- ও /তে ৮",
+    "note": "Significant non-sensical characters and punctuation."
+  },
+  {
+    "chunk_id": "4-Islam-1-42",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩ ... ৪",
+    "note": "Ambiguous digits in the text that may be artifacts."
+  },
+  {
+    "chunk_id": "4-Islam-1-45",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "টিজিং তা ৮৬",
+    "note": "Non-sensical word/digit sequence."
+  },
+  {
+    "chunk_id": "4-Islam-1-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "জযম (৭)",
+    "note": "The digit in parentheses is likely an OCR error."
+  },
+  {
+    "chunk_id": "4-Islam-1-47",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ... ০২ ... ৯ ... ৯",
+    "note": "Random digit insertions in the text."
+  },
+  {
+    "chunk_id": "4-Islam-1-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৯ ৬০৬ ওএস দে শি",
+    "note": "Garbled sentence/fragment."
+  },
+  {
+    "chunk_id": "4-Islam-1-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩ ... ৪ ... ৫ ... ৭",
+    "note": "Inconsistent sequence of numbers for categories."
+  },
+  {
+    "chunk_id": "4-Islam-1-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৯ ... ৮",
+    "note": "Non-sensical numbers/symbols in the list."
+  },
+  {
+    "chunk_id": "4-Islam-1-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩ ... ৪",
+    "note": "Ambiguous digits in the text."
+  },
+  {
+    "chunk_id": "4-Islam-1-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৪- ... ৬.",
+    "note": "Non-standard number representation."
+  },
+  {
+    "chunk_id": "4-Islam-1-54",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮৪ ... ০০১১৭৯১০১৩১",
+    "note": "Garbled numbers and punctuation."
+  },
+  {
+    "chunk_id": "4-Islam-1-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০৮ঃ-৪১০৫;৩৮ ... ০৬৬০ ০১০%",
+    "note": "Massive corruption in the scripture text."
+  },
+  {
+    "chunk_id": "4-Islam-1-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩. আল-হালিম ৮. আল্লাহ",
+    "note": "Non-sequential number in a list of options."
+  },
+  {
+    "chunk_id": "4-Islam-1-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "৩. আল্লাহী আকবার ৮. বিসমিল্লাহ",
+    "note": "Non-sequential number in a list of options."
+  },
+  {
+    "chunk_id": "4-Islam-1-61",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "৩। ... ৮। ... ০ ... ৯",
+    "note": "Inconsistent and non-sequential numbers in question options."
+  },
+  {
+    "chunk_id": "4-Islam-1-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "নঙ৭",
+    "note": "Garbled character sequence."
+  },
+  {
+    "chunk_id": "4-Islam-1-64",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "low",
+    "confidence": "medium",
+    "evidence": "সেদ্থ/অশুদ্থ",
+    "note": "Garbled text for 'True/False' or similar."
+  },
+  {
+    "chunk_id": "4-Islam-1-65",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "4-Islam-1-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

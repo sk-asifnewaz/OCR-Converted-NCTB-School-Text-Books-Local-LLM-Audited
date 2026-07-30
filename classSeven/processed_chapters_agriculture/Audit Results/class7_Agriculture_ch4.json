@@ -194,7 +194,7 @@
     "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "লা | [লা\nন7111111117111111, 1৬ \|\| ্্ণ রব . 10. ! 11\n১১১18644198 ণ",
+    "evidence": "লা | [লা\nন7111111117111111, 1৬ \\|\\| ্্ণ রব . 10. ! 11\n১১১18644198 ণ",
     "note": "Garbled text and nonsensical numeric strings"
   },
   {
@@ -266,7 +266,7 @@
     "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": "খত্ুর, ৩১\"-৩৭\" সে., ৪৪\”-৫০\" সে.",
+    "evidence": "খত্ুর, ৩১\"-৩৭\" সে., ৪৪”-৫০\" সে.",
     "note": "Garbled term and noisy numerical ranges"
   },
   {

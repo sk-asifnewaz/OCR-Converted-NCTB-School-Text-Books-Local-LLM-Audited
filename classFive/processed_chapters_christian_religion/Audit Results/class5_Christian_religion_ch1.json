@@ -185,7 +185,7 @@
     "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "অনা \\\"ত্য\\n৪ টং",
+    "evidence": "অনা \"ত্য\\n৪ টং",
     "note": "Garbled characters and likely OCR artifacts."
   },
   {
@@ -545,7 +545,7 @@
     "issues": ["GIBBERISH_RUN"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": "৬৩৮৫৭ ০)\n\n\|",
+    "evidence": "৬৩৮৫৭ ০)\n\n\\|",
     "note": "Garbled numeric/symbol strings."
   },
   {

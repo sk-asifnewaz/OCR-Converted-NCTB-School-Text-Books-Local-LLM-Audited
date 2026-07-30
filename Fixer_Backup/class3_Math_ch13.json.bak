@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "3-Math-13-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-13-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "রদ\nসারণিটি পূরণ করি এবং কতজন শিক্ষার্থী কোন ছোডো",
+    "note": "Words like 'রদ' and 'ছোডো' are nonsensical in this context."
+  },
+  {
+    "chunk_id": "3-Math-13-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ঢায ১০\nআনন্দরঘূর্ণি",
+    "note": "Unexpected digit string and repeated/garbled phrase 'আনন্দূর্ণিতে ৷ আনন্দরঘূর্ণি'."
+  },
+  {
+    "chunk_id": "3-Math-13-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "77,,",
+    "note": "Number string '77,,' is a clear OCR noise/page artifact."
+  },
+  {
+    "chunk_id": "3-Math-13-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ষ্জী'",
+    "note": "The string 'ষ্জী' is a nonsensical character sequence."
+  },
+  {
+    "chunk_id": "3-Math-13-6",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১ ডানের... ' ২",
+    "note": "Fragmented markers and non-standard phrasing suggest OCR issues."
+  },
+  {
+    "chunk_id": "3-Math-13-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হা রাকা\nদারা সভত ভলল দর",
+    "note": "The last two lines are completely incoherent and unrelated to the text."
+  },
+  {
+    "chunk_id": "3-Math-13-8",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "3-Math-13-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€*\*ী বম ১\nবোখা ধী ধী",
+    "note": "Contains symbols and repeated gibberish words from failed OCR."
+  },
+  {
+    "chunk_id": "3-Math-13-10",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "এএতজজজজজজতজজত... এজাজ সসজসআস",
+    "note": "Repetitive, nonsensical characters indicating OCR errors."
+  },
+  {
+    "chunk_id": "3-Math-13-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ট্ংলাদেশং",
+    "note": "Garbled word likely from a mangled 'বাংলাদেশ' or logo text."
+  }
+]

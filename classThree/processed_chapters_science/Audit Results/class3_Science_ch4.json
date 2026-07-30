@@ -50,7 +50,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": "সঙ্জে ... \* (আলোচনা",
+    "evidence": "সঙ্জে ... \\* (আলোচনা",
     "note": "Garbled text 'সঙ্জে' (সঙ্গে) and symbols in title area."
   },
   {
@@ -86,7 +86,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": "\* ২ (আলোচনা",
+    "evidence": "\\* ২ (আলোচনা",
     "note": "Garbled text/symbols at the end of the chunk."
   },
   {

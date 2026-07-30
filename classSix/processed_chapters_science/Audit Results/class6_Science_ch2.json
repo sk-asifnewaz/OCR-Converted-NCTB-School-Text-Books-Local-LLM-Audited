@@ -41,7 +41,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "[স্পা\nতু স চস এ\nপ\*\*\nশে পা\nতুল\n“সস",
+    "evidence": "[স্পা\nতু স চস এ\nপ\\*\\*\nশে পা\nতুল\n“সস",
     "note": "Garbled characters and symbols suggest a failed OCR of a title or label."
   },
   {
@@ -131,7 +131,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "high",
     "confidence": "high",
-    "evidence": "প*\*ী মাও ৭",
+    "evidence": "প*\\*ী মাও ৭",
     "note": "Garbled character sequence in a likely page or figure reference."
   },
   {

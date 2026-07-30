@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "2-English-10-1",
+    "status": "flagged",
+    "issues": ["MEANING_DISPLACEMENT", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "The crow suddenly sees a The crow flies to it quickly.",
+    "note": "Two sentences merged together, creating incoherent sentence structure."
+  },
+  {
+    "chunk_id": "2-English-10-2",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Then it drops them into the The crow drinks the water.",
+    "note": "Two distinct sentences merged during OCR, causing semantic overlap."
+  },
+  {
+    "chunk_id": "2-English-10-3",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-10-4",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "moO)?\nUa\ney\nEnglish or",
+    "note": "Garbled text likely from a page footer or layout artifact."
+  },
+  {
+    "chunk_id": "2-English-10-5",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(95\n=a\nBUN\n:",
+    "note": "Non-linguistic symbols and characters likely from page layout artifacts."
+  },
+  {
+    "chunk_id": "2-English-10-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "2-English-10-7",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "Ds\n970%\oh\nEnglish for 10°",
+    "note": "Garbled text and incorrect symbol used instead of number."
+  },
+  {
+    "chunk_id": "2-English-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(6) a dead frog",
+    "note": "The digit 6 is likely an OCR error for the letter b."
+  },
+  {
+    "chunk_id": "2-English-10-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(6) ... qa) ... Cc)",
+    "note": "Incorrect digits and garbled letters for multiple-choice options."
+  },
+  {
+    "chunk_id": "2-English-10-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(6) ... et",
+    "note": "Incorrect digit for choice and trailing artifact at end."
+  },
+  {
+    "chunk_id": "2-English-10-11",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "on\nEngisn tor",
+    "note": "Garbled text likely from a layout or design element."
+  },
+  {
+    "chunk_id": "2-English-10-12",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "N OBO GO KR W ND",
+    "note": "Garbled string of characters not forming words."
+  },
+  {
+    "chunk_id": "2-English-10-13",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

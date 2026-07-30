@@ -1,0 +1,715 @@
+```json
+[
+  {
+    "chunk_id": "9-10-physics_secondary-6-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(চ3দ০35 3110 5০৮0)",
+    "note": "The parenthetical text contains garbled numbers and symbols likely from a failed OCR of reference codes."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(5111016 13111101410 4001011)",
+    "note": "Long string of digits in parentheses is likely a corrupted formula or index."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "হুক (00016) -এর সূত্র... তরঙ্গী বল [7",
+    "note": "Numbers like '00016' and symbols like '[7' indicate corrupted mathematical notation."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-5",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তাল গে\nহুকের সূত্র... -ন২ ণ\nমম ন্‌",
+    "note": "Chunk begins with a fragment, and the mathematical expressions are corrupted into gibberish."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "||\nশব লে 27 |",
+    "note": "The mathematical result is represented by nonsensical symbols and broken spacing."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-7",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৭-২৭৮১-২ 7017 _20\nচে рь। -2.05\n(৯৮ ১০৭/৫:)",
+    "note": "The section heading and values contain multiple characters that appear to be OCR artifacts."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-8",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10001000000.\nপেল",
+    "note": "Random numbers and a partial word suggest corrupted text or leftover artifacts."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "2 -১ 3 -১ 4 -১ 5",
+    "note": "The sequence of numbers and dashes is likely a corrupted vector or coordinate representation."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11106 29100) ... হার্টজ (0২) বা ৫-১",
+    "note": "The numbers in brackets and the units are corrupted versions of standard physics notation."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(\|17110806)",
+    "note": "The parentheses and digits represent a corrupted mathematical expression."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(21856)",
+    "note": "The bracketed number is likely a corruption of a technical term."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-13",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ঢম3ছ০5)",
+    "note": "The title is corrupted into a mix of symbols and numbers."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ঢ ৪৩০৮ ৩১০)",
+    "note": "The term for 'wave train' is corrupted with extra numbers/symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4০00310108] 8০)",
+    "note": "The term for 'mechanical wave' is heavily corrupted."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0) ... (0১-ছ)",
+    "note": "The numbers in parentheses are corrupted references or symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ছ-চ\n(ও নাচ রস্্ট\nলা\n1 | ছ-৮\n0) শখ /\" ৮-চ৮",
+    "note": "This entire block contains garbled text and non-sensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(যা) ... 330 10/5 ... 1493 ১/৫১",
+    "note": "The label '(যা)' is corrupted, and the speed values have broken exponent notation."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-23",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "জি চি\nক স্ँ",
+    "note": "The segment contains non-sensical fragments, possibly from a skipped or garbled section."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-25",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-26",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-27",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0১৫১০০০১০৩১ ঢ৪ঘ০)",
+    "note": "The text in parentheses is a garbled mess of digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-28",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-29",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1.0১০৫১০০০১১৩] ৪০",
+    "note": "The mathematical expression is corrupted into a string of digits and symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(11106 29100) ... হার্টজ (0২)",
+    "note": "The technical terms and units are corrupted by digits in the OCR."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-32",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮-//4",
+    "note": "The equation for speed is mangled into a sequence of symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0.১ ৭৭১) ... [।",
+    "note": "The values for distance and units are corrupted by extra digits or symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-36",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-37",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-39",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৫ - 0.1 ০] ... [স্্স্ঢয ৫৭১ ৫৫১১২",
+    "note": "Extremely high amount of noise and corrupted symbols in the calculations."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-40",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-41",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "স্বরযেন্ড ০.৮১%:%০",
+    "note": "The technical measurement/term is corrupted into a mess of symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-43",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-44",
+    "status": "flagged",
+    "issues": ["TRUNCATION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "হিন\nতাকে চেপে ধরে...",
+    "note": "The text appears to have a jump or missing sentence between 'হিন' and the next line."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-45",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-46",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "২০,০০০ মা (অর্থাৎ ২০১০২)",
+    "note": "The power of 10 exponent is corrupted into '১০২' instead of something like '১০০'."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-48",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যাত্রিক",
+    "note": "The word 'যাত্রিক' is a corruption of 'যান্ত্রিক'."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-49",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-51",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "গ্লীস",
+    "note": "The word 'গ্লীস' is a corruption of 'গ্লাস'."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩৪ ১১৭/৫, ১৪৯৩ ১০/৫ এবং ৫১০০ ০১/৫",
+    "note": "The numbers are corrupted exponents for speed values in different media."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-54",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-55",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "০.১ ৫... ৩৩",
+    "note": "Spacing in numbers like '0.1 5' is a typical OCR artifact for decimals."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-59",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-60",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩৮ ১১১/৫... ৩৪৯.৬",
+    "note": "Scientific notation in the calculations is poorly parsed by OCR."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-63",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৩৭ ৩০১৫১১০১১০ ০১৬৭)",
+    "note": "The technical details in brackets are corrupted by numbers and symbols."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-65",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যন্দ্রপাতির",
+    "note": "The word is corrupted; it should be 'যন্ত্রপাতির'."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-66",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-67",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(চ৬১৮৫৫১০১০)",
+    "note": "The reference code for 'impact' is garbled."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-69",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-73",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "তড়িংক্ষেত্র",
+    "note": "The word is corrupted; it should be 'তড়িৎক্ষেত্র'."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-74",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩৩২ ১০/৫ ... ১৪৯৩ ১০/৫ ... ৫১০০ ০১/৫",
+    "note": "The values are corrupted by incorrect interpretation of scientific notation exponents."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-75",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-77",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "$ অবস্থান ... [০%০] ... ১০% ... ৩০০০",
+    "note": "Several sections contain corrupted symbols, and temperatures are not formatted correctly."
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-physics_secondary-6-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]
+```

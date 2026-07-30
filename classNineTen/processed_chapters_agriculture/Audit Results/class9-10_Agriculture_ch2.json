@@ -1,4 +1,3 @@
-```json
 [
   {
     "chunk_id": "9-10-Agriculture-2-1",
@@ -717,7 +716,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": \"\|\|\",
+    "evidence": "\\|\\|\"",
     "note": "The symbols '||' are likely corrupted characters for the term 'pH'."
   },
   {
@@ -762,7 +761,7 @@
     "issues": ["GIBBERISH_RUN"],
     "severity": "high",
     "confidence": "high",
-    "evidence": \"আই] ৯৬\nজে\",
+    "evidence": "আই] ৯৬\nজে\"",
     "note": "This string is a collection of nonsensical characters and symbols."
   },
   {
@@ -825,7 +824,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "medium",
     "confidence": "high",
-    "evidence": \"শপ 11\",
+    "evidence": "শপ 11\"",
     "note": "The string 'শপ' followed by digits is likely a corruption of a specific term or measurement."
   },
   {
@@ -951,7 +950,7 @@
     "issues": ["DIGIT_NOISE"],
     "severity": "low",
     "confidence": "high",
-    "evidence": \"৭ 31০\",
+    "evidence": "৭ 31০\"",
     "note": "The segment '৭ 31০' appears to be a malformed number or measurement."
   },
   {
@@ -969,7 +968,7 @@
     "issues": ["SCRIPT_CORRUPTION"],
     "severity": "low",
     "confidence": "high",
-    "evidence": \"৫চে\",
+    "evidence": "৫চে\"",
     "note": "The character 'চ' in '৫চে' appears to be a corruption of a zero or other digit."
   },
   {
@@ -1333,4 +1332,3 @@
     "note": ""
   }
 ]
-```

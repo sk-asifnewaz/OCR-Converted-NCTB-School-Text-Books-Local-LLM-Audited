@@ -1,0 +1,344 @@
+[
+  {
+    "chunk_id": "8-Math-7-1",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "8-Math-7-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(591 71716077)",
+    "note": "Random digit string in brackets likely from a page footer or artifact."
+  },
+  {
+    "chunk_id": "8-Math-7-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯\" ... (52",
+    "note": "Quote marks are likely OCR artifacts; title ends abruptly."
+  },
+  {
+    "chunk_id": "8-Math-7-4",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ব্রম",
+    "note": "Typo 'ব্রম' should likely be 'ভ্রম'."
+  },
+  {
+    "chunk_id": "8-Math-7-5",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4,7,0,...-%,7, 7 ... ৭,/, ০১... )",
+    "note": "Math variables/letters replaced by garbled numbers and symbols."
+  },
+  {
+    "chunk_id": "8-Math-7-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৭,%,০); ... (%6/07855 10 4)",
+    "note": "Mathematical symbols and variables are mangled by OCR."
+  },
+  {
+    "chunk_id": "8-Math-7-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১১৬ ... (738%/47 11/91/704)",
+    "note": "Page number artifact and mangled symbols for set notations."
+  },
+  {
+    "chunk_id": "8-Math-7-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4 ₹-0,2,3) ... €- (000)",
+    "note": "Symbols like '₹', '+', and '€' are corruptions of set names."
+  },
+  {
+    "chunk_id": "8-Math-7-9",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10 -এর ... + :+",
+    "note": "Set builder notation symbols are replaced by garbled text."
+  },
+  {
+    "chunk_id": "8-Math-7-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(3, 6,9,12] ... '7' এর ওপর",
+    "note": "Variables are replaced by numbers or symbols."
+  },
+  {
+    "chunk_id": "8-Math-7-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(7: ... 7৫12)",
+    "note": "Symbolic notation mangled into numbers like '7' and '7৫12'."
+  },
+  {
+    "chunk_id": "8-Math-7-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(%::%, ... 117)",
+    "note": "Garbled math notation and page number noise."
+  },
+  {
+    "chunk_id": "8-Math-7-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(47776 591) ... (76777-01057077)",
+    "note": "Random digit strings likely from OCR noise or page margins."
+  },
+  {
+    "chunk_id": "8-Math-7-14",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(58591) ... (৫,/], (৭), (৮)",
+    "note": "Page number noise and corrupted symbols for sets."
+  },
+  {
+    "chunk_id": "8-Math-7-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "? সেটের ... (0৭৮৬৭৫১৫৯১)",
+    "note": "Placeholder/corrupted symbols and random digit noise."
+  },
+  {
+    "chunk_id": "8-Math-7-16",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4-1,2,3,4,5,6),3-10,3,5),- (০, 4৫, 6)",
+    "note": "Highly mangled set notation and variable names."
+  },
+  {
+    "chunk_id": "8-Math-7-17",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "? সেটের ... € সেটের",
+    "note": "Corrupted symbols used where set names should be."
+  },
+  {
+    "chunk_id": "8-Math-7-18",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00৭৭১/৯৭৭৬৭১১০৭ ... 4\" বা 4'",
+    "note": "Mangled notation and corrupted symbols."
+  },
+  {
+    "chunk_id": "8-Math-7-19",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "5 0,3,5) ... ১১৯",
+    "note": "Garbled set definition and page number noise."
+  },
+  {
+    "chunk_id": "8-Math-7-20",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1.4 2841077 /৯",
+    "note": "Garbled expression for union of sets."
+  },
+  {
+    "chunk_id": "8-Math-7-21",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "১) - (অলোক, মুশফিক)",
+    "note": "Symbolic notation mangled to '1)'."
+  },
+  {
+    "chunk_id": "8-Math-7-22",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "€ ৬৩-ম২১৬৩০০ম,১১২১৪৭৪",
+    "note": "Complete mangling of set notation into character soup."
+  },
+  {
+    "chunk_id": "8-Math-7-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "১২০ গণিত",
+    "note": "Page number noise."
+  },
+  {
+    "chunk_id": "8-Math-7-24",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "497 -(0:%+০৫০/4 এবং % ০৪৪) ঁ ট",
+    "note": "Set builder notation heavily corrupted."
+  },
+  {
+    "chunk_id": "8-Math-7-25",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "13150175915",
+    "note": "Corrupted set notation and page number noise."
+  },
+  {
+    "chunk_id": "8-Math-7-26",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "ধুন\nধান",
+    "note": "Repeated/fragmented word 'ধান' due to OCR splitting."
+  },
+  {
+    "chunk_id": "8-Math-7-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "সেট ১২১",
+    "note": "Page number noise."
+  },
+  {
+    "chunk_id": "8-Math-7-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "19 ₹ (4, 5, 6]",
+    "note": "Symbol '₹' is a corruption of an intersection sign."
+  },
+  {
+    "chunk_id": "8-Math-7-29",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "7) 0 এবং 129 0",
+    "note": "Garbled set notation for union."
+  },
+  {
+    "chunk_id": "8-Math-7-30",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47: নির্ণয় ... -০,২,৭,১৪",
+    "note": "Mangled set notation and symbols."
+  },
+  {
+    "chunk_id": "8-Math-7-31",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অফ্টম শ্রেণি",
+    "note": "Should be 'অষ্টম' (Eighth)."
+  },
+  {
+    "chunk_id": "8-Math-7-32",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৮। 4251,2,3]),2 -(2,৫) এবং € (৭, ৪)",
+    "note": "Extremely mangled mathematical notation."
+  },
+  {
+    "chunk_id": "8-Math-7-33",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সেট ১২৩ ... [৬1\n\n\|",
+    "note": "Page number noise and broken symbols."
+  },
+  {
+    "chunk_id": "8-Math-7-34",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ক) /*, সেটকে",
+    "note": "Symbol '/' or '//' used instead of a variable name."
+  },
+  {
+    "chunk_id": "8-Math-7-35",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৩। /৬১-(2,3,5) ... ১২৪ গণিত",
+    "note": "Garbled set notation and page number noise."
+  },
+  {
+    "chunk_id": "8-Math-7-36",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(ক) 4 - (+:%, জোড় স্বাভাবিক সংখ্যা এবং 22 এ 16])",
+    "note": "Garbled set notation and numbers instead of variables."
+  },
+  {
+    "chunk_id": "8-Math-7-37",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4 -৭-00৭২-৬%+৮-01)",
+    "note": "Extreme mangling of set definitions."
+  },
+  {
+    "chunk_id": "8-Math-7-38",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "ঘ) ! 5 (0৫:%,৬ এর গুণনীয়কসমূহ )",
+    "note": "Garbled symbols and notation."
+  }
+]
