@@ -137,12 +137,13 @@ def main():
         print(f"Output -> {output_dir}\n")
 
         for jsonl_path in jsonl_files:
+            output_path = output_dir / (jsonl_path.stem + ".json")
+            if output_path.exists():
+                print(f"-> {jsonl_path.name} already done, skipping.")
+                continue
             process_file(jsonl_path, output_dir)
-
         print()
-
-    print("All subjects processed.")
-
+        print("All subjects processed.")
 
 if __name__ == "__main__":
     main()
