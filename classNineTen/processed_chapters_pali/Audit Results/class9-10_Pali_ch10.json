@@ -1,0 +1,209 @@
+[
+  {
+    "chunk_id": "9-10-Pali-10-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "MEANING_DISPLACEMENT"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "€/ভুজ্‌, শিজস্ত",
+    "note": "€ is a script artifact; 'শিজস্ত' likely mis-OCR of title 'নির্জন্ত'."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-3",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "€/ভুজ্‌",
+    "note": "Symbol € is a common OCR error for list indicators."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-5",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-6",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "ষ/প্যা, ষ/গর্ম্, ষ/ঠ",
+    "note": "The character 'ষ' is likely an OCR artifact for list markers."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-7",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "অং 5 পচং",
+    "note": "The digit '5' is a likely OCR artifact for punctuation."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৬/পচ + মান",
+    "note": "The digit '6' is likely an OCR artifact for a list marker."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-10",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "€/জি, ষ/ভিক",
+    "note": "Symbols € and ষ are typical OCR errors for list marks."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "\"/পছৎ‌",
+    "note": "The symbols \" and / are script artifacts."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "091110 এবং 1110110%০",
+    "note": "Nonsensical digit strings replacing expected grammatical terms."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0900, 09110, 18",
+    "note": "Digits replacing terms; '18' likely a mis-read of '-ing'."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1106, 1110110০, \\|া10110ছ৬",
+    "note": "Garbled digits and nonsensical character sequences."
+  },
+  {
+    "chunk_id": "9-10-Pali-10-16",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-17",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-21",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Pali-10-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

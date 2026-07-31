@@ -1,0 +1,1334 @@
+[
+  {
+    "chunk_id": "9-10-Geography-5-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "/011051)1) 610",
+    "note": "Non-sequential/garbled number string likely from page header or footer."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-2",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(0€0111100510011 00116 /১ 01105111616)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-4",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(২42) ... (02) ... (&1)",
+    "note": "Chemical symbols for Nitrogen, Oxygen, Argon are garbled by OCR."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৬0110511101710 1.3501-5 3110 01131-3000115005)",
+    "note": "Garbled numeric strings in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(01131-30৫06115005 ০1 (016 01005111016)",
+    "note": "Garbled numeric strings in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(30300911161)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(30300896)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(01131-3৫€06175003 01 016 ১০৩০০৫১১৬১৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১৬৯০৫১১১৬১৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১১০১১১১১০৫১১১১৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-14",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১০১১০৯১১৯১৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-15",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "([:%০৯১০১১৬-৬)",
+    "note": "Garbled symbol/numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১১৩১৩০৬০৬১৭৫০০৯ ০১ ০১৬ [:০৯১১০১-৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১১০১৪৮১৬০৮১% ৩৮৭০০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-18",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১[১১১১০০৩১১০৬ ০১৭১০০৬১৬১১ (১০১০৫১)১৬১-১০ ১.৩৫৬১৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-19",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১৪০৬১১১৬১১০৬৫ ০১ ছ₹০৩৪০১৬১ ৩১০ (১১১০৩০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০:৩০৫০০১৫ ০১ (১১১১৩০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-22",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-23",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১.৮০০১০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-24",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(&১০০১০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১১১৫০৩১১০০৬ ১১০১১ ০১১৬ ৯৬৩)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১১০ ১১১০০১১১১১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০৬১১ ০৮১১-০১১৬৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-28",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১.০০৮০০১৷ ০ ০১৬ ১১১০১১০৮৩১১১৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৩১০১৬ ০১ ০১৬ ১৩১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০€০১১১০০০৫১০০১১ অ১ ০১৬ ৫০১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১,০০৮০০১১ ০১৫ (১৬ ১০১-০৫০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৯১৩১১ ৯(০১১১১৫)) ... (চ০১০১০০৬১০৮৩১ €৩৫০১৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-33",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-34",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৯১০০৫১৮) ... (০৯১০০১৮০০১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "([:৮১০১-৮০০১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০১১০০১১৫৮০০১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(চ১৬০-১১৮ ০০১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১০১১১০১০৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০২০১৮০৬ া১০১০১০)১",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-42",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০€৬) ... (০৮)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৩১১০ ১৩১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১১০ ১১০অ০০১১০) ... (১৮১৪৩০০ ০০৭)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৩১১১১৩১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "০২৮১১৮৮৮০",
+    "note": "Number sequence likely an OCR artifact of a label."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৮৫৬৯ ০ ১২৩১০৩১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১৩৫৫১০০৩০০১১ ০ ২৩১১১৮৩১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-49",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "[ __ ঁীঁীযষঞ্জস্মতহীহসনীীউ্ন]",
+    "note": "Garbled string of symbols/letters."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-50",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১০৮১৮১০১১০ ২৩১১১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-52",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১০১৩১ থা!)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৮৫৬৯ ০ ১টু?)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-55",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "৯৮ ক গিরি\nযু ভারী যু",
+    "note": "Garbled text segment, likely multiple lines merged poorly."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-57",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১০০১১০১০১০ ০১ ৭১১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-58",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৮১৫৫১ ৮০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১৩১১৬০৩১) ঘঘ১১০৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১৬ ১১৩০৬ ছষ্া১৪০৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-61",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৩১১০ ০০০০০০, ০ ২)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-62",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০০১০১০১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-63",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৮১৩৬ \"০৯ ছ১০৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-64",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০০১৫৬ ১৮০০৮০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-66",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(২০১৩১ ঘমু১১০৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-67",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৩০৪ ৩১১০ ১.৩১১০ ১৩১-৬০৭৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-68",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-69",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(২১০১১৫০০৭১১ দদ্বা১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-70",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-71",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-73",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১.০০৩] ঘদঘধ১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-74",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১০৩১ ৭৩১৭১১০১১০ ১৩১০ ০১১১১১৩০ ০১১৩১১৫০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-75",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১০৮৩] ছা১১২৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-76",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-77",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-78",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-79",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-80",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০:০০ ০১ ০]১১১১০৩১০৬ ০]১৩১১৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-81",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-82",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-83",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-84",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০]১১৩০৬ ১০০৮৮০০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-85",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-86",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-87",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-88",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৪১৩৮)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-89",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-90",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-91",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১১৬০ ২৭০০১০৯ ৮০৭০৭ ৬ছ০১৬ ০০৩১১৮৬৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-92",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-93",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-94",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-95",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-96",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-97",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-98",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বাড়ি",
+    "note": "Character corruption in the word 'বরী' or similar."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-99",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(€০১১০০০ ০ ১১১৫০১-০৫১১০১-৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-100",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-101",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১: ১,০০,১০০) নাট",
+    "note": "Garbled text/numbers in parenthetical section."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-102",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৩০৯)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-103",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-104",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "রুপি, ১ পলল৭ পা রনরর",
+    "note": "Extensive corruption of Bengali text into gibberish."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-105",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৩০৮)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-106",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১০১০০৫১৩১১৫ ০৫ ০০০৩১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-107",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৮৮০১১০৯১৯১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-108",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০১১০১১১১১০৩১ ৯০৯১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-109",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "বাড়ি",
+    "note": "Character corruption in text."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-110",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-111",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-112",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-113",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-114",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-115",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-116",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-117",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৪৩১১১৪ ৩১০১১০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-118",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০০০৩১১ ০১১০১১০৯)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-119",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৭০:১৮ ১৯২৬০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-120",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৮১০১৯৬৫ ০১ €০০€০৮১১৪)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-121",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-122",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-123",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-124",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(১১০১০১৬১১০৬ ০১ ০০০৮১১ €০১১৬১০৯)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-125",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "৩১৭১০",
+    "note": "Garbled numeric string in middle of sentence."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-126",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৩১১০৩০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-127",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-128",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-129",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-130",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-131",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-132",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-133",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-134",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-135",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১৪৬৮গ১৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-136",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(২১১০ ১.০)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-137",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-138",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৭:৩%১০০৭১১৩১)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-139",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(৭ ০--০০০-০-০-০- সীট)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-140",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০১০১৬০৫ ০ ১১০৬৫)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-141",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০%০১০৬১০০১০০১০৩)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-142",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-143",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(২১৩১৭১১১৬ ০২৬৯০১১১০৬)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-144",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-145",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-146",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Geography-5-147",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "(০৬) ... (৮০১৭)",
+    "note": "Garbled numeric string in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Geography-5-148",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  }
+]

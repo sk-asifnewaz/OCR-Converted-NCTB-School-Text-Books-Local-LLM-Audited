@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-1",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "যতিচিহ্ৃকে",
+    "note": "Malformed character sequence in the word 'যতিচিহ্নকে'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-2",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যতিচিহনগুলো... (1)... কোলন (১)... (-*,”“-”)... (07), (4)",
+    "note": "Multiple OCR errors replacing punctuation with digits and garbled symbols."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কমা (১)",
+    "note": "Digit '1' likely replaces a comma or similar punctuation."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "সেমিকোলন 0)",
+    "note": "Digit '0' likely a misread colon (:) symbol."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "TRUNCATION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "বিস্ময়চিহ্ন (1)... হাইফেন (4",
+    "note": "Digits replace symbols; 'হাইফেন (4' is cut off."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-6",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "কোলন (0)",
+    "note": "Digit '0' likely a misread colon (:) symbol."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-8",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "উদ্ধারচিহ্ন (-*,”“-”)... (]7,[1",
+    "note": "Garbled punctuation symbols and digits likely from poor OCR."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "যতিচিহ্ন ১০৫",
+    "note": "Number 105 is likely a page number or header artifact."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-10",
+    "status": "flagged",
+    "issues": ["TRUNCATION", "DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিকল্পচিহ্ন (৭",
+    "note": "Unclosed parenthesis and trailing digit suggest truncation/noise."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-11",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "বিরতিচিহন",
+    "note": "Misspelled/corrupted word for 'বিরতিচিহ্ন'."
+  },
+  {
+    "chunk_id": "9-10-Bangla_grammar-38-12",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "যতিচিহ্কের, বিস্ময়চি্ন, বত্রিবিন্দু",
+    "note": "Corrupted renderings of 'যতিচিহ্ন', 'বিস্ময়চিহ্ন', and 'ত্রিবিন্দু'."
+  }
+]

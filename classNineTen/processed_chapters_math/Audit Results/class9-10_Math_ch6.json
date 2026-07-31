@@ -1,0 +1,848 @@
+[
+  {
+    "chunk_id": "9-10-Math-6-1",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(11165, 021০5 3170 11131725165)",
+    "note": "Garbled digit strings likely from an OCR'd ISBN or ID."
+  },
+  {
+    "chunk_id": "9-10-Math-6-2",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "6০০০৮০৮% ... ০০৩10160 ... (০৪100) ও 10160401",
+    "note": "Multiple instances of garbled digit sequences in place of text."
+  },
+  {
+    "chunk_id": "9-10-Math-6-3",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "77161761005",
+    "note": "Long string of digits in a context where text is expected."
+  },
+  {
+    "chunk_id": "9-10-Math-6-4",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00010061005 ০01 ৩0806, 5৮1৮80০, 1116 3100 2010)",
+    "note": "Complex garbled digit sequences in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Math-6-5",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(52306)",
+    "note": "Random digit string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-Math-6-6",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "50110 ... 0166\n01109115101431",
+    "note": "Garbled digit strings representing geometric terms."
+  },
+  {
+    "chunk_id": "9-10-Math-6-7",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(5৮৮৪) ... (013176), \nদ্বিতীয়টি বক্রুতল (৮1৮০৭ 3018306)",
+    "note": "Multiple instances of garbled digit strings."
+  },
+  {
+    "chunk_id": "9-10-Math-6-8",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(017%4০-01109115101131) ... জট চে",
+    "note": "Garbled digit string and a nonsense phrase at the end."
+  },
+  {
+    "chunk_id": "9-10-Math-6-9",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1116) ... (50315116 11116) ... (০01০0 1116)",
+    "note": "Multiple instances of garbled digit strings."
+  },
+  {
+    "chunk_id": "9-10-Math-6-10",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(0116-0111911510131) ... চা চি লোন",
+    "note": "Garbled digit string and nonsense phrase at end."
+  },
+  {
+    "chunk_id": "9-10-Math-6-11",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(001110) ... (০0009)",
+    "note": "Garbled digit sequences."
+  },
+  {
+    "chunk_id": "9-10-Math-6-12",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(৮001015 20500130665)",
+    "note": "Garbled digit string in parenthesis."
+  },
+  {
+    "chunk_id": "9-10-Math-6-13",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "7191091405",
+    "note": "Garbled digit sequence in quotes."
+  },
+  {
+    "chunk_id": "9-10-Math-6-14",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-15",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(৪:২10105)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-16",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "দে ঢ ৯ ০2 3 ৫\n৯ ০ ০ও এ\nটব",
+    "note": "Garbled digits and nonsense words at end of chunk."
+  },
+  {
+    "chunk_id": "9-10-Math-6-17",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(0০5৮৮1306)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-18",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-19",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-20",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-21",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(213116 0০০০17০07)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-22",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(52806)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-23",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-24",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-25",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(52306)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-26",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(00106106 3১০01)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-27",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1০ ও 0 ... 1৭৭0 ... 1১09",
+    "note": "Garbled coordinates/lengths."
+  },
+  {
+    "chunk_id": "9-10-Math-6-28",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "170 ₹- 01",
+    "note": "Currency symbol and garbled numbers."
+  },
+  {
+    "chunk_id": "9-10-Math-6-29",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1১0 ... 170 - ০৫ - (|\n",
+    "note": "Garbled math notation."
+  },
+  {
+    "chunk_id": "9-10-Math-6-30",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "170 ... ১১৬ নিত",
+    "note": "Garbled numbers and phrase."
+  },
+  {
+    "chunk_id": "9-10-Math-6-31",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "17 ... 1৭ ... 1৮",
+    "note": "Garbled labels/coordinates."
+  },
+  {
+    "chunk_id": "9-10-Math-6-32",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1 ও 7 ... 179 ... 1৭ ... ৫(গ)",
+    "note": "Garbled labels/coordinates."
+  },
+  {
+    "chunk_id": "9-10-Math-6-33",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(019116 5০০10790-7)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-34",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(27:00 01148016173003)",
+    "note": "Garbled numbers in parentheses."
+  },
+  {
+    "chunk_id": "9-10-Math-6-35",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(21০০1 ৮7 ০০10190100010)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-36",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(6৫০০৮৭০৮৮10 1001)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-37",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(8০1613) ... (881000131 ও1000080010)",
+    "note": "Garbled digit sequences."
+  },
+  {
+    "chunk_id": "9-10-Math-6-38",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-39",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(০০1০]]31%) ... ১১৮ নিত",
+    "note": "Garbled digits and footer noise."
+  },
+  {
+    "chunk_id": "9-10-Math-6-40",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(1106, ২39, 11146 5০4117140)",
+    "note": "Garbled digit sequences."
+  },
+  {
+    "chunk_id": "9-10-Math-6-41",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0 ... 4047017 ... 4, ও 73",
+    "note": "Garbled labels/coordinates."
+  },
+  {
+    "chunk_id": "9-10-Math-6-42",
+    "status": "flagged",
+    "issues": ["SCRIPT_CORRUPTION", "DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "সূ দে দে ১-ডেও3ও ... 4 ১৮]",
+    "note": "Severe script corruption and digit noise."
+  },
+  {
+    "chunk_id": "9-10-Math-6-43",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(503185106 31751০)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-44",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1173 ... 10 ... 1, ... 17",
+    "note": "Garbled labels/coordinates."
+  },
+  {
+    "chunk_id": "9-10-Math-6-45",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "1 ... 7 ... 4",
+    "note": "Garbled labels/coordinates."
+  },
+  {
+    "chunk_id": "9-10-Math-6-46",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(২1806 ৪17516) ... 9051",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-47",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(4০৮৮৬ 30816 3110 ও০৮৪০ 3148516)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-48",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(২০06. 31816) ... ইল্ডু",
+    "note": "Garbled digits."
+  },
+  {
+    "chunk_id": "9-10-Math-6-49",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(501019176116817 31021০)",
+    "note": "Garbled digit sequence."
+  },
+  {
+    "chunk_id": "9-10-Math-6-50",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0, 4 ... 7 ... 0",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-51",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "0:4 ... 013",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-52",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "17 ... 0 ... 1",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-53",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "(313116] ... (307316100111065)",
+    "note": "Garbled digit sequences."
+  },
+  {
+    "chunk_id": "9-10-Math-6-54",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "17 ... 0 ... 41, 42, 43, 44, ৮৫, 46, 4৭, ৮8",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-55",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-56",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-57",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-58",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-59",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "417 ... 017 ... 0",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-60",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1? ... ৪ ... 12৭ ... 17 ... 13",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-61",
+    "status": "flagged",
+    "issues": ["GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "০ ০৫ গে ৬",
+    "note": "Garbled footer/noise."
+  },
+  {
+    "chunk_id": "9-10-Math-6-62",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-63",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-64",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70 ... 1, 73, 0 ... 417 ... 04",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-65",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "41730 ... 4173",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-66",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70 ... 1190",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-67",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "41730 ... 90%",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-68",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "17911 ... 131777 ... 17191",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-69",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "2:470 ... 190 ... 1)",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-70",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "41730 ... 74470 ... 74017",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-71",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "84730474340 ... 84017",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-72",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-73",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "19 ... 470",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-74",
+    "status": "clean",
+    "issues": [],
+    "severity": "low",
+    "confidence": "high",
+    "evidence": "",
+    "note": ""
+  },
+  {
+    "chunk_id": "9-10-Math-6-75",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1/0 ... 61/97",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-76",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "6. :470 ... 61917অ",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-77",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "11706 ... 1-",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-78",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4130 ... 41370 ... 470",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-79",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47 ... 4130",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-80",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1/4130 ... 619)/ৈ1৮ ... 773 ... 708",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-81",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE", "GIBBERISH_RUN"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "আতভুজ",
+    "note": "Garbled labels and nonsensical term."
+  },
+  {
+    "chunk_id": "9-10-Math-6-82",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10 ... 17 ... 41",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-83",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10 ... 17 ... 41",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-84",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "10 ... 113 ... 4130",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-85",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "47:40",
+    "note": "Garbled label."
+  },
+  {
+    "chunk_id": "9-10-Math-6-86",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "41 ... 4730",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-87",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "4.470 ... 21 ... 5901",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-88",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "41730 ... 41370",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-89",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "medium",
+    "confidence": "high",
+    "evidence": "(07018801691)",
+    "note": "Garbled sequence, possibly a reference or ID."
+  },
+  {
+    "chunk_id": "9-10-Math-6-90",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "6/70 ... 473 ... 73 ... 240",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-91",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "30701 ... 417 ... 47419",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-92",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "1201 ... 172:4 ... 017 ... 1770",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-93",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "70 ... 47 ... 127",
+    "note": "Garbled labels."
+  },
+  {
+    "chunk_id": "9-10-Math-6-94",
+    "status": "flagged",
+    "issues": ["DIGIT_NOISE"],
+    "severity": "high",
+    "confidence": "high",
+    "evidence": "270 ... 1704 ... 74 ... 3410",
+    "note": "Garbled labels."
+  }
+]
